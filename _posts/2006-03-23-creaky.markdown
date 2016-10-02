@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: creaky
+author: Aaron
+author_email: heather@singleservingphoto.com
+author_url: http://www.asterdesigns.com
+wordpress_id: 74
+wordpress_url: http://www.singleservingphoto.com/?p=74
+date: '2006-03-23 22:49:01 -0500'
+date_gmt: '2006-03-24 02:49:01 -0500'
+categories:
+- Heather's Photos
+tags: []
+comments:
+- id: 36
+  author: Aaron
+  author_email: aaron@singleservingphoto.com
+  author_url: http://gallery.thebailiwick.com
+  date: '2006-03-24 09:46:04 -0500'
+  date_gmt: '2006-03-24 13:46:04 -0500'
+  content: I am enjoying this image muchly.
+---
+a few things i love most in life.
+
+1\. the old scarred, scratched, beat-up wood floors in my apartment\
+ 2. my old scarred, scratched, beat-up wood saddle shoes\
+ 3. afternoon sunlight through glass
+
+!!http://www.asterdesigns.com/singleserving/06/CS-saddlefloor.jpg!!

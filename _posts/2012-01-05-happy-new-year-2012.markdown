@@ -1,0 +1,69 @@
+---
+layout: post
+status: publish
+published: true
+title: Happy New Year!
+author: Aaron
+author_email: aaron@singleservingphoto.com
+author_url: http://gallery.aaronbieber.com
+wordpress_id: 1270
+wordpress_url: http://singleservingphoto.com/?p=1270
+date: '2012-01-05 19:56:08 -0500'
+date_gmt: '2012-01-06 00:56:08 -0500'
+categories:
+- Articles
+tags:
+- art
+- technique
+- Toronto
+- pinhole
+comments:
+- id: 5512
+  author: bycostello
+  author_email: chriscostello@email.com
+  author_url: http://www.bycostello.com/London_Weddings.html
+  date: '2013-05-06 05:38:34 -0400'
+  date_gmt: '2013-05-06 09:38:34 -0400'
+  content: Stunning image
+- id: 5531
+  author: Chris Flees
+  author_email: chris@cfleesphotography.com
+  author_url: http://www.cfleesphotography.com
+  date: '2013-08-31 03:44:15 -0400'
+  date_gmt: '2013-08-31 07:44:15 -0400'
+  content: an absolutely stunning image.
+---
+[![](http://singleservingphoto.com/wp-content/uploads/2012/01/705b87dd4321b6babfd4bb4febeb-300x181.png "Michael Chrisman's year-long photo")](http://singleservingphoto.com/wp-content/uploads/2012/01/705b87dd4321b6babfd4bb4febeb.jpeg)
+
+First and foremost, a happy new year to all of you, my lovely readers.
+Whether you check in now and then or have been a reader for several
+years, it is solely for you that I do this. Believe me, when I talk to
+myself I don't do nearly as much editing. ~~MORE~~
+
+Anyway, what better way to ring in the new year and to step back from
+the commotion of life, if only for a moment, to appreciate the bigger
+picture than... With a picture? A picture exactly one year in the
+making, in fact.
+
+Michael Chrisman, a 31-year-old photographer living in Toronto, set up a
+small pinhole camera on January 1, 2010, overlooking the city's skyline.
+On new year's eve, he collected it. The developed picture is shown to
+the right, and I have to say, I love it.
+
+In the image you can clearly see the trails of the sun across the sky,
+each one tracing a slightly different path as the Earth tilts on its
+axis through the course of the year. You can see the reflections in the
+water, and you can easily make out the CN Tower, Toronto's most distinct
+fixture.
+
+Think about this for a minute. A tiny pinhole sat open for 31.5 million
+seconds, sending beams of light toward a piece of photographic paper,
+capturing an image that by itself represents a year of activity. Three
+hundred and sixty five revolutions of our planet around its sun.
+
+It's a great way to put life in perspective, I think. I wish you all the
+best in 2012, stay tuned for more photography talk in the coming weeks.
+
+Please read more about Michael's creation on thestar.com: "Year-long
+exposure of Toronto skyline produces 'dreamy'
+image":http://www.thestar.com/news/article/1109339--photographer-michael-chrisman-s-year-long-exposure-of-toronto-s-skyline-produces-dreamy-image-of-city

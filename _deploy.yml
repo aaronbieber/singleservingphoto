@@ -1,0 +1,13 @@
+method: rsync
+site_dir: _site
+
+user: aaronbieber@thrain.dreamhost.com
+remote_path: /home/aaronbieber/singleservingphoto.com/
+delete: true
+port:
+flags: -avz
+
+# exclude:                                # files to exclude
+# exclude-from:                           # Path to file containing list of files to exclude
+# include:                                # files to include
+# include-from:                           # Path to file containing list of files to include

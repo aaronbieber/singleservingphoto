@@ -1,0 +1,53 @@
+---
+layout: post
+status: publish
+published: true
+title: Roger Williams Park and Zoo
+author: Aaron
+author_email: aaron@singleservingphoto.com
+author_url: http://gallery.aaronbieber.com
+wordpress_id: 112
+wordpress_url: http://www.singleservingphoto.com/2007/05/14/roger-williams-park-and-zoo/
+date: '2007-05-14 22:48:23 -0400'
+date_gmt: '2007-05-15 02:48:23 -0400'
+categories:
+- Aaron's Photos
+tags: []
+comments:
+- id: 819
+  author: Paul
+  author_email: info@photographyvoter.com
+  author_url: http://www.photographyvoter.com
+  date: '2007-06-11 04:56:36 -0400'
+  date_gmt: '2007-06-11 08:56:36 -0400'
+  content: A superb collection of shots..
+---
+Again, I've been withholding! I'm so very sorry. In late March I took a
+day trip to the Roger Williams Park and Zoo in Rhode Island to see what
+all the fuss was about. Actually, it was the last weekend before the
+price went up for "peak zoo season," so it seemed like a good diversion.
+
+I shot with the Canon 100-400mm f/4.5-5.6L IS nearly the entire time. It
+was challenging to get good exposures in some of the buildings at 400mm,
+but the 5D produces such pleasing and acceptable noise even at ISO 1600,
+it wasn't a total loss. I plan to do an article comparing the noise
+between the 5D and much older 10D, but for now just enjoy these crazy
+animal photos.
+
+\~\~/SingleServings/2007/May/14may07-01.jpg\~\~\
+ \~\~/SingleServings/2007/May/14may07-02.jpg\~\~\
+ \~\~/SingleServings/2007/May/14may07-03.jpg\~\~\
+ \~\~/SingleServings/2007/May/14may07-04.jpg\~\~\
+ \~\~/SingleServings/2007/May/14may07-05.jpg\~\~\
+ \~\~/SingleServings/2007/May/14may07-06.jpg\~\~\
+ \~\~/SingleServings/2007/May/14may07-07.jpg\~\~\
+ \~\~/SingleServings/2007/May/14may07-08.jpg\~\~
+
+I may post more from this set later on; I'm still combing through them.
+You may also notice that my photos are now linked over to my actual
+gallery. This allows me to keep all of my stuff more organized and it
+also allows you to purchase prints of the ones you like without having
+to e-mail me about it (although I would still love to hear from you if
+you have anything on your mind.)
+
+Cheers!

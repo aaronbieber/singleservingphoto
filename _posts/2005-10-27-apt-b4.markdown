@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: apt. B4
+author: Aaron
+author_email: heather@singleservingphoto.com
+author_url: http://www.asterdesigns.com
+wordpress_id: 49
+wordpress_url: http://www.singleservingphoto.com/?p=49
+date: '2005-10-27 23:01:03 -0400'
+date_gmt: '2005-10-28 03:01:03 -0400'
+categories:
+- Heather's Photos
+tags: []
+comments:
+- id: 19
+  author: jo
+  author_email: anajo@o2.pl
+  author_url: ''
+  date: '2005-10-28 04:34:53 -0400'
+  date_gmt: '2005-10-28 08:34:53 -0400'
+  content: great foto with the shadow, super:)
+---
+!!http://www.asterdesigns.com/singleserving/chucks.jpg!!
+
+i refuse to believe that these shoes are falling apart.
+
+!!http://www.asterdesigns.com/singleserving/cornerlight.jpg!!
+
+i then turned the light off to watch season 2 disc 2 of "six feet under"
+a.k.a. the best show ever besides "the state."

@@ -1,0 +1,13 @@
+# Site settings
+title: Single-Serving Photo
+email: aaron@singleservingphoto.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is where Aaron Bieber writes about photography.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.singleservingphoto.com" # the base hostname & protocol for your site
+twitter_username: aaronbieber
+github_username: aaronbieber
+excerpt_separator: ~~MORE~~
+
+# Build settings
+markdown: kramdown

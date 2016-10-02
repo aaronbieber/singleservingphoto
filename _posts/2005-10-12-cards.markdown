@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Cards
+author: Aaron
+author_email: aaron@singleservingphoto.com
+author_url: http://gallery.aaronbieber.com
+wordpress_id: 39
+wordpress_url: http://www.singleservingphoto.com/?p=39
+date: '2005-10-12 15:24:15 -0400'
+date_gmt: '2005-10-12 19:24:15 -0400'
+categories:
+- Aaron's Photos
+tags: []
+comments:
+- id: 11
+  author: Heather
+  author_email: heather@singleservingphoto.com
+  author_url: http://www.asterdesigns.com
+  date: '2005-10-13 01:41:40 -0400'
+  date_gmt: '2005-10-13 05:41:40 -0400'
+  content: "I like!\r\n\r\nMy friend, Zach who attended one of my million rhett miller
+    shows mentioned to me tonite that he thinks your stuff is rad... well, he didn't
+    use the word rad, i am paraphrasing..."
+---
+Here are a bunch of business cards with stains on them made by teabags.
+It's best not to ask questions.
+
+!!http://www.thebailiwick.com/ssp/11oct05-01.jpg!!\
+ !!http://www.thebailiwick.com/ssp/11oct05-02.jpg!!

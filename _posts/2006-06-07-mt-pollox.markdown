@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: mt. pollox
+author: Aaron
+author_email: heather@singleservingphoto.com
+author_url: http://www.asterdesigns.com
+wordpress_id: 80
+wordpress_url: http://www.singleservingphoto.com/?p=80
+date: '2006-06-07 23:19:35 -0400'
+date_gmt: '2006-06-08 03:19:35 -0400'
+categories:
+- Heather's Photos
+tags: []
+comments: []
+---
+the best times are impromptu picnics on the grass in an old orchard.
+
+!!http://www.asterdesigns.com/singleserving/06/pollox060406-1.jpg!!
+
+!!http://www.asterdesigns.com/singleserving/06/pollox060406-5.jpg!!
+
+!!http://www.asterdesigns.com/singleserving/06/pollox060406-3.jpg!!
+
+!!http://www.asterdesigns.com/singleserving/06/pollox060406-4.jpg!!

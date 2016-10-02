@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: blue cars
+author: Aaron
+author_email: heather@singleservingphoto.com
+author_url: http://www.asterdesigns.com
+wordpress_id: 16
+wordpress_url: http://www.singleservingphoto.com/?p=16
+date: '2005-09-25 23:41:52 -0400'
+date_gmt: '2005-09-26 03:41:52 -0400'
+categories:
+- Heather's Photos
+tags: []
+comments: []
+---
+i saw the most amazing un-pc band EVER tonite. they kicked so much ass.
+i would go into detail but it would probably offend everyone.
+
+!!http://www.asterdesigns.com/singleserving/bluecars.jpg!!

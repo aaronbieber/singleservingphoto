@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: dusky evenings
+author: Aaron
+author_email: heather@singleservingphoto.com
+author_url: http://www.asterdesigns.com
+wordpress_id: 32
+wordpress_url: http://www.singleservingphoto.com/?p=32
+date: '2005-10-05 22:43:28 -0400'
+date_gmt: '2005-10-06 02:43:28 -0400'
+categories:
+- Heather's Photos
+tags: []
+comments:
+- id: 9
+  author: Lacey
+  author_email: laceygroves@yahoo.com
+  author_url: http://www.flickr.com/photos/groovygroves
+  date: '2005-10-12 23:29:48 -0400'
+  date_gmt: '2005-10-13 03:29:48 -0400'
+  content: Where are you from?  The picture of the farm reminds me of my old home
+    in Ohio.
+- id: 10
+  author: Heather
+  author_email: heather@singleservingphoto.com
+  author_url: http://www.asterdesigns.com
+  date: '2005-10-13 01:39:50 -0400'
+  date_gmt: '2005-10-13 05:39:50 -0400'
+  content: Western Massachusetts. The East/South/North/Westhampton areas to be exact.
+    Funny how certain moods can trigger nostalgia or memories... even though I am
+    far from Ohio! Thanks for commenting!
+---
+my favorite band patterned a tshirt after a matchbox logo. end of story.
+
+!!http://www.asterdesigns.com/singleserving/strikeanywhere.jpg!!
+
+what's with the weird morning/evening fog, lately?
+
+!!http://www.asterdesigns.com/singleserving/eaststreetdusk.jpg!!
