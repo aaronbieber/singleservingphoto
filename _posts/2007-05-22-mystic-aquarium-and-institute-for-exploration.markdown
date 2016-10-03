@@ -21,11 +21,11 @@ tags:
 - settings
 comments: []
 ---
-The "Mystic Aquarium and Institute for
-Exploration":http://www.mysticaquarium.org/ (or MAIFE, as they
+The [Mystic Aquarium and Institute for
+Exploration](http://www.mysticaquarium.org/) (or MAIFE, as they
 abbreviate it) is located smack in the center of Mystic, Connecticut,
-and the area they call "Old Mystick
-Village":http://www.oldmysticvillage.com/ (that's not a typo...). The
+and the area they call [Old Mystick
+Village](http://www.oldmysticvillage.com/) (that's not a typo...). The
 whole Mystic area is one of the hottest tourist spots in Connecticut (it
 wouldn't be a reach to say it's the _only_ tourist spot in
 Connecticut), and the Mystic Aquarium and nearby Mystic Seaport are

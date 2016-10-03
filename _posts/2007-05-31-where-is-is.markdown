@@ -52,8 +52,8 @@ First, let me explain briefly what "image stabilization" technology
 actually is. When you hold your camera in your hands, it moves around a
 little bit (unless you're a robot, in which case I would like to meet
 you, please e-mail me). If your shutter speed is not fast enough (and
-you can use the "focal length reciprocal
-rule":http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/
+you can use the [focal length reciprocal
+rule](/2007/05/22/focal-length-reciprocal-rule.html)
 to get an estimate of that), your photos can come out blurry due to this
 movement ((Robots take very clear photographs)). In order to help
 curtail the effects of "camera shake," image stabilization technology
@@ -69,8 +69,8 @@ velocity of motion, and that sensor reports to a computer chip of some
 kind. The chip then tells a series of very small motors to move one or
 more optical elements around inside the barrel of the lens such that the
 image moves in the opposite direction of the motion. This is all
-explained pretty nicely on "Nikon's VR
-page":http://www.nikon.co.jp/main/eng/portfolio/about/technology/nikon_technology/vr_e/index.htm.
+explained pretty nicely on [Nikon's VR
+page](http://www.nikon.co.jp/main/eng/portfolio/about/technology/nikon_technology/vr_e/index.htm).
 
 \$random:right\$
 
@@ -169,8 +169,8 @@ isn't going to cut it.
 
 Another viewpoint is that more IS cannot possibly be bad, so we should
 encourage manufacturers to place IS systems in their cameras *and*
-their lenses. I read this argument in "The Online
-Photographer":http://theonlinephotographer.blogspot.com/2006/12/more-on-in-camera-vs-in-lens-image.html,
+their lenses. I read this argument in [The Online
+Photographer](http://theonlinephotographer.blogspot.com/2006/12/more-on-in-camera-vs-in-lens-image.html),
 and the writer, a Mr. Mike Johnston, makes a number of good points. I
 shudder to think what might happen with both in-camera as well as
 in-lens stabilization systems running simultaneously, but more seemingly

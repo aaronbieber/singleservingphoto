@@ -239,7 +239,7 @@ can dictate what the depth of field will be like (how blurry or sharp
 stuff will be) within the limitations of available light and so on. I
 have found it to be an equally intuitive and versatile method.
 
-My friend from "The Curious Lens":http://www.curiouslens.com uses _M_,
+My friend from [The Curious Lens](http://www.curiouslens.com) uses _M_,
 or Manual mode, all the time. His method involves metering the scene
 and, based on the camera's assessment of whether it's over- or
 under-exposed, adjusting the shutter speed, the aperture, or both until

@@ -234,8 +234,8 @@ length of your lens by your camera's _multiplier_ to get the true
 effective focal length. As an example, the 10D has a 1.6x multiplier, so
 a 24mm lens on the 10D has an effective focal length of 24mm x 1.6 =
 38.4mm. If you don't know what your camera's multiplier is, consult the
-manual, "Digital Photography Review":http://www.dpreview.com, or search
-"Google":http://www.google.com.
+manual, [Digital Photography Review](http://www.dpreview.com), or search
+[Google](http://www.google.com).
 
 I know I just made this "easy" guideline sound even more complicated,
 but as I mentioned before, it's just a guideline. It might be easier to
@@ -288,7 +288,7 @@ luck with that.
 
 h2. Image Stabilization (IS) and Vibration Reduction (VR)
 
-Thanks to "tukangmoto":http://tukangmoto.wordpress.com/ for reminding me
+Thanks to [tukangmoto](http://tukangmoto.wordpress.com/) for reminding me
 about these features!
 
 The two major camera manufacturers, Canon and Nikon, produce lenses with
@@ -310,8 +310,8 @@ turned on, of course!), you should be safe to achieve a shutter speed
 one stop slower than the rule tells you to. In other words, if the rule
 estimates 1/125th is fast enough, you can probably get by at 1/60th
 (each full stop in the shutter scale is about half as long or twice as
-long, depending on which direction you're moving in; see the "Tedious
-Explanation of the f/stop":http://www.uscoles.com/fstop.htm).
+long, depending on which direction you're moving in; see the [Tedious
+Explanation of the f/stop](http://www.uscoles.com/fstop.htm).)
 
 If you liked this article or have suggestions that might make it easier
 to understand, leave a comment! Happy shooting.

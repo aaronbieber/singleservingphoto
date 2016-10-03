@@ -389,11 +389,11 @@ use one of the links below, you help me keep this site online... Which I
 would really appreciate. Using these links does not change your cost in
 any way, shape, or form.
 
-* "Adobe Photoshop Lightroom 3 Software for Mac &
-Windows":http://www.bhphotovideo.com/c/product/720705-REG/Adobe_65081059_Photoshop_Lightroom_3_Software.html/BI/1816/KBID/2457\
- * "Adobe Photoshop Lightroom 3 Software for Mac & Windows - Student &
-Teacher
-Edition":http://www.bhphotovideo.com/c/product/725508-REG/Adobe_65074697_Photoshop_Lightroom_3_Software.html/BI/1816/KBID/2457
+* [Adobe Photoshop Lightroom 3 Software for Mac & Windows][lr3]
+* [Adobe Photoshop Lightroom 3 Software for Mac & Windows - Student & Teacher Edition][lr3st]
+
+[lr3]: http://www.bhphotovideo.com/c/product/720705-REG/Adobe_65081059_Photoshop_Lightroom_3_Software.html/BI/1816/KBID/2457
+[lr3st]: http://www.bhphotovideo.com/c/product/725508-REG/Adobe_65074697_Photoshop_Lightroom_3_Software.html/BI/1816/KBID/2457
 
 If you are a student or a teacher, you can get a _huge_ discount by
 purchasing the second one; it's absolutely identical in every way

@@ -23,23 +23,22 @@ comments: []
 In 1932, Ansel Adams and Edward Weston, among others, formed "Group
 f/64" with the intent to "define photography as an art form by simple
 and direct presentation through purely photographic methods."
-((Wikipedia, "Group f/64":http://en.wikipedia.org/wiki/Group_f.64)) As
+(Wikipedia, [Group f/64](http://en.wikipedia.org/wiki/Group_f.64)) As
 stated in their manifesto,
 
-bq. Pure photography is defined as possessing no qualities of technique,
-composition or idea, derivative of any other art form. The production of
-the "Pictorialist," on the other hand, indicates a devotion to
-principles of art which are directly related to painting and the graphic
-arts.
+> Pure photography is defined as possessing no qualities of technique,
+> composition or idea, derivative of any other art form. The production of the
+> "Pictorialist," on the other hand, indicates a devotion to principles of art
+> which are directly related to painting and the graphic arts.
 
 Group f/64 was conceived in explicit opposition to the Pictorialist
 movement, which "subscribed to the idea that art photography needed to
-emulate the painting and etching of the time." ((Wikipedia,
-"Pictorialism":http://en.wikipedia.org/wiki/Pictorialism)) Quite to the
+emulate the painting and etching of the time." (Wikipedia,
+[Pictorialism](http://en.wikipedia.org/wiki/Pictorialism)) Quite to the
 contrary, Group f/64 believed very strongly that photography "must
 always remain independent of ideological conventions of art and
 aesthetics that are reminiscent of a period and culture antedating the
-growth of the medium itself." (( _ibid._ )) These are two very
+growth of the medium itself." (_ibid._) These are two very
 different viewpoints. One sees photography as a medium through which to
 create works representative of the predominant aesthetics and style of
 other types of art at the time, and the other sees photography as a new

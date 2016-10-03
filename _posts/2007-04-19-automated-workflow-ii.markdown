@@ -6,7 +6,7 @@ title: Automated Workflow II
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "In the \"last chapter of my Automated Workflow series\":http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/,
+excerpt: "In the [last chapter of my Automated Workflow series](/2007/04/15/automated-workflow-i.html),
   I showed you how to use some neat scripting tricks to apply watermarks to your photos
   automatically. In this chapter, I'm going to talk about naming and organizing photos
   and show you how to set up some scripts to make things easier for you.\r\n\r\nYou
@@ -27,8 +27,8 @@ tags:
 - workflow
 comments: []
 ---
-In the "last chapter of my Automated Workflow
-series":http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/,
+In the [last chapter of my Automated Workflow
+series](http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/),
 I showed you how to use some neat scripting tricks to apply watermarks
 to your photos automatically. In this chapter, I'm going to talk about
 naming and organizing photos and show you how to set up some scripts to
@@ -39,8 +39,8 @@ names?<span id="more"></span><span id="more-104"></span>
 
 I always name my photographs. Even if the names are sometimes trite or
 clichéd, I think that any photo that has worked its way into the gallery
-deserves a name. When I put photos into "my
-gallery":http://www.fisheyegallery.com, I like to name the files
+deserves a name. When I put photos into [my
+gallery](http://www.fisheyegallery.com), I like to name the files
 themselves with the name of the photograph so that the URLs are pretty.
 It makes more sense to see a URL like
 @/Places/Chicago/MillenniumPark.jpg.html@ than something ugly like
@@ -56,8 +56,8 @@ I will give you today. Nerd power.
 h2. Getting the Programs
 
 First, you're going to need a working installation of
-"MacPorts":http://www.macports.org. In my "previous
-article":http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/
+[MacPorts](http://www.macports.org). In my [previous
+article](http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/)
 I explained how to get that working, so go over that part again if you
 need to. I will assume you have it installed, even if you didn't install
 the ports I talked about last time.

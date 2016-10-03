@@ -193,8 +193,8 @@ h2. Orphan Works Act of 2006
 
 Before delving full-throttle into the nitty gritty of copyright law and
 what you can do to protect yourself, I must first dispell concerns about
-the Orphan Works Act of 2006. If you want to "read
-it":http://www.publicknowledge.org/pdf/ow-act-2006.pdf, there it is, in
+the Orphan Works Act of 2006. If you want to [read
+it](http://www.publicknowledge.org/pdf/ow-act-2006.pdf), there it is, in
 all of its PDF glory. So what is an "orphan work," anyway? An orphan
 work is one whose copyright holder and rightful owner cannot be
 reasonably discovered. The Act attempts to fill the void in current

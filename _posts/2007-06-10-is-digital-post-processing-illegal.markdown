@@ -204,7 +204,7 @@ id="more"></span><span id="more-124"></span>
 h2. First, Some History
 
 The first commercially viable photographic technology was the
-"Daguerrotype":http://en.wikipedia.org/wiki/Daguerrotype, a
+[Daguerrotype](http://en.wikipedia.org/wiki/Daguerrotype), a
 positive-only process (no negative is created and each image can only be
 made once) resulting in extremely fragile prints on copper plates.
 
@@ -224,16 +224,16 @@ boiling chemicals to the more refined and less hazardous procedure we
 use today.
 
 It was the invention of the glass negative (circa 1839, possibly by John
-Herschel, an astronomer by trade ((Edit: It was brought to my attention
-that Herschel wasn't responsible for the "invention" of the negative,
-although he probably coined the term. For more information about this
-stage in photography's early development, read about "William Fox
-Talbot":http://en.wikipedia.org/wiki/William_Fox_Talbot, "John
-Herschel":http://en.wikipedia.org/wiki/John_Herschel, and the "wet
-plate collodion process":http://en.wikipedia.org/wiki/Collodion))) that
-precipitated the institution of photographic post-processing. The
-negative expanded the photographic process into three steps, which
-should look very familiar:
+Herschel, an astronomer by trade (Edit: It was brought to my attention that
+Herschel wasn't responsible for the "invention" of the negative, although he
+probably coined the term. For more information about this stage in photography's
+early development, read about
+[William Fox Talbot](http://en.wikipedia.org/wiki/William_Fox_Talbot),
+[John Herschel](http://en.wikipedia.org/wiki/John_Herschel), and the
+[wet plate collodion process](http://en.wikipedia.org/wiki/Collodion)) that
+precipitated the institution of photographic post-processing. The negative
+expanded the photographic process into three steps, which should look very
+familiar:
 
 \# Exposure\
  \# Development\

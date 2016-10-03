@@ -168,7 +168,7 @@ It is for the _editing_ that you need more bits. Let me explain why.
 h2. The Bit Crusher (aka Photoshop)
 
 When I was discussing
-"histograms":http://www.singleservingphoto.com/2007/06/03/histograms-huh/,
+[histograms](/2007/06/03/histograms-huh.html),
 I mentioned in passing that making changes using _e.g._ levels or
 curves causes Photoshop (or the editor of your choice) to expand or
 compress the range of tones in the image, redistributing their values.
@@ -235,8 +235,7 @@ most vulnerable to what I call "broad tonal changes," which describes
 levels, curves, or any adjustment that expands or compresses your tonal
 range. These are the types of edits that would cause your 8-bit
 histogram to be divided into many separate lines, as I showed in my
-"histograms
-article":http://www.singleservingphoto.com/2007/06/03/histograms-huh/.
+[histograms article](/2007/06/03/histograms-huh.html).
 For that reason, those types of edits should be performed in the largest
 bit depth possible within your workflow to prevent banding and aliasing.
 

@@ -106,13 +106,13 @@ Wikipedia is a solid reference for national parks and even most cities.
 Once you get a good overview of the location, you can scour the web for
 location-specific sites. If you're traveling to a city, the city
 probably has its own tourism website with ideas and photos to get your
-imagination churning. For national parks, there's always the "National
-Park Service":http://www.nps.gov. They have a swell "page on
-Yosemite":http://www.nps.gov/yose/.
+imagination churning. For national parks, there's always the [National
+Park Service](http://www.nps.gov). They have a swell [page on
+Yosemite](http://www.nps.gov/yose/).
 
 If you're going to a park or natural attraction, *buy a map*. You
-can't do any better than a "National Geographic U.S. Park
-Map":http://www.ngmapstore.com/jump.jsp?itemID=53&itemType=CATEGORY.
+can't do any better than a [National Geographic U.S. Park
+Map](http://www.ngmapstore.com/jump.jsp?itemID=53&itemType=CATEGORY).
 Their maps are tear-resistant, waterproof, and exquisitely detailed.
 
 h2. That's All, Folks

@@ -79,18 +79,18 @@ If you're out during the day and the sky is bright (or overcast, which
 is even better), don't forget the possibility of *making silhouettes*.
 Even the most common subjects can be exciting as silhouettes, especially
 against a rippling, cloudy sky. This was covered on the Digital
-Photography School blog ("How to Photograph
-Silhouettes":http://digital-photography-school.com/blog/how-to-photograph-silhouettes/)
+Photography School blog ([How to Photograph
+Silhouettes](http://digital-photography-school).com/blog/how-to-photograph-silhouettes/)
 very recently and it reminded me of what a powerful technique it can be.
 
 If you have any *creative lenses*, sometimes strapping one of them on
 at random times can help you see things you would've missed. When I say
 "creative" lenses, I mean lenses that don't reproduce a scene
 faithfully, but that distort it in some way. My favorite creative lenses
-are the "Canon 15mm
-fisheye":http://www.bhphotovideo.com/c/product/12069-USA/Canon_2535A003_Fisheye_EF_15mm_f_2_8.html
-and the "Lensbaby
-3G":http://www.bhphotovideo.com/c/product/459905-REG/Lensbabies_LB3GE1_Lensbaby_3G_Special_Effects.html.
+are the [Canon 15mm
+fisheye](http://www.bhphotovideo.com/c/product/12069-USA/Canon_2535A003_Fisheye_EF_15mm_f_2_8.html)
+and the [Lensbaby
+3G](http://www.bhphotovideo.com/c/product/459905-REG/Lensbabies_LB3GE1_Lensbaby_3G_Special_Effects.html).
 I don't own any tilt/shift lenses, but those would also be candidates,
 as well as effects filters. If you don't have an SLR camera, or don't
 have any creative lenses, *shoot through a glass*! Despite what

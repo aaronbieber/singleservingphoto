@@ -63,7 +63,7 @@ comments:
   content: |-
     Unfortunately, I don't think there is a way to run AppleScript directly in Windows. It's not necessary to write the Lightroom post-processing filter in AppleScript, though, and I think you're on the right track with ActivePerl and PerlMagick, but you'll have to learn how to write some Perl!
 
-    An alternative (perhaps somewhat easier) is to install "Windows binaries of ImageMagick":http://www.imagemagick.org/script/binary-releases.php#windows rather than use the PerlMagick bindings. You'll basically have to translate my AppleScript snippet into Perl and use it as your post-processing filter.
+    An alternative (perhaps somewhat easier) is to install [Windows binaries of ImageMagick](http://www.imagemagick.org/script/binary-releases.php#windows) rather than use the PerlMagick bindings. You'll basically have to translate my AppleScript snippet into Perl and use it as your post-processing filter.
 
     Here's an _idea_ of how it might be done, but I haven't even remotely tested this. You should avoid using paths with spaces in them for where you place the ImageMagick binaries and your watermark image if possible.
 
@@ -153,7 +153,7 @@ you in more ways than watermarking, so let's get this thing installed!
 The easiest way to install ImageMagick is through the package management
 system called MacPorts (formerly known as DarwinPorts).
 
-Pop over to "MacPorts":http://www.macports.org/ and download the latest
+Pop over to [MacPorts](http://www.macports).org/ and download the latest
 version. You install MacPorts in the same way you'd install any other
 Mac application: open the .dmg file, run the installer, wait a while,
 and there you have it. Now that MacPorts is installed, it's time to
@@ -162,7 +162,7 @@ with the terminal, don't be too intimidated; I'll show you exactly what
 to type.
 
 Open up the terminal (the default Terminal application or your choice of
-"replacement terminal":http://iterm.sf.net) and make sure MacPorts is
+[replacement terminal](http://iterm.sf).net) and make sure MacPorts is
 working properly:
 
 ` airborne@Auriga ~ $ port`{lang="text"}
@@ -187,7 +187,7 @@ certain installer packages). You will be prompted for _your_ password;
 enter it and press return. It will take some time to download the
 required files, decompress them, etc., etc. When it's done, it will let
 you know. If you get any errors along the way, you will want to refer to
-the "MacPorts website":http://www.macports.org or search on the Internet
+the [MacPorts website](http://www.macports).org or search on the Internet
 for solutions; fixing MacPorts problems is too vast an area to cover in
 this article.
 
@@ -202,7 +202,7 @@ If you get an error message like @-bash: convert: command not found@
 then try closing and re-opening the terminal. If it doesn't work after
 that, well, something must have gone wrong with the installation and you
 should try to figure out what that is. There are a lot of resources
-available through the "MacPorts":http://www.macports.org/ site and
+available through the [MacPorts](http://www.macports).org/ site and
 through The Google to help you out.
 
 Now that we have ImageMagic set up, we need to write some...

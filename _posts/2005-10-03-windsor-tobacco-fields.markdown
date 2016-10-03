@@ -17,7 +17,7 @@ comments: []
 ---
 Here in Windsor where I work, we are surrounded on almost all sides by
 vast tobacco fields. They were even once host to the filming of the 1961
-film "Parrish":http://www.imdb.com/title/tt0055279. This morning was
+film [Parrish](http://www.imdb.com/title/tt0055279). This morning was
 incredibly foggy, and I had no choice but to take some time out to
 capture these.
 
