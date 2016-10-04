@@ -3,11 +3,7 @@ layout: page
 status: publish
 published: true
 title: About
-author:
-  display_name: Aaron
-  login: Aaron
-  email: aaron@singleservingphoto.com
-  url: http://gallery.aaronbieber.com
+author: Aaron
 author_login: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
@@ -20,7 +16,29 @@ categories:
 tags: []
 comments: []
 ---
-<p>h2. Who Are You?</p>
-<p>My name is Aaron Bieber (no relation to Justin, seriously). Aside from being a part-time traveling fine art photographer, I do a bit of freelance, and I also build websites (for a living). My colleague Chris Blake and I travel and "teach photography workshops":http://artphotoworkshops.com, and I've been writing about photography on this blog for several years.</p>
-<p>h2. Technical Mumbo-Jumbo</p>
-<p>Some people are obsessed with technical details. For the edification of those folks, I use a Canon EOS-1Ds Mark III digital SLR with a variety of lenses. At the top of every page you will find a link to my actual gallery website where you can view my photos, buy prints, and all that good stuff.</p>
+## Who Are You?
+
+My name is Aaron Bieber (no relation to Justin, seriously). Aside from being a
+part-time traveling fine art photographer, I do a bit of freelance, and I also
+build websites (for a living). My colleague Chris Blake and I travel and
+[teach photography workshops](http://artphotoworkshops.com) and I've been
+writing about photography on this blog for several years.
+
+## Technical Mumbo-Jumbo
+
+Some people are obsessed with technical details.
+
+My first DSLR was a Canon EOS-10D, which I later upgraded to the EOS-5D. Eventually
+I took the plunge into pro gear and moved to the EOS-1Ds Mark III, which was the
+most money I've ever spent on a camera body.
+
+After a few years shooting the 1Ds Mark III, I got really tired of carrying it
+around, so I sold it, and all of my Canon lenses, and switched to the Sony Alpha
+NEX-7.
+
+I shot the NEX-7 for a few years again until my impatience with Sony to create a
+proper successor to that model overcame me and I once again took the plunge into
+the Sony Alpha a7 II, which is the full-frame mirrorless model.
+
+Aside from its weight, I like it a lot, and I think I'll keep it for a few more
+years before considering a switch.
