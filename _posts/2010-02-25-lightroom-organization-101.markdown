@@ -24,7 +24,7 @@ tags:
 - organization
 comments: []
 ---
-In "my workshops":http://artphotoworkshops.com I teach people how to
+In [my workshops](http://artphotoworkshops).com I teach people how to
 organize their photos, both the physical files on disk as well as their
 Photoshop Lightroom catalogs. Although I've been teaching these classes
 for years, I realized that I've never once written about it.
@@ -177,8 +177,8 @@ for gallery, get it?)\
 (no mnemonic device for that one, I have a Post-It note on my monitor to
 remind me)
 
-I then I use either the Export to Photoshelter or "Jeffrey's Export to
-Flickr":http://regex.info/blog/lightroom-goodies/flickr plugins within
+I then I use either the Export to Photoshelter or [Jeffrey's Export to
+Flickr](http://regex).info/blog/lightroom-goodies/flickr plugins within
 Lightroom to send the images where they need to go.
 
 You may notice that I don't use star ratings at all. I used to use star

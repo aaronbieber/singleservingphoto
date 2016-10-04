@@ -47,8 +47,8 @@ College in Breckenridge, CO, to begin construction in 2009, will not
 have a darkroom at all ((Leslie Brefeld. "Is digital forcing out
 photography’s roots?" Summit Daily News. December 7, 2007. December 17,
 2007.\
-"http
-://www.summitdaily.com/article/20071207/AE/71207005":http://www.summitdaily.com/article/20071207/AE/71207005)).
+[http
+://www.summitdaily.com/article/20071207/AE/71207005](http://www.summitdaily.com/article/20071207/AE/71207005))).
 
 Dave Askeland, interim director, says that the number of students
 registering for so-called "wet lab," or traditional darkroom classes, is

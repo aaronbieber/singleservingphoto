@@ -45,9 +45,9 @@ photographers _actually_ spend their time:
 
 [![](http://singleservingphoto.com/wp-content/uploads/2011/11/20091205-reality1-590x444.jpg "The Reality")](http://singleservingphoto.com/2011/11/05/how-wedding-photographers-really-spend-their-time/20091205-reality1/)
 
-These graphs and the results of the survey are from ISWP's article, "The
+These graphs and the results of the survey are from ISWP's article, [The
 Secret Life of Wedding
-Photographers":http://www.ispwp.com/the-secret-life-of-wedding-photographers.html,
+Photographers](http://www.ispwp.com/the-secret-life-of-wedding-photographers.html),
 which I encourage you to read.
 
 To go along with the above graphs, they also have some quotes from the

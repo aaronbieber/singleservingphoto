@@ -52,8 +52,8 @@ hope you'll find useful.
 If you'd rather not listen to my chatter, just click the link and be on
 your way.
 
-"Of Zen and Computing: How to Avoid Getting Scammed When Buying a
-Digital Camera":http://www.ofzenandcomputing.com/zanswers/996
+[Of Zen and Computing: How to Avoid Getting Scammed When Buying a
+Digital Camera](http://www.ofzenandcomputing).com/zanswers/996
 
 Of Zen and Computing is a blog concerned with lifestyle and workflow
 issues unique to computer users and website authors, but now and then
@@ -90,8 +90,8 @@ links with you.
 
 h3. Western Digital's Raptor
 
-"Western Digital 150 GB SATA
-Raptor":http://www.wdc.com/en/products/Products.asp?DriveID=189
+[Western Digital 150 GB SATA
+Raptor](http://www.wdc.com/en/products/Products.asp?DriveID=189)
 
 Scratch disk space is what your operating system (or Photoshop) will use
 when you've filled your RAM, or for certain types of data that don't
@@ -116,7 +116,7 @@ don't quote me on this, but what I know for sure is that these drives
 have no moving parts, run entirely without noise, and are faster than
 all get-out.
 
-"Engadget's Coverage of SSD Drives":http://www.engadget.com/tag/ssd/
+[Engadget's Coverage of SSD Drives](http://www.engadget.com/tag/ssd/)
 
 My favorite gadget geek site, Engadget, has covered many manufacturers'
 releases of SSD products and all of them are listed at that link. The
@@ -133,8 +133,8 @@ on The Online Photographer. I will eventually put together one or two
 "reaction articles" of my own about this stuff, but if you want to read
 some pretty daring ideas and reflections about photography, start here:
 
-"Qualifying Photography As Art, or Is Photography All It Can
-Be?":http://theonlinephotographer.typepad.com/the_online_photographer/2007/12/qualifying-phot.html
+[Qualifying Photography As Art, or Is Photography All It Can
+Be?](http://theonlinephotographer.typepad.com/the_online_photographer/2007/12/qualifying-phot.html)
 
 The articles chronologically surrounding that one give even more depth
 to the discussion.

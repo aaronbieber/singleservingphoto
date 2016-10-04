@@ -87,25 +87,6 @@ comments:
     2) If I use photo licensed as CC in my website next to the article, should I also state (in the credit line), that the photo is licensed as CC? Or is it required only when I would redistribute the work?
 
     Thank you.
-- id: 854
-  author: Aaron
-  author_email: aaron@singleservingphoto.com
-  author_url: http://www.singleservingphoto.com
-  date: '2007-06-27 06:48:42 -0400'
-  date_gmt: '2007-06-27 10:48:42 -0400'
-  content: "@quirkyalone\r\n\r\nFirst off, I am not a lawyer, so if you are really
-    worried about it, it would be a good idea to have your particular situation reviewed
-    by someone with a law degree. That said, I think I can answer part of what you
-    ask with some confidence.\r\n\r\n1. \"NonCommercial\" licenses mean \"you may
-    not use the work in a manner primarily directed toward commercial advantage or
-    private monetary compensation.\" In the classic sense that would mean printing
-    it and selling it, publishing it, or otherwise profiting directly from the use
-    of it. I think that placing it in an article on a website that also contains ads
-    is a gray area that may be permitted, but I can't say definitively.\r\n\r\n2.
-    If the photo is licensed to you under an \"Attribution\" license, you absolutely
-    must give credit to its creator in your text somewhere. Under the terms of the
-    six core Creative Commons licenses, you also must link back to the license itself.\r\n\r\nA
-    lot of these types of questions are addressed in the \"Creative Commons FAQ\":http://wiki.creativecommons.org/FAQ"
 ---
 Is it a good idea to give away work for self-promotion? Can you realize
 secondary gains from charity? I like to think of myself as a charitable
@@ -160,8 +141,8 @@ Creative Commons "provides free tools that let authors, scientists,
 artists, and educators easily mark their creative work with the freedoms
 they want it to carry." Their chief contribution is in the form of
 "licenses," which are basically rules of use for creative work stated in
-defensible legal terms, written by lawyers. Using their handy "license
-selection questionnaire":http://creativecommons.org/license/, you can
+defensible legal terms, written by lawyers. Using their handy [license
+selection questionnaire](http://creativecommons.org/license/), you can
 simply choose the rights you wish to yield to others and the appropriate
 Creative Commons (or "CC" for short) license will be provided to you.
 
@@ -215,16 +196,16 @@ text of the license for the hardened lawyers among us.
 
 h2. If You Love Something, Let it Go...
 
-I believe in sharing. In my "Web Rules for
-Photographers":http://www.singleservingphoto.com/2007/06/20/web-rules-for-photographers/
+I believe in sharing. In my [Web Rules for
+Photographers](http://www.singleservingphoto.com/2007/06/20/web-rules-for-photographers/)
 article, I stated that "sharing is caring," and I stand behind that. I
 am not anti-capitalist, nor would I deny anyone the fruits of their
 labor, but sometimes a little bit of giving goes a long way.
 
 Let me break this down from a photographer's perspective. I had the
 opportunity a couple of years ago to photograph the abandoned and
-decrepit "Mansfield Training
-School":http://www.fisheyegallery.com/Places/MansfieldTrainingSchool,
+decrepit [Mansfield Training
+School](http://www.fisheyegallery.com/Places/MansfieldTrainingSchool,)
 which was a hospital for mentally retarded children in Mansfield,
 Connecticut from around the turn of the century until about 1993. Of all
 my photographs, the ones I took inside that place seem to be the most
@@ -261,9 +242,9 @@ that particular work in order for it to appear on Wikipedia. Aside from
 the intangible exposure I would gain from it, and of course my own sense
 of altrusim, I hoped to see a bit of traffic from my submission.
 
-Being the generous man that I am, I selected the "Creative Commons
+Being the generous man that I am, I selected the [Creative Commons
 Attribution-ShareAlike 2.5
-license":http://creativecommons.org/licenses/by-sa/2.5/ (the link leads
+license](http://creativecommons.org/licenses/by-sa/2).5/ (the link leads
 to the "deed" page, conveniently available in about 30 languages), which
 means that you are free to copy, distribute, transmit, remix, and adapt
 the work as long as what you create from it carries the same license and
@@ -283,6 +264,6 @@ If you are serious about protecting your copyrights, you may wish to
 officially register your work with the United States Copyright office.
 It isn't terribly difficult or expensive, and it will give you huge
 leverage if you ever take a claim to court. For more information, check
-out "Copyright Office
-Basics":http://www.copyright.gov/circs/circ1.html\#cr on the Copyright
+out [Copyright Office
+Basics](http://www.copyright.gov/circs/circ1).html\#cr on the Copyright
 Office's website.

@@ -76,8 +76,8 @@ profuse some of these archetypical images have become, in the article
 linked below. Just a word of warning: there is some coarse language,
 which is uncommon for my blog, and is the only reason I mention it.
 
-* "The 12 Most Baffling Genres of Stock Photo,
-Explained":http://www.cracked.com/blog/the-12-most-baffling-genres-stock-photo-explained/,
+* [The 12 Most Baffling Genres of Stock Photo,
+Explained](http://www.cracked.com/blog/the-12-most-baffling-genres-stock-photo-explained/),
 via Cracked.com
 
 Have you run across some ridiculous stock photography lately? Do you

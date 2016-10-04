@@ -31,8 +31,8 @@ His works are (from what I've seen, at least) untitled, which is a
 subject for another article. I don't know how much post-processing goes
 into these images, but I know that Crewdson is known for his elaborate
 lighting setups, which leads me to believe there isn't much. He's
-well-known enough to have "his own page on
-Wikipedia,":http://en.wikipedia.org/wiki/Gregory_Crewdson a distinction
+well-known enough to have [his own page on
+Wikipedia,](http://en.wikipedia).org/wiki/Gregory_Crewdson a distinction
 reserved (by the site's own policy) for those enjoying defensible public
 recognition.
 
@@ -48,13 +48,13 @@ the stuff that it's hard to look away.
 !/articles/Crewdson/gregory-crewdson-1.jpg!
 
 I'd love to see behind-the-scenes photos of his setups, but I couldn't
-uncover much. Here is a "neat
-walkthrough":http://www.boston.com/ae/theater_arts/gallery/crewdsonline/
+uncover much. Here is a [neat
+walkthrough](http://www.boston.com/ae/theater_arts/gallery/crewdsonline/)
 of a Crewdson setup in Massachusetts, though they don't even show the
 final image, which was a big disappointment for me.
 
 There are some decent views of some of the setups he's used here on the
-"Aperture 190":http://www.aperture.org/crewdson/ site; you can see that
+[Aperture 190](http://www.aperture).org/crewdson/ site; you can see that
 he works mostly with *hot lights* (lights that remain on, as opposed
 to strobes), just as though he was shooting a movie. The boston.com
 article revealed that he shoots with an 8x10 view camera and apertures

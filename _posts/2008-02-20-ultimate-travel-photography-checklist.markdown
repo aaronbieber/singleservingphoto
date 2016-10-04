@@ -25,15 +25,15 @@ comments:
 
     Never forget an essential piece of gear again with the ULTIMATE TRAVEL PHOTOGRAPHY CHECKLIST....
 ---
-I'm traveling all over the place this year teaching "art photography
-workshops":http://artphotoworkshops.com, but I am also notoriously
-disorganized. So when I saw an article about "the ultimate grocery
-list":http://www.grocerylists.org/ultimatest/, I knew I had to make a
+I'm traveling all over the place this year teaching [art photography
+workshops](http://artphotoworkshops.com), but I am also notoriously
+disorganized. So when I saw an article about [the ultimate grocery
+list](http://www.grocerylists.org/ultimatest/), I knew I had to make a
 *checklist for travel photographers* to keep track of all their
 essential gear.
 
-Now I know I'm not exactly "Chase
-Jarvis":http://chasejarvis.com/blog/2007/11/chase-jarvis-tech-packing-photography.html
+Now I know I'm not exactly [Chase
+Jarvis](http://chasejarvis.com/blog/2007/11/chase-jarvis-tech-packing-photography.html)
 when it comes to packing and transporting gear, but I'd like to think
 I've thought of all the important things.
 
@@ -44,6 +44,6 @@ style="background: white url('http://static.artphotoworkshops.com/UltimateTravel
 
 The list was designed to be printed on a regular letter-size piece of
 paper, and it's in PDF format, so if you want to print it really tiny or
-really big, the choice is yours. "Download the original
-PDF":http://artphotoworkshops.com/read/UltimateTravelPhotoChecklist
+really big, the choice is yours. [Download the original
+PDF](http://artphotoworkshops.com/read/UltimateTravelPhotoChecklist)
 (it's only about 40k) and never forget your essential gear again!

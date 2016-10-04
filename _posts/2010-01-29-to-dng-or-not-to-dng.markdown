@@ -6,21 +6,6 @@ title: To DNG or Not to DNG
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<a href=\"http://singleservingphoto.com/wp-content/uploads/2010/01/dng_tm.gif\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2010/01/dng_tm.gif\" alt=\"DNG
-  (tm)\" title=\"DNG (tm)\" width=\"163\" height=\"127\" class=\"alignright size-full
-  wp-image-380\" /></a>\r\n\r\nThat is the question.\r\n\r\n<blockquote>Whether 'tis
-  nobler in the mind to wrangle the proprietary formats of your camera manufacturer,
-  or to take arms against a sea of sidecar files, and by opposing, end them...</blockquote>\r\n\r\nBut
-  enough pseudo-Shakespeare for one post.\r\n\r\nThere has been some chatter on the
-  Interwebs lately concerning the DNG format: there are quality and archival concerns,
-  whether it's worth converting one's entire library to the format, what the benefits
-  might be, and whether one ought to care. Today, I weigh in. For what it's worth.\r\n\r\nCoincidentally,
-  I've used the same post title as Matt Kloskowski did in his take on the subject
-  on \"Lightroom Killer Tips\":http://www.lightroomkillertips.com/2010/to-dng-or-not-to-dng/.
-  Matt didn't add a pseudo-Hamlet line, though, so I feel like I've done the headline
-  proud.\r\n\r\nAfter the break, a complete rundown on DNG; trust me, it's going to
-  be technical _and_ editorial."
 wordpress_id: 373
 wordpress_url: http://singleservingphoto.com/?p=373
 date: '2010-01-29 15:53:16 -0500'
@@ -54,14 +39,13 @@ be, and whether one ought to care. Today, I weigh in. For what it's
 worth.
 
 Coincidentally, I've used the same post title as Matt Kloskowski did in
-his take on the subject on "Lightroom Killer
-Tips":http://www.lightroomkillertips.com/2010/to-dng-or-not-to-dng/.
+his take on the subject on [Lightroom Killer
+Tips](http://www.lightroomkillertips.com/2010/to-dng-or-not-to-dng/.)
 Matt didn't add a pseudo-Hamlet line, though, so I feel like I've done
 the headline proud.
 
 After the break, a complete rundown on DNG; trust me, it's going to be
-technical _and_ editorial.<span id="more"></span><span
-id="more-373"></span>
+technical _and_ editorial. ~~MORE~~
 
 h2. What Is DNG?
 
@@ -94,8 +78,8 @@ embraced by an SDO such as the International Standards Organization
 snippet of red tape away from being SDO-backed.
 
 You can read a lot of nitty gritty on the format itself explained by
-Barry Pearson on his "DNG Specification
-page":http://www.barrypearson.co.uk/articles/dng/specification.htm.
+Barry Pearson on his [DNG Specification
+page](http://www.barrypearson.co.uk/articles/dng/specification.htm.)
 
 h2. Why Would You Want to Use DNG?
 
@@ -172,8 +156,8 @@ For non-Canon shooters, that's probably the most compelling reason to
 convert to DNG right now, which I should point out _Lightroom can do
 automatically for you at import time_. You've seen the option, right?
 There are a couple of ways to convert to DNG in Lightroom, and there are
-"three of them explained on
-TheLightroomLab.com":http://thelightroomlab.com/2009/06/converting-digital-camera-raw-files-to-the-dng-format-using-adobe-photoshop-lightroom/.
+[three of them explained on
+TheLightroomLab.com](http://thelightroomlab.com/2009/06/converting-digital-camera-raw-files-to-the-dng-format-using-adobe-photoshop-lightroom/.)
 
 h2. Sidecars Aren't Just for Kids
 

@@ -27,16 +27,16 @@ comments:
 !right:http://www.bhphotovideo.com/images/items/583953.jpg!
 
 My thorough and attentive friends in the B&H affiliate department have
-sent word that they now have "limited stocks of 5D Mark
-IIs!":http://www.bhphotovideo.com/c/product/583953-REG/Canon_2764B003_EOS_5D_Mark_II.html/BI/1816/KBID/2457
+sent word that they now have [limited stocks of 5D Mark
+IIs!](http://www.bhphotovideo.com/c/product/583953-REG/Canon_2764B003_EOS_5D_Mark_II).html/BI/1816/KBID/2457
 
 The message reads, "We've just received word that the Canon EOS 5D Mark
 II is available in limited stock. Simply "add to cart"; ignore initial
 "back-ordered" message."
 
 According to Mike's post over at
-"TOP":http://theonlinephotographer.typepad.com/the_online_photographer/2009/01/canon-5d-mark-ii-available-from-bh.html,
+[TOP](http://theonlinephotographer.typepad.com/the_online_photographer/2009/01/canon-5d-mark-ii-available-from-bh.html,)
 their stock seems to be fluctuating in and out.
 
-The price is \$2,699 and you can "buy it right
-here":http://www.bhphotovideo.com/c/product/583953-REG/Canon_2764B003_EOS_5D_Mark_II.html/BI/1816/KBID/2457
+The price is \$2,699 and you can [buy it right
+here](http://www.bhphotovideo.com/c/product/583953-REG/Canon_2764B003_EOS_5D_Mark_II.html/BI/1816/KBID/2457)

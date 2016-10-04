@@ -19,15 +19,15 @@ tags:
 comments: []
 ---
 This sweet video from someone called "cobbler" on
-"Metacafe":http://www.metacafe.com shows you how to make a rather
+[Metacafe](http://www.metacafe).com shows you how to make a rather
 ingenious _image stabilizer_, which I have decided to call an
 "inverted monopod."
 
 I won't ruin the surprise, nor will I keep you from the video, which is
 right here:
 
-(View the original video "on
-Metacafe":http://www.metacafe.com/watch/1041948/1_image_stabilizer_for_any_camera_lose_the_tripod/)
+(View the original video [on
+Metacafe](http://www.metacafe.com/watch/1041948/1_image_stabilizer_for_any_camera_lose_the_tripod/))
 
 Personally, I think this idea is brilliant and I give a tip of my cap to
 "cobbler," whoever and wherever they may be.

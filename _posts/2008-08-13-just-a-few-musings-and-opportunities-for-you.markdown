@@ -71,8 +71,8 @@ needs as an artist.
 That may have sounded like a bit of a rant...
 
 *Edit:* Perhaps it wasn't as much of a rant as I thought at first.
-Here is a "really cool
-article":http://theonlinephotographer.typepad.com/the_online_photographer/2008/08/charts-and-grap.html
+Here is a [really cool
+article](http://theonlinephotographer.typepad.com/the_online_photographer/2008/08/charts-and-grap).html
 by Mike Johnston at The Online Photographer about over-reliance on
 measurements when evaluating the performance (specifically) of
 equipment. He also goes on to criticize people who use charts and graphs
@@ -85,20 +85,20 @@ Ranting notwithstanding, it's still true that I'm *teaching a digital
 printing workshop in February*. If you want to learn how to soft-proof,
 color manage, and output your own images at a high-end digital lab, this
 is your big chance. I'll be teaching alongside Chris Blake, back at
-Calypso Imaging in Santa Cruz, CA; "read about the workshop and sign up
-here":http://artphotoworkshops.com/workshop/2009/February/PrintingWorkflow.
+Calypso Imaging in Santa Cruz, CA; [read about the workshop and sign up
+here](http://artphotoworkshops.com/workshop/2009/February/PrintingWorkflow.)
 You will get to *print proof images* and then *make final prints*
 during the workshop, so everyone gets stuff to take home with them. It's
 only \$599; you won't find a better deal than that anywhere.
 
 There are some other exciting learning opportunities right around the
-corner, too, including our "workshop in Cape
-Cod":http://artphotoworkshops.com/workshop/2008/September/CapeCod in
-September, a "fall foliage workshop in cooperation with Dan
-Heller":http://artphotoworkshops.com/workshop/2008/October/FallColorsInVermont
-in Vermont in October, and then later on that same month, our "City on
+corner, too, including our [workshop in Cape
+Cod](http://artphotoworkshops).com/workshop/2008/September/CapeCod in
+September, a [fall foliage workshop in cooperation with Dan
+Heller](http://artphotoworkshops.com/workshop/2008/October/FallColorsInVermont)
+in Vermont in October, and then later on that same month, our [City on
 the Hill Boston
-workshop":http://artphotoworkshops.com/workshop/2008/October/Boston.
+workshop](http://artphotoworkshops.com/workshop/2008/October/Boston.)
 That should be enough to keep you busy before the holidays, right? It's
 sure going to keep me busy, I can tell you that much.
 

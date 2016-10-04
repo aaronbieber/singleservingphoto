@@ -26,8 +26,8 @@ entertainment photographer for Getty in Los Angeles.
 
 The dude loves Profoto gear. Wait, you don't know Profoto? They make
 some pretty high-end on-location strobes and other lighting accessories.
-("Buy 'em from
-B&H":http://www.bhphotovideo.com/c/search?Ntt=profoto&N=0&InitialSearch=yes.)
+([Buy 'em from
+B&H](http://www.bhphotovideo.com/c/search?Ntt=profoto&N=0&InitialSearch=yes).)
 Two 2400 watt-second strobes with basic reflectors, a battery pack, and
 a case to carry them in is going to run you around \$2,500, and then
 things go up from there.
@@ -49,4 +49,4 @@ off in the time it takes your subject to walk from the stage to their
 dressing room.
 
 Read more about Carlo Allegri and see some of his great photos on
-"Profoto's blog":http://blog.profoto-usa.com/?p=1431
+[Profoto's blog](http://blog.profoto-usa.com/?p=1431)

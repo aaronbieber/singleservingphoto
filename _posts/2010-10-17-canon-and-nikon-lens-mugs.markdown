@@ -39,7 +39,7 @@ limited-run items, they are priced more like high-end souvenirs than
 mugs.
 
 Currently, the best source for these mugs is
-"canonmugs.com":http://www.canonmugs.com, a charmingly "Engrish" site
+[canonmugs.com](http://www.canonmugs.com), a charmingly "Engrish" site
 that evidently has either come into a huge collection of the original
 novelty mugs, or has outsourced their replication to some far-flung
 country. My guess is that these are actually replicas of the original

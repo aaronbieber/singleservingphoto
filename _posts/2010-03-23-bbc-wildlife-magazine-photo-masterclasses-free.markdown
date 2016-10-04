@@ -62,15 +62,15 @@ Fortunately for people like me, Wildlife has released all 12 "Photo
 Masterclass" articles in PDF format on their website for free download.
 Regrettably, the PDF files are print-restricted, so you can only view
 them on a computer. If you have
-"GoodReader":http://www.goodiware.com/goodreader.html on your iPhone or
+[GoodReader](http://www.goodiware.com/goodreader).html on your iPhone or
 iPod Touch, however, you can take these lessons with you wherever you
 go. (GoodReader is how I take _every single Canon and Nikon DSLR
-manual_ with me on "my workshops":http://artphotoworkshops.com; I'll
+manual_ with me on [my workshops](http://artphotoworkshops).com; I'll
 write more about that later on).
 
-To view and download all of the Photo Masterclass articles, "visit the
+To view and download all of the Photo Masterclass articles, [visit the
 Photo Masterclass page on BBC
-Wildlife":http://www.bbcwildlifemagazine.com/masterclasses.asp.
+Wildlife](http://www.bbcwildlifemagazine.com/masterclasses.asp.)
 
 \[Edit: It appears that they have taken down articles 11 and 12; they no
 longer appear on the site. Unfortunately I don't have local copies of

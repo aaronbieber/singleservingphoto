@@ -70,7 +70,7 @@ comments:
   date: '2007-11-02 22:56:39 -0400'
   date_gmt: '2007-11-03 02:56:39 -0400'
   content: |-
-    I'm not very happy with Adobe at the moment, thanks to both this Lightroom 1.2 news from Charley as well as my "poor experience with Photoshop CS3":http://www.singleservingphoto.com/2007/10/17/photoshop-cs3-overrated/. It looks rather certain that I'll stick with Tiger for at least the rest of this month (even though I have a Leopard DVD on its way to me as I write this).
+    I'm not very happy with Adobe at the moment, thanks to both this Lightroom 1.2 news from Charley as well as my [poor experience with Photoshop CS3](http://www.singleservingphoto.com/2007/10/17/photoshop-cs3-overrated/). It looks rather certain that I'll stick with Tiger for at least the rest of this month (even though I have a Leopard DVD on its way to me as I write this).
 
     C'mon Adobe, get with the program!
 - id: 1079
@@ -253,8 +253,8 @@ for me.
 
 I had messed around a lot with installing different versions of
 Photoshop and the Creative Suite (as I mentioned in my recent article
-"Photoshop CS3:
-Overrated":http://www.singleservingphoto.com/2007/10/17/photoshop-cs3-overrated/)
+[Photoshop CS3:
+Overrated](http://www.singleservingphoto.com/2007/10/17/photoshop-cs3-overrated/))
 and figured that all of that activity with related Adobe software
 probably messed up some files somewhere. So, I performed one of the
 tests outlined by someone on the Adobe forums.

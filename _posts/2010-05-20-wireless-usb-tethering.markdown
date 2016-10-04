@@ -50,5 +50,5 @@ Jamie wanted to have wireless control of his camera because he was going
 to be riding in a car at highway speed, with his Nikon dangling outside
 on a mounting bracket! It seems like it worked out pretty well!
 
-Check it out on "Jamie Carl's
-blog":http://www.jamiecarl.com.au/blog/wireless-tethering-the-coolest-oxymoron-ever.
+Check it out on [Jamie Carl's
+blog](http://www.jamiecarl.com.au/blog/wireless-tethering-the-coolest-oxymoron-ever.)

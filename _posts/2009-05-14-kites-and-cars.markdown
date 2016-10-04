@@ -40,7 +40,7 @@ from [make magazine](http://vimeo.com/make) on
 [Vimeo](http://vimeo.com).
 
 Chris is quick to humbly share his experience and tips for aerial kite
-photography "on his website":http://arch.ced.berkeley.edu/kap/index.html
+photography [on his website](http://arch.ced.berkeley.edu/kap/index).html
 (graciously hosted by Berkeley!)
 
 I was blown away by the evolution of Chris's camera rigs, which grew
@@ -66,8 +66,8 @@ drive it around like a fingerpainting on a warehouse scale. This was one
 of the most indulgent marketing campaigns I could think of.
 
 I realize this isn't strictly photography-related, but it is certainly
-art-related. If you feel gypped, go "look at these photographs from the
-event":http://www.bmwblog.com/2008/12/20/new-bmw-z4-painting-dynamics/an-expression-of-joy-painting-dynamics-created-by-the-new-bmw-z4_9/
+art-related. If you feel gypped, go [look at these photographs from the
+event](http://www.bmwblog.com/2008/12/20/new-bmw-z4-painting-dynamics/an-expression-of-joy-painting-dynamics-created-by-the-new-bmw-z4_9/)
 
 And here is a pretty cool video of how they put this thing together:
 

@@ -40,12 +40,12 @@ No business executive longs to write words like those.
 
 Read more coverage:
 
-* "Olympus Admits to Hiding
-Losses":http://online.wsj.com/article/SB10001424052970204190704577024680506345936.html,
+* [Olympus Admits to Hiding
+Losses](http://online.wsj.com/article/SB10001424052970204190704577024680506345936.html),
 The Wall Street Journal\
- * "Olympus Says Top Executives Hid Losses For
-Decades":http://www.npr.org/2011/11/08/142126419/olympus-says-top-execs-hid-losses-for-decades,
+ * [Olympus Says Top Executives Hid Losses For
+Decades](http://www.npr.org/2011/11/08/142126419/olympus-says-top-execs-hid-losses-for-decades,)
 NPR\
- * "Olympus Hid Losses With Acquisition
-Fees":http://www.bloomberg.com/news/2011-11-07/olympus-used-gyrus-fees-to-hide-losses.html,
+ * [Olympus Hid Losses With Acquisition
+Fees](http://www.bloomberg.com/news/2011-11-07/olympus-used-gyrus-fees-to-hide-losses.html,)
 Bloomberg

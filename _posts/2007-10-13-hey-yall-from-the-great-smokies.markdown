@@ -6,13 +6,6 @@ title: '"Hey Y''all" from the Great Smokies'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Here in Gatlinburg, Tennessee, surrounded on three sides by the Great Smoky
-  Mountains National Park, it's easy to get overwhelmed. Armed with only our \"Great
-  Smoky Mountains National Park Illustrated Trail Map\":http://shop.nationalgeographic.com/shopping/product/detailmain.jsp?itemID=392&itemType=PRODUCT&RS=1&keyword=great+smoky+trail+map
-  from National Geographic, a basic idea of sunrise and sunset times, and our wits,
-  we set out to capture the majesty of the southern wilderness.\r\n\r\nThis is officially
-  my first post _from the field_, though I've tried before and failed. My impression
-  so far? Positive!\r\n\r\nPhotos after the break!"
 wordpress_id: 147
 wordpress_url: http://www.singleservingphoto.com/2007/10/13/hey-yall-from-the-great-smokies/
 date: '2007-10-13 13:34:50 -0400'
@@ -27,16 +20,15 @@ comments: []
 ---
 Here in Gatlinburg, Tennessee, surrounded on three sides by the Great
 Smoky Mountains National Park, it's easy to get overwhelmed. Armed with
-only our "Great Smoky Mountains National Park Illustrated Trail
-Map":http://shop.nationalgeographic.com/shopping/product/detailmain.jsp?itemID=392&itemType=PRODUCT&RS=1&keyword=great+smoky+trail+map
+only our [Great Smoky Mountains National Park Illustrated Trail
+Map](http://shop.nationalgeographic.com/shopping/product/detailmain.jsp?itemID=392&itemType=PRODUCT&RS=1&keyword=great+smoky+trail+map)
 from National Geographic, a basic idea of sunrise and sunset times, and
 our wits, we set out to capture the majesty of the southern wilderness.
 
 This is officially my first post _from the field_, though I've tried
 before and failed. My impression so far? Positive!
 
-Photos after the break!<span id="more"></span><span
-id="more-147"></span>
+Photos after the break! ~~MORE~~
 
 h2. Tips for Visiting
 

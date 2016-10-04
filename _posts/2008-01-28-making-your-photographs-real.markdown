@@ -40,8 +40,8 @@ id="more"></span><span id="more-169"></span>
 h2. Pro Printing
 
 When I print my images for serious presentation, to frame and hang in my
-own home, or to show elsewhere, I always turn to "White House Custom
-Color.":http://www.whcc.com Their prices are competitive and their
+own home, or to show elsewhere, I always turn to [White House Custom
+Color.](http://www.whcc).com Their prices are competitive and their
 service is second-to-none. Once you've signed up for a _free_ account,
 they will do two things:
 
@@ -62,7 +62,7 @@ If you are less concerned with quality and more concerned with
 _value_, there is a neat site that will allow you to compare price
 points and user reviews of more photo printing sites than you can shake
 a stick at (nearly 50 when I looked). It's called
-"printRates":http://www.printrates.com/, and according to their site,
+[printRates](http://www.printrates.com/), and according to their site,
 they aim to let you:
 
 bq. Save money on digital photo printing by comparing digital photo

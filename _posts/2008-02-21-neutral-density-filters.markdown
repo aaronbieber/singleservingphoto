@@ -132,8 +132,8 @@ a nice, dark ND filter.
 Your kit shouldn't be without one!
 
 Speaking of keeping track of your kit, a nice tool for that is our
-"Ultimate Travel Photography
-Checklist":http://artphotoworkshops.com/read/UltimateTravelPhotoChecklist...
+[Ultimate Travel Photography
+Checklist](http://artphotoworkshops.com/read/UltimateTravelPhotoChecklist..).
 Never forget an essential piece of gear again!
 
 h2. The Best ND Filters
@@ -154,14 +154,14 @@ starting out with, and if you use these links to buy them I'll get a
 small dividend from B&H (it does not change your cost in any way), which
 helps me keep this site up and running.
 
-* "B+W 77mm 0.9 (3-stop) ND
-filter":http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Neutral_Density.html/BI/1816/KBID/2457
+* [B+W 77mm 0.9 (3-stop) ND
+filter](http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Neutral_Density.html/BI/1816/KBID/2457)
 - Great for increasing motion blur on daylight subjects (like people
 walking) and casually usable (you can focus through the filter without
 much challenge), but with your lens at f/22, this filter brings you to
 f/64.\
- * "B+W 77mm 3.0 (10-stop) ND
-filter":http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html/BI/1816/KBID/2457
+ * [B+W 77mm 3.0 (10-stop) ND
+filter](http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html/BI/1816/KBID/2457)
 - Ten stops is enough to completely change the way you make exposures.
 Imagine putting this on a lens at f/22; ten stops above f/22 is f/724!
 Bear in mind that 10 stops does not mean f/10, it means 10 stops less

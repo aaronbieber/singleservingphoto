@@ -21,7 +21,7 @@ comments: []
 [![](http://singleservingphoto.com/wp-content/uploads/2011/12/2230002043_2604313044_m.jpg "Interactive lens widget")](http://singleservingphoto.com/wp-content/uploads/2011/12/2230002043_2604313044_m.jpg)
 
 The absolutely wonderful and thorough camera review site
-"dpreview.com":http://www.dpreview.com has (finally) added _lenses_ to
+[dpreview.com](http://www.dpreview).com has (finally) added _lenses_ to
 its repertoire. Not only will they investigate lenses with the same
 hands-on depth that their camera reviews enjoy, but they have also
 rolled out a custom Flash-based, interactive widget that allows you to
@@ -32,10 +32,10 @@ was blown away by how easily it allows you to see what the real-life
 sharpness of the lens is at different distances from center and at
 different f-stops. Amazing.
 
-If you want to, "jump directly to the announcement on
-dpreview.com":http://www.dpreview.com/news/0801/08012913dpreviewlensreviews.asp,
-or, for the really impatient, "directly to the
-lenses":http://www.dpreview.com/lensreviews/.
+If you want to, [jump directly to the announcement on
+dpreview.com](http://www.dpreview.com/news/0801/08012913dpreviewlensreviews.asp,)
+or, for the really impatient, [directly to the
+lenses](http://www.dpreview.com/lensreviews/.)
 
 They only have four lens reviews posted at the time of this writing, but
 I'm sure there will be many more in the coming weeks. It can't be easy

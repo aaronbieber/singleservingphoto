@@ -27,10 +27,10 @@ comments:
 Scott Kelby, editor and publisher of _Photoshop User Magazine_,
 _Layers Magazine_, and President of the National Association of
 Photoshop Professionals (NAPP), took notice of my visual article on
-histograms ("Histograms,
-Huh?":http://www.singleservingphoto.com/2007/06/03/histograms-huh/) and
-linked it in a Monday links roundup on his blog, "Photoshop
-Insider":http://www.scottkelby.com.
+histograms ([Histograms,
+Huh?](http://www.singleservingphoto).com/2007/06/03/histograms-huh/) and
+linked it in a Monday links roundup on his blog, [Photoshop
+Insider](http://www.scottkelby.com.)
 
 I just want to say: thanks Scott, you definitely know quality when you
 see it! You should all give Scott's blog a read, he provides information

@@ -6,21 +6,6 @@ title: 'Photoshop CS3: Overrated'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "I've been a *devout* Photoshop user for over a decade. The first version
-  of Photoshop that I ever laid hands on was 2.0... That's _pre-layers_, and also
-  the first version available for Windows! I started using it seriously around version
-  4.0 and I have kept up with nearly every version since then. I remember distinctly
-  the addition of _effects layers_, _shape layers_, and the creation of the verb \"to
-  Photoshop\" (which Adobe officially frowns upon).\r\n\r\nOriginally, I used Photoshop
-  to create everything from promotional stickers and web graphics to letterhead and
-  stationery. Eventually I moved to Illustrator for layout/drawing stuff, but Photoshop
-  remains a huge part of my daily life. As the owner and sole employee of \"Fisheye
-  Multimedia\":http://www.fisheyemultimedia.com, I am called upon to repair and modify
-  photographs for my clients and to manipulate newspaper layouts for framing. As a
-  photographer myself, I spend hours upon hours in Lightroom and Photoshop, tweaking
-  masks, adjusting curves, cloning and healing, and so on.\r\n\r\nI am a _very particular_
-  Photoshop user with specific needs and expectations established by years of use.
-  Photoshop CS3 is a piece of crap."
 wordpress_id: 150
 wordpress_url: http://www.singleservingphoto.com/2007/10/17/photoshop-cs3-overrated/
 date: '2007-10-17 11:40:46 -0400'
@@ -38,7 +23,7 @@ comments:
   author_url: http://gallery.thebailiwick.com
   date: '2007-10-17 15:21:04 -0400'
   date_gmt: '2007-10-17 19:21:05 -0400'
-  content: And Earthbound Light shares with us "yet another feature":http://www.earthboundlight.com/phototips/brightness-contrast-photoshop-cs3.html
+  content: And Earthbound Light shares with us [yet another feature](http://www.earthboundlight.com/phototips/brightness-contrast-photoshop-cs3.html)
     I'm missing out on because Adobe can't make painting work correctly in CS3.
 ---
 I've been a *devout* Photoshop user for over a decade. The first
@@ -52,8 +37,8 @@ Photoshop" (which Adobe officially frowns upon).
 Originally, I used Photoshop to create everything from promotional
 stickers and web graphics to letterhead and stationery. Eventually I
 moved to Illustrator for layout/drawing stuff, but Photoshop remains a
-huge part of my daily life. As the owner and sole employee of "Fisheye
-Multimedia":http://www.fisheyemultimedia.com, I am called upon to repair
+huge part of my daily life. As the owner and sole employee of [Fisheye
+Multimedia](http://www.fisheyemultimedia.com), I am called upon to repair
 and modify photographs for my clients and to manipulate newspaper
 layouts for framing. As a photographer myself, I spend hours upon hours
 in Lightroom and Photoshop, tweaking masks, adjusting curves, cloning
@@ -61,7 +46,7 @@ and healing, and so on.
 
 I am a _very particular_ Photoshop user with specific needs and
 expectations established by years of use. Photoshop CS3 is a piece of
-crap.<span id="more"></span><span id="more-150"></span>
+crap. ~~MORE~~
 
 I moved to Creative Suite 1 a good while after its release and it really
 fit the bill for me. Its adjustment layers and effects layers were
@@ -84,8 +69,8 @@ executive decision that you must have at least a G5 to run it. Bummer!
 
 With the new computer I thought I would finally upgrade Photoshop and
 give Creative Suite 3 a try. I'd heard a lot of great things about it
-from other photographers, notably my colleague "Chris
-Blake":http://www.curiouslens.com. It seemed to work for them, so it
+from other photographers, notably my colleague [Chris
+Blake](http://www.curiouslens.com). It seemed to work for them, so it
 should treat me well. I downloaded a trial.
 
 In the defense of Photoshop CS3, I think the new GUI layout with the
@@ -102,17 +87,17 @@ draw, I realized that the brush strokes were lagging behind my cursor as
 though my computer was too slow. Couldn't be! I gave up on the project
 and did some research.
 
-All I could find of any use was "this
-thread":http://forum.adobe.com/webx?14@@.3bc3c251/90 on Adobe's "User to
+All I could find of any use was [this
+thread](http://forum.adobe.com/webx?14@@).3bc3c251/90 on Adobe's "User to
 User" forum. I do believe that the original poster of this thread had my
 exact problem, but nobody could produce any successful fixes for it.
 
 Among the suggestions were:
 
-* Install the "Force VM Buffering
-On/Off":http://www.adobe.com/support/downloads/detail.jsp?ftpID=3623
-Plug-In from Adobe ("Read
-Me":http://www.adobe.com/special/photoshop/vm_buffering/vm_buffering_optional_extensions_ReadMe.html)\
+* Install the [Force VM Buffering
+On/Off](http://www.adobe.com/support/downloads/detail.jsp?ftpID=3623)
+Plug-In from Adobe ([Read
+Me](http://www.adobe.com/special/photoshop/vm_buffering/vm_buffering_optional_extensions_ReadMe.html)\)
  * Enable the "Bigger Tiles" Plug-In (included)\
  * Set the "cache levels" setting 5 or lower (default is 6)
 

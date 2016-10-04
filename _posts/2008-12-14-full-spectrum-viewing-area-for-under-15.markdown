@@ -6,19 +6,6 @@ title: Full-Spectrum Viewing Area for Under $15
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "How many times have you held up one of your photographic prints in the light
-  of dayâ€”actual, real dayâ€”and thought _That's not at all what I bargained for_?
-  Never? Well that's good. You must be one of the lucky ones, or one of the blind
-  ones.\r\n\r\nEven with the best equipment that money can buy, ICC profiles, spectrophotometers,
-  an iron-clad color management workflow, and a high-end monitor, your eyes are the
-  ultimate judges of your work. But eyes, they don't work alone; you can't see anything
-  without light, and the quality of the light will have as much an effect on what
-  you see as the color of the print itself.\r\n\r\nI got onto this topic after reading
-  Michael Johnston's overview of his \"Viewing Station\":http://theonlinephotographer.typepad.com/the_online_photographer/2008/12/the-viewing-sta.html.
-  All these years I've been experimenting with lights in my studio space, let's call
-  it Single-Serving Photo HQâ€”or, as my friends call it, my bedroomâ€”and I never
-  once thought to write about it.\r\n\r\nAfter the jump I'll tell you how to *dramatically
-  increase your viewing conditions for about $15*."
 wordpress_id: 196
 wordpress_url: http://www.singleservingphoto.com/?p=196
 date: '2008-12-14 23:50:05 -0500'
@@ -49,15 +36,13 @@ the quality of the light will have as much an effect on what you see as
 the color of the print itself.
 
 I got onto this topic after reading Michael Johnston's overview of his
-"Viewing
-Station":http://theonlinephotographer.typepad.com/the_online_photographer/2008/12/the-viewing-sta.html.
+[Viewing Station](http://theonlinephotographer.typepad.com/the_online_photographer/2008/12/the-viewing-sta.html).
 All these years I've been experimenting with lights in my studio space,
-let's call it Single-Serving Photo HQâ€”or, as my friends call it, my
-bedroomâ€”and I never once thought to write about it.
+let's call it Single-Serving Photo HQ--or, as my friends call it, my
+bedroom--and I never once thought to write about it.
 
 After the jump I'll tell you how to *dramatically increase your viewing
-conditions for about \$15*.<span id="more"></span><span
-id="more-196"></span>
+conditions for about $15*. ~~MORE~~
 
 Michael says he uses one of those clip-on Verilux full-spectrum
 fluorescent setups. When I started down this path, I hadn't heard of
@@ -71,9 +56,9 @@ that.
 h2. Get a Bulb
 
 I wound up sampling several compact fluorescent bulbs from
-"1000bulbs.com":http://clickserve.cc-dt.com/link/click?lid=41000000027242453
-and eventually decided upon a "100 watt equivalent
-5100k":http://clickserve.cc-dt.com/link/click?lid=41000000027242501
+[1000bulbs.com](http://clickserve.cc-dt.com/link/click?lid=41000000027242453)
+and eventually decided upon a
+[100 watt equivalent 5100k](http://clickserve.cc-dt.com/link/click?lid=41000000027242501)
 model. Here's a picture of what it looks like, sort of:
 
 !/articles/viewing_station1.jpg!
@@ -96,11 +81,11 @@ h2. A Note About CRI
 
 The Color Rendering Index (CRI) is a measure of a light source's ability
 to reproduce color. Those of you mathematically inclined or simply
-curious can "read about it on
-Wikipedia":http://en.wikipedia.org/wiki/Color_rendering_index. This
-particular system has its detractors, but it's the system most widely
-used at the moment, and 1000bulbs.com lists the CRI value for most of
-its bulbs, especially the ones billed as "full-spectrum."
+curious can
+[read about it on Wikipedia](http://en.wikipedia.org/wiki/Color_rendering_index).
+This particular system has its detractors, but it's the system most widely used
+at the moment, and 1000bulbs.com lists the CRI value for most of its bulbs,
+especially the ones billed as "full-spectrum."
 
 The Verilux bulbs that you find in systems such as Michael's rate around
 86 and up on the CRI scale. The bulb I chose scores an 82, which by all
@@ -117,8 +102,8 @@ What good is a bulb without a lamp to screw it into? Perhaps you have a
 spare lamp somewhere in your house that you can use, but if you don't,
 do not despair. I went down to the home improvement store and picked up
 a simple work light (sometimes also called a painter's light or a clip
-light). "Here is a pretty basic
-one":http://www.lowes.com/lowes/lkn?action=productDetail&productId=203213-1373-FL-300PDQ12&lpage=none
+light). [Here is a pretty basic
+one](http://www.lowes.com/lowes/lkn?action=productDetail&productId=203213-1373-FL-300PDQ12&lpage=none)
 offered at Lowe's; I don't remember where I got mine.
 
 Simple clip-on work light: *\$7.48*

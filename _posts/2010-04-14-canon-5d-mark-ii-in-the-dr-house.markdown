@@ -24,8 +24,8 @@ comments: []
 ---
 ![](http://singleservingphoto.com/wp-content/uploads/2010/04/House_in_the_5DII-300x300.jpg "Dr. House in the 5D II")
 
-The Internet is all a-flutter about this "announcement Greg Yaitanes
-made":http://twitter.com/GregYaitanes/status/11731103539 via Twitter
+The Internet is all a-flutter about this [announcement Greg Yaitanes
+made](http://twitter).com/GregYaitanes/status/11731103539 via Twitter
 that the House, M.D. season finale (airing next month on FOX) was shot
 _entirely_ with a Canon EOS-5D Mark II. This makes the 5D Mark II the
 first video-capable digital SLR camera to ever have been used to film a
@@ -42,13 +42,13 @@ The video was recorded onto large CF cards (Yaitanes said "18gb," but I
 think he meant 16 GB), which afforded only 22 minutes of shooting before
 tossing in a new card.
 
-You can read PetaPixel's "summary of the
-Q&A":http://www.petapixel.com/2010/04/09/house-season-finale-filmed-entirely-with-canon-5d-mark-ii/
+You can read PetaPixel's [summary of the
+Q&A](http://www.petapixel.com/2010/04/09/house-season-finale-filmed-entirely-with-canon-5d-mark-ii/)
 that has taken place so far via Twitter for more luscious details, and
-read "engadget's
-coverage":http://www.engadget.com/2010/04/13/canon-5d-mark-ii-used-to-shoot-entire-house-season-finale-direc/
-as well as "Gizmodo's
-coverage":http://gizmodo.com/5515991/house-season-finale-shot-entirely-on-a-canon-5d-mark-ii.
+read [engadget's
+coverage](http://www.engadget.com/2010/04/13/canon-5d-mark-ii-used-to-shoot-entire-house-season-finale-direc/)
+as well as [Gizmodo's
+coverage](http://gizmodo.com/5515991/house-season-finale-shot-entirely-on-a-canon-5d-mark-ii.)
 If you ladies and gents who are technology-inclined don't already check
 out those two blogs on a regular basis, you may want to add them to your
-"news reader of choice":http://reader.google.com.
+[news reader of choice](http://reader.google.com.)

@@ -21,9 +21,9 @@ tags:
 comments: []
 ---
 And by "strike" I definitely don't mean in the "strike out" sense, but
-in the "I just struck gold" sense. The other day I posted "Tricks for
+in the "I just struck gold" sense. The other day I posted [Tricks for
 Shooting High-Key
-Macro":http://singleservingphoto.com/2011/01/26/tricks-for-shooting-high-key-macro/
+Macro](http://singleservingphoto).com/2011/01/26/tricks-for-shooting-high-key-macro/
 wherein I link to a cool in-studio tutorial by Atlanta photographer Alex
 Koloskov. Alex and his wife run AKELstudio in Atlanta, Georgia and are
 now literally brain-dumping all of these great tutorials and
@@ -36,8 +36,8 @@ Mastermind"\]![](http://singleservingphoto.com/wp-content/uploads/2011/01/genia-
 
 Anyway, I really enjoyed Alex's high-key macro behind-the-scenes and
 some of his in-studio video tutorials on shooting products under water
-(if you want to check that out you can "read it
-here":http://www.akelstudio.com/blog/water-in-still-life-and-advertisement-photography-episode-one/),
+(if you want to check that out you can [read it
+here](http://www.akelstudio.com/blog/water-in-still-life-and-advertisement-photography-episode-one/),)
 and *then* I found out that his wife, Genia, is actually the Photoshop
 mastermind behind all of AKELstudio's post-production and has her own
 blog, too!
@@ -67,12 +67,12 @@ over each image to see one of the exposures from the "before" that
 contributed to the final version.
 
 You can do so much with Photomatix, I would highly recommend giving it a
-try. You can "download a trial
-version":http://www.hdrsoft.com/download.html from HDRsoft and if you
+try. You can [download a trial
+version](http://www.hdrsoft.com/download).html from HDRsoft and if you
 like it, please please please [buy it from
 Amazon](http://www.amazon.com/gp/product/B002CIP12U?ie=UTF8&tag=singlservipho-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002CIP12U)
 so I can keep paying my web hosting bills.
 
-"High Dynamic Range Images Before and
-After":http://www.perfectphotoblog.com/high-dynamic-range-images-hdri-before-and-after-landscapes/1201/
+[High Dynamic Range Images Before and
+After](http://www.perfectphotoblog.com/high-dynamic-range-images-hdri-before-and-after-landscapes/1201/)
 via The Perfect Photo Blog

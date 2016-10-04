@@ -62,6 +62,6 @@ traveling mentally through time and space, don't pull yourself back down
 to Earth so quickly.
 
 Via
-"Lifehacker":http://lifehacker.com/5112512/self+aware-daydreamers-more-creative-study-shows,
+[Lifehacker](http://lifehacker.com/5112512/self+aware-daydreamers-more-creative-study-shows),
 via
-"Boston.com":http://www.boston.com/bostonglobe/ideas/articles/2008/08/31/daydream_achiever/
+[Boston.com](http://www.boston.com/bostonglobe/ideas/articles/2008/08/31/daydream_achiever/)

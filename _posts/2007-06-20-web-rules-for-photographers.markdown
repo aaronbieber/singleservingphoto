@@ -104,8 +104,8 @@ of _style_ from _content_ as we often say), you can make it much
 easier for people with disabilities to access your information, and for
 people using machine translation to do so as well. Here is a nice
 excerpt from Kynn Bartlett's "Teach Yourself CSS in 24 Hours" that talks
-about "CSS for accessibility and
-internationalization":http://www.icdri.org/Kynn/chapter21.html. (Notice
+about [CSS for accessibility and
+internationalization](http://www.icdri.org/Kynn/chapter21.html). (Notice
 how my link text describes exactly where it will take you? Nice, eh?)
 
 I recognize that as a photographer you may or may not have control over
@@ -187,8 +187,8 @@ h2. More Information
 
 Someone criticized this article for excluding watermarking as part of
 the whole website package, which I suppose is a legitimate claim. I
-talked about watermarking previously in "Protecting Your Digital
-Rights":http://www.singleservingphoto.com/2007/04/11/protecting-your-digital-rights/,
+talked about watermarking previously in [Protecting Your Digital
+Rights](http://www.singleservingphoto.com/2007/04/11/protecting-your-digital-rights/,)
 and it's kind of a novel, so click carefully.
 
 Another person brought up the somewhat common act of linking to your

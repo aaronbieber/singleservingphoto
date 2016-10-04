@@ -59,5 +59,5 @@ a product on our kitchen tables with aluminum foil-wrapped cardboard and
 we are getting _sweet results_.
 
 Alright, I feel as though I've gushed about this enough. Read it for
-yourself: "Studio Quality Product Photography with a \$12 Set
-Up":http://www.handmadespark.com/blog/studio-quality-product-photography-with-a-12-set-up-guest-post-from-via-u-photography-blog/
+yourself: [Studio Quality Product Photography with a \$12 Set
+Up](http://www.handmadespark.com/blog/studio-quality-product-photography-with-a-12-set-up-guest-post-from-via-u-photography-blog/)

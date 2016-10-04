@@ -38,7 +38,7 @@ cool.
 Believe it or not, the image is straight out of the camera, no
 post-processing or alterations at all.
 
-Go check out the whole article "on Dennis's
-blog":http://denniscalvert.net/blog/?p=118\#comment-16 where you will
+Go check out the whole article [on Dennis's
+blog](http://denniscalvert.net/blog/)?p=118\#comment-16 where you will
 also find a time-lapse video of the making of the image, which is pretty
 neat in its own right.

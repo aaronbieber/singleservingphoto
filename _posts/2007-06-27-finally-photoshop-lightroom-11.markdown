@@ -6,14 +6,15 @@ title: Finally, Photoshop Lightroom 1.1!
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img src=\"/articles/images/lightroom.jpg\" style=\"float: left;\" alt=\"Photoshop
+excerpt: |-
+  <img src=\"/articles/images/lightroom.jpg\" style=\"float: left;\" alt=\"Photoshop
   Lightroom 1.1\" />\r\n\r\nAdobe has finally released the first upgrade package for
   Photoshop Lightroom, which brings us to version 1.1. I say \"finally\" because this
   upgrade introduces at least one feature that we hoped against hope would be in the
   first release, the ability to _merge libraries_, among other enhancements.\r\n\r\nFirst,
-  if you have Lightroom and it hasn't already popped up and told you to \"download
-  the upgrade\":http://www.adobe.com/products/photoshoplightroom, you should seriously
-  click over there and do that."
+  if you have Lightroom and it hasn't already popped up and told you to
+  [download the upgrade](http://www.adobe.com/products/photoshoplightroom), you
+  should seriously click over there and do that.
 wordpress_id: 130
 wordpress_url: http://www.singleservingphoto.com/2007/06/27/finally-photoshop-lightroom-11/
 date: '2007-06-27 14:01:46 -0400'
@@ -37,14 +38,14 @@ be in the first release, the ability to _merge libraries_, among other
 enhancements.
 
 First, if you have Lightroom and it hasn't already popped up and told
-you to "download the
-upgrade":http://www.adobe.com/products/photoshoplightroom, you should
+you to [download the
+upgrade](http://www.adobe.com/products/photoshoplightroom), you should
 seriously click over there and do that.<span id="more"></span><span
 id="more-130"></span>
 
-When I went out to "Yosemite National
-Park":http://www.fisheyegallery.com/Places/Yosemite and "Santa
-Cruz":http://www.fisheyegallery.com/Places/SantaCruz, I brought my
+When I went out to [Yosemite National
+Park](http://www.fisheyegallery).com/Places/Yosemite and [Santa
+Cruz](http://www.fisheyegallery.com/Places/SantaCruz), I brought my
 laptop with Lightroom on it. Because my home Lightroom library (now
 called a catalog in v1.1 and also in the rest of this post) is tied to
 photos saved in certain places on my home network and also because it's
@@ -78,7 +79,7 @@ that allows you to "spray" photos with keywords, ratings, flags, labels,
 develop presets, metadata presets, or rotations. As soon as I saw it I
 actually giggled a little bit. Out loud. I'm a huge nerd.
 
-To see what else is new and review known issues, read the "Lightroom 1.1
+To see what else is new and review known issues, read the [Lightroom 1.1
 release
-notes":http://www.adobe.com/special/photoshop/Lightroom_ReadMe.pdf
+notes](http://www.adobe.com/special/photoshop/Lightroom_ReadMe.pdf)
 (pdf).

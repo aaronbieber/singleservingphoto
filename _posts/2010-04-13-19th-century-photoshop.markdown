@@ -29,8 +29,8 @@ _real_ inasmuch as it physically exists, but it's one of the earliest
 (now rather famous) examples of photo manipulation. It turns out that
 although the photo seems to depict a stoic Lincoln standing beside a
 writing desk, the only thing in that photo that is actually Lincoln's is
-his head. The body is that of Southern politician "John C.
-Calhoun":http://en.wikipedia.org/wiki/John_C._Calhoun.
+his head. The body is that of Southern politician [John C.
+Calhoun](http://en.wikipedia.org/wiki/John_C._Calhoun).
 
 Apparently, so few "heroic" portraits of Lincoln existed (perhaps
 because Lincoln was weary of posing for them) that the only logical
@@ -41,5 +41,5 @@ states" to "constitution," "union," and "proclamation of freedom."
 
 So who needs Photoshop, anyway?
 
-Via "Museum of
-Hoaxes":http://www.museumofhoaxes.com/hoax/photo_database/image/lincolns_portrait/
+Via [Museum of
+Hoaxes](http://www.museumofhoaxes.com/hoax/photo_database/image/lincolns_portrait/)

@@ -106,14 +106,14 @@ who this person is) posted an article (you might call it a "diatribe")
 about the "suicidal march" of point-and-shoot cameras toward more and
 more megapixels (spurned by the Consumer Electronics Conference, or CES,
 which was earlier this month in Las Vegas), and the results of cramming
-lots of pixels into a small area. You can "read that article
-here":http://petavoxel.wordpress.com/2010/01/19/mp-swindle-example/.
+lots of pixels into a small area. You can [read that article
+here](http://petavoxel.wordpress.com/2010/01/19/mp-swindle-example/).
 
 In order to understand some of the background, though, you'll want to
-read his or her other article about "optical diffraction and Airy
-disks":http://petavoxel.wordpress.com/2010/01/19/diffraction-fraud/,
-which is very interesting, and then read his or her "follow-up
-article":http://petavoxel.wordpress.com/2010/01/20/megapixel-recap/
+read his or her other article about [optical diffraction and Airy
+disks](http://petavoxel.wordpress.com/2010/01/19/diffraction-fraud/,)
+which is very interesting, and then read his or her [follow-up
+article](http://petavoxel.wordpress.com/2010/01/20/megapixel-recap/)
 where he (or she) addresses some of the anonymous Internet's criticisms.
 
 Now, I know it's a gamble to spread anonymously written blog posts

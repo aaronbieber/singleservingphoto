@@ -19,16 +19,16 @@ tags:
 - rights
 comments: []
 ---
-As part of my contribution to "Blog Action
-Day":http://blogactionday.com, I posted a story about "being confronted
+As part of my contribution to [Blog Action
+Day](http://blogactionday.com), I posted a story about [being confronted
 by a park
-ranger":http://www.singleservingphoto.com/2007/10/16/protecting-our-national-parks-one-photographers-story/
+ranger](http://www.singleservingphoto.com/2007/10/16/protecting-our-national-parks-one-photographers-story/)
 while photographing using flashlights in the Great Smoky Mountains
 National Park.
 
 Although I believe the ranger overstepped his bounds and acted with
-undue suspicion under the circumstances, "my
-colleague":http://www.curiouslens.com and I reacted--in my opinion--in a
+undue suspicion under the circumstances, [my
+colleague](http://www.curiouslens).com and I reacted--in my opinion--in a
 completely appropriate way. We were very polite and understanding of the
 issues at hand and we recognized that Tennessee might do things a little
 bit differently than Connecticut. For example, in Tennessee,
@@ -39,24 +39,24 @@ get approached by an _officer of the law_, and to act in a way that
 reflects positively on yourself and on all of us as photographers.
 Especially if there is a video camera in the officer's car...
 
-Yesterday, I ran across this article, "5 Things Photographers Should Do
+Yesterday, I ran across this article, [5 Things Photographers Should Do
 When Confronted By
-Police":http://www.photographybay.com/2007/05/16/5-things-photographers-should-do-when-confronted-by-police/.
+Police](http://www.photographybay.com/2007/05/16/5-things-photographers-should-do-when-confronted-by-police/.)
 It contains some helpful tips and might be useful to you in your
 travels.
 
 It's also a good idea to know your rights in these situations, and to
-help you I will once again point you toward Andrew Kantor's "Legal
+help you I will once again point you toward Andrew Kantor's [Legal
 Rights of
-Photographers":http://www.kantor.com/useful/Legal-Rights-of-Photographers.pdf
-(pdf) ((Linked with permission. If that copy is down, "get it from
-me":http://www.singleservingphoto.com/articles/docs/Legal-Rights-of-Photographers.pdf
+Photographers](http://www.kantor.com/useful/Legal-Rights-of-Photographers.pdf)
+(pdf) ((Linked with permission. If that copy is down, [get it from
+me](http://www.singleservingphoto.com/articles/docs/Legal-Rights-of-Photographers.pdf)
 )) guide, a somewhat abridged yet very straightforward and
 understandable overview of your rights as a photographer (at least in
 the United States).
 
-For a _slightly_ more technical view, you may wish to read "The
-Photographer's Right":http://www.krages.com/phoright.htm by Bert P.
+For a _slightly_ more technical view, you may wish to read [The
+Photographer's Right](http://www.krages.com/phoright).htm by Bert P.
 Krages II (attorney at law). Although no advice given by an attorney
 from outside of _your_ state could be said to be _formal_, anyone
 out there from Oregon just struck gold. For those of us who aren't from

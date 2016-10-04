@@ -210,18 +210,18 @@ basics.
 
 If you want to brush up or review, you may want to read these articles
 (posted here):\
- * "Histograms,
-Huh?":http://www.singleservingphoto.com/2007/06/03/histograms-huh/\
- * "Be a Control Freak--Shooting Modes
-Explained":http://www.singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/\
- * "Focal Length Reciprocal
-Rule":http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/
+ * [Histograms,
+Huh?](http://www.singleservingphoto).com/2007/06/03/histograms-huh/\
+ * [Be a Control Freak--Shooting Modes
+Explained](http://www.singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/\)
+ * [Focal Length Reciprocal
+Rule](http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/)
 
 And also these assorted articles from Earthbound Light Photography:\
- * "I Bought a Digital Camera But My Photos Are Still
-Blurry":http://www.earthboundlight.com/phototips/digital-photography-still-photography.html\
- * "Program vs. Aperture Priority vs. Shutter Priority vs.
-Manual":http://www.earthboundlight.com/phototips/program-aperture-shutter-priority-manual-exposure.html
+ * [I Bought a Digital Camera But My Photos Are Still
+Blurry](http://www.earthboundlight.com/phototips/digital-photography-still-photography.html\)
+ * [Program vs. Aperture Priority vs. Shutter Priority vs.
+Manual](http://www.earthboundlight.com/phototips/program-aperture-shutter-priority-manual-exposure.html)
 
 If you are interested in advice on what to bring (or what to buy), you
 can "email Chris":mailto:cblake@curiouslens.com. He has a lot of
@@ -264,7 +264,7 @@ and I leverage that knowledge to get the most out of my photographs. I
 am excited to share my experience in travel photography with you in
 Death Valley!
 
-View Chris's gallery, "The Curious Lens":http://www.curiouslens.com.
+View Chris's gallery, [The Curious Lens](http://www.curiouslens.com.)
 
 h3. Aaron Bieber
 
@@ -282,8 +282,8 @@ Photoshop Lightroom, I do my best work in post-production. I look
 forward to helping you make the most of a very unique experience during
 this workshop!
 
-View Aaron's gallery, "Fisheye Multimedia
-Galleries":http://www.fisheyegallery.com
+View Aaron's gallery, [Fisheye Multimedia
+Galleries](http://www.fisheyegallery.com)
 
 h2. Ready to Register?
 

@@ -6,21 +6,6 @@ title: Expose to the Right! The Right, I Say!
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "To the right of your _histogram_ that is. You do \"remember how to read
-  one\":http://singleservingphoto.com/2007/06/03/histograms-huh/, yes? Slightly, ever
-  so slightly exposing all of your photographs to the _right_ of the histogram, which
-  is to say _slightly overexposing them_, should be your goal, 100% of the time.\r\n\r\nWhy?
-  Because there is more data in the brightest few stops of sensor attenuation than
-  in the rest of the entire range, which is to say that there will be more detail,
-  less banding, less noise, and so forth, within the brightest areas than there will
-  be in the darkest ones. But you've observed that before, right? You've seen how
-  terrible shadow areas can look when you try to brighten them up.\r\n\r\n%(pullquote
-  pq-right)\"It's better to overexpose a photo than to underexpose it.\"â€”Will Greenwald%\r\n\r\nThen
-  there's this guy Will Greenwald. He just posted \"a whole article about this\":http://www.tested.com/news/underexposed-vs-overexposed-photos-which-is-worse/558/
-  in which he says \"it's better to overexpose a photo than to underexpose it.\" Awesome,
-  I agree. But neither of us are saying you should \"blow out\" any of your image;
-  definitely don't do that.\r\n\r\nStrangely, most of the people who commented on
-  Will's article disagreed with him. _Those people are amateurs_."
 wordpress_id: 734
 wordpress_url: http://singleservingphoto.com/?p=734
 date: '2010-07-17 09:52:00 -0400'
@@ -58,11 +43,11 @@ comments:
 
     Thanks for your insights!
 ---
-To the right of your _histogram_ that is. You do "remember how to read
-one":http://singleservingphoto.com/2007/06/03/histograms-huh/, yes?
-Slightly, ever so slightly exposing all of your photographs to the
-_right_ of the histogram, which is to say _slightly overexposing
-them_, should be your goal, 100% of the time.
+To the right of your _histogram_ that is. You do
+[remember how to read one](http://singleservingphoto.com/2007/06/03/histograms-huh/),
+yes?  Slightly, ever so slightly exposing all of your photographs to the _right_
+of the histogram, which is to say _slightly overexposing them_, should be your
+goal, 100% of the time.
 
 Why? Because there is more data in the brightest few stops of sensor
 attenuation than in the rest of the entire range, which is to say that
@@ -74,16 +59,14 @@ areas can look when you try to brighten them up.
 %(pullquote pq-right)"It's better to overexpose a photo than to
 underexpose it."â€”Will Greenwald%
 
-Then there's this guy Will Greenwald. He just posted "a whole article
-about
-this":http://www.tested.com/news/underexposed-vs-overexposed-photos-which-is-worse/558/
+Then there's this guy Will Greenwald. He just posted
+[a whole article about this](http://www.tested.com/news/underexposed-vs-overexposed-photos-which-is-worse/558/)
 in which he says "it's better to overexpose a photo than to underexpose
 it." Awesome, I agree. But neither of us are saying you should "blow
 out" any of your image; definitely don't do that.
 
 Strangely, most of the people who commented on Will's article disagreed
-with him. _Those people are amateurs_.<span id="more"></span><span
-id="more-734"></span>
+with him. _Those people are amateurs_. ~~MORE~~
 
 Why would I say that? I don't even know them, and I am not prone to
 hyperbole or dirt-kicking. I'm really not. I'm also sure that all of
@@ -94,14 +77,13 @@ You see, I know something they don't, and I learned it from an article
 by Michael Reichmann written some time back around _2003_. I don't
 need to tell you who Michael Reichmann is, do I? This information is not
 bleeding edge, it's not new news. When Chris Blake and I teach our
-"photography workshops":http://artphotoworkshops.com, which I plug on
+[photography workshops](http://artphotoworkshops.com), which I plug on
 this blog shamelessly and regularly, one of the first things we talk
 about is "exposing to the right," and we've been doing that for three
 _years_.
 
 Michael's article is titled, with tongue pressed firmly into cheek,
-"Expose
-Right":http://www.luminous-landscape.com/tutorials/expose-right.shtml.
+[Expose Right](http://www.luminous-landscape.com/tutorials/expose-right.shtml).
 He means "to the right of the histogram" as much as he means
 "correctly." Read that article if you want all of the technical "nitty
 gritty" involved in digital sensor attenuation and so forth.

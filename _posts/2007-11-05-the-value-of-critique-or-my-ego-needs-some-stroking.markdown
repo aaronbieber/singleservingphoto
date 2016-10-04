@@ -6,18 +6,6 @@ title: 'The Value of Critique, or: My Ego Needs Some Stroking'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Thanks to a surge in \"community\" features being implemented on practically
-  every website, it's now easier to solicit feedback about your photographs than it
-  is to fall out of a boat and hit water. In other words, _pretty damn easy!_\r\n\r\n$random:right$\r\n\r\n_Fantastic_,
-  you might think, _the more feedback the better!_ Well, true, except that a lot of
-  people calling themselves \"serious hobbyists\" or \"beginning professionals\" simply
-  seek out the most positive feedback they can get and live in a world totally isolated
-  from how completely awful their work really is. Paul Indigo asks a question on his
-  blog, Beyond the Obvious: \"_do photo enthusiasts really want to learn?_\":http://paulindigo.blogspot.com/2007/11/do-photo-enthusiasts-really-want-to.html
-  In his article, Paul wonders about the true intentions of people who demonstrate
-  fundamental misunderstanding of the \"art concepts of photography\":/tag/desgn and
-  blame it on insufficient equipment or software. If these people want to learn, shouldn't
-  they be more open to feedback?"
 wordpress_id: 156
 wordpress_url: http://www.singleservingphoto.com/2007/11/05/the-value-of-critique-or-my-ego-needs-some-stroking/
 date: '2007-11-05 20:22:32 -0500'
@@ -73,7 +61,7 @@ comments:
 
     I see what you're saying, Eve, and it's true that Flickr, Photo.net, DeviantArt, and other "simple" comment-based sites foster a groupthink environment where the strongest signals come from the least controversial and most-liked work overall, rather than from the "long tail" of very good work appreciated only by a choice few.
 
-    In the case of Flickr, their open API allows for some engineering of that behavior. Tools such as "Flickr DNA":http://bighugelabs.com/flickr/dna.php show how a little bit of outside data mining can help you find things you wouldn't normally see by surfing the popularity charts as measured by Flickr.
+    In the case of Flickr, their open API allows for some engineering of that behavior. Tools such as [Flickr DNA](http://bighugelabs.com/flickr/dna).php show how a little bit of outside data mining can help you find things you wouldn't normally see by surfing the popularity charts as measured by Flickr.
 
     If we ignore discovery, though, and focus on pure critique, Flickr, Photo.net, and DeviantArt seldom deliver the volume of usable critique that PhotoSIG does simply because of the simple comment system they have in place. You will see a lot of new and amazing work happening on PhotoSIG every day.
 ---
@@ -89,20 +77,20 @@ true, except that a lot of people calling themselves "serious hobbyists"
 or "beginning professionals" simply seek out the most positive feedback
 they can get and live in a world totally isolated from how completely
 awful their work really is. Paul Indigo asks a question on his blog,
-Beyond the Obvious: "_do photo enthusiasts really want to
-learn?_":http://paulindigo.blogspot.com/2007/11/do-photo-enthusiasts-really-want-to.html
+Beyond the Obvious: [_do photo enthusiasts really want to
+learn?_](http://paulindigo.blogspot.com/2007/11/do-photo-enthusiasts-really-want-to.html)
 In his article, Paul wonders about the true intentions of people who
 demonstrate fundamental misunderstanding of the "art concepts of
 photography":/tag/desgn and blame it on insufficient equipment or
 software. If these people want to learn, shouldn't they be more open to
-feedback?<span id="more"></span><span id="more-156"></span>
+feedback? ~~MORE~~
 
-Ed Zawadzki takes it a step further and asks whether the "art of
-critique":http://www.f1point0.com/2007/11/02/the-art-of-the-critique has
+Ed Zawadzki takes it a step further and asks whether the [art of
+critique](http://www.f1point0).com/2007/11/02/the-art-of-the-critique has
 fallen by the wayside to be replaced by the blind exchange of accolades.
 You can certainly see that happening a lot on some of the larger and
-less organized sites, such as "DeviantART":http://www.deviantart.com and
-even a bit on "Flickr":http://www.flickr.com, though the overall intent
+less organized sites, such as [DeviantART](http://www.deviantart).com and
+even a bit on [Flickr](http://www.flickr.com), though the overall intent
 of Flickr is much more casual, which deserves to be mentioned.
 
 \$random:left\$
@@ -128,7 +116,7 @@ interested in growth, need _more_. They need _critique_.
 
 \$random:right\$
 
-That's where "PhotoSIG":http://www.photosig.com steps in. With a unique
+That's where [PhotoSIG](http://www.photosig).com steps in. With a unique
 system of critique scoring (not to mention using the word "critique" in
 the first place), PhotoSIG is able to encourage its members to _think
 critically_, even if the feedback is completely positive. The number of
@@ -176,12 +164,12 @@ PhotoSIG exists for art of a non-photographic nature, but if one does
 not... Someone should create it.
 
 Although it's been some time since I've been active on PhotoSIG, you can
-nevertheless "read some of my
-critiques":http://www.photosig.com/go/users/userphotocritiques?id=146708
+nevertheless [read some of my
+critiques](http://www.photosig.com/go/users/userphotocritiques?id=146708)
 of others' work. If you have photos up on PhotoSIG and you'd like me to
 swing by and write you a critique, leave a comment below; I'd be glad
-to. Likewise, if you want to "critique some of
-mine":http://www.photosig.com/go/users/userphotos?id=146708, be my
+to. Likewise, if you want to [critique some of
+mine](http://www.photosig.com/go/users/userphotos?id=146708), be my
 guest.
 
 It's always interesting to get others' views on a piece. Even if you

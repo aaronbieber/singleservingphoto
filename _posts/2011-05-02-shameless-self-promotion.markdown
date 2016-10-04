@@ -44,11 +44,11 @@ half-hearted "copy pasta" articles, I would like to offer all of you
 guys a *special secret discount on all of my prints for the entire
 month*.
 
-If you visit "my Yellowstone
-gallery":http://aaronbieber.photoshelter.com/gallery/Yellowstone-NP-Wyoming/G0000FguDlRBESYc/P0000jNQBakpYdwI
-or "my Grand Teton
-gallery":http://aaronbieber.photoshelter.com/gallery/Grand-Teton-NP-Wyoming/G0000lnL3Z9qOjS4/P0000jNQBakpYdwI
-or "my main site":http://gallery.aaronbieber.com/gallery-list and you
+If you visit [my Yellowstone
+gallery](http://aaronbieber.photoshelter).com/gallery/Yellowstone-NP-Wyoming/G0000FguDlRBESYc/P0000jNQBakpYdwI
+or [my Grand Teton
+gallery](http://aaronbieber.photoshelter.com/gallery/Grand-Teton-NP-Wyoming/G0000lnL3Z9qOjS4/P0000jNQBakpYdwI)
+or [my main site](http://gallery.aaronbieber).com/gallery-list and you
 use the "add to cart" link to purchase image downloads or prints of
 *any photo* you can use the coupon code "SSP-MAY" to get *25% off
 your order* for the entire month.
@@ -60,5 +60,5 @@ want. Photographic prints are prepared and shipped by ExposureManager,
 digital downloads are available immediately (have them printed by the
 shop of your choice if you like).
 
-The coupon code again is "SSP-MAY" and you can "start browsing my
-gallery right here":http://gallery.aaronbieber.com/gallery-list.
+The coupon code again is "SSP-MAY" and you can [start browsing my
+gallery right here](http://gallery.aaronbieber.com/gallery-list.)

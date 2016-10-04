@@ -53,8 +53,8 @@ artist's statement!<span id="more"></span><span id="more-584"></span>
 
 I was reading this article by guest author Chris Folsom on Digital
 Photography School about how to write an artist's statement (you can
-"read the article
-here":http://digital-photography-school.com/6-tips-for-writing-an-artist%E2%80%99s-statement)
+[read the article
+here](http://digital-photography-school).com/6-tips-for-writing-an-artist%E2%80%99s-statement)
 and while I agreed with a lot of what Folsom said, I thought I could add
 more to it.
 
@@ -173,6 +173,6 @@ reading now my feelings won't be hurt, I promise.
 > image that could not be seen without the use of a camera, to stretch
 > and bend a slice of recorded reality into something more.
 
-If, after reading that, your perception of "my
-photography":http://gallery.aaronbieber.com is not in some way
+If, after reading that, your perception of [my
+photography](http://gallery.aaronbieber).com is not in some way
 _enhanced_, then I have failed.

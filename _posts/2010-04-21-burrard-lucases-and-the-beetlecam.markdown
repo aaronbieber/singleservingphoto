@@ -45,5 +45,5 @@ some fantastic photographs.
 
 Here is the teaser video:
 
-Read more about the BeetleCam and see their photos "on their
-blog":http://blog.burrard-lucas.com/2010/04/adventures-of-beetlecam/.
+Read more about the BeetleCam and see their photos [on their
+blog](http://blog.burrard-lucas.com/2010/04/adventures-of-beetlecam/.)

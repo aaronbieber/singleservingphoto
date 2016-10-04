@@ -148,9 +148,9 @@ on.
 
 So what is wrong with buying equipment, then? Buying equipment because
 you think you need it to get to the "next level" of your work is,
-generally speaking, untrue. Want some evidence? "Here are hundreds of
+generally speaking, untrue. Want some evidence? [Here are hundreds of
 incredible photos taken with
-iPhones":http://www.thebestcamera.com/popular.html. It doesn't really
+iPhones](http://www.thebestcamera.com/popular.html). It doesn't really
 get a whole lot more low-tech than a 3-megapixel, fixed-focal-length
 cell phone camera... Which has horrendous low-light performance, I might
 add.
@@ -161,7 +161,7 @@ level of decent equipment to get to where you want to be, but nine times
 out of ten you don't have to go any further than the list at the top of
 this article.
 
-So before you load up "B&H's awesome website":http://bhphotovideo.com to
+So before you load up [B&H's awesome website](http://bhphotovideo).com to
 pick up the current focus of your technolust... Go out and take a few
 photos. Of anything. Because practice makes perfect and there is no
 substitute for real-world experience.

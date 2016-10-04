@@ -45,8 +45,8 @@ frames per second. I ask you, is there anything in the world that
 doesn't look amazing at 10,000 frames per second? Don't answer that.
 
 One of the most compelling capabilities of photography, which I have
-featured prominently in my own "artist's
-statement":http://singleservingphoto.com/2010/03/15/your-artists-statement/,
+featured prominently in my own [artist's
+statement](http://singleservingphoto.com/2010/03/15/your-artists-statement/),
 is that of enabling us to see something we cannot perceive with our own
 bare eyes. What is hidden from us may be the unique perspective of
 another individual in a philosophical or social sense, or something that

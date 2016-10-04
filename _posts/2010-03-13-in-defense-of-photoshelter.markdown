@@ -6,17 +6,6 @@ title: In Defense of Photoshelter
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "After suffering from a complete server meltdown in my self-hosted environment,
-  where my gallery website once lived, I started to think pretty seriously about hosting
-  my photographs somewhere else. I wanted to know that all of my images were being
-  backed up, that I wouldn't lose precious metadata, and as long as someone else was
-  writing the software, I wanted a more robust e-commerce system.\r\n\r\nI decided
-  to research photo hosting services. Because my co-instructor and friend \"Chris\":http://curiouslens.com
-  had been using Photoshelter for some time and had nothing but good things to say
-  about it, it started at the top of my list.\r\n\r\n<img src=\"http://singleservingphoto.com/wp-content/uploads/2010/03/photoshelter.gif\"
-  alt=\"\" title=\"Photoshelter\" width=\"305\" height=\"46\" class=\"aligncenter
-  size-full wp-image-559\" />\r\n\r\nThis is a story about my experiences with Photoshelter
-  and why you should probably stop reading right now and sign up.\r\n"
 wordpress_id: 557
 wordpress_url: http://singleservingphoto.com/?p=557
 date: '2010-03-13 12:35:55 -0500'
@@ -57,26 +46,25 @@ precious metadata, and as long as someone else was writing the software,
 I wanted a more robust e-commerce system.
 
 I decided to research photo hosting services. Because my co-instructor
-and friend "Chris":http://curiouslens.com had been using Photoshelter
+and friend [Chris](http://curiouslens).com had been using Photoshelter
 for some time and had nothing but good things to say about it, it
 started at the top of my list.
 
 ![](http://singleservingphoto.com/wp-content/uploads/2010/03/photoshelter.gif "Photoshelter")
 
 This is a story about my experiences with Photoshelter and why you
-should probably stop reading right now and sign up.\
- <span id="more"></span><span id="more-557"></span>
+should probably stop reading right now and sign up. ~~MORE~~
 
 h2. A Brief Preface
 
 It's worth mentioning that during the daytime, when I'm not fighting
-crime and "teaching photography workshops":http://artphotoworkshops.com,
+crime and [teaching photography workshops](http://artphotoworkshops.com,)
 I'm a web application developer. I've been building websites
 professionally for more than ten years now, and I certainly know a good
 web app when I see one.
 
-My previous gallery was based on the ubiquitous "Gallery
-2":http://gallery.menalto.com/ script with _very_ heavy
+My previous gallery was based on the ubiquitous [Gallery
+2](http://gallery.menalto).com/ script with _very_ heavy
 customizations. I think their architecture and codebase is a solid one.
 You can purchase hosted galleries from them, and although I have no
 experience with their hosted service, it's probably worth it. They have
@@ -93,7 +81,7 @@ h2. Photoshelter's Weaknesses
 As a developer and as a perfectionist, I have my qualms about
 Photoshelter. Before I enumerate what I think are Photoshelter's weakest
 points, let me say that I gave a very serious look at what seems to be
-their major competitor, "Zenfolio":http://zenfolio.com, and decided that
+their major competitor, [Zenfolio](http://zenfolio.com), and decided that
 Photoshelter is miles better for my needs.
 
 Still, Photoshelter has its issues:

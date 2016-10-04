@@ -6,13 +6,6 @@ title: Moving Photos between Lightroom Catalogs
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "!right:/articles/Lightroom.jpg!\r\n\r\nI've read \"at least one\":http://www.lightroomkillertips.com/2008/friday-video-moving-between-laptop-and-desktop/
-  account of how to move photos from one Lightroom catalog to another, which is pretty
-  common if you travel with a laptop and make edits in the field (as I do). It's a
-  tremendous help to be able to spend hours on the flight home organizing and even
-  editing images, but all of that work would be for naught if there wasn't a nice,
-  easy way to move those images and their corresponding metadata onto your primary
-  computer.\r\n\r\nFortunately, there is! I will tell you how!"
 wordpress_id: 189
 wordpress_url: http://www.singleservingphoto.com/2008/06/29/moving-photos-between-lightroom-catalogs/
 date: '2008-06-29 14:34:14 -0400'
@@ -36,8 +29,8 @@ comments:
 ---
 !right:/articles/Lightroom.jpg!
 
-I've read "at least
-one":http://www.lightroomkillertips.com/2008/friday-video-moving-between-laptop-and-desktop/
+I've read [at least
+one](http://www.lightroomkillertips.com/2008/friday-video-moving-between-laptop-and-desktop/)
 account of how to move photos from one Lightroom catalog to another,
 which is pretty common if you travel with a laptop and make edits in the
 field (as I do). It's a tremendous help to be able to spend hours on the
@@ -45,8 +38,7 @@ flight home organizing and even editing images, but all of that work
 would be for naught if there wasn't a nice, easy way to move those
 images and their corresponding metadata onto your primary computer.
 
-Fortunately, there is! I will tell you how!<span id="more"></span><span
-id="more-189"></span>
+Fortunately, there is! I will tell you how! ~~MORE~~
 
 Prerequisites (and helpful tips):
 
@@ -86,8 +78,8 @@ your password at this point. If not, it will probably present you with a
 dialog where you can choose which shared folder to open. You want the
 one corresponding with your short name (which is your home folder on
 your laptop). If you need help setting up file sharing between your
-Macs, you may like to read "Mac OS X: About File
-Sharing":http://support.apple.com/kb/HT1549 on Apple's support website.
+Macs, you may like to read [Mac OS X: About File
+Sharing](http://support.apple).com/kb/HT1549 on Apple's support website.
 
 h3. Step 2: Get some photos!
 

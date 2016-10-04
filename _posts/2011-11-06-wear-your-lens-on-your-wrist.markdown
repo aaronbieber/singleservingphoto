@@ -61,5 +61,5 @@ Still, I did spend \$50 on a coffee mug shaped like a 70-200 f/4L, so it
 is hard for me to say that I would never buy one. Or two. Or maybe
 three... But certainly no more than six.
 
-Check out all of the Lens Bracelets available "on Adam Elmakias'
-site":http://store.adamelmakias.com/.
+Check out all of the Lens Bracelets available [on Adam Elmakias'
+site](http://store.adamelmakias.com/.)

@@ -81,7 +81,7 @@ comments:
 
     One extreme example I thought of is shooting a panorama off a tower of some kind where you want to tilt your camera downward. A hot shoe level becomes useless in that situation, and although a tripod level may help you out a bit, you're really better off swinging the camera around while looking through it to make sure you'll frame all the highest and lowest points of interest.
 
-    Many SLR cameras now have focusing and grid screens available for them, and while they are expensive, they could prove to be worth their weight in gold when shooting things like panoramas. The 5D and 1-series Canon bodies have a couple of screens available from Canon, and screens for those and other cameras are also available from cool third-parties like "Haoda":http://haodascreen.com/default.aspx.
+    Many SLR cameras now have focusing and grid screens available for them, and while they are expensive, they could prove to be worth their weight in gold when shooting things like panoramas. The 5D and 1-series Canon bodies have a couple of screens available from Canon, and screens for those and other cameras are also available from cool third-parties like [Haoda](http://haodascreen.com/default.aspx).
 - id: 968
   author: 'Link Roundup: Half &#38; Half Edition | goldengod'
   author_email: ''

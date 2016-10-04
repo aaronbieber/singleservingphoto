@@ -33,19 +33,19 @@ he is best known for _Easy Rider_, _Rebel Without a Cause_, _Cool
 Hand Luke_, and more. He certainly had a knack for the dramatic, but
 what I didn't know was that he also had a knack for photography.
 
-The "Chasing Light" blog has a "wonderful
-post":http://blog.ricecracker.net/2010/05/31/dennis-hopper-1936-2010/
+The "Chasing Light" blog has a [wonderful
+post](http://blog.ricecracker).net/2010/05/31/dennis-hopper-1936-2010/
 containing photos that Hopper took through the years (all of them black
 and white). I was very impressed with them; they show attention to
 composition and subject comparable to those of a seasoned professional
 or serious hobbyist. You could certainly call Hopper a serious hobbyist,
 though he was more widely known for his feature films than for his
-"photography, painting, and
-sculpture":http://en.wikipedia.org/wiki/Dennis_Hopper\#Photography_and_art.
+[photography, painting, and
+sculpture](http://en.wikipedia.org/wiki/Dennis_Hopper\#Photography_and_art.)
 
-Over at artnet, you can view (and attempt to purchase) "39 other
+Over at artnet, you can view (and attempt to purchase) [39 other
 photographs by
-Hopper":http://www.artnet.com/Artists/ArtistHomePage.aspx?artist_id=8500&page_tab=Artworks_for_sale
+Hopper](http://www.artnet.com/Artists/ArtistHomePage.aspx?artist_id=8500&page_tab=Artworks_for_sale)
 that are held by various galleries.
 
 Whether you are into Hopper's photographs or not, let's take a moment to

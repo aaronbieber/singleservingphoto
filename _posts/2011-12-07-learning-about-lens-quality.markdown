@@ -68,7 +68,7 @@ how insignificant.
 
 When it comes to researching lenses, if you've ever been down this road,
 you've probably come across one of my favorite sites,
-"dpreview.com":http://www.dpreview.com. Digital Photography Review (as
+[dpreview.com](http://www.dpreview.com). Digital Photography Review (as
 it's formally named) is probably the most technically thorough camera
 and lens review site in existence. They aren't going to give you a whole
 lot of aesthetic or subjective fluff. Instead, they're going to give you
@@ -93,9 +93,9 @@ After all, that's what friends are for, right?
 
 Now, if you want to know more about the mechanics of MTF calculations
 and how these measurements are taken and what they mean (which is truly
-interesting stuff), I highly recommend that you take a look at "Camera
+interesting stuff), I highly recommend that you take a look at [Camera
 Lens Quality: MTF, Resolution &
-Contrast":http://www.cambridgeincolour.com/tutorials/lens-quality-mtf-resolution.htm
+Contrast](http://www.cambridgeincolour.com/tutorials/lens-quality-mtf-resolution.htm)
 written by Sean McHugh on the awesome Cambridge in Colour site. This is
 one of the more detailed explanations I've seen with attractive and
 understandable illustrations (which is the only way I can ever
@@ -103,5 +103,5 @@ understand anything; you have to draw me a picture).
 
 If you want to peruse some lens reviews and play with interactive MTF
 graphs, start by reading dpreview's announcement of their new lens
-reviews and how their interactive tool works: "Dpreview launches lens
-reviews":http://www.dpreview.com/news/2008/1/29/dpreviewlensreviews.
+reviews and how their interactive tool works: [Dpreview launches lens
+reviews](http://www.dpreview.com/news/2008/1/29/dpreviewlensreviews.)

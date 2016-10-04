@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 excerpt: It's not so much that flash photography is actually _complex_, but more that
-  the available information tends to skip _the fundamentals_. In short, I love "Strobist":http://www.strobist.com
+  the available information tends to skip _the fundamentals_. In short, I love [Strobist](http://www.strobist).com
   very much (and I'm not alone), but I felt left in the dark (pun intended) about
   a couple of small items after reading a recent post and I felt I should share the
   answers I came up with.
@@ -39,8 +39,8 @@ comments:
   author_url: ''
   date: '2007-09-06 19:47:31 -0400'
   date_gmt: '2007-09-06 23:47:31 -0400'
-  content: here's some more information you may find helpful, "Key Shifting and Shutter
-    Speed":http://www.studiolighting.net/digital-photography-one-on-one-e001-key-shifting-and-shutter-speed/
+  content: here's some more information you may find helpful, [Key Shifting and Shutter
+    Speed](http://www.studiolighting.net/digital-photography-one-on-one-e001-key-shifting-and-shutter-speed/)
 - id: 980
   author: Aaron
   author_email: aaron@singleservingphoto.com
@@ -52,7 +52,7 @@ comments:
 ---
 It's not so much that flash photography is actually _complex_, but
 more that the available information tends to skip _the fundamentals_.
-In short, I love "Strobist":http://www.strobist.com very much (and I'm
+In short, I love [Strobist](http://www.strobist).com very much (and I'm
 not alone), but I felt left in the dark (pun intended) about a couple of
 small items after reading a recent post and I felt I should share the
 answers I came up with.<span id="more"></span><span
@@ -60,8 +60,8 @@ id="more-141"></span>
 
 h2. Land of Confusion
 
-So there I was, reading this "Balance Light:
-Twilight":http://strobist.blogspot.com/2007/09/lighting-102-balancing-light-twilight.html
+So there I was, reading this [Balance Light:
+Twilight](http://strobist.blogspot.com/2007/09/lighting-102-balancing-light-twilight.html)
 post on Strobist, which is admittedly part of the second and more
 advanced series on lighting (Lighting 102), but nevertheless I became
 overwhelmed with total misunderstanding. I don't want to be too quick to
@@ -134,12 +134,12 @@ start!
 
 A very straightforward approach would be to set your shutter speed to
 the slowest you feel comfortable with (if you're shooting hand-held,
-that is your "main
-limitation":http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/)
+that is your [main
+limitation](http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/))
 and then adjust your aperture to where your subject is getting the light
 from the flash that you desire (by chimping on your LCD using the
-"histogram
-display":http://www.singleservingphoto.com/2007/06/03/histograms-huh/,
+[histogram
+display](http://www.singleservingphoto.com/2007/06/03/histograms-huh/,)
 of course... Right?). Then you can start to ramp up the shutter speed to
 see how it affects the ambient lighting (because it won't affect the
 exposure of your subject if it is lit solely with the flash).
@@ -147,7 +147,7 @@ exposure of your subject if it is lit solely with the flash).
 In the cases where ambient and flash light mixes on your subject, you're
 going to need a lot more time to chimp the histogram.
 
-"This article on
-photonotes.org":http://photonotes.org/articles/eos-flash/ was invaluable
+[This article on
+photonotes.org](http://photonotes).org/articles/eos-flash/ was invaluable
 to me in learning about how flash works in the Canon EOS system. If you
 shoot Canon, you should read this from top to bottom!

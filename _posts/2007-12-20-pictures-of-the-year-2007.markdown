@@ -28,5 +28,5 @@ that we can be completely unaware of.
 While these are photojournalism images, many of them could effortlessly
 qualify as fine art.
 
-Without further ado, "Reuters' Pictures of the Year
-2007":http://www.reuters.com/news/pictures/slideshow?collectionId=1067
+Without further ado, [Reuters' Pictures of the Year
+2007](http://www.reuters.com/news/pictures/slideshow?collectionId=1067)

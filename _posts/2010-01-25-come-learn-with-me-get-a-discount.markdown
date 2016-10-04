@@ -18,9 +18,9 @@ tags:
 - offer
 comments: []
 ---
-You already know that "I teach photography
-workshops":http://artphotoworkshops.com, right? My buddy
-"Chris":http://curiouslens.com and I have been teaching workshops for
+You already know that [I teach photography
+workshops](http://artphotoworkshops.com), right? My buddy
+[Chris](http://curiouslens).com and I have been teaching workshops for
 almost four years now, and although things were pretty slow in 2009, we
 are pushing ahead with a packed workshop schedule for 2010.
 
@@ -39,8 +39,8 @@ just by mentioning this blog article when you sign up.
 I'll tell you what else. Just because I'm in such a good mood and
 excited to teach this year, if you want to register for more than one,
 I'll give you *20% off of each of them*. All you have to do is mention
-that I said so in the comments when you're signing up "on my
-website":http://artphotoworkshops.com.
+that I said so in the comments when you're signing up [on my
+website](http://artphotoworkshops.com.)
 
 Look at this great lineup of workshops we have coming up this year!
 

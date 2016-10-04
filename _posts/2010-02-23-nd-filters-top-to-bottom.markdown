@@ -125,8 +125,8 @@ of the light that hits them, and when the light comes out the other side
 the colors should be completely unaffected. Okay, so that's great, but
 why do we care?
 
-As you may recall from reading "Mastering the Only Five Camera
-Settings,":http://singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/
+As you may recall from reading [Mastering the Only Five Camera
+Settings,](http://singleservingphoto).com/2008/06/30/mastering-the-only-five-camera-settings/
 there is only so much you can do to change the characteristics of the
 scene you're capturing.
 
@@ -150,7 +150,7 @@ just after dawn or wait until dusk before the conditions would be right
 to make a several-second exposure of a natural waterfall.
 
 Check out the awesome photo on the right from
-"skycaptaintwo":http://www.flickr.com/photos/skycaptaintwo/. Without an
+[skycaptaintwo](http://www.flickr.com/photos/skycaptaintwo/). Without an
 ND filter it could be challenging to get the low-light situation that
 would make that photo possible. Now, I don't know for sure that this
 photographer used an ND filter, but the image is a great example of
@@ -230,17 +230,17 @@ If you are a Canon "L" or Nikon "Nikkor" shooter, you require a 77mm
 diameter filter. Here are some nice ones made by B+W from my favorite
 store, B&H:
 
-* "B+W ND 0.3,
-\$49":http://www.bhphotovideo.com/c/product/7982-REG/B_W_65072718_77mm_x_0_75_101.html?KBID=2457&BI=1816
+* [B+W ND 0.3,
+\$49](http://www.bhphotovideo.com/c/product/7982-REG/B_W_65072718_77mm_x_0_75_101.html?KBID=2457&BI=1816)
 (same as ND2, 1 f-stop)\
- * "B+W ND 0.6,
-\$49":http://www.bhphotovideo.com/c/product/8018-REG/B_W_65_072910_77mm_102_Neutral_Density.html?KBID=2457&BI=1816
+ * [B+W ND 0.6,
+\$49](http://www.bhphotovideo.com/c/product/8018-REG/B_W_65_072910_77mm_102_Neutral_Density.html?KBID=2457&BI=1816)
 (same as ND4, 2 f-stops)\
- * "B+W ND 0.9,
-\$94":http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Neutral_Density.html?KBID=2457&BI=1816
+ * [B+W ND 0.9,
+\$94](http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Neutral_Density.html?KBID=2457&BI=1816)
 (same as ND8, 4 f-stops)\
- * "B+W ND 3.0,
-\$97":http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html?KBID=2457&BI=1816
+ * [B+W ND 3.0,
+\$97](http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html?KBID=2457&BI=1816)
 (same as ND1000, 10 f-stops)
 
 You will find the biggest selection of filters from B+W and Tiffen.

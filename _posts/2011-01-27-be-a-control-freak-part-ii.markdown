@@ -52,11 +52,11 @@ dials with 11 or 12 settings on them! _You don't need all those
 settings to get full control!_ Haje Jan Kamps helps me explain after
 the break.<span id="more"></span><span id="more-849"></span>
 
-I've written about this before in "Be a Control Freak (Shooting Modes
-Explained)":http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/,
+I've written about this before in [Be a Control Freak (Shooting Modes
+Explained)](http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/),
 but the subject came up again today when I saw Haje Jan Kamps' really
-cool article, "Translating the mode
-wheel":http://www.pixiq.com/article/mode-wheel on pixiq. My article
+cool article, [Translating the mode
+wheel](http://www.pixiq).com/article/mode-wheel on pixiq. My article
 explains in some amount of gory detail what each mode does, Haje takes
 it a step further with example images and a plea to leave those silly
 program modes behind.
@@ -68,9 +68,9 @@ enemy, the destroyer of creativity, and the root of all evil in the
 world including, but not limited to, wars, swine flu, and stepping in
 chewing gum with a new pair of shoes.
 
-Definitely hop over to pixiq and "read Haje's
-article":http://www.pixiq.com/article/mode-wheel, check out "my previous
-article":http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/
+Definitely hop over to pixiq and [read Haje's
+article](http://www.pixiq.com/article/mode-wheel), check out [my previous
+article](http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/)
 if you haven't read it before, and if you are hankering for even more
 information...
 
@@ -95,19 +95,19 @@ with the prettiest cover, flip a coin, or just buy all three.
 Here are the three individual books, they're each about 25 bucks or
 less, I think the second volume is the cheapest:
 
-* "The Digital Photography Book, Vol.
-1":http://www.bhphotovideo.com/c/product/461804-REG/Pearson_Education_9780321474049_Book_The_Digital_Photography.html/BI/1816/KBID/2457\
- * "The Digital Photography Book, Vol.
-2":http://www.bhphotovideo.com/c/product/526705-REG/Pearson_Education_9780321524768_Book_The_Digital_Photography.html/BI/1816/KBID/2457\
- * "The Digital Photography Book, Vol.
-3":http://www.bhphotovideo.com/c/product/629825-REG/Pearson_Education_0321617657_Book_The_Digital_Photography.html/BI/1816/KBID/2457
+* [The Digital Photography Book, Vol.
+1](http://www.bhphotovideo.com/c/product/461804-REG/Pearson_Education_9780321474049_Book_The_Digital_Photography.html/BI/1816/KBID/2457\)
+ * [The Digital Photography Book, Vol.
+2](http://www.bhphotovideo.com/c/product/526705-REG/Pearson_Education_9780321524768_Book_The_Digital_Photography.html/BI/1816/KBID/2457\)
+ * [The Digital Photography Book, Vol.
+3](http://www.bhphotovideo.com/c/product/629825-REG/Pearson_Education_0321617657_Book_The_Digital_Photography.html/BI/1816/KBID/2457)
 
 Or get them all together in this B&H kit. I think you save about \$1.50,
 so I guess the kit is offered for convenience, but hey, convenience has
 gotta be worth something, right?
 
-* "The Digital Photography Book, Vols. 1-3 B&H
-Kit":http://www.bhphotovideo.com/c/product/568736-REG/Pearson_Education_978_0_321_67873_7_Book_The_Digital_Photography.html/BI/1816/KBID/2457
+* [The Digital Photography Book, Vols. 1-3 B&H
+Kit](http://www.bhphotovideo.com/c/product/568736-REG/Pearson_Education_978_0_321_67873_7_Book_The_Digital_Photography.html/BI/1816/KBID/2457)
 
 They're really swell books, and I don't usually jump on the bandwagon
 when it comes to these sort of corporate "training mill" publishers but

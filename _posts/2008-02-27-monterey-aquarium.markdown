@@ -58,8 +58,8 @@ created some awesome scenes.
 
 \~\~/SingleServings/2008/February/24Feb08-05.jpg\~\~
 
-I also spent a couple of hours at the Monterey Aquarium ("as I mentioned
-earlier":http://www.singleservingphoto.com/2008/02/26/big-sur-monterey-part-ii/).
+I also spent a couple of hours at the Monterey Aquarium ([as I mentioned
+earlier](http://www.singleservingphoto.com/2008/02/26/big-sur-monterey-part-ii/)).
 I won't have any "serious" photos ready until after I return and get a
 chance to really edit them, but for the time being, here are some quick
 edits of some of the things I saw:

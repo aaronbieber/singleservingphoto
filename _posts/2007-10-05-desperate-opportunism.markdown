@@ -89,13 +89,13 @@ on fine art photography trips:
  3. The phase of the moon
 
 It is very helpful to know at what time the sun will rise and set for
-the location you'll be in. Using my favorite weather site, "The Weather
-Underground":http://www.weatherunderground.com, you can easily find a
+the location you'll be in. Using my favorite weather site, [The Weather
+Underground](http://www.weatherunderground.com), you can easily find a
 chart of sunrise and sunset times for the current day in any U.S. zip
 code. When planning a trip, the US Naval Observatory Astronomical
 Applications Department provides a really nice tool for this, which is
-predictably called "Complete Sun and Moon Data for One
-Day":http://aa.usno.navy.mil/data/docs/RS_OneDay.php. Using that page,
+predictably called [Complete Sun and Moon Data for One
+Day](http://aa.usno.navy.mil/data/docs/RS_OneDay.php). Using that page,
 you can find sunrise, sunset, moonrise, moonset, and moon phase
 information for any single day anywhere in the world.
 
@@ -117,8 +117,8 @@ the trip will fall on a new moon and the stars will be amazing, or that
 it will be a waning crescent, and so forth. The sun and moon are very
 predictable, so it behooves you to know what they'll be doing while
 you're out there. You can use the aforementioned Complete Sun and Moon
-Data website to figure it out, or look at a "moon phase
-calendar":http://stardate.org/nightsky/moon/ for the month during which
+Data website to figure it out, or look at a [moon phase
+calendar](http://stardate).org/nightsky/moon/ for the month during which
 you want to travel.
 
 h2. Conclusions

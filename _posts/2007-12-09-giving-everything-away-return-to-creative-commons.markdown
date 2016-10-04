@@ -6,20 +6,6 @@ title: 'Giving Everything Away: Return to Creative Commons'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Back in June I wrote an article about the Creative Commons project, \"Creative
-  Commons: Good Idea?\":http://www.singleservingphoto.com/2007/06/25/creative-commons-good-idea/,
-  in which I advocated the use of their licenses for promotional purposes and how
-  that approach ties in with socially-driven sites like Wikipedia and Flickr.\r\n\r\nThis
-  month the debate over Creative Commons licenses in photography flared up once more,
-  with Jim Goldstein declaring that he would _never_ use CC licenses, and Brian Auer
-  retorting that he had before and would most certainly continue to in the future.
-  Underscoring the points made by both of these fine fellows was an interview I read
-  with author Cory Doctorow about giving away free electronic versions of books that
-  brought many relevant points into play.\r\n\r\nI'm revisiting the topic here today,
-  not simply to agree or disagree with anything Goldstein, Auer, or Doctorow said,
-  but rather to paint a picture of why I think the Creative Commons plays a very valuable
-  role in photography in today's copy-and-paste culture and why you should be thinking
-  very seriously about how it can help you."
 wordpress_id: 157
 wordpress_url: http://www.singleservingphoto.com/2007/12/09/giving-everything-away-return-to-creative-commons/
 date: '2007-12-09 15:32:38 -0500'
@@ -130,8 +116,8 @@ comments:
     erased... They are only copies.
 ---
 Back in June I wrote an article about the Creative Commons project,
-"Creative Commons: Good
-Idea?":http://www.singleservingphoto.com/2007/06/25/creative-commons-good-idea/,
+[Creative Commons: Good
+Idea?](http://www.singleservingphoto.com/2007/06/25/creative-commons-good-idea/,)
 in which I advocated the use of their licenses for promotional purposes
 and how that approach ties in with socially-driven sites like Wikipedia
 and Flickr.
@@ -148,8 +134,7 @@ I'm revisiting the topic here today, not simply to agree or disagree
 with anything Goldstein, Auer, or Doctorow said, but rather to paint a
 picture of why I think the Creative Commons plays a very valuable role
 in photography in today's copy-and-paste culture and why you should be
-thinking very seriously about how it can help you.<span
-id="more"></span><span id="more-157"></span>
+thinking very seriously about how it can help you. ~~MORE~~
 
 h2. Creative Commons?
 
@@ -168,8 +153,8 @@ Commons. You should probably also turn around and walk straight back
 through the last few decades because you would be *ignoring everything
 that has changed since about 1980*.
 
-Read more about the Creative Commons and their goals on "their
-website":http://creativecommons.org/about/.
+Read more about the Creative Commons and their goals on [their
+website](http://creativecommons.org/about/.)
 
 h2. Copy-and-Paste Culture
 
@@ -177,8 +162,8 @@ Cory Doctorow put this so elegantly that I will use his words:
 
 bq. It's the 21st century, there's not going to be a year in which it's
 harder to copy than this year; there's not going to be a day in which
-it's harder to copy than this day; from now on. (("Cory Doctorow on
-kottke.org":http://www.kottke.org/07/11/cory-doctorow))
+it's harder to copy than this day; from now on. (([Cory Doctorow on
+kottke.org](http://www.kottke.org/07/11/cory-doctorow)))
 
 Before I go further, I want to make it clear that I'm writing this
 opinion from the perspective of a fine art photographer. If your
@@ -212,8 +197,8 @@ upon the works of their forebears.
 I won't go deep into detail; for those interested in reading a truly
 revealing look at the state of copyright law and how it affects culture
 and creativity, I highly recommend reading attorney and Stanford law
-professor Lawrence Lessig's book, "Free
-Culture":http://www.free-culture.cc/remixes/.
+professor Lawrence Lessig's book, [Free
+Culture](http://www.free-culture.cc/remixes/.)
 
 So, if you accept all of that, and if you further accept Doctorow's idea
 that people are going to make copies (no matter what you do) and that

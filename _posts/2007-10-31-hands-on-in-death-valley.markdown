@@ -17,10 +17,10 @@ tags:
 - death valley
 comments: []
 ---
-Not that "it wasn't official
-before":http://www.singleservingphoto.com/2007/09/14/death-valley-workshop-april-2008/,
-but now there is a "real website":http://www.artphotoworkshops.com for
-the workshops I'm doing with "my colleague":http://www.curiouslens.com
+Not that [it wasn't official
+before](http://www.singleservingphoto.com/2007/09/14/death-valley-workshop-april-2008/),
+but now there is a [real website](http://www.artphotoworkshops).com for
+the workshops I'm doing with [my colleague](http://www.curiouslens.com)
 in the coming months.
 
 A photography workshop, for anyone not "in the know," is basically where
@@ -37,7 +37,7 @@ anyone has thoughts about these or their own suggestions):
 * Cape Cod, early winter (for late November, '07)\
  * Boston or New York City urban/street (probably not till spring '08
 when the weather gets nicer)\
- * "Acadia National Park":http://www.nps.gov/acad/ in Maine, either
+ * [Acadia National Park](http://www.nps).gov/acad/ in Maine, either
 winter '07 or summer '08... Or both!
 
 Those locations are more local to us, so we'd be able to do them at a
@@ -45,5 +45,5 @@ much lower cost, maybe \$199 per person for a day or two, depending (not
 all-inclusive, though, of course).
 
 Leave a comment if you have ideas for workshops you'd like to see or any
-other thoughts, and please do "keep an eye on the
-website":http://www.artphotoworkshops.com for upcoming sessions!
+other thoughts, and please do [keep an eye on the
+website](http://www.artphotoworkshops).com for upcoming sessions!

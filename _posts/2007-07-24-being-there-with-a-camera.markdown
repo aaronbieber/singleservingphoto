@@ -70,8 +70,8 @@ This was taken from the Newport side of the Claiborne Pell Bridge, which
 connects Newport (on Aquidneck Island) in the west to Conanicut Island
 (chiefly the town of Jamestown) to the east.
 
-The following evening, I took "some
-advice":http://www.goldengod.net/2007/07/17/why-you-should-take-your-camera-with-you-always/
+The following evening, I took [some
+advice](http://www.goldengod).net/2007/07/17/why-you-should-take-your-camera-with-you-always/
 to heart, took the battery grip off of my old Canon 10D, strapped on my
 50mm f/1.4 (my smallest lens), and went for a walk by the city pier. I
 enjoy walking down there because it's quite scenic and with the harbor
@@ -85,7 +85,7 @@ see ahead of me. No tripod necessary!
 \~\~/SingleServings/2007/July/23Jul07-02.jpg\~\~
 
 A close-up of a vendor's cart parked along the side of the pier,
-probably left over from "Sailfest":http://www.sailfest.org. I liked the
+probably left over from [Sailfest](http://www.sailfest.org). I liked the
 reflection in it and the texture of it.
 
 \~\~/SingleServings/2007/July/23Jul07-03.jpg\~\~

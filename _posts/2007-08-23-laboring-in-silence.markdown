@@ -44,12 +44,12 @@ test!
 Meanwhile, elsewhere in the _blogosphere_ (a term that leaves a bitter
 taste in my mouth but that I use anyway to satisfy you, my
 lexicographically progressive readership), much has happened. My friend
-Andrew from "goldengod":http://www.goldengod.net has been on an absolute
+Andrew from [goldengod](http://www.goldengod).net has been on an absolute
 _streak_ of daily posting, stopping only momentarily to catch his
-breath and mention the Canon EOS "tips I left on his
-site":http://www.goldengod.net/2007/08/12/your-best-camera-specific-photography-tips/
-as well as "my latest
-post":http://www.goldengod.net/2007/08/22/link-roundup-headless-chicken-edition/
+breath and mention the Canon EOS [tips I left on his
+site](http://www.goldengod.net/2007/08/12/your-best-camera-specific-photography-tips/)
+as well as [my latest
+post](http://www.goldengod.net/2007/08/22/link-roundup-headless-chicken-edition/)
 on digital printing. Thanks, Andrew!
 
 Let us also not forget the momentous announcement of the Canon EOS 1Ds
@@ -61,8 +61,8 @@ So stick around! There's a lot going on, but unfortunately it has all
 been fairly hush-hush for the past couple of weeks. Remember, it's
 always darkest right before the dawn.
 
-While you're waiting, you can always "read my hand-picked photography
-news":http://www.google.com/reader/shared/user/15563285598058491045/label/photography
+While you're waiting, you can always [read my hand-picked photography
+news](http://www.google.com/reader/shared/user/15563285598058491045/label/photography)
 via Google Reader. This page will show you all the latest posts from the
 several photography blogs I read daily. Who knows, maybe you'll find
 something new!

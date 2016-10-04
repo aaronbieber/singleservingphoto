@@ -6,16 +6,17 @@ title: 'Photography: What''s the Point?'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "!/articles/images/WTD210.gif!\r\n\r\nThanks to Aaron Johnson of \"What the
-  Duck\":http://www.whattheduck.net for this eloquent visual synopsis of what I've
+excerpt: |-
+  !/articles/images/WTD210.gif!\r\n\r\nThanks to Aaron Johnson of \[What the
+  Duck\](http://www.whattheduck).net for this eloquent visual synopsis of what I've
   been thinking about lately. Too often we get so deeply embroiled in our craft that
-  we forget why we do it.\r\n\r\nA debate has been raging for days on \"Usenet\":http://en.wikipedia.org/wiki/Usenet
+  we forget why we do it.\r\n\r\nA debate has been raging for days on \[Usenet\](http://en.wikipedia.org/wiki/Usenet)
   over the question of whether photography is art and, if so, when it _becomes_ art.
   Although the very discussion is futile and has no practical outcome, I do think
   it's important to take a step back from what you're doing and think about what it
   is you're gaining from it. This is going to be a heady philosophical post so if
-  that's not your particular brand of vodka, \"read some photo news\":http://www.google.com/reader/shared/user/15563285598058491045/label/photography
-  instead."
+  that's not your particular brand of vodka, \[read some photo news\](http://www.google.com/reader/shared/user/15563285598058491045/label/photography)
+  instead.
 wordpress_id: 128
 wordpress_url: http://www.singleservingphoto.com/2007/06/26/photography-whats-the-point/
 date: '2007-06-26 11:55:23 -0400'
@@ -45,8 +46,9 @@ comments:
   author_url: http://gallery.thebailiwick.com
   date: '2007-06-26 16:08:17 -0400'
   date_gmt: '2007-06-26 20:08:17 -0400'
-  content: "Thanks, Chris. Whenever the question of equipment arises, I am reminded
-    of Ken Rockwell's article, \"The Seven Levels of Photographers\":http://www.kenrockwell.com/tech/7.htm.
+  content: |-
+    Thanks, Chris. Whenever the question of equipment arises, I am reminded
+    of Ken Rockwell's article, \[The Seven Levels of Photographers\](http://www.kenrockwell.com/tech/7.htm.)
     A lot of people disagree with some of Ken's reviews and opinions, but his description
     of the \"equipment measurbator\" hits the nail right on the head for me. Perhaps
     ironically, the mindset of the equipment measurbator is one that keeps HAM radio
@@ -54,7 +56,7 @@ comments:
     for its own sake. Nevertheless, art is art is art, no matter what you make it
     with. Maybe a plastic Holga!\r\n\r\nThere is a small sidebar in Wired Magazine
     this month about a site that is aggregating cell phone photos as stock images
-    or something. I am going to look it up when I get home and post a link."
+    or something. I am going to look it up when I get home and post a link.
 - id: 1124
   author: javan
   author_email: jasucaci@fidnet.com
@@ -77,25 +79,25 @@ comments:
 ---
 !/articles/images/WTD210.gif!
 
-Thanks to Aaron Johnson of "What the Duck":http://www.whattheduck.net
+Thanks to Aaron Johnson of [What the Duck](http://www.whattheduck.net)
 for this eloquent visual synopsis of what I've been thinking about
 lately. Too often we get so deeply embroiled in our craft that we forget
 why we do it.
 
 A debate has been raging for days on
-"Usenet":http://en.wikipedia.org/wiki/Usenet over the question of
+[Usenet](http://en.wikipedia).org/wiki/Usenet over the question of
 whether photography is art and, if so, when it _becomes_ art. Although
 the very discussion is futile and has no practical outcome, I do think
 it's important to take a step back from what you're doing and think
 about what it is you're gaining from it. This is going to be a heady
 philosophical post so if that's not your particular brand of vodka,
-"read some photo
-news":http://www.google.com/reader/shared/user/15563285598058491045/label/photography
+[read some photo
+news](http://www.google.com/reader/shared/user/15563285598058491045/label/photography)
 instead.<span id="more"></span><span id="more-128"></span>
 
 While reading related material in preparation for this post, I came
-across this quote by famed director and cinematographer "Michelangelo
-Antonioni":http://en.wikipedia.org/wiki/Michelangelo_Antonioni that
+across this quote by famed director and cinematographer [Michelangelo
+Antonioni](http://en.wikipedia).org/wiki/Michelangelo_Antonioni that
 seemed relevant:
 
 bq. We know that behind every image revealed there is another image more

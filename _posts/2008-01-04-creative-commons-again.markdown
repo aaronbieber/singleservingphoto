@@ -6,14 +6,6 @@ title: Creative Commons... Again
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Yesterday, Dan Heller posted an interesting article called \"Creative Commons
-  and Photography\":http://www.danheller.com/blog/posts/creative-commons-and-photography.html
-  in which he decries the Creative Commons not only as an ineffective and misguided
-  licensing structure for photographers, but as a detriment to its own ends when used
-  by them. I truly believe that he couldn't be further from the truth, but because
-  his article was so specific I would be doing everyone a disservice to leave my reaction
-  as a mere sound bite.\r\n\r\nAfter the jump, more of Dan's rantings followed by
-  more of my rantings, hopefully to end with a meaningful conclusion... But no promises."
 wordpress_id: 164
 wordpress_url: http://www.singleservingphoto.com/2008/01/04/creative-commons-again/
 date: '2008-01-04 11:45:18 -0500'
@@ -29,9 +21,9 @@ tags:
 - culture
 comments: []
 ---
-Yesterday, Dan Heller posted an interesting article called "Creative
+Yesterday, Dan Heller posted an interesting article called [Creative
 Commons and
-Photography":http://www.danheller.com/blog/posts/creative-commons-and-photography.html
+Photography](http://www.danheller.com/blog/posts/creative-commons-and-photography.html)
 in which he decries the Creative Commons not only as an ineffective and
 misguided licensing structure for photographers, but as a detriment to
 its own ends when used by them. I truly believe that he couldn't be
@@ -40,8 +32,7 @@ be doing everyone a disservice to leave my reaction as a mere sound
 bite.
 
 After the jump, more of Dan's rantings followed by more of my rantings,
-hopefully to end with a meaningful conclusion... But no promises.<span
-id="more"></span><span id="more-164"></span>
+hopefully to end with a meaningful conclusion... But no promises. ~~MORE~~
 
 Dan Heller is a _prolific_ stock and travel photographer and a
 somewhat prolific writer as well. His experiences with the Creative
@@ -79,8 +70,8 @@ holes:
 * Any photographer who posts his work online at a resolution that would
 be considered even remotely usable to a business customer is setting
 himself (or herself) up for disaster. As I have stated in previous
-articles about watermarking ("Protecting Your Digital
-Rights":http://www.singleservingphoto.com/2007/04/11/protecting-your-digital-rights/),
+articles about watermarking ([Protecting Your Digital
+Rights](http://www.singleservingphoto.com/2007/04/11/protecting-your-digital-rights/),)
 the low pixel count of an online gallery image should serve as adequate
 protection against any use that may otherwise be a considerable source
 of licensing revenue. For example, a kid who prints out your gallery

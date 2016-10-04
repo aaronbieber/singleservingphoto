@@ -6,19 +6,22 @@ title: 'Art Concepts in Photography, Part 2: Composition'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "This article is part of a series. If you want, go back and read \"Art Concepts
-  in Photography, Part I: Texture\":http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/.\r\n\r\nI
-  come from more of a fine art background; my parents both work in the arts and photography
-  for me is an extension of my involvement in art as a whole. By talking about the
-  fundamental concepts of art as they apply to photography I hope to help you improve
-  your work and also understand the works of others.\r\n\r\nBecause this is only the
-  second part in my Art Concepts series, I want to study the more general and fundamental
-  stuff first. In the last episode, we looked at texture. Texture is a fairly specific
-  element, so today I thought I would take a big step back and talk about _composition_.\r\n\r\nWhen
-  we say \"composition,\" we refer not only to the relative locations of the points
-  of interest in a piece (which is the most discussed aspect), but also to their sizes,
-  shapes, colors, and other variables that contribute to the balance (or imbalance)
-  of the work. That's what we're going to look at today."
+excerpt: |-
+  This article is part of a series. If you want, go back and read
+  [Art Concepts in Photography, Part I: Texture\](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/).
+  I come from more of a fine art background; my parents both work in the arts
+  and photography for me is an extension of my involvement in art as a whole. By
+  talking about the fundamental concepts of art as they apply to photography I
+  hope to help you improve your work and also understand the works of
+  others.\r\n\r\nBecause this is only the second part in my Art Concepts series,
+  I want to study the more general and fundamental stuff first. In the last
+  episode, we looked at texture. Texture is a fairly specific element, so today
+  I thought I would take a big step back and talk about
+  _composition_.\r\n\r\nWhen we say \"composition,\" we refer not only to the
+  relative locations of the points of interest in a piece (which is the most
+  discussed aspect), but also to their sizes, shapes, colors, and other
+  variables that contribute to the balance (or imbalance) of the work. That's
+  what we're going to look at today.
 wordpress_id: 137
 wordpress_url: http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/
 date: '2007-08-26 17:31:25 -0400'
@@ -86,9 +89,9 @@ comments:
   content: '[...] 2,002 total unique pageviews, Art Concepts in Photography, Part
     2: Composition comes in [...]'
 ---
-This article is part of a series. If you want, go back and read "Art
+This article is part of a series. If you want, go back and read [Art
 Concepts in Photography, Part I:
-Texture":http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/.
+Texture](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/.)
 
 I come from more of a fine art background; my parents both work in the
 arts and photography for me is an extension of my involvement in art as
@@ -136,8 +139,8 @@ the eye, but not until he or she is aware of this rule can it be
 thoughtfully applied or violated.
 
 Coincidentally, this was also mentioned recently on the Digital
-Photography School blog in a post entitled "Break the Rule of
-Thirds":http://digital-photography-school.com/blog/break-the-rule-of-thirds/.
+Photography School blog in a post entitled [Break the Rule of
+Thirds](http://digital-photography-school.com/blog/break-the-rule-of-thirds/.)
 You may want to go read that to get an idea of why the rule of thirds
 can and should be broken on occasion.
 
@@ -322,10 +325,10 @@ of your own images or the critique of others'.
 If you leave a comment or shoot me an e-mail with your thoughts and
 reactions, I will put together a "wrap-up" post sharing those ideas with
 everyone. If you're looking for stuff to critique, feel free to hammer
-away at "my gallery":http://www.fisheyegallery.com!
+away at [my gallery](http://www.fisheyegallery.com!)
 
 Other great sources include the amazing
-"PhotoSIG":http://www.photosig.com, obviously
-"Flickr":http://www.flickr.com, and all of the amazing galleries on
-"photo.net":http://photo.net/gallery/photocritique/filter.tcl?rank_by=folders.=7.
+[PhotoSIG](http://www.photosig.com), obviously
+[Flickr](http://www.flickr.com), and all of the amazing galleries on
+[photo.net](http://photo.net/gallery/photocritique/filter.tcl?rank_by=folders.=7.)
 I frequent these sites when I'm in need of inspiration.

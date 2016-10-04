@@ -18,11 +18,11 @@ tags:
 - canon
 comments: []
 ---
-Well, here it is, folks. As reported by "Digital Photography
-Review":http://www.dpreview.com/news/0910/09102001canon1d4.asp, "Rob
+Well, here it is, folks. As reported by [Digital Photography
+Review](http://www.dpreview.com/news/0910/09102001canon1d4.asp), [Rob
 Galbraith
-DPI":http://www.robgalbraith.com/bins/multi_page.asp?cid=7-10044-10310,
-"Engadget":http://www.engadget.com/2009/10/20/canon-eos-1d-mark-iv-announced-16-1-megapixels-45-point-autofo/,
+DPI](http://www.robgalbraith.com/bins/multi_page.asp?cid=7-10044-10310,)
+[Engadget](http://www.engadget.com/2009/10/20/canon-eos-1d-mark-iv-announced-16-1-megapixels-45-point-autofo/,)
 and undoubtedly more, Canon has officially released the EOS-1D Mark IV,
 the latest digital SLR in their 1-series (â€œproâ€?) line.
 

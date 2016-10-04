@@ -6,16 +6,6 @@ title: Mastering the Only Five Camera Settings
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img alt=\"Canon EOS-5D LCD\" src=\"/articles/5d_lcd.gif\" title=\"EOS-5D
-  LCD\" class=\"alignright\" width=\"150\" height=\"65\" />\r\n\r\nIn my \"instruction\":http://artphotoworkshops.com
-  I get asked a lot about how the five most fundamentally important settings of the
-  camera work together to achieve the effects you desire. It can be hard to penetrate
-  the curtain of photographic jargon, some of which can seem counterintuitive, so
-  I decided to take a minute to explain all of this stuff at a very high level. If
-  you have specific questions of your own, please leave a comment below and I promise
-  that I will answer them.\r\n\r\nThe *only* five settings that you need to know are:\r\n\r\n*
-  Shooting mode\r\n* Aperture (or f-stop)\r\n* Shutter speed\r\n* ISO sensitivity\r\n*
-  Exposure value (EV)\r\n\r\nAfter the jump I will explain in detail."
 wordpress_id: 190
 wordpress_url: http://www.singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/
 date: '2008-06-30 12:23:26 -0400'
@@ -78,7 +68,7 @@ comments:
 ---
 ![Canon EOS-5D LCD](/articles/5d_lcd.gif "EOS-5D LCD")
 
-In my "instruction":http://artphotoworkshops.com I get asked a lot about
+In my [instruction](http://artphotoworkshops).com I get asked a lot about
 how the five most fundamentally important settings of the camera work
 together to achieve the effects you desire. It can be hard to penetrate
 the curtain of photographic jargon, some of which can seem
@@ -88,14 +78,13 @@ please leave a comment below and I promise that I will answer them.
 
 The *only* five settings that you need to know are:
 
-* Shooting mode\
- * Aperture (or f-stop)\
- * Shutter speed\
- * ISO sensitivity\
- * Exposure value (EV)
+* Shooting mode
+* Aperture (or f-stop)
+* Shutter speed
+* ISO sensitivity
+* Exposure value (EV)
 
-After the jump I will explain in detail.<span id="more"></span><span
-id="more-190"></span>
+After the jump I will explain in detail. ~~MORE~~
 
 Each of these settings affects the others. It's like a five-way see-saw
 where changing one setting will require that you change another to
@@ -269,6 +258,6 @@ composition, form, color, contrast, line, and the other artistic
 characteristics of your work.
 
 If you want to learn more about how all of these things work, and you
-want to take some pretty pictures with me at the same time, "sign up for
-one of my workshops":http://artphotoworkshops.com. I've got a workshop
+want to take some pretty pictures with me at the same time, [sign up for
+one of my workshops](http://artphotoworkshops.com). I've got a workshop
 coming up in Boston, and then another in Cape Cod!

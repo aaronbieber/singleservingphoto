@@ -6,13 +6,14 @@ title: 'Art Concepts in Photography, Part 3: Positive/Negative Space'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "If you haven't, you may want to read the first two parts of the _Art Concepts_
-  series, \"Part 1: Texture\":http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/,
-  and \"Part 2: Composition\":http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/.\r\n\r\nIn
-  this, the third bite of our _feast of art knowledge_, I will talk about an elusive
-  concept called positive and negative space. Traditionally, negative space is defined
-  as the \"empty\" areas within an image. As you will soon see, even that which is
-  empty can be very tangible."
+excerpt: |-
+  If you haven't, you may want to read the first two parts of the _Art Concepts_
+  series, [Part 1: Texture](/2007/08/02/art-concepts-in-photography-part-1-texture.html),
+  and [Part 2: Composition](/2007/08/26/art-concepts-in-photography-part-2-composition.html)
+  In this, the third bite of our _feast of art knowledge_, I will talk about an
+  elusive concept called positive and negative space. Traditionally, negative
+  space is defined as the "empty" areas within an image. As you will soon see,
+  even that which is empty can be very tangible.
 wordpress_id: 143
 wordpress_url: http://www.singleservingphoto.com/2007/09/08/art-concepts-in-photography-part-3-positivenegative-space/
 date: '2007-09-08 22:10:28 -0400'
@@ -57,13 +58,13 @@ comments:
   content: |-
     @Tosha
 
-    There is definitely a lot more to talk about! I've been spending a lot of time making photographs lately and ramping up for a series of "hands-on workshops":http://www.singleservingphoto.com/2007/09/14/death-valley-workshop-april-2008/ that I'll be running along with my "friend":http://www.curiouslens.com, but I think I may revisit the composition subject for future in-depth art concepts articles. Thanks for your appreciative comments, I'm glad you're enjoying my articles.
+    There is definitely a lot more to talk about! I've been spending a lot of time making photographs lately and ramping up for a series of [hands-on workshops](http://www.singleservingphoto).com/2007/09/14/death-valley-workshop-april-2008/ that I'll be running along with my [friend](http://www.curiouslens.com), but I think I may revisit the composition subject for future in-depth art concepts articles. Thanks for your appreciative comments, I'm glad you're enjoying my articles.
 ---
 If you haven't, you may want to read the first two parts of the _Art
-Concepts_ series, "Part 1:
-Texture":http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/,
-and "Part 2:
-Composition":http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/.
+Concepts_ series, [Part 1:
+Texture](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/,)
+and [Part 2:
+Composition](http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/.)
 
 In this, the third bite of our _feast of art knowledge_, I will talk
 about an elusive concept called positive and negative space.

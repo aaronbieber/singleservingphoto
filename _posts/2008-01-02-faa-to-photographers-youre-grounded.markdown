@@ -6,21 +6,6 @@ title: 'DOT to Photographers: You''re Grounded!'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "The Department of Transportation's _Pipeline and Hazardous Materials Safety
-  Administration_, or PHMSA (I like to say it \"pa-hum-sah\" just to be a jerk), dropped
-  a bomb on us recently with a new set of regulations governing lithium-based batteries
-  in public transportation (chiefly air travel, but presumably any transportation
-  system under the DOT's oversight).\r\n\r\nOf concern are so-called _primary lithium_
-  or _lithium metal_ batteries as well as the somewhat more common _lithium ion_ batteries
-  so familiar to photographers. The regulations basically *prohibit* loose spare batteries
-  in checked baggage and also place a number of other restrictions on the number and
-  variety of batteries that can be kept in carry-on luggage.\r\n\r\nI became concerned
-  because I will be flying out to the California coast at the end of February to scout
-  locations for future \"art photography workshops\":http://www.artphotoworkshops.com
-  and making that voyage across the country is enough of a hassle without TSA inspectors
-  throwing all of my batteries away.\r\n\r\nHere I will make a valiant effort to summarize
-  what has already been said by others and tell you why I think this \"emergency\"
-  might be somewhat blown out of proportion. Continue after the jump!"
 wordpress_id: 163
 wordpress_url: http://www.singleservingphoto.com/2008/01/02/faa-to-photographers-adfadf/
 date: '2008-01-02 00:10:10 -0500'
@@ -60,15 +45,14 @@ other restrictions on the number and variety of batteries that can be
 kept in carry-on luggage.
 
 I became concerned because I will be flying out to the California coast
-at the end of February to scout locations for future "art photography
-workshops":http://www.artphotoworkshops.com and making that voyage
+at the end of February to scout locations for future [art photography
+workshops](http://www.artphotoworkshops).com and making that voyage
 across the country is enough of a hassle without TSA inspectors throwing
 all of my batteries away.
 
 Here I will make a valiant effort to summarize what has already been
 said by others and tell you why I think this "emergency" might be
-somewhat blown out of proportion. Continue after the jump!<span
-id="more"></span><span id="more-163"></span>
+somewhat blown out of proportion. Continue after the jump! ~~MORE~~
 
 h2. The Facts
 
@@ -123,14 +107,14 @@ here is the actual DOT PHMSA press release in full:
 > and developments. These useful safety tips are highlighted at the
 > public website: http://safetravel.dot.gov.
 
-For the *extremely intrepid*, you may read the "actual final
-rule":http://www.labsafety.com/refinfo/fedreg/FRPDF/080907.pdf on
+For the *extremely intrepid*, you may read the [actual final
+rule](http://www.labsafety.com/refinfo/fedreg/FRPDF/080907).pdf on
 labsafety.com. It's 22 pages long, so get a cup of coffee.
 
 On the Safe Travel website (which is an arm of the DOT and PHMSA), more
 specific guidelines are provided than what was in the press release.
-Feel free to "read Safe Travel's
-synopsis":http://safetravel.dot.gov/whats_new_batteries.html as well
+Feel free to [read Safe Travel's
+synopsis](http://safetravel.dot.gov/whats_new_batteries).html as well
 if you like. It's not too long.
 
 For the record, I don't think I've ever seen a _primary lithium_
@@ -235,8 +219,8 @@ Canon-brand BP-511As as well as a handful of cheaper, third-party
 BP-511A lookalikes, which do not come with the handy plastic covers that
 would satisfy those suggestions.
 
-Fortunately, there is a Yahoo! store called "Green
-Batteries":http://www.greenbatteries.com/repbatforcan1.html that is
+Fortunately, there is a Yahoo! store called [Green
+Batteries](http://www.greenbatteries.com/repbatforcan1).html that is
 selling those little doodads for \$1.77 (or four for about \$5.50, which
 is about \$1.40 each). I plan to pick up a bunch of those and make sure
 all of my batteries are properly insulated from external contact.
@@ -249,5 +233,3 @@ If any of you good folks fly with your gear in the coming months, please
 do write me with your experiences, positive or negative. Leave a comment
 on this post, or just drop me an email (aaron at singleservingphoto dot
 com), I'd love to hear from you.
-
-

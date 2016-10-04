@@ -6,20 +6,6 @@ title: Canon Enters the Actual Motion Picture Business
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<a href=\"http://singleservingphoto.com/wp-content/uploads/2011/11/EOS-C300_EF-Mount_body_CN-E85mm_LF_3_4-1_polaroid.png\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2011/11/EOS-C300_EF-Mount_body_CN-E85mm_LF_3_4-1_polaroid-300x232.png\"
-  alt=\"Canon Cinema EOS C300\" title=\"Canon Cinema EOS C300\" width=\"300\" height=\"232\"
-  class=\"alignright size-medium wp-image-1057\" /></a>\r\n\r\nI've posted about Canon's
-  involvement in the filmmaking industry before; in my cheekily titled \"Canon 5D
-  Mark II in the (Dr.) House\":http://singleservingphoto.com/2010/04/14/canon-5d-mark-ii-in-the-dr-house/
-  I reported on the use of the EOS-5D Mark II to film an entire season finale episode
-  of House M.D.\r\n\r\nSince then, the hipster Vimeo community has been running their
-  Converse All-Stars threadbare filming hundreds of hours of content with the 5D Mark
-  II and thoroughly enjoying it. But the 5D Mark II remains, at its core, a still
-  camera. I mean, that's what it was designed to do. The ability to record video is
-  a cute add-on, and although it works very well for small-scale filmmakers in oversized
-  scarves and skinny jeans, it falls short on many features a crew would need to film
-  a real movie (regardless of wardrobe)."
 wordpress_id: 1049
 wordpress_url: http://singleservingphoto.com/?p=1049
 date: '2011-11-06 16:10:48 -0500'
@@ -36,8 +22,7 @@ comments: []
 C300](http://singleservingphoto.com/wp-content/uploads/2011/11/EOS-C300_EF-Mount_body_CN-E85mm_LF_3_4-1_polaroid-300x232.png "Canon Cinema EOS C300")](http://singleservingphoto.com/wp-content/uploads/2011/11/EOS-C300_EF-Mount_body_CN-E85mm_LF_3_4-1_polaroid.png)
 
 I've posted about Canon's involvement in the filmmaking industry before;
-in my cheekily titled "Canon 5D Mark II in the (Dr.)
-House":http://singleservingphoto.com/2010/04/14/canon-5d-mark-ii-in-the-dr-house/
+in my cheekily titled [Canon 5D Mark II in the (Dr.) House](http://singleservingphoto.com/2010/04/14/canon-5d-mark-ii-in-the-dr-house/)
 I reported on the use of the EOS-5D Mark II to film an entire season
 finale episode of House M.D.
 
@@ -48,8 +33,7 @@ core, a still camera. I mean, that's what it was designed to do. The
 ability to record video is a cute add-on, and although it works very
 well for small-scale filmmakers in oversized scarves and skinny jeans,
 it falls short on many features a crew would need to film a real movie
-(regardless of wardrobe).<span id="more"></span><span
-id="more-1049"></span>
+(regardless of wardrobe). ~~MORE~~
 
 At the same time, high-end optics mogul Jim Jannard, founder of the
 well-known Oakley eyewear company, has been building a new empire around
@@ -98,9 +82,9 @@ These questions and more will undoubtedly be answered in the coming year
 as the C300 is released into the wild.
 
 * Read the press release, see product photos, and watch the Laforet
-video on dpreview: "Canon unveils Cinema EOS C300 interchangeable-lens
+video on dpreview: [Canon unveils Cinema EOS C300 interchangeable-lens
 video
-camera":http://www.dpreview.com/news/1111/11110310canoneoscinema.asp\
+camera](http://www.dpreview.com/news/1111/11110310canoneoscinema.asp\)
  * Haje Jan Kamps also covers the release and his reactions at Pixiq:
-"Canon vs Red: The battle for amateur filmmakers is about to
-commence":http://www.pixiq.com/article/amateur-filmmakers-battle
+[Canon vs Red: The battle for amateur filmmakers is about to
+commence](http://www.pixiq.com/article/amateur-filmmakers-battle)

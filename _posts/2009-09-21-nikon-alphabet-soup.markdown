@@ -33,7 +33,7 @@ lens, anyway?, now there is an answer for you, straight from our
 favorite bringer-of-technological-clarity, Bob Johnson at Earthbound
 Light.
 
-In his post "Nikon Lens Designation Alphabet
-Soup":http://www.earthboundlight.com/phototips/nikon-lens-letter-codes.html,
+In his post [Nikon Lens Designation Alphabet
+Soup](http://www.earthboundlight.com/phototips/nikon-lens-letter-codes.html),
 Bob explains the meaning of all of those little acronyms that Nikon
 seems to throw around like confetti. At last, an understandable answer!

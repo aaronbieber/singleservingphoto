@@ -36,9 +36,9 @@ I've been writing this blog for a little over five years now, which
 seems like a long time to me, but Scott has been writing about and
 teaching photography for _six times that long_ (yes, thirty years), so
 he deserves your attention for at least the next ten minutes... Which is
-all it's going to take you to breeze through his newly updated "DSLR
+all it's going to take you to breeze through his newly updated [DSLR
 Camera Lens Buying
-Guide":http://photofocus.com/2010/10/20/dslr-camera-lens-buying-guide/
+Guide](http://photofocus).com/2010/10/20/dslr-camera-lens-buying-guide/
 on Photofocus.
 
 Within the Guide, Scott offers tips for choosing what to buy and gives
@@ -51,6 +51,6 @@ ha!
 But seriously, these are good tips and you should listen to what Scott
 has to say, he speaks from immense experience.
 
-"Scott Bourne's DSLR Camera Lens Buying
-Guide":http://photofocus.com/2010/10/20/dslr-camera-lens-buying-guide/
+[Scott Bourne's DSLR Camera Lens Buying
+Guide](http://photofocus.com/2010/10/20/dslr-camera-lens-buying-guide/)
 via Photofocus

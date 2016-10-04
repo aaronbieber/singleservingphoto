@@ -40,10 +40,10 @@ Photoshop, and _then_, as though this wasn't enough, he explained it
 step-by-step on his forum!
 
 Take one more good look at that fabulous panorama up there and then
-"head over to the Greek Sky
-forum":http://greeksky.gr/GreekSkyForum/index.php?topic=2.0 and learn
+[head over to the Greek Sky
+forum](http://greeksky.gr/GreekSkyForum/index.php?topic=2).0 and learn
 how it was done.
 
-*Edit*: Photojojo "reported on this
-image":http://content.photojojo.com/photo-projects/24-hour-panorama/ as
+*Edit*: Photojojo [reported on this
+image](http://content.photojojo).com/photo-projects/24-hour-panorama/ as
 well!

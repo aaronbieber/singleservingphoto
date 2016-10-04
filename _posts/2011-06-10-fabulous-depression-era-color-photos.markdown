@@ -35,6 +35,6 @@ distance between the depression and today has vaulted these images into
 pure artistry. They are truly breathtaking; scenes from a past world, a
 past America.
 
-View the entire set of photographs on "International Business Times:
+View the entire set of photographs on [International Business Times:
 Rare Color Photos from Depression
-Era":http://www.ibtimes.com/articles/148072/20110518/rare-color-photos-from-depression-era.htm.
+Era](http://www.ibtimes.com/articles/148072/20110518/rare-color-photos-from-depression-era.htm.)

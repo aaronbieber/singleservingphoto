@@ -71,13 +71,13 @@ Single-Serving Photo territory.
 
 Using a window, some paper, cardboard, a simple clamp, and aluminum
 foil, Mariano can get a very clean seamless image that you might think
-was taken in a "cloud
-dome":http://www.bhphotovideo.com/c/product/347666-REG/Cloud_Dome_CD159012_Cloud_Dome_90mm.html/BI/1816/KBID/2457
-or using one of those "infinity
-boards":http://www.bhphotovideo.com/c/product/347667-REG/Cloud_Dome_CDIB18W_Infinity_Board_Matte_White.html/BI/1816/KBID/2457.
+was taken in a [cloud
+dome](http://www.bhphotovideo.com/c/product/347666-REG/Cloud_Dome_CD159012_Cloud_Dome_90mm).html/BI/1816/KBID/2457
+or using one of those [infinity
+boards](http://www.bhphotovideo.com/c/product/347667-REG/Cloud_Dome_CDIB18W_Infinity_Board_Matte_White.html/BI/1816/KBID/2457.)
 Check out the link below to read Mariano's full article and see how it
 was done.
 
-"Studio Quality Product Photography with a \$12
-Setup":http://www.handmadeology.com/studio-quality-product-photography-with-a-12-set-up/
+[Studio Quality Product Photography with a \$12
+Setup](http://www.handmadeology.com/studio-quality-product-photography-with-a-12-set-up/)
 via Handmadeology

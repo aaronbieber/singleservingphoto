@@ -53,7 +53,7 @@ comments:
   date: '2007-11-03 18:01:03 -0400'
   date_gmt: '2007-11-03 22:01:03 -0400'
   content: Glad to shed some... Ahem... *light* on the matter! Thanks for dropping
-    in, Paul, I've enjoyed reading "your blog":http://paulindigo.blogspot.com/ as
+    in, Paul, I've enjoyed reading [your blog](http://paulindigo.blogspot).com/ as
     well.
 - id: 1023
   author: Тут Хумора.NET &raquo; Фотоссылки
@@ -84,7 +84,7 @@ comments:
   content: |-
     Thanks for the tip, Paul!
 
-    I browsed around my favorite online retailer, "1,000 Bulbs":http://www.1000bulbs.com, and found that they now make cold cathode dimmable lamps for standard sockets as well, which use even less power and run even cooler than standard fluorescents! You can't get them as bright as 500 watt equivalent (yet), but they could be a nice option for some.
+    I browsed around my favorite online retailer, [1,000 Bulbs](http://www.1000bulbs.com), and found that they now make cold cathode dimmable lamps for standard sockets as well, which use even less power and run even cooler than standard fluorescents! You can't get them as bright as 500 watt equivalent (yet), but they could be a nice option for some.
 ---
 ![](http://farm3.static.flickr.com/2051/1806187700_c77b8fdc61_m.jpg "A worldly treasure")
 
@@ -112,15 +112,15 @@ id="more"></span><span id="more-155"></span>
 A couple of weeks ago, Eli called me up and told me that he wanted to
 make his product photos look more like what Apple does on their website,
 meaning high-key, pure white backgrounds, no corners or distractions,
-just very _fresh_. My advice was to either use a "cloud
-dome":http://www.bhphotovideo.com/c/product/279145-REG/Cloud_Dome_CDGPKIT_Cloud_Dome_Pro_Kit.html
-(which can get a little pricey), or to build "some sort
-of":http://strobist.blogspot.com/2007/03/on-assignment-flavored-vodkas.html
-"inventive":http://www.pbase.com/wlhuber/light_box_light_tent "DIY
-lightbox":http://www.ourmedia.org/node/253481.
+just very _fresh_. My advice was to either use a [cloud
+dome](http://www.bhphotovideo.com/c/product/279145-REG/Cloud_Dome_CDGPKIT_Cloud_Dome_Pro_Kit.html)
+(which can get a little pricey), or to build [some sort
+of](http://strobist.blogspot.com/2007/03/on-assignment-flavored-vodkas.html)
+[inventive](http://www.pbase).com/wlhuber/light_box_light_tent [DIY
+lightbox](http://www.ourmedia.org/node/253481.)
 
-It seems like the Internet is simply "crawling with DIY lightbox
-articles":http://www.google.com/search?hl=en&q=diy+lightbox&btnG=Search,
+It seems like the Internet is simply [crawling with DIY lightbox
+articles](http://www.google.com/search?hl=en&q=diy+lightbox&btnG=Search,)
 but in my opinion, the more the merrier! Eli decided to go the DIY
 lightbox route and immediately purchased some of the most common
 supplies used:
@@ -200,8 +200,8 @@ of minutes. Check it out:
 Yeah, it's a _fox skull_. I told you he had some weird stuff! I mean,
 if you ever wanted a big, shiny beetle (yes, it's real) sealed inside an
 acrylic block that you could wave around in your friends' faces and make
-them uncomfortable... You may want to visit "Old Man Hodapp's Worldly
-Treasures":http://www.oldmanhodapp.com.
+them uncomfortable... You may want to visit [Old Man Hodapp's Worldly
+Treasures](http://www.oldmanhodapp.com.)
 
 !http://farm3.static.flickr.com/2156/1617544656_8c4ad566e6.jpg!
 

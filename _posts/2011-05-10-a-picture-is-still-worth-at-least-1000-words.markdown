@@ -54,8 +54,8 @@ release.*
 
 The Obama administration is acutely aware of what could happen if people
 were shown this "incendiary image," as journalist Sean O'Hagan
-"described it in The Guardian last
-Friday":http://www.guardian.co.uk/artanddesign/2011/may/06/osama-bin-laden-photograph-obama-body.
+[described it in The Guardian last
+Friday](http://www.guardian.co.uk/artanddesign/2011/may/06/osama-bin-laden-photograph-obama-body).
 By every measurement, this type of documentary recording is an area
 where the photograph has always held at least an assumed power, though
 the public may not give it much thought. This power is what keeps

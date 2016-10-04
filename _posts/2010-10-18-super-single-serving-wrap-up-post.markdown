@@ -60,9 +60,9 @@ linked from other sites the most.
 
 h3. 5
 
-With *2,002* total unique pageviews, "Art Concepts in Photography,
+With *2,002* total unique pageviews, [Art Concepts in Photography,
 Part 2:
-Composition":http://singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/
+Composition](http://singleservingphoto).com/2007/08/26/art-concepts-in-photography-part-2-composition/
 comes in fifth.
 
 This was the second part of a rather short-lived series of articles I
@@ -74,8 +74,8 @@ h3. 4
 
 Coming in at *2,501* unique pageviews, and possessing the distinction
 of being quite possibly one of my own personal favorites of all time,
-"Histograms,
-Huh?":http://singleservingphoto.com/2007/06/03/histograms-huh/ claims
+[Histograms,
+Huh?](http://singleservingphoto).com/2007/06/03/histograms-huh/ claims
 fourth place.
 
 I wrote this article when I, myself, was exploring Photoshop as a
@@ -87,8 +87,8 @@ I was ever able to find, I explain exactly what a histogram does.
 h3. 3
 
 Claiming, quite rightfully in my opinion, third place with *2,847*
-unique views is "Mastering the Only Five Camera
-Settings":http://singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/.
+unique views is [Mastering the Only Five Camera
+Settings](http://singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/.)
 
 In the technically dense content of this article lies the answer to
 virtually every question I have ever been asked by beginner and
@@ -101,8 +101,8 @@ third place position.
 h3. 2
 
 Due most likely to its contentious proposition, second place is claimed
-by "Why Bubble Levels Are a Waste of
-Money":http://singleservingphoto.com/2007/10/10/why-bubble-levels-are-a-waste-of-money/,
+by [Why Bubble Levels Are a Waste of
+Money](http://singleservingphoto.com/2007/10/10/why-bubble-levels-are-a-waste-of-money/,)
 with *3,905* unique pageviews.
 
 It was a lot of fun to write this diatribe against a small, fluid-filled
@@ -124,12 +124,12 @@ the entire site... With a whopping *12,343* unique pageviews, which is
 *three times more* than the second place article, and *almost twice*
 the pageviews that my *front page* receives, is...
 
-"Neutral Density
-Filters":http://singleservingphoto.com/2008/02/21/neutral-density-filters/.
+[Neutral Density
+Filters](http://singleservingphoto.com/2008/02/21/neutral-density-filters/.)
 
 I know. I have no idea why this article is so popular. According to
 Analytics, the number one traffic source for this page is the popular
-social link site "StumbleUpon":http://www.stumbleupon.com, which
+social link site [StumbleUpon](http://www.stumbleupon.com), which
 contributed the lion's share of pageviews. Apparently there are a lot of
 photographers on StumbleUpon.
 

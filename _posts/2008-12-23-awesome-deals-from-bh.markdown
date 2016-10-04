@@ -40,8 +40,8 @@ purchase of some kind, they'll toss me a couple of percent, which will
 help me continue to give you all this fabulous information, and I will
 forever love you for it.
 
-For only a little while longer, "*free express shipping on Canon
-cameras*!":http://www.bhphotovideo.com/c/shop/14655/FreeShipping_on_Canon.html?BI=1816&KBID=2457
+For only a little while longer, [*free express shipping on Canon
+cameras*!](http://www.bhphotovideo.com/c/shop/14655/FreeShipping_on_Canon.html)?BI=1816&KBID=2457
 
 I'm a total "Canonista," so if you have even the slightest inkling of a
 desire for a Canon DSLR, now is the time to snag one, on sale, with free
@@ -50,9 +50,9 @@ they get that black pixel thing fixed...), the Rebel XTi, the Rebel XS,
 *all with free express shipping*.
 
 If you were thinking about getting an entry-level Canon DSLR and the 40D
-seems like a good fit for you, now is the time. "Get *\$50 off* the
+seems like a good fit for you, now is the time. [Get *\$50 off* the
 B&H
-kit":http://www.bhphotovideo.com/c/product/518570-REG/Canon_1901B017_EOS_40D_SLR_Digital.html?BI=1816&KBID=2457,
+kit](http://www.bhphotovideo.com/c/product/518570-REG/Canon_1901B017_EOS_40D_SLR_Digital.html?BI=1816&KBID=2457,)
 which includes the EF 28-135mm f/3.5-5.6 IS lens. Yes, I know it's not
 "L" glass, but for someone getting started, 28-135mm is the kind of zoom
 range that will give you some serious flexibility, and it's not one of

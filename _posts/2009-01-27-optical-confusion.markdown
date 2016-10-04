@@ -49,8 +49,8 @@ technique of close-cropping and creatively limiting the viewer's
 understanding of what they are looking at can be a very powerful tool.
 
 Take, for example, the image below (by Karin Rosenthal, "Belly
-Landscape," 1980—which I snagged from "The Online
-Photographer":http://theonlinephotographer.typepad.com/the_online_photographer/2009/01/in-photography.html).
+Landscape," 1980—which I snagged from [The Online
+Photographer](http://theonlinephotographer.typepad.com/the_online_photographer/2009/01/in-photography.html)).
 When I first saw the image, I really thought it was a landscape; some
 sort of Adams-esque river valley. Of course by stating the title of the
 piece I've pretty much blown the lid on that optical illusion, but if
@@ -70,7 +70,7 @@ some of the most recognizable elements from a subject. Just a small
 tweak is all it may take to transform a solid, representative image into
 a thoroughly engaging work of optical confusion.
 
-You can also "purchase the official
-book":http://www.amazon.com/First-Doubt-Photography-Selections-Collection/dp/0300141335
+You can also [purchase the official
+book](http://www.amazon.com/First-Doubt-Photography-Selections-Collection/dp/0300141335)
 containing selections from the collection used in the Yale University
 Art Museum show.

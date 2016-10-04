@@ -41,14 +41,14 @@ resolution, but maybe this year is the year to step up to a digital SLR
 camera and really take your photography to the next level. Here are my
 digital SLR recommendations for first-time owners in 2008:
 
-* "Canon Digital Rebel
-XTi":http://www.bhphotovideo.com/c/product/457506-REG/Canon_1236B002_EOS_Digital_Rebel_XTi.html?BI=1816&KW=&KBID=2457
+* [Canon Digital Rebel
+XTi](http://www.bhphotovideo.com/c/product/457506-REG/Canon_1236B002_EOS_Digital_Rebel_XTi.html)?BI=1816&KW=&KBID=2457
 (about \$530 from B&H, camera body only)\
- * "Nikon
-D40":http://www.bhphotovideo.com/c/product/471716-REG/Nikon_25420_D40_SLR_Digital_Camera.html?BI=1816&KW=&KBID=2457
+ * [Nikon
+D40](http://www.bhphotovideo.com/c/product/471716-REG/Nikon_25420_D40_SLR_Digital_Camera.html?BI=1816&KW=&KBID=2457)
 (about \$475 from B&H, with 18-55mm lens)\
- * "Nikon
-D80":http://www.bhphotovideo.com/c/product/449061-REG/Nikon_25412_D80_SLR_Digital_Camera.html?BI=1816&KW=&KBID=2457
+ * [Nikon
+D80](http://www.bhphotovideo.com/c/product/449061-REG/Nikon_25412_D80_SLR_Digital_Camera.html?BI=1816&KW=&KBID=2457)
 (about \$780 from B&H, camera body only)
 
 (In in the interest of full disclosure, I do get a small kickback from
@@ -78,20 +78,20 @@ megapixels, what the D80 brings to the table is not higher resolution,
 but simply better features.
 
 I encourage anyone interested in getting into the SLR marketplace to
-carefully scrutinize "Digital Photography
-Review":http://www.dpreview.com, the award-winning camera review site
+carefully scrutinize [Digital Photography
+Review](http://www.dpreview.com), the award-winning camera review site
 for feature comparisons and informed opinions.
 
 h2. Take a class
 
-PC World suggests, in an article titled "New Year's
-Resolutions":http://www.pcworld.com/article/id,140718-c,digitalcameras/article.html,
+PC World suggests, in an article titled [New Year's
+Resolutions](http://www.pcworld.com/article/id,140718-c,digitalcameras/article.html,)
 that taking a class is a fun and exciting way to turn over a new leaf
 with your digital camera.
 
-Photojojo also suggested taking a class in their recent post "19 New
+Photojojo also suggested taking a class in their recent post [19 New
 Year’s Photo Resolutions — Goodbye 2007, Hello Two Thousand and
-Awesome!":http://photojojo.com/content/guides/19-new-years-photo-resolutions.
+Awesome!](http://photojojo.com/content/guides/19-new-years-photo-resolutions.)
 
 Coincidentally I will be an instructor on several art photography
 workshops this coming year, first in Death Valley National Park
@@ -104,8 +104,8 @@ season) in July.
 There are plenty of spots available in all workshops at the moment, so
 don't hesitate to reserve yours now!
 
-Read all about the workshops and register on our website, "Art Photo
-Workshops":http://www.artphotoworkshops.com.
+Read all about the workshops and register on our website, [Art Photo
+Workshops](http://www.artphotoworkshops.com.)
 
 h2. Take more photographs
 

@@ -32,8 +32,8 @@ The image was made by jigsawing 83 separate photographs together (which
 you can probably tell by the jagged edges), each of which was taken by
 one of three DSLR cameras mounted on a gyroscope-leveled, pulley-lowered
 rig that Nichols and his team designed for the purpose. You can check
-out the photo on "Hack a
-Day":http://hackaday.com/2009/09/30/multi-camera-rig-makes-trees-say-cheese/
+out the photo on [Hack a
+Day](http://hackaday).com/2009/09/30/multi-camera-rig-makes-trees-say-cheese/
 of Nichols with his rig; it looks like theyâ€™ve got six Pocket Wizards
 on there (I donâ€™t know what the other three are for) and maybe a
 couple of bicycle wheels. All in all, a very righteous hack.
@@ -44,8 +44,8 @@ stretching 300 feet into the sky. Itâ€™s only been standing there for
 over 1,500 years(!!), but now it has been recorded in the annals of
 photographic history forever.
 
-Via (one of my favorite blogs) "Hack a
-Day":http://hackaday.com/2009/09/30/multi-camera-rig-makes-trees-say-cheese/,
-via "National
-Geographic":http://ngm.nationalgeographic.com/2009/10/redwoods/bourne-text,
-via "NPR":http://www.npr.org/blogs/pictureshow/2009/09/redwoods.html
+Via (one of my favorite blogs) [Hack a
+Day](http://hackaday.com/2009/09/30/multi-camera-rig-makes-trees-say-cheese/,)
+via [National
+Geographic](http://ngm.nationalgeographic.com/2009/10/redwoods/bourne-text,)
+via [NPR](http://www.npr.org/blogs/pictureshow/2009/09/redwoods.html)

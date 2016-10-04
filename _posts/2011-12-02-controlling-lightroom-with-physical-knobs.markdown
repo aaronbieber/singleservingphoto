@@ -74,7 +74,7 @@ that it works. There are some issues and the software is in a beta stage
 of development so you have to expect some bumps in the road, but it
 looks very promising.
 
-Read more on Max Edin's blog: "Using Hardware Controllers with
-Lightroom":http://maxedin.net/2011/11/using-hardware-controllers-with-lightroom/.
-Check out the "Knobroom home page":http://www.knobroom.com/ for more of
+Read more on Max Edin's blog: [Using Hardware Controllers with
+Lightroom](http://maxedin.net/2011/11/using-hardware-controllers-with-lightroom/).
+Check out the [Knobroom home page](http://www.knobroom).com/ for more of
 the gritty details.

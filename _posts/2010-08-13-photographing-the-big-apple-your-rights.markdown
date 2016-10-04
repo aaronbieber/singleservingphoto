@@ -19,9 +19,9 @@ This comes up a lot; you want to take some photographs but you don't
 want to be treated like you might be a terrorist. It seems like
 headlines about photographers being hassled and even assaulted by law
 enforcement are perpetually flying. A BBC spoof site, NewsArse, even put
-out this satirical article called "Terrorists 'sick of being treated
+out this satirical article called [Terrorists 'sick of being treated
 like
-photographers'":http://newsarse.com/2010/08/06/terrorists-sick-of-being-treated-like-photographers/.
+photographers'](http://newsarse.com/2010/08/06/terrorists-sick-of-being-treated-like-photographers/).
 
 If you are looking forward to photographing in a city, especially one
 that keeps close watch for terrorist activity like New York City does,

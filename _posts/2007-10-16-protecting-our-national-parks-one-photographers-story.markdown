@@ -94,8 +94,8 @@ h2. Painting the Night
 
 "Light painting," or using flashlights to illuminate objects during long
 exposures in the dark, is one of the staples of outdoor photography, and
-I think it's a fairly common practice; you'll see it used by "The
-Nocturnes":http://www.thenocturnes.com and others who are into making
+I think it's a fairly common practice; you'll see it used by [The
+Nocturnes](http://www.thenocturnes).com and others who are into making
 images after dark. Having used the technique to to great effect in Death
 Valley and in Yosemite, it went without saying that my colleague Chris
 and I would find such opportunities in the Smokies.

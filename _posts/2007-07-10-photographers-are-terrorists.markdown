@@ -80,7 +80,7 @@ comments:
 
     Originally, this article was going to explore the proposed legislation that would require permits to photograph under certain circumstances in New York City, circumstances that according to many were vaguely described and would hinder the enthusiast's ability to make pictures in America's most famous city.
 
-    By the time I was able to get back to it, the news had passed, but here is a link to the "Slashdot post breaking the story":http://yro.slashdot.org/yro/07/06/30/0644201.shtml where you will find lots of great commentary on the issue.
+    By the time I was able to get back to it, the news had passed, but here is a link to the [Slashdot post breaking the story](http://yro.slashdot.org/yro/07/06/30/0644201).shtml where you will find lots of great commentary on the issue.
 - id: 887
   author: Kevin Steele
   author_email: ksteele@kevinsteele.com
@@ -135,8 +135,8 @@ h2. What Are Your Rights?
 \$random:left\$
 
 The first thing I'm going to do is point you in the direction of Andrew
-Kantor's wonderful "Legal Rights of
-Photographers":http://www.kantor.com/useful/Legal-Rights-of-Photographers.pdf
+Kantor's wonderful [Legal Rights of
+Photographers](http://www.kantor.com/useful/Legal-Rights-of-Photographers.pdf)
 (pdf) ((Linked with permission. If that copy isn't working, "download it
 from me":/articles/docs/Legal-Rights-of-Photographers.pdf.)) guide.
 Andrew breaks our work down into its major (legal) components and
@@ -154,7 +154,7 @@ and won't come back to bite me.
 h2. Problems I've Had
 
 When I first became serious about art photography (which is what I'd say
-I do), my friend "Chris Blake":http://www.curiouslens.com and I would
+I do), my friend [Chris Blake](http://www.curiouslens).com and I would
 travel to various public state parks and reservoirs and shoot for entire
 afternoons. It's good exercise and being outside is always pleasant in
 the summer months, so we did it a lot. I wouldn't say I came away with
@@ -230,7 +230,7 @@ important tool at your disposal is full knowledge of your rights.
 
 As I've mentioned in previous articles, some of my most popular and most
 searched photographs are from within the Knight building of the
-"Mansfield Training
-School":http://www.fisheyegallery.com/Places/MansfieldTrainingSchool, a
+[Mansfield Training
+School](http://www.fisheyegallery.com/Places/MansfieldTrainingSchool), a
 location I was most certainly trespassing upon when I made them (my
 favorite one from there is to the right). I think it was worth the risk.

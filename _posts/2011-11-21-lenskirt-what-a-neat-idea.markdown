@@ -91,7 +91,7 @@ probably just buy one from the Lenskirt people (there is a link below).
 It looks like it's well made, and hey, Trey Ratcliff allegedly owns one,
 so that has to count for something, doesn't it?
 
-* "Tom's photo of San Francisco through a hotel
-window":https://plus.google.com/u/0/112063946124358686266/posts/fL9RmUd9bkg,
+* [Tom's photo of San Francisco through a hotel
+window](https://plus.google.com/u/0/112063946124358686266/posts/fL9RmUd9bkg),
 via Google Plus\
- * "Lenskirt":http://www.lenskirt.com/
+ * [Lenskirt](http://www.lenskirt.com/)

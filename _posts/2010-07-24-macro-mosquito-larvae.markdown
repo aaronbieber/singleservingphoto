@@ -22,8 +22,8 @@ comments: []
 [![(c)
 Burrard-Lucas.com](http://singleservingphoto.com/wp-content/uploads/2010/07/set-up-300x199.jpg "Lighting Setup")](http://digital-photography-school.com/macro-photography-mosquitoes-emerging)
 
-Remember when I "told you
-about":http://singleservingphoto.com/2010/04/21/burrard-lucases-and-the-beetlecam/
+Remember when I [told you
+about](http://singleservingphoto).com/2010/04/21/burrard-lucases-and-the-beetlecam/
 that crazy remote-controlled robot carting a DSLR that these two British
 brothers would drive around Africa, taking up-close-and-personal photos
 of wild animals? It was called the BeetleCam, and it was the brainchild
@@ -38,5 +38,5 @@ capturing the births of _mosquito larvae_.
 See all of the amazing macro photos and read about the brothers'
 technical process on their guest post on Digital Photography School!
 
-Via "Digital Photography School, via
-Burrard-Lucas.com":http://digital-photography-school.com/macro-photography-mosquitoes-emerging
+Via [Digital Photography School, via
+Burrard-Lucas.com](http://digital-photography-school.com/macro-photography-mosquitoes-emerging)

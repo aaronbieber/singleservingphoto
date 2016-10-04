@@ -34,8 +34,8 @@ full message:
 > Laura Brunow Miner\
 >  Editor in Chief
 
-As I write this, it does look like "jpgmag.com":http://jpgmag.com is
-still up and running, so feel free to "look through the published
-photos":http://jpgmag.com/photos/published/, "download archived
-issues":http://jpgmag.com/downloads/archives.html, or "check out some of
-their photo essays":http://jpgmag.com/stories/.
+As I write this, it does look like [jpgmag.com](http://jpgmag).com is
+still up and running, so feel free to [look through the published
+photos](http://jpgmag.com/photos/published/), [download archived
+issues](http://jpgmag.com/downloads/archives.html), or [check out some of
+their photo essays](http://jpgmag.com/stories/.)

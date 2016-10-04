@@ -6,13 +6,6 @@ title: The Future is Free
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "$random:right$\r\n\r\nIn his \"latest blog post\":http://www.chasejarvis.com/blog/2008/02/free-photos-and-artistic-vision.html,
-  Chase Jarvis mentions Wired editor Chris Anderson's new book, _FREE_, which is more
-  or less about the effects that digital media has had on the cost of distribution
-  of creative works.\r\n\r\nI haven't read the book so I don't claim to know what
-  Anderson's conclusions might be, though I have spent a lot of time ruminating on
-  this whole _free content movement_ that is slowly developing and I think it deserves
-  some discussion. More of my ramblings after the jump."
 wordpress_id: 181
 wordpress_url: http://www.singleservingphoto.com/2008/02/28/the-future-is-free/
 date: '2008-02-28 16:10:11 -0500'
@@ -26,8 +19,8 @@ comments: []
 ---
 \$random:right\$
 
-In his "latest blog
-post":http://www.chasejarvis.com/blog/2008/02/free-photos-and-artistic-vision.html,
+In his [latest blog
+post](http://www.chasejarvis.com/blog/2008/02/free-photos-and-artistic-vision.html,)
 Chase Jarvis mentions Wired editor Chris Anderson's new book, _FREE_,
 which is more or less about the effects that digital media has had on
 the cost of distribution of creative works.
@@ -36,7 +29,7 @@ I haven't read the book so I don't claim to know what Anderson's
 conclusions might be, though I have spent a lot of time ruminating on
 this whole _free content movement_ that is slowly developing and I
 think it deserves some discussion. More of my ramblings after the
-jump.<span id="more"></span><span id="more-181"></span>
+jump. ~~MORE~~
 
 Anderson mentions something he calls _zero marginal cost_, which
 refers to the fact that the cost of distributing digital assets nowadays
