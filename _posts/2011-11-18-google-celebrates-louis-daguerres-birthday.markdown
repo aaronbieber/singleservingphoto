@@ -6,18 +6,6 @@ title: Google Celebrates Louis Daguerre's Birthday
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<a href=\"http://singleservingphoto.com/wp-content/uploads/2011/11/google_daguerre.png\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2011/11/google-daguerre-300x162.png\"
-  alt=\"\" title=\"Google&#039;s Louis Daguerre Logo (Thumb)\" width=\"300\" height=\"162\"
-  class=\"alignright size-medium wp-image-1138\" /></a>\r\n\r\nToday is Louis Daguerre's
-  birthday, and Google is helping to celebrate it by devoting their logo to him. Happy
-  224th, buddy!\r\n\r\nWait, are you really about to ask me who Louis Daguerre was?
-  Hey, it's OK, to be fair the guy has been dead for about 160 years... Even so, in
-  this line of work I sort of expected more from you. Maybe you've heard the word
-  _Daguerreotype_ before? Even my browser spell-checker knows that word. That's right,
-  it's a photographic process; that's probably close enough for most tabletop trivia
-  games.\r\n\r\nUnfortunately, this blog is not interested in tidbits of trivia, so
-  get ready for facts. Lots of facts. With historical _context_."
 wordpress_id: 1136
 wordpress_url: http://singleservingphoto.com/?p=1136
 date: '2011-11-18 18:50:41 -0500'
@@ -55,8 +43,7 @@ that word. That's right, it's a photographic process; that's probably
 close enough for most tabletop trivia games.
 
 Unfortunately, this blog is not interested in tidbits of trivia, so get
-ready for facts. Lots of facts. With historical _context_.<span
-id="more"></span><span id="more-1136"></span>
+ready for facts. Lots of facts. With historical _context_. ~~MORE~~
 
 Returning to the topic at hand, Daguerre's eponymous method was the
 first silver-based imaging process and one of the first techniques for

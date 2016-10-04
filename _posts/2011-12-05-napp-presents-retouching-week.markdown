@@ -60,11 +60,11 @@ them "The Photoshop Guys") are doing a series of retouching
 presentations that you can watch for free. This starts tonight at 6 PM
 EST. The presentations are, in order:
 
-* Wedding Retouching (tonight, Dec. 5)\
- * Digital Makeup (Dec. 6)\
- * The Next Level of Retouching (Dec. 7)\
- * LIVE Show - Audience Participation in Q&A (Dec. 8)\
- * Tips from the Industry (Dec. 9)
+* Wedding Retouching (tonight, Dec. 5)
+* Digital Makeup (Dec. 6)
+* The Next Level of Retouching (Dec. 7)
+* LIVE Show - Audience Participation in Q&A (Dec. 8)
+* Tips from the Industry (Dec. 9)
 
 My understanding is that the fourth presentation is the only time that
 The Photoshop Guys will take any questions directly from the digital

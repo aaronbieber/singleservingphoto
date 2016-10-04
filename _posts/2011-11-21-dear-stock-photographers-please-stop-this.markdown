@@ -6,21 +6,6 @@ title: Dear Stock Photographers, Please Stop This
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<a href=\"http://singleservingphoto.com/wp-content/uploads/2011/11/102173.jpg\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2011/11/102173-254x300.jpg\"
-  alt=\"\" title=\"Women with kiwis on their eyes\" width=\"254\" height=\"300\" class=\"alignright
-  size-medium wp-image-1164\" /></a>\r\n\r\nStock photography has officially achieved
-  _critical mass_ in the absurdity department. I grant you, stock photographers are
-  as much instruments of the marketplace as any other professional service provider
-  and are therefore subject to the whims of the focus groups, the advertising big
-  wigs, the ebb and flow of the dollars that keep them knee-deep in lenses and strobes.
-  But when was the last time you saw a product advertised by a stock photograph and
-  thought to yourself, _That could totally be me in that picture_?\r\n\r\nThere you
-  are, holding a slice of kiwi in front of each eye, like any normal Tuesday, right?
-  You look so happy about this kiwi you could make a _coke addict_ jealous. The look
-  on your face is one of such unbridled joy, such boundless euphoria, it would be
-  hard for any bystander not to want your life at that moment.\r\n\r\nDear stock photographers...
-  Quit it!"
 wordpress_id: 1161
 wordpress_url: http://singleservingphoto.com/?p=1161
 date: '2011-11-21 20:07:17 -0500'
@@ -51,8 +36,7 @@ a _coke addict_ jealous. The look on your face is one of such
 unbridled joy, such boundless euphoria, it would be hard for any
 bystander not to want your life at that moment.
 
-Dear stock photographers... Quit it!<span id="more"></span><span
-id="more-1161"></span>
+Dear stock photographers... Quit it! ~~MORE~~
 
 I'm not going to try to say that pictures of women ecstatically eating
 salad, men jumping up in the air in business suits, or families in

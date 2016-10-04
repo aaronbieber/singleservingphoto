@@ -6,17 +6,6 @@ title: We Stand at the Crossroads of Creativity
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<a href=\"http://singleservingphoto.com/wp-content/uploads/2011/11/lytro.png\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2011/11/lytro-300x262.png\"
-  alt=\"Lytro\" title=\"Lytro\" width=\"300\" height=\"262\" class=\"alignright size-medium
-  wp-image-1107\" /></a>\r\n\r\nIt is easy to say that we are \"standing at the crossroads.\"
-  Occasionally it's even true, but the expression sounds so important, it evokes such
-  responsibility, that it's hard for scientists, technologists, journalists, historians,
-  economists, and futurists to hold back the urge, even if the decision to be made
-  is minor, the outcome arbitrary.\r\n\r\nSo recognize that it is with a full understanding
-  that I say to you, right now, _we stand at the crossroads of creativity_. We've
-  stood here before, we will stand here again, but I can say categorically that we
-  stand here now and it is an important and exciting time to be a photographer."
 wordpress_id: 1106
 wordpress_url: http://singleservingphoto.com/?p=1106
 date: '2011-11-09 18:11:38 -0500'
@@ -52,7 +41,7 @@ So recognize that it is with a full understanding that I say to you,
 right now, _we stand at the crossroads of creativity_. We've stood
 here before, we will stand here again, but I can say categorically that
 we stand here now and it is an important and exciting time to be a
-photographer.<span id="more"></span><span id="more-1106"></span>
+photographer. ~~MORE~~
 
 To our left lies the path toward a technological utopia, a world where
 anything can be achieved in post-processing, where your creative vision
