@@ -109,7 +109,7 @@ most effectively placed at the intersections of a grid made up of two
 horizontal and two vertical lines, each equidistant from one another and
 from the edges of the piece.
 
-!/articles/DesignConcepts/PartII/Figure-1.jpg!
+![](/articles/DesignConcepts/PartII/Figure-1.jpg)
 
 More simply stated, the points of interest in the image ought to be
 roughly one _third_ the total height or width of the image from any of
@@ -166,7 +166,7 @@ understanding of them is as "pure" as possible, and simple graphics
 allow me to single out these concepts. In this first example, the image
 is very clearly imbalanced.
 
-!/articles/DesignConcepts/PartII/Figure-2.gif!
+![](/articles/DesignConcepts/PartII/Figure-2.gif)
 
 Because the large, black dot is the only thing _in_ the image, you are
 forced to look at it. Your eye does not want to hang around in that
@@ -176,7 +176,7 @@ by _weight_. Balance is achieved by placing elements of the same
 weight in roughly symmetrical areas of the composition. Let's balance
 this composition out in the simplest way:
 
-!/articles/DesignConcepts/PartII/Figure-3.gif!
+![](/articles/DesignConcepts/PartII/Figure-3.gif)
 
 By placing an identical dot on the opposite side, we have achieved
 balance. Yes, it's rather boring overall, but your eye happily moves
@@ -189,7 +189,7 @@ images to get a feeling for the dynamics at play. Let's make things more
 interesting by adding a different visual element to try to balance the
 first dot.
 
-!/articles/DesignConcepts/PartII/Figure-4.gif!
+![](/articles/DesignConcepts/PartII/Figure-4.gif)
 
 Here, the dot is countered by a line. If you are already used to looking
 at compositions and evaluating balance, or if you are very relaxed, you
@@ -201,7 +201,7 @@ dominance in a way.
 
 To balance this composition, we'll have to add more.
 
-!/articles/DesignConcepts/PartII/Figure-5.gif!
+![](/articles/DesignConcepts/PartII/Figure-5.gif)
 
 In this final example, you can see how much more visual weight the array
 of lines carries. Your eye is drawn back and forth naturally and balance
@@ -235,7 +235,7 @@ will appear to be.
 The first example is exploring contrast between visual elements and
 their surroundings.
 
-!/articles/DesignConcepts/PartII/Figure-6.gif!
+![](/articles/DesignConcepts/PartII/Figure-6.gif)
 
 Notice how the first element is easily recognizable, though the second
 element stands out much more strongly from its surroundings. We would
@@ -244,7 +244,7 @@ makes it a stronger focal point in the composition.
 
 The second example shown below explores the effect of scale.
 
-!/articles/DesignConcepts/PartII/Figure-7.gif!
+![](/articles/DesignConcepts/PartII/Figure-7.gif)
 
 You will notice that both elements in this example draw your eye. The
 first is quite large and occupies a significant area of the frame, which
@@ -281,7 +281,7 @@ a composition.
 Convergence can be executed very subtly in a photograph, but for the
 sake of illustration I will use it boldly here.
 
-!/articles/DesignConcepts/PartII/Figure-8.gif!
+![](/articles/DesignConcepts/PartII/Figure-8.gif)
 
 Notice how your eye catches one of those lines at the left side and
 "rides" it right up to the dot on the right. It's very natural to follow

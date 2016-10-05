@@ -122,7 +122,7 @@ able to read it if it's applied to a very light photo.
 For my watermark, I have gone with a very small and very controlled
 image, which I've named simply @copyright.gif@:
 
-!/articles/AutomationI/copyright.gif!
+![](/articles/AutomationI/copyright.gif)
 
 The only technical considerations when composing a watermark image are:
 
@@ -253,12 +253,12 @@ When you run the Export command from Lightroom, you are presented with a
 dialog box much like the one you see below. We are chiefly concerned
 with the option highlighted in this picture.
 
-!/articles/AutomationI/Figure-1.jpg!
+![](/articles/AutomationI/Figure-1.jpg)
 
 When you open that menu, you will want to choose "Go to Export Actions
 Folder Now" as shown below.
 
-!/articles/AutomationI/Figure-2.jpg!
+![](/articles/AutomationI/Figure-2.jpg)
 
 _Note: disregard the "Watermark+Upload" option; that is a modified
 version of this Watermark script that also opens Transmit and uploads

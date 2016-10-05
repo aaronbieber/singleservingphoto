@@ -83,7 +83,7 @@ shadow detail at the same time. One of the photos is exposed to capture
 the highlight data completely and the other is exposed to capture the
 shadow data completely.
 
-!/articles/hdr/Figure-1.jpg!
+![](/articles/hdr/Figure-1.jpg)
 
 Below the photos you can see their histograms (I just snagged these from
 Photoshop's histogram palette). Notice how photo \#1's histogram is
@@ -127,7 +127,7 @@ _subject_ properly exposed on top of the photo with the _background_
 properly exposed. It doesn't matter which photo is on top, but you may
 have to alter the steps if you do it differently.
 
-!/articles/hdr/Figure-2.jpg!
+![](/articles/hdr/Figure-2.jpg)
 
 Now that you have the photos layered atop one another, it's time to
 align the images. What I typically do is put the top layer in
@@ -135,7 +135,7 @@ align the images. What I typically do is put the top layer in
 shapes overlap. Here is what it should look like and where you can find
 the "difference" option in the layers palette.
 
-!/articles/hdr/Figure-3.jpg!
+![](/articles/hdr/Figure-3.jpg)
 
 What you want to do is eliminate those white spaces as much as possible.
 Use basic transformation commands and techniques to alter the top layer
@@ -146,7 +146,7 @@ Retouching –› Transforming objects –› Using the Free Transform
 command.)). Hopefully after you've worked on it for a bit, it will look
 more like this:
 
-!/articles/hdr/Figure-4.jpg!
+![](/articles/hdr/Figure-4.jpg)
 
 There is still a bit of white left in my example, but don't sweat it,
 it's not that picky an effect. Now you can turn off "difference" mode
@@ -155,7 +155,7 @@ will hide the terribly overexposed sky in the top photo so that the
 awesome sky beneath it will show through. For this, I will use a little
 trick in the channels palette.
 
-!/articles/hdr/Figure-5.jpg!
+![](/articles/hdr/Figure-5.jpg)
 
 Take a peek in the channels palette. What you want to do is click on
 each of the Red, Green, and Blue channels and find the one that has the
@@ -171,7 +171,7 @@ photo back. Here is another fun masking trick. Press "Q" on the keyboard
 to turn on Quick Mask Mode. What you see ought to look something like
 this ((See Selecting –› Using Quick Mask mode to make selections.)).
 
-!/articles/hdr/Figure-6.jpg!
+![](/articles/hdr/Figure-6.jpg)
 
 Quick Mask Mode is based on a tried-and-true masking technique that was
 used in old-school publishing. The red color is a throwback (or
@@ -194,7 +194,7 @@ Enter the levels palette. When you are in Quick Mask Mode, levels will
 affect the mask, not the image. A stroke of genius from Adobe, if I do
 say so myself.
 
-!/articles/hdr/Figure-7.jpg!
+![](/articles/hdr/Figure-7.jpg)
 
 This is what the levels looked like for me. What you're going to want to
 do is drag the shadow slider (the black triangle at the left edge of the
@@ -229,7 +229,7 @@ mask's thumbnail in the layers palette. The layer mask thumbnail is the
 one that looks like a silhouette next to the thumbnail of the actual
 image. The document itself should now look like a silhouette, like this:
 
-!/articles/hdr/Figure-8.jpg!
+![](/articles/hdr/Figure-8.jpg)
 
 Now we can use any Photoshop painting tools or filters _on the mask
 itself_. For this trick, we'll use the Gaussian blur filter, found
@@ -238,13 +238,13 @@ the resolution of your image. Mine is around 13 megapixels, so I had to
 apply a Gaussian blur radius of around 50-60 to make it stand out. It
 should look something like this:
 
-!/articles/hdr/Figure-9.jpg!
+![](/articles/hdr/Figure-9.jpg)
 
 To return to the image, click on its thumbnail in the layers palette.
 Hopefully you now have a pretty awesome-looking compressed dynamic range
 photo! Here's what I came up with:
 
-!/articles/hdr/Figure-10.jpg!
+![](/articles/hdr/Figure-10.jpg)
 
 It's not as good as it could be, though. The sky, while much better
 exposed than the sky from the foreground photo, still lacks some punch.
@@ -260,7 +260,7 @@ Okay, so, create a curves adjustment layer above the background but
 below our subject image layer (inspirationally titled "Layer 1" in my
 previous screenshots). It should look like this:
 
-!/articles/hdr/Figure-11.jpg!
+![](/articles/hdr/Figure-11.jpg)
 
 The curves dialog will open and you will want to put in a dramatic "S"
 curve like you might in any other photo with poor contrast. Because
@@ -268,7 +268,7 @@ adjustment layers only affect the layers _beneath_ them, it should
 alter the background without altering the subject. Here is what mine
 ended up looking like!
 
-!/articles/hdr/Figure-12.jpg!
+![](/articles/hdr/Figure-12.jpg)
 
 I hope this has been useful and/or interesting and I do intend to create
 more Photoshop how-to articles in the future. If you have any questions

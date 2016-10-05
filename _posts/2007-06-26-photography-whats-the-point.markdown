@@ -66,7 +66,7 @@ comments:
     and actually shot some stuff that I liked. I just found out the juror didn't like
     it as much as I did. Anyway, does anybody out there want a used Diana?
 ---
-!/articles/images/WTD210.gif!
+![](/articles/images/WTD210.gif)
 
 Thanks to Aaron Johnson of [What the Duck](http://www.whattheduck.net)
 for this eloquent visual synopsis of what I've been thinking about

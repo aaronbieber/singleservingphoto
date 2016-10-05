@@ -174,7 +174,7 @@ proceeds from a gray value of 90 on the left to 160 on the right. As you
 should be able to tell, there is no pure black and no pure white in this
 image.
 
-!/articles/8vs16/Figure-1.jpg!
+![](/articles/8vs16/Figure-1.jpg)
 
 In the 8-bit space, if I use levels to expand the tonal range of the
 image, you will see that a lot of dithering and banding occurs. What
@@ -186,12 +186,12 @@ If you look closely at the image below you will see that the results
 aren't too great, and it's because there are a limited number of gray
 tones to choose from when averaging out the intermediate pixel values.
 
-!/articles/8vs16/Figure-2.jpg!
+![](/articles/8vs16/Figure-2.jpg)
 
 Here is the center area of the above image scaled by 300% so you can see
 exactly what's going on.
 
-!/articles/8vs16/Figure-3.jpg!
+![](/articles/8vs16/Figure-3.jpg)
 
 So what happens if you have 16 bits? To find out, I created a 16-bit
 image exactly the same size as the ones above, drew an identical
@@ -203,11 +203,11 @@ show you the result, I had to save it as an 8-bit JPEG, but as you can
 see below, converting to eight bits after doing the edit produces a
 noticeably better result.
 
-!/articles/8vs16/Figure-4.jpg!
+![](/articles/8vs16/Figure-4.jpg)
 
 Again, here is the middle section of the above image scaled to 300%.
 
-!/articles/8vs16/Figure-5.jpg!
+![](/articles/8vs16/Figure-5.jpg)
 
 I have racked my brain for a couple of days trying to come up with a
 lucid explanation for why editing in 16 bits and converting to eight

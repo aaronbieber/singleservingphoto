@@ -67,7 +67,7 @@ tangible.<span id="more"></span><span id="more-143"></span>
 Let's start with the most classic demonstration of positive and negative
 space at work:
 
-!/articles/DesignConcepts/PartIII/Figure-4.gif!
+![](/articles/DesignConcepts/PartIII/Figure-4.gif)
 
 Immediately upon viewing this example, you come to realize that your
 mind has the capacity to create compositional elements from completely
@@ -75,7 +75,7 @@ empty space. As an artist, you must understand this capability so that
 you can use it to your advantage. Now let's try something a little bit
 different.
 
-!/articles/DesignConcepts/PartIII/Figure-1.gif!
+![](/articles/DesignConcepts/PartIII/Figure-1.gif)
 
 We generally see black as a "foreground" color and white as a
 "background" color, so your first impression of this picture might be
@@ -89,7 +89,7 @@ doesn't mean it is devoid of form.
 
 Now take a look at this funny looking person:
 
-!/articles/DesignConcepts/PartIII/Figure-2.gif!
+![](/articles/DesignConcepts/PartIII/Figure-2.gif)
 
 The figure on the left and the black field on the right are our positive
 space. The white area that surrounds the figure is the negative space,
@@ -103,7 +103,7 @@ it isn't the subject or focal point of your image*. We can easily
 manipulate the viewpoint to make the negative space play a more dynamic
 role.
 
-!/articles/DesignConcepts/PartIII/Figure-3.gif!
+![](/articles/DesignConcepts/PartIII/Figure-3.gif)
 
 Here I have moved in closer so that the figure's head touches the top of
 the frame, splitting the one large area of negative space into two

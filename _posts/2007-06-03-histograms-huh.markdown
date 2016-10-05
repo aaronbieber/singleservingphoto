@@ -184,7 +184,7 @@ thought _What the fuzz is this thing trying to tell me?_ If that
 describes you, or if you just want to know more about this ubiquitous
 and curious graph, you've come to the right place.
 
-!/articles/Histograms/Figure-1.gif!
+![](/articles/Histograms/Figure-1.gif)
 
 Today I will unclothe the common histogram and show you not only how to
 read it, but also how you can use it to strengthen your work.<span
@@ -213,7 +213,7 @@ many pixels of that precise brightness exist in the image relative to
 all the other brightnesses. All of this is much easier to understand if
 you can see it. So, here:
 
-!/articles/Histograms/Figure-2.gif!
+![](/articles/Histograms/Figure-2.gif)
 
 I have conveniently numbered each shaded area of the image and their
 corresponding histogram bars. The first thing you should notice is that
@@ -250,7 +250,7 @@ of brightness four than there are of brightness three. Fantastic.
 So what happens when the image has *many more* shades in it? Let's
 say, for example, that it has *every* shade in it.
 
-!/articles/Histograms/Figure-3.gif!
+![](/articles/Histograms/Figure-3.gif)
 
 Be honest: is the histogram at all what you would've expected it to be?
 I was a bit surprised to see that curve in there, but it does show us
@@ -262,7 +262,7 @@ contains *every possible shade* of pixel. We know this because the
 data begins at the very left edge and proceeds all the way to the very
 right edge without a single gap. What happens if a shade is removed?
 
-!/articles/Histograms/Figure-4.gif!
+![](/articles/Histograms/Figure-4.gif)
 
 The attentive among you will notice that *two* changes have occurred.
 First, there is a pretty obvious gap where that particular shade of gray
@@ -273,7 +273,7 @@ count of white pixels has now increased! Brilliant.
 Let's make a more drastic change and see how that affects the histogram
 display:
 
-!/articles/Histograms/Figure-5.gif!
+![](/articles/Histograms/Figure-5.gif)
 
 I have now removed most of the dark tones in the example image. Notice
 that the histogram has a huge gap on the left side. No matter how large
@@ -297,7 +297,7 @@ That's a good start, but it won't make you more proficient at editing
 your photographs. Let's take a look at a real example to see how what
 we've learned applies to a photo.
 
-!/articles/Histograms/Figure-6.jpg!
+![](/articles/Histograms/Figure-6.jpg)
 
 Here is a photograph that I made at one of the (many) tobacco fields up
 in Windsor, Connecticut. It was a foggy morning and, as you can see from
@@ -311,7 +311,7 @@ I will use levels for this (which I won't explain; there are ample
 articles for using levels), but you could also use curves. Once I've
 brightened the image, it might look more like this:
 
-!/articles/Histograms/Figure-7.jpg!
+![](/articles/Histograms/Figure-7.jpg)
 
 There are two important things to notice about this histogram. First,
 you may wonder why it's full of gaps. These gaps are a side-effect of
@@ -331,7 +331,7 @@ was to wash out the sky to pure white, you would have succeeded. I
 didn't mean to do that, though, so I'm going to undo that change and try
 again.
 
-!/articles/Histograms/Figure-8.jpg!
+![](/articles/Histograms/Figure-8.jpg)
 
 The changes in the photograph itself might be very subtle and difficult
 to see on your monitor. This is the _entire point_ of the histogram.

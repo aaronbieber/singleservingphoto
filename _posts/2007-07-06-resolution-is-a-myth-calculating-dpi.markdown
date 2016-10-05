@@ -220,7 +220,7 @@ Resolution is not easy to explain or to understand without experience,
 so I'm going to give you a hypothetical scenario. Watch out, there will
 be some _light arithmetic_!
 
-!/articles/Resolution/Figure-1.gif!
+![](/articles/Resolution/Figure-1.gif)
 
 As shown in the figure above, let's assume we have an image that is
 exactly ten pixels by ten pixels (this makes math easier). The only

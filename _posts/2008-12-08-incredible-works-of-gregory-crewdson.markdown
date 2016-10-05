@@ -25,7 +25,7 @@ software these days that few photographic creations make you look twice
 and wonder "How'd they do that?" Such was the effect that Gregory
 Crewdson's work had on me when I first saw it.
 
-!/articles/Crewdson/gregory-crewdson-6.jpg!
+![](/articles/Crewdson/gregory-crewdson-6.jpg)
 
 His works are (from what I've seen, at least) untitled, which is a
 subject for another article. I don't know how much post-processing goes
@@ -36,7 +36,7 @@ Wikipedia,](http://en.wikipedia).org/wiki/Gregory_Crewdson a distinction
 reserved (by the site's own policy) for those enjoying defensible public
 recognition.
 
-!/articles/Crewdson/gregory-crewdson-5.jpg!
+![](/articles/Crewdson/gregory-crewdson-5.jpg)
 
 The subject matter of his work is, to put it lightly, creepy. Most of
 his images depict figures in various stages of undress, none possessing
@@ -45,7 +45,7 @@ distance, consternation, shock, or macabre solitude. The pools of light
 and the occasional _volumetric_ beam add such a drama and intensity to
 the stuff that it's hard to look away.
 
-!/articles/Crewdson/gregory-crewdson-1.jpg!
+![](/articles/Crewdson/gregory-crewdson-1.jpg)
 
 I'd love to see behind-the-scenes photos of his setups, but I couldn't
 uncover much. Here is a [neat
