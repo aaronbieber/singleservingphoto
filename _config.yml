@@ -8,6 +8,7 @@ url: "http://www.singleservingphoto.com" # the base hostname & protocol for your
 twitter_username: aaronbieber
 github_username: aaronbieber
 excerpt_separator: ~~MORE~~
+paginate: 5
 
 # Build settings
 markdown: kramdown

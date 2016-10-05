@@ -1,0 +1,11 @@
+.pagination {
+    height: 50px;
+    padding-top: 25px;
+    margin-bottom: 3em;
+    font-size: 1.2em;
+    line-height: 25px;
+    border-top: 1px solid $grey-color-light;
+
+    .next { float: right; }
+    .previous { float: left; }
+}
