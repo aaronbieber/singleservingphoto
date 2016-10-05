@@ -6,18 +6,6 @@ title: Scott Kelby Stands Up For Photoshop Users (As He Should)
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Photoshop. The program that became a verb, a lifestyle, an indispensable
-  tool. The first time I ever used Photoshop, it didn't have layers. Now it feels
-  like the third hand I never knew I wanted but couldn't reasonably live without.
-  I have used it seriously and continuously since version 4 and as much as I love
-  free and open source software, there is absolutely no replacement for it.\r\n\r\n<img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2011/11/scott-k1.png\" alt=\"Scott
-  Kelby\" title=\"Scott Kelby\" width=\"347\" height=\"257\" class=\"alignright size-full
-  wp-image-1189\" />\r\n\r\nFew people in the world know any of this better than Scott
-  Kelby. As the president of the National Association of Photoshop Professionals (by
-  the way, you know your software is influential when a 70,000-member association
-  springs up around it), he is intimately in touch with the pulse of the Photoshop
-  user and the photography industry."
 wordpress_id: 1188
 wordpress_url: http://singleservingphoto.com/?p=1188
 date: '2011-11-22 22:59:17 -0500'

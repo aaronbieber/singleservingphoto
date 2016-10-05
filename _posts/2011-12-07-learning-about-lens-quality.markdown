@@ -6,15 +6,6 @@ title: Learning About Lens Quality
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<a href=\"http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7.png\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7-150x150.png\"
-  alt=\"MTF at 24mm\" title=\"MTF at 24mm\" width=\"150\" height=\"150\" class=\"alignright
-  size-thumbnail wp-image-1247\" /></a>\r\n\r\nToday on Single-Serving Photo I'm bringing
-  you something a little bit different. Instead of news stories about amazing photographers,
-  press releases about equipment you can't afford, or overbearing pontifications on
-  the usefulness of HDR as a medium for artistic expression... Drumroll please...
-  _Graphs_.\r\n\r\nTo be more specific, graphs of _modulation transfer functions._
-  Dry-sounding? Absolutely! Exciting? I sure hope so!"
 wordpress_id: 1228
 wordpress_url: http://singleservingphoto.com/?p=1228
 date: '2011-12-07 19:32:04 -0500'
@@ -31,8 +22,7 @@ tags:
 - mtf
 comments: []
 ---
-[![MTF at
-24mm](http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7-150x150.png "MTF at 24mm")](http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7.png)
+[![MTF at 24mm](http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7-150x150.png "MTF at 24mm")](http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7.png)
 
 Today on Single-Serving Photo I'm bringing you something a little bit
 different. Instead of news stories about amazing photographers, press
@@ -41,8 +31,7 @@ on the usefulness of HDR as a medium for artistic expression... Drumroll
 please... _Graphs_.
 
 To be more specific, graphs of _modulation transfer functions._
-Dry-sounding? Absolutely! Exciting? I sure hope so!<span
-id="more"></span><span id="more-1228"></span>
+Dry-sounding? Absolutely! Exciting? I sure hope so! ~~MORE~~
 
 As the title suggests, today's episode is concerned with lens quality.
 To be more precise, metrics that measure lens quality. To be yet more
