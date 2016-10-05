@@ -6,17 +6,6 @@ title: Independence Day in Washington, D.C.; Trials and Tribulations
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<a href=\"http://www.flickr.com/photos/singleservingphoto/4783381259/in/set-72157624347109393/\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2010/07/2010-Fireworks-II-200x300.jpg\"
-  alt=\"\" title=\"2010 Fireworks II\" width=\"200\" height=\"300\" class=\"alignright
-  size-medium wp-image-720\" /></a>\r\n\r\nTo say that photographing the fireworks
-  display in Washington, D.C. is a challenge might be hyperbole. Compared to those
-  in Boston and New York City, which I've photographed two times each, getting a reasonable
-  spot to shoot from is a cakewalk.\r\n\r\nThe National Mall opens at around 10 AM,
-  but even at 3 PM there are still plenty of good spots by the Lincoln Memorial, so
-  there's no need to hurry. The real challenge, it would seem, is the complete and
-  total lack of information about the strategy and considerations of shooting in the
-  heart of the nation's capital."
 wordpress_id: 716
 wordpress_url: http://singleservingphoto.com/?p=716
 date: '2010-07-04 13:11:30 -0400'

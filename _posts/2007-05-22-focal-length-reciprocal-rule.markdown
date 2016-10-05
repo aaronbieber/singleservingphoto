@@ -6,17 +6,6 @@ title: Focal Length Reciprocal Rule
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "In one of my previous posts I mentioned the \"focal length reciprocal rule\"
-  and it occurred to me that not all of my readers may know what that is. Rather than
-  find someone else's article about it (of which I'm sure there are many) and link
-  to it, I thought I'd just write my own.\r\n\r\nThe goal of the rule (which is more
-  of a guideline than a rule, actually) is to give you an idea of whether a photograph
-  will come out blurry if you're holding the camera in your hand. It is a somewhat
-  simple formula to determine how various camera settings combine to compensate for
-  camera shake. I use the rule constantly while I'm out shooting because I don't like
-  to bring a tripod to most places and there's no use bringing home a whole CF card
-  filled with blurry photographs.\r\n\r\nNot only will I explain what this reciprocal
-  rule is, but I'll give you real examples of how to use it in the field."
 wordpress_id: 116
 wordpress_url: http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/
 date: '2007-05-22 18:28:17 -0400'

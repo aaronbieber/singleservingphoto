@@ -6,14 +6,6 @@ title: I Hate Link Wrap-Ups
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Despite the almost _constant_ urge to do so, I have never posted one of
-  those \"link wrap-ups\" wherein I present you all with a bunch of links I ran across
-  over the course of the week (or month, or year) and expect you to thank me for it.\r\n\r\nI
-  suppose it's because I feel cheap passing someone else's content along without at
-  least some sort of substantive editorial. Nevertheless, I do read a _lot_ of blogs,
-  not all of them photography-related, and I often run across things that I think
-  you guys and gals would be interested in. It would be a shame for that to go to
-  waste.\r\n\r\nSo today I bring you my very first ever *I Hate Link Wrap-Ups* post."
 wordpress_id: 159
 wordpress_url: http://www.singleservingphoto.com/2007/12/14/i-hate-link-wrap-ups/
 date: '2007-12-14 16:02:02 -0500'

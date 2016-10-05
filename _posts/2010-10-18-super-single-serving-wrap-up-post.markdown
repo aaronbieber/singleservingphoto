@@ -6,18 +6,6 @@ title: Super Single-Serving Wrap-Up Post
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "On September 25th, 2010â€”embarrassingly for me, nearly a month ago nowâ€”Single-Serving
-  Photo turned five. What started as an exhibitionist experiment to see if I could
-  force myself to take at least one decent photograph every day turned into a kind
-  of monument to my own photography obsession and my fondness for sharing and learning
-  together with the Internet.\r\n\r\nLooking back on these five years, there are some
-  particular posts that stand out in my mind. Many of them, as you might imagine,
-  are irrelevant to most of my visitors. If only there was some way that I could find
-  out which articles the Internet loves the most...\r\n\r\nFortunately, since mid-2007,
-  I have been using _Google Analytics_ to record and analyze the traffic on this site.
-  I thought, since this is sort of an anniversary of the blog, it would be appropriate
-  to share some of the gems from these last four years that I have on record.\r\n\r\nWithout
-  further ado, the *Super Single-Serving Wrap-Up*!"
 wordpress_id: 797
 wordpress_url: http://singleservingphoto.com/?p=797
 date: '2010-10-18 16:36:10 -0400'

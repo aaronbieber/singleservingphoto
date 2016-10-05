@@ -6,13 +6,6 @@ title: Desperate Opportunism
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "I'm gearing up for a voyage down to the _Great Smoky Mountains National
-  Park_ in Tennessee (to make photos of course), and I got to thinking about the _desperate
-  opportunism_ of the \"photography trip.\" When you set out to make images of faraway
-  places (we're looking at a 14-hour drive to get to the park), it's hard not to over-think
-  and over-plan the trip in the hopes of maximizing photographic potential. I believe
-  that is a mistake.\r\n\r\nIt's essential to plan for certain things, but the rest...
-  Well, I leave it to chance. I'll tell you why."
 wordpress_id: 146
 wordpress_url: http://www.singleservingphoto.com/2007/10/05/desperate-opportunism/
 date: '2007-10-05 17:48:42 -0400'

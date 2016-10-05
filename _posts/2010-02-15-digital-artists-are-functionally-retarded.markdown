@@ -6,21 +6,6 @@ title: Digital Artists Are Functionally Retarded
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<a href=\"http://singleservingphoto.com/wp-content/uploads/2010/02/ConfusedMechanic.jpg\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2010/02/ConfusedMechanic-216x300.jpg\"
-  alt=\"\" title=\"Clueless Mechanic\" width=\"216\" height=\"300\" class=\"alignright
-  size-medium wp-image-460\" /></a>\r\n\r\nNo, no, not you. Other digital artists,
-  like those guys who spend ten days recalibrating all of their equipment before developing
-  each photograph. I hope you don't do that.\r\n\r\nWhat I mean by \"functionally
-  retarded\" is, ironically, that these artists are smart--very smart. Genius level,
-  in some cases. However, their intelligence draws them into an *irrational attention
-  to detail and measurement*, which incurs a logarithmic increase in effort for each
-  fractional gain in image quality.\r\n\r\nAs a digital artist, you are faced with
-  an ever-expanding array of tools that can be brought to bear on your work. The mere
-  existence of such tools is an invitation, to some, to spend the rest of their lives
-  tweaking and re-developing a single image, printing it on every possible paper,
-  using every possible ink combination, surface treatment, and mounting option. This
-  is not what I would call art, it is _completionism_, pure and simple."
 wordpress_id: 166
 wordpress_url: http://www.singleservingphoto.com/?p=166
 date: '2010-02-15 08:33:15 -0500'

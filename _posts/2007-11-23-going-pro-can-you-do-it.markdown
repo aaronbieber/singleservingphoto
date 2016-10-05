@@ -6,13 +6,6 @@ title: 'Going Pro: Can You Do It?'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "One of the most popular questions asked throughout the photography blogs
-  that I read and on other discussion sites is \"How can I go pro?\" or \"Can I make
-  a living with my photography?\" Everyone seems to have a different answer and the
-  responses vary a lot depending on whether the individual answering is a working
-  pro, and if they are, what industry they work in.\r\n\r\nDespite plentiful arguments
-  to the contrary, I do believe that photography can be a viable full-time job. Making
-  it work for you requires flexibility and understanding of the marketplace."
 wordpress_id: 158
 wordpress_url: http://www.singleservingphoto.com/2007/11/23/going-pro-can-you-do-it/
 date: '2007-11-23 12:49:35 -0500'

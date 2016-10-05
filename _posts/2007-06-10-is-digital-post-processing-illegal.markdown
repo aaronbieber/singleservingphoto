@@ -6,15 +6,6 @@ title: Is Digital Post-Processing "Illegal?"
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "$random:right$\r\n\r\nThere was a time, long ago, when photographs were
-  conceived at the moment the shutter button was depressed. Darkroom techniques were
-  limited at best (the idea that a photographic image could even be created was a
-  modern miracle) and the photographer was required to make near-perfect exposures
-  every time.\r\n\r\nThings have changed a lot since then; it's now possible to do
-  amazing things long after the light has been captured by the camera. Today I'm going
-  to explore some competing points of view and take a philosophical walk through the
-  annals of photographic history to clear up some improper perceptions of digital
-  post-processing."
 wordpress_id: 124
 wordpress_url: http://www.singleservingphoto.com/2007/06/10/is-digital-post-processing-illegal/
 date: '2007-06-10 13:17:39 -0400'

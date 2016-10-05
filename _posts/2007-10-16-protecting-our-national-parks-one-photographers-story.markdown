@@ -6,15 +6,6 @@ title: 'Protecting Our National Parks: One Photographer''s Story'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Because we, as photographers, so often use nature and the natural environment
-  around us as subject matter in our work, it behooves us to try our best to preserve
-  it. It's very important when photographing in nature that we recognize our impact
-  on the environment and do our best to minimize it.\r\n\r\nIn the Great Smoky Mountains
-  this past week, I got a very personal introduction to one way our photography can
-  greatly disturb the environment and so today I will talk about it.\r\n\r\n<a href=\"http://blogactionday.org\"><img
-  src=\"http://blogactionday.org/images/action_468x60.jpg\" /></a>\r\n\r\nThis is
-  my contribution to Blog Action Day, joining 15,000 fellow bloggers in raising awareness
-  of environmental issues. (Yes, I know it was yesterday. Better late than never!)"
 wordpress_id: 149
 wordpress_url: http://www.singleservingphoto.com/2007/10/16/protecting-our-national-parks-one-photographers-story/
 date: '2007-10-16 21:53:24 -0400'

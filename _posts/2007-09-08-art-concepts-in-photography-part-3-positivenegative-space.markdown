@@ -6,14 +6,6 @@ title: 'Art Concepts in Photography, Part 3: Positive/Negative Space'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: |-
-  If you haven't, you may want to read the first two parts of the _Art Concepts_
-  series, [Part 1: Texture](/2007/08/02/art-concepts-in-photography-part-1-texture.html),
-  and [Part 2: Composition](/2007/08/26/art-concepts-in-photography-part-2-composition.html)
-  In this, the third bite of our _feast of art knowledge_, I will talk about an
-  elusive concept called positive and negative space. Traditionally, negative
-  space is defined as the "empty" areas within an image. As you will soon see,
-  even that which is empty can be very tangible.
 wordpress_id: 143
 wordpress_url: http://www.singleservingphoto.com/2007/09/08/art-concepts-in-photography-part-3-positivenegative-space/
 date: '2007-09-08 22:10:28 -0400'

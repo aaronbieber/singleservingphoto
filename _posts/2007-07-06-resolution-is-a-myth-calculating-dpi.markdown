@@ -6,10 +6,6 @@ title: 'Resolution Is a Myth: Calculating DPI'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "$random:right$\r\n\r\nMany people ask me, \"What's the best resolution?\"
-  Not only is the most important part of that question _missing_ (best resolution
-  _for what_?) but it's marinaded in thick and juicy misconceptions about what _resolution_
-  really means.\r\n\r\nResolution is a myth."
 wordpress_id: 132
 wordpress_url: http://www.singleservingphoto.com/2007/07/06/resolution-is-a-myth-calculating-dpi/
 date: '2007-07-06 14:34:51 -0400'

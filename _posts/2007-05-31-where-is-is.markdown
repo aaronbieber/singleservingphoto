@@ -6,15 +6,6 @@ title: Where Is IS?
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "$random:right$\r\n\r\nThe debate rages on concerning the best place to put
-  \"image stabilization\" features. Is it within the lens housing, as Canon prefers;
-  or is it within the camera body itself as Pentax, Panasonic, Sony, and others have
-  adopted?\r\n\r\nThe big names in photography have evidently made their decisions,
-  but photographers have their own opinions. As with most things in photography, if
-  not in life, this decision is one with many trade-offs; if there was one completely
-  correct answer, it would already be known.\r\n\r\nToday I will dive into the briar
-  patch and outline the pros and cons of both sides of the debate so that you can
-  make a more fully informed decision about what equipment to buy."
 wordpress_id: 121
 wordpress_url: http://www.singleservingphoto.com/2007/05/31/where-is-is/
 date: '2007-05-31 19:35:08 -0400'

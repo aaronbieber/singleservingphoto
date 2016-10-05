@@ -6,20 +6,6 @@ title: Lenskirt, What a Neat Idea
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Right, so I'm following Tom Anderson on Google Plus. You remember Tom? There
-  is a fairly good chance that if you were on the Internet around 2003 or so, you
-  were friends with Tom. Well, OK, you've probably never gone to lunch with him, or
-  shaken his hand, or talked to him, or met him. But you were friends with him on
-  MySpace... Because everyone was.\r\n\r\n<a href=\"http://singleservingphoto.com/wp-content/uploads/2011/11/l.png\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2011/11/l-150x147.png\" alt=\"\"
-  title=\"Tom Anderson\" width=\"150\" height=\"147\" class=\"alignright size-thumbnail
-  wp-image-1126\" /></a>\r\n\r\nTom Anderson was the first president of MySpace and
-  the guy who was automatically added to your friend list the moment you joined. Yeah,
-  _that Tom_. There he is over there on the right, you remember that guy? With his
-  judgment-free smile and his own whiteboard to sit in front of? When you're the president
-  of the first truly successful social network you can have your _own_ whiteboard.
-  You can put it right next to your desk if you want to.\r\n\r\nOf course, absolutely
-  none of this matters. I should get to the point."
 wordpress_id: 1125
 wordpress_url: http://singleservingphoto.com/?p=1125
 date: '2011-11-21 20:57:39 -0500'

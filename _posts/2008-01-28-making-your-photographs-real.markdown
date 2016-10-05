@@ -6,13 +6,6 @@ title: Making Your Photographs Real
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "It has been said that a photograph isn't truly _done_&mdash;that it doesn't
-  completely _exist_&mdash;until it has been printed.\r\n\r\nWhether you believe printing
-  to be the absolute culmination of your photographic efforts or not, you will undoubtedly
-  have an ongoing need to print your images nonetheless, whether it be for presentation;
-  to give as gifts; to make cards, calendars, or other products; or to wallpaper your
-  bathroom (snap a quick photo of that if you do!)\r\n\r\nHere are some services that
-  may come to your aid."
 wordpress_id: 169
 wordpress_url: http://www.singleservingphoto.com/2008/01/28/making-your-photographs-real/
 date: '2008-01-28 23:22:24 -0500'

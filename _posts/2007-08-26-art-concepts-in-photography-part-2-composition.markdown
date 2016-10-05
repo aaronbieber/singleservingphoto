@@ -6,22 +6,6 @@ title: 'Art Concepts in Photography, Part 2: Composition'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: |-
-  This article is part of a series. If you want, go back and read
-  [Art Concepts in Photography, Part I: Texture\](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/).
-  I come from more of a fine art background; my parents both work in the arts
-  and photography for me is an extension of my involvement in art as a whole. By
-  talking about the fundamental concepts of art as they apply to photography I
-  hope to help you improve your work and also understand the works of
-  others.\r\n\r\nBecause this is only the second part in my Art Concepts series,
-  I want to study the more general and fundamental stuff first. In the last
-  episode, we looked at texture. Texture is a fairly specific element, so today
-  I thought I would take a big step back and talk about
-  _composition_.\r\n\r\nWhen we say \"composition,\" we refer not only to the
-  relative locations of the points of interest in a piece (which is the most
-  discussed aspect), but also to their sizes, shapes, colors, and other
-  variables that contribute to the balance (or imbalance) of the work. That's
-  what we're going to look at today.
 wordpress_id: 137
 wordpress_url: http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/
 date: '2007-08-26 17:31:25 -0400'

@@ -6,20 +6,6 @@ title: Panomania!
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Seldom do I employ such emphatic punctuation in a blog title, or such bombastic
-  portmanteaus, but it seemed appropriate given the out-of-control creation of panoramas
-  that I've been engaged in lately.\r\n\r\nAs I mentioned in my last post, I'm out
-  here in the great American westâ€”\"big sky country,\" if you want to call it thatâ€”and
-  some of the sights I've seen were nothing less than _demanding_ of a panoramic treatment.
-  On top of that, I suffer from a devastating case of technolust and wanted to really
-  put \"AutoPano Giga\" through the paces. Well, I sure did. I also probably melted
-  the heat sink off my poor laptop's CPU...\r\n\r\nArthur C. Clarke once wrote that
-  \"any sufficiently advanced technology is indistinguishable from magic.\" In the
-  case of AutoPano Giga, I think he was wrong; I think it actually _is_ magic. I have
-  tried a few panorama tools out there; the free and open-source Panotools, a couple
-  of Mac-exclusive ones, and so on. AutoPano Giga is so easy and so fast and so accurate,
-  it blows them all out of the water. Of course it also costs an arm and a leg, but
-  at least you know why.\r\n\r\nAfter the break, actual panoramas!"
 wordpress_id: 689
 wordpress_url: http://singleservingphoto.com/?p=689
 date: '2010-05-30 14:11:39 -0400'

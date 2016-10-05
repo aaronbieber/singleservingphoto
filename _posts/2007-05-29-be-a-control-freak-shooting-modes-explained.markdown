@@ -6,11 +6,6 @@ title: Be a Control Freak (Shooting Modes Explained)
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: Most (if not all) digital SLR cameras have a variety of "modes" that they
-  can be operated in, such as _Av_, _Tv_, _Portrait_, and so on. To the novice it
-  may seem as though some of the modes are redundant, and certainly to some degree
-  that is true, but they all have their uses. Today I will attempt to demystify these
-  modes and explain how to use them most effectively for the greatest creative impact.
 wordpress_id: 120
 wordpress_url: http://www.singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/
 date: '2007-05-29 17:25:38 -0400'

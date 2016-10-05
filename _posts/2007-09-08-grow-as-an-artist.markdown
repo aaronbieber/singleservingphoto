@@ -6,13 +6,6 @@ title: Grow as an Artist
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "$random:right$\r\n\r\nThere are three major ways to grow as an artist; to
-  strengthen your aesthetic senses and the quality of your work:\r\n\r\n# *Emulate*
-  the work of artists you admire,\r\n# *Experiment* on your own, exploring the subject
-  matter that interests you, and\r\n# Participate in *critique*\r\n\r\nEmulation is
-  very common, especially when getting started in art, and exploring subject matter
-  of interest to you essentially describes _doing_ art, so I'm sure you do that already.
-  *Critique, however, is where many artists are weakest.*"
 wordpress_id: 142
 wordpress_url: http://www.singleservingphoto.com/2007/09/08/grow-as-an-artist/
 date: '2007-09-08 20:04:18 -0400'

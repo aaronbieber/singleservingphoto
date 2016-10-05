@@ -6,15 +6,6 @@ title: Photography Rises in Collectibility, Value
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Nearly two hundred years after the invention of photography, creations in
-  the medium are finally being considered \"safe\" investments. The value of photographs
-  as collectibles is rising sharply, to the pleasure of auction-goers and to the woe
-  of some photographers.\r\n\r\nThough paintings, sculptures, prints, and other works
-  of fine art have been spotlighted on the auction block for many years and for tremendous
-  money (works by Jackson Pollock and Gustav Klimt—to name only two—have sold at auction
-  for more than $100 million apiece), the world of fine art collectors has seldom
-  been penetrated by even the most renowned photographers.\r\n\r\nThis, however, is
-  changing."
 wordpress_id: 165
 wordpress_url: http://www.singleservingphoto.com/2008/01/13/photography-rises-in-collectibility-value/
 date: '2008-01-13 18:15:54 -0500'

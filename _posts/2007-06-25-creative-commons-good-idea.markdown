@@ -6,21 +6,6 @@ title: 'Creative Commons: Good Idea?'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Is it a good idea to give away work for self-promotion? Can you realize
-  secondary gains from charity? I like to think of myself as a charitable person;
-  my stance has typically been to give things away in the name of recognition rather
-  than lock them up and hope to find a market for them in the future. I'd rather let
-  the world see my work and appreciate it than stand on principle and be completely
-  unrecognized.\r\n\r\nThat said, everyone has a different threshold of charity, and
-  that threshold seems to be linked to their success and recognition. Completely unrecognized
-  people give things away to gain exposure. After achieving success, they often stop
-  giving things away to maximize their gains. Then, if they become very successful,
-  they may begin giving things away again because they can afford to.\r\n\r\nBecause
-  there are so many nuances to the ways in which creators may wish for their work
-  to be used by others, the Creative Commons emerged, creating whole new gradations
-  within the copyright system. Now, rather than saying \"all rights reserved,\" we
-  can easily say \"some rights reserved\" and call upon a pile of pre-written legalese.
-  Good idea?"
 wordpress_id: 129
 wordpress_url: http://www.singleservingphoto.com/2007/06/25/creative-commons-good-idea/
 date: '2007-06-25 11:09:45 -0400'

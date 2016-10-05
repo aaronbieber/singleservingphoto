@@ -6,22 +6,6 @@ title: The Dreaded Lightroom "Change Modules" Error
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "If you've been using Adobe Lightroom since Beta 1, as I have, and if you're
-  using a Mac, there is a very good chance that you've run into the _awful_ \"change
-  modules\" error. This error usually strikes when your catalog is being updated during
-  a version upgrade, when other Adobe software on your computer changes, or for any
-  number of other unrelated reasons (as I discovered).\r\n\r\nWhat happens is roughly
-  this: you open the program and the splash screen remains indefinitely. If you click
-  it, it disappears, but Lightroom's main window does not open. You receive a very
-  minimal menu bar including \"Lightroom,\" \"File,\" \"Edit,\" and perhaps \"Window.\"
-  The File menu is shortened and only allows you to open a catalog. I presume that
-  this is what Lightroom would look like if you could put it into a state where it
-  has no catalog open. During normal operation, you basically always have a catalog
-  open.\r\n\r\nOnce there, you can try to open your catalog, but as soon as you do,
-  you will receive the error: \"An error occurred when attempting to change modules.\"
-  Feel free to click OK on that message, it will simply drop you into a weird, incomplete
-  Lightroom interface that has no side panels and no film strip.\r\n\r\nHaving battled
-  this error two different times now, I am confident I can offer some advice."
 wordpress_id: 153
 wordpress_url: http://www.singleservingphoto.com/2007/10/19/the-dreaded-lightroom-change-modules-error/
 date: '2007-10-19 15:58:45 -0400'

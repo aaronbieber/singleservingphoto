@@ -6,13 +6,6 @@ title: Digital Photography Overtakes Film
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "My headline might be a bit of an overstatement, but digital photography
-  stands closer than ever to forcing out film as the number one choice among new photographers.
-  In fact, I might go so far as to say that digital _is_ the number one choice among
-  new photographers, though that doesn't mean that film has become obsolete.\r\n\r\nIt's
-  more important than ever for photographers to be aware of what's happening in the
-  digital world as today's youngest generation of photographers enter the scene and
-  wonder why anyone ever got their hands wet while making images."
 wordpress_id: 160
 wordpress_url: http://www.singleservingphoto.com/2007/12/18/digital-photography-overtakes-film/
 date: '2007-12-18 09:34:40 -0500'

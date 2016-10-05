@@ -6,13 +6,6 @@ title: Protecting Your Digital Rights
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Someone might be publishing one of your photographs right now. Without your
-  permission.\r\n\r\nPhotographers today are faced with the very real possibility
-  that their rights are being violated due to the simplicity that digital media brings
-  to the act of duplication and distribution of their work. Your ability as a photographer
-  to understand and apply the tools and techniques available to protect your copyrights
-  will contribute largely to how easily someone else can wrongly profit from your
-  work and how easily you can seek remedies for that infringement."
 wordpress_id: 99
 wordpress_url: http://www.singleservingphoto.com/2007/04/11/protecting-your-digital-rights/
 date: '2007-04-11 21:51:22 -0400'

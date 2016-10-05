@@ -6,11 +6,6 @@ title: How Many Bits? Is Eight Enough?
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "If you are serious about photography, you should answer this question very
-  carefully: _Is eight bits of color depth enough?_ Today I will uncover some truths
-  about bit depth; explain what it means, demonstrate what it can do for you, and
-  answer the question that gets so many photographers hot under the collar: _8-bit
-  or 16-bit?_\r\n\r\nIt's never as simple as it sounds."
 wordpress_id: 123
 wordpress_url: http://www.singleservingphoto.com/2007/06/06/how-many-bits-is-eight-enough/
 date: '2007-06-06 22:28:52 -0400'

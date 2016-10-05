@@ -6,12 +6,6 @@ title: Web Rules for Photographers
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "$random:right$\r\n\r\nIn the web development world (which I call home for
-  about eight to ten hours a day), we have a few general \"rules\" we follow to make
-  websites more usable, accessible, and effective. Photographers are a technically
-  savvy crowd, especially since digital has gotten so popular, but they don't always
-  think about things the way web developers do. Here are some simple guidelines you
-  can follow when promoting your work on the web."
 wordpress_id: 127
 wordpress_url: http://www.singleservingphoto.com/2007/06/20/web-rules-for-photographers/
 date: '2007-06-20 12:44:09 -0400'

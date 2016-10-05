@@ -6,16 +6,6 @@ title: Your Artist's Statement
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img src=\"http://singleservingphoto.com/wp-content/uploads/2010/03/GirlWithTypewriter-300x299.jpg\"
-  alt=\"\" title=\"Woman holding typewriter.\" width=\"300\" height=\"299\" class=\"alignright
-  size-medium wp-image-588\" />\r\n\r\nWhat's that, you don't have an artist's statement?
-  How do you expect people to understand all of your pretentious goals if you don't
-  write an indecipherable, abstract, and self-involved narrative about them?\r\n\r\nOkay,
-  I'm mostly kidding. Seriously, though, writing an artist's statement is important--sometimes
-  even necessary--if you are going to show your work in a gallery. On top of that,
-  it can also be a great exercise for your own self-exploration; sometimes being forced
-  to put your motivations into words can help you to focus yourself creatively.\r\n\r\nRead
-  the rest of the article for tips on writing your own kick-ass artist's statement!"
 wordpress_id: 584
 wordpress_url: http://singleservingphoto.com/?p=584
 date: '2010-03-15 12:25:38 -0400'

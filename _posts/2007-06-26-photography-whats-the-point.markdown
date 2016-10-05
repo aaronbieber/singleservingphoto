@@ -6,17 +6,6 @@ title: 'Photography: What''s the Point?'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: |-
-  !/articles/images/WTD210.gif!\r\n\r\nThanks to Aaron Johnson of \[What the
-  Duck\](http://www.whattheduck).net for this eloquent visual synopsis of what I've
-  been thinking about lately. Too often we get so deeply embroiled in our craft that
-  we forget why we do it.\r\n\r\nA debate has been raging for days on \[Usenet\](http://en.wikipedia.org/wiki/Usenet)
-  over the question of whether photography is art and, if so, when it _becomes_ art.
-  Although the very discussion is futile and has no practical outcome, I do think
-  it's important to take a step back from what you're doing and think about what it
-  is you're gaining from it. This is going to be a heady philosophical post so if
-  that's not your particular brand of vodka, \[read some photo news\](http://www.google.com/reader/shared/user/15563285598058491045/label/photography)
-  instead.
 wordpress_id: 128
 wordpress_url: http://www.singleservingphoto.com/2007/06/26/photography-whats-the-point/
 date: '2007-06-26 11:55:23 -0400'

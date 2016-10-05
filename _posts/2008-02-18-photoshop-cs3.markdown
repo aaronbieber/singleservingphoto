@@ -6,17 +6,6 @@ title: Photoshop CS3!
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "I have been _waiting in the wings_, so to speak, for quite some time on
-  the topic of upgrading Photoshop. Because I do a lot of other design work in programs
-  like Illustrator and even occasionally InDesign, it's quite a bit more costly for
-  me to upgrade than if I were just buying Photoshop.\r\n\r\nAnyway, I finally broke
-  down and purchased a brand new (okay, refurbished... But brand new to me!) Mac Pro,
-  which uses the Intel chips. Only CS3 runs natively on Intel chips, and the thought
-  of my software not running as quickly as it could on my brand new (...to me) machine
-  bothered me. So I found a really good deal on Creative Suite Design Premium CS3
-  and bit the bullet. Hard.\r\n\r\nAfter the jump, a *list* of my first impressions,
-  tips, and a selection of articles from other places that may be helpful for anyone
-  making the transition to CS3... Which I *highly* recommend."
 wordpress_id: 172
 wordpress_url: http://www.singleservingphoto.com/2008/02/18/photoshop-cs3/
 date: '2008-02-18 16:53:09 -0500'

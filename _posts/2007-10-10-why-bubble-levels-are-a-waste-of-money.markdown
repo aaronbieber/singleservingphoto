@@ -6,15 +6,6 @@ title: Why Bubble Levels Are a Waste of Money
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "There may be a time and a place for a real bubble level, but I happen to
-  think that it's in carpentry. I'll tell you why.\r\n\r\n<img src=\"http://singleservingphoto.com/wp-content/uploads/2007/10/HakubaLevel1.jpg\"
-  alt=\"Hakuba Bubble Level\" title=\"Hakuba Bubble Level\" width=\"400\" height=\"266\"
-  class=\"aligncenter size-full wp-image-613\" style=\"border: 1px solid silver;\"
-  />\r\n\r\nIn this day and age, you can buy nearly any piece of photographic equipment
-  with a bubble level built into it somewhere. Tripods, ball heads, camera brackets,
-  and even little standalone levels that clip into your hot shoe like the one shown
-  above (made by Hakuba). Do I think these products are clever? Absolutely. Do I recommend
-  purchasing one? Not really."
 wordpress_id: 148
 wordpress_url: http://www.singleservingphoto.com/2007/10/10/why-bubble-levels-are-a-waste-of-money/
 date: '2007-10-10 16:32:11 -0400'

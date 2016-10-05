@@ -6,13 +6,6 @@ title: 'Histograms: Huh?'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "I don't think there is a single digital photographer who hasn't, at one
-  time or another, looked at a histogram (much like the one below) and thought _What
-  the fuzz is this thing trying to tell me?_ If that describes you, or if you just
-  want to know more about this ubiquitous and curious graph, you've come to the right
-  place.\r\n\r\n!/articles/Histograms/Figure-1.gif!\r\n\r\nToday I will unclothe the
-  common histogram and show you not only how to read it, but also how you can use
-  it to strengthen your work."
 wordpress_id: 122
 wordpress_url: http://www.singleservingphoto.com/2007/06/03/histograms-huh/
 date: '2007-06-03 15:52:53 -0400'

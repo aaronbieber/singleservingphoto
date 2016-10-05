@@ -6,20 +6,6 @@ title: Ever Wondered About Gamma?
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img src=\"http://singleservingphoto.com/wp-content/uploads/2011/02/gamma-150x133.png\"
-  alt=\"\" title=\"Gamma\" width=\"150\" height=\"133\" class=\"alignright size-thumbnail
-  wp-image-922\" />\r\n\r\nHave you ever wondered about that \"gamma\" thing you keep
-  seeing? You nerd.\r\n\r\nReally, though, gamma is important and you have probably
-  seen the word all over the place in photography and design. It's actually a really
-  cool thing and when you understand how it works you will likely feel better about
-  yourself, your photographs, and about the universe. Well, you'll feel smarter, anyway,
-  and you will be. You'll also be able to add another item to your lists of:\r\n\r\n#
-  Answers to questions nobody will ever ask you,\r\n# Greek letters you recognize,
-  and\r\n# Awkward things to bring up on a first date\r\n\r\nYou can already check
-  off number two if you look up on the right there. Yup, that's gamma.\r\n\r\nAdditionally,
-  if you are friends with other photographers and they don't know what gamma is or
-  how it works, you might come out of this looking like a rockstar. At least to the
-  extent that rockstars are knowledgeable about non-linear power-law expressions."
 wordpress_id: 921
 wordpress_url: http://singleservingphoto.com/?p=921
 date: '2011-02-01 21:41:10 -0500'

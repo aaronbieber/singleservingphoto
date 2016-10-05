@@ -6,17 +6,6 @@ title: The High Plains and Beyond
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img src=\"http://singleservingphoto.com/wp-content/uploads/2010/05/teton4-300x199.jpg\"
-  alt=\"Tetons Fisheye (c) Aaron Bieber\" title=\"Tetons Fisheye\" width=\"300\" height=\"199\"
-  class=\"alignright size-medium wp-image-662\" />\r\n\r\nThis week, I am traveling
-  through the western US on a sort of national park whirlwind tour. I flew into Denver,
-  CO on Sunday, took a quick jaunt through about half of *Rocky Mountain National
-  Park*, and now I'm hanging out in *Grand Teton National Park* until tomorrow when
-  I'll head up to *Yellowstone* (to the right is a fisheye shot of part of the Teton
-  range I took yesterday).\r\n\r\nAlthough the landscapes are breathtakingly (and
-  effortlessly) beautiful, photographing out here in these western mountain parks
-  presents its own challenges, and I'd like to share with you what I've learned so
-  far about successfully shooting in Rocky Mountain and Grand Teton."
 wordpress_id: 661
 wordpress_url: http://singleservingphoto.com/?p=661
 date: '2010-05-25 19:16:23 -0400'

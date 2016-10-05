@@ -6,22 +6,6 @@ title: Another Lightbox-for-Less Success Story
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img alt=\"\" src=\"http://farm3.static.flickr.com/2051/1806187700_c77b8fdc61_m.jpg\"
-  title=\"A worldly treasure\" class=\"alignright\" width=\"240\" height=\"240\" />\r\n\r\nIf
-  you have, let's just say, a trunk-full of _strange and wondrous objects_ fresh off
-  the barge and out of the splintered shipping crate from lands afar, chances are
-  good you're either the kingpin of an international smuggling ring or you're going
-  into business for yourself. If you're my friend Eli, you're the owner and operator
-  of _Old Man Hodapp's Worldly Treasures_, peddling only the finest of... Completely
-  weird stuff from all over the globe.\r\n\r\nAfter you've come to terms with the
-  concept of selling parts of animals you can't readily identify, you will surely
-  need to take some pretty pictures to entice the prospective customers who crawl
-  through your website, and that means you're going to want to build a low-cost lightbox
-  (or cloudbox or cloud dome or... _diffuse light chamber_) to get that snappy catalog
-  look.\r\n\r\nI got together with Eli and got him to explain how he constructed a
-  very serviceable lightbox for _less than $20_. We also talked a bit about post-processing
-  and how to streamline the task of readying hundreds of product shots for the web
-  without going insane."
 wordpress_id: 155
 wordpress_url: http://www.singleservingphoto.com/2007/11/02/another-lightbox-for-less-success-story/
 date: '2007-11-02 21:14:55 -0400'

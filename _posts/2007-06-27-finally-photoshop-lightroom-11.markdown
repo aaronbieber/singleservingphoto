@@ -6,15 +6,6 @@ title: Finally, Photoshop Lightroom 1.1!
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: |-
-  <img src=\"/articles/images/lightroom.jpg\" style=\"float: left;\" alt=\"Photoshop
-  Lightroom 1.1\" />\r\n\r\nAdobe has finally released the first upgrade package for
-  Photoshop Lightroom, which brings us to version 1.1. I say \"finally\" because this
-  upgrade introduces at least one feature that we hoped against hope would be in the
-  first release, the ability to _merge libraries_, among other enhancements.\r\n\r\nFirst,
-  if you have Lightroom and it hasn't already popped up and told you to
-  [download the upgrade](http://www.adobe.com/products/photoshoplightroom), you
-  should seriously click over there and do that.
 wordpress_id: 130
 wordpress_url: http://www.singleservingphoto.com/2007/06/27/finally-photoshop-lightroom-11/
 date: '2007-06-27 14:01:46 -0400'

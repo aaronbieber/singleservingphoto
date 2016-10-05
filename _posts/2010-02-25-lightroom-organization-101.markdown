@@ -6,10 +6,6 @@ title: Lightroom Organization 101
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: What you're about to read is a totally inclusive, top-to-bottom, front-to-back
-  workflow for organizing, sorting, and managing your digital photos using Adobe Photoshop
-  Lightroom. Similar techniques will, I'm sure, apply to Apple Aperture, though all
-  keyboard shortcuts and terminology will be Lightroom-specific.
 wordpress_id: 539
 wordpress_url: http://singleservingphoto.com/?p=539
 date: '2010-02-25 09:26:00 -0500'

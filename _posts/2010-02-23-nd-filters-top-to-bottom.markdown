@@ -6,9 +6,6 @@ title: ND Filters, Top to Bottom
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: I'm about to blow the lid off this mysterious piece of kit, totally demystify
-  the nineteen (well, four...) ways their strengths are measured, and give you some
-  awesome tips for using them effectively in the field.
 wordpress_id: 454
 wordpress_url: http://singleservingphoto.com/?p=454
 date: '2010-02-23 09:54:35 -0500'

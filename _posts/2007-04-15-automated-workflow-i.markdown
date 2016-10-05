@@ -6,14 +6,6 @@ title: Automated Workflow I
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Do you find yourself performing the same mundane tasks over and over? Exporting
-  photos, sorting them, watermarking them, renaming the files, applying metadata,
-  uploading them, etc., etc. These kinds of tasks are simply _ripe_ for automation.
-  Make the computer do all the work, that's my mantra.\r\n\r\nIn this series of articles,
-  I will discuss the down and dirty mechanics of how I've automated a good deal of
-  my workflow. I'll probably continue to add chapters to this series as I figure out
-  new methods, but hopefully you can start saving time right off the bat with some
-  of these tips!\r\n\r\nToday's topic is *exporting* and *watermarking*."
 wordpress_id: 103
 wordpress_url: http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/
 date: '2007-04-15 21:41:27 -0400'

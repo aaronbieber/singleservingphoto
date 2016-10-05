@@ -6,17 +6,6 @@ title: Photographers Are Terrorists
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "$random:right$\r\n\r\nI hope you read the subject of this article and gasped.
-  I hope that your first reaction was indignance or perhaps anger. I share your feelings,
-  but we photographers continuously deal with a level of public distrust and scrutiny
-  that should worry us all. It's important, whether you're an amateur or a professional,
-  to know what your rights are and to stand up for them so they don't erode into nothingness,
-  leaving us all standing there with our cameras and nothing to point them at.\r\n\r\nToday
-  I'm going to talk about photographers' rights, a topic discussed in many other forums
-  and at great length. My focus will be on United States laws: what you are legally
-  permitted to photograph; what, if any, argument you should be willing to put up
-  with from certain officials; and some of my own experiences.\r\n\r\nPlease come
-  in, photography is allowed."
 wordpress_id: 131
 wordpress_url: http://www.singleservingphoto.com/2007/07/10/photographers-are-terrorists/
 date: '2007-07-10 13:32:49 -0400'

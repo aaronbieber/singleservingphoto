@@ -6,11 +6,6 @@ title: Automated Workflow II
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "In the [last chapter of my Automated Workflow series](/2007/04/15/automated-workflow-i.html),
-  I showed you how to use some neat scripting tricks to apply watermarks to your photos
-  automatically. In this chapter, I'm going to talk about naming and organizing photos
-  and show you how to set up some scripts to make things easier for you.\r\n\r\nYou
-  have a bunch of pretty photos; shouldn't they have pretty names?"
 wordpress_id: 104
 wordpress_url: http://www.singleservingphoto.com/2007/04/19/automated-workflow-ii/
 date: '2007-04-19 22:26:20 -0400'

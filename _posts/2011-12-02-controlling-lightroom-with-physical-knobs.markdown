@@ -6,15 +6,6 @@ title: Controlling Lightroom with Physical Knobs
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "Using Lightroom is a joy compared to Photoshop. But it isn't a joy compared
-  to, for example, cheesecake. It's definitely nice to be able to adjust nearly every
-  aspect of an image with convenient sliders, to have all of the settings right in
-  front of you without having to open lots of dialog boxes. At the same time, though,
-  your mouse hand can get pretty tired, and that never happens with cheesecake, now
-  does it?\r\n\r\nNever fear, there is finally a solution. Well, the beginning of
-  a solution. A solution in the early stages of beta testing, but a solution nonetheless,
-  and it doesn't involve uninstalling Lightroom and eating more cheesecake. Although
-  you are welcome to eat more cheesecake anyway if that's your thing."
 wordpress_id: 1226
 wordpress_url: http://singleservingphoto.com/?p=1226
 date: '2011-12-02 13:03:13 -0500'

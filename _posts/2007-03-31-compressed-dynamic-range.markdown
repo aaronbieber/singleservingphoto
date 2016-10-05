@@ -6,32 +6,6 @@ title: Compressed Dynamic Range
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "*There is an in-depth Photoshop tutorial in this article, so make sure to
-  read the whole thing!*\r\n\r\nThere has been a good deal of activity and interest
-  lately in the area of \"high dynamic range\" or HDR imagery. Many of these \"HDR\"
-  images are characterized in part by a surreal or otherworldly feeling accompanied
-  by an ethereal glow surrounding the subject. I think the term \"HDR\" was ill-conceived
-  in this context. There *is* such a thing as a high dynamic range image, but you
-  wouldn't be able to view it because it contains more tonal data than you can perceive
-  or that a computer monitor could display. A true HDR image would be processed into
-  viewable images by compressing its range; essentially by running it through Photoshop's
-  \"levels\" or \"curves\" (but not in Photoshop, because Photoshop probably couldn't
-  open it).\r\n\r\nThe HDR images you see on Flickr and PhotoSIG are actually _compressed_
-  dynamic range because they portray scenes that had too much tonal range to be captured
-  in a single frame; the range of tones from highlight to shadow are _compressed_
-  into the range of a normal image. This is usually achieved by making two or more
-  frames at different exposure settings and combining them using Photoshop or one
-  of a number of standalone and plug-in softwares for that purpose (such as Photomatix,
-  PanoTools, etc.)\r\n\r\nIt's easier to understand (for me, at least) using pictures,
-  so here is an example. The two photographs below were taken of the same scene, a
-  scene with too much range for my camera to see full highlight *and* shadow detail
-  at the same time. One of the photos is exposed to capture the highlight data completely
-  and the other is exposed to capture the shadow data completely.\r\n\r\n!/articles/hdr/Figure-1.jpg!\r\n\r\nBelow
-  the photos you can see their histograms (I just snagged these from Photoshop's histogram
-  palette). Notice how photo #1's histogram is biased toward shadow data and photo
-  #2's is biased toward highlight data. You can see from the pictures themselves that
-  #1 has a much cooler looking sky, while #2 has the detail you would probably want
-  in the subject (in this case, a humble charcoal grill)."
 wordpress_id: 97
 wordpress_url: http://www.singleservingphoto.com/2007/03/31/compressed-dynamic-range/
 date: '2007-03-31 18:44:19 -0400'

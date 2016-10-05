@@ -6,21 +6,6 @@ title: ONE Tip to Make Better Photographs
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img style=\"border: 1px solid silver;\" src=\"http://singleservingphoto.com/wp-content/uploads/2010/03/Many-cameras-300x175.jpg\"
-  alt=\"Too many cameras!\" title=\"Too many cameras!\" width=\"300\" height=\"175\"
-  class=\"alignright size-medium wp-image-607\" />\r\n\r\nOn the long, long road to
-  artistic enlightenment, one is beset on all sides by the temptations of fast advancement,
-  of turn-key improvements that will catapult you, the artist, to new heights and
-  new levels of quality. Sometimes these temptations are valid and justifiable and
-  sometimes they're not.\r\n\r\nThe most often encountered temptation on the road
-  to artistic enlightenment in digital photography is _equipment_. Oh yes, all of
-  that _delicious tech_, how we love it so. If you've been shooting national parks
-  and you just can't seem to capture that \"Ansel Adams look\" that you're after,
-  you might think, _Hey, maybe $600 in high-end rectangular glass gradient filters
-  is the key to my woes!_ And truthfully, it could be...\r\n\r\n*But probably not.*\r\n\r\nThere
-  is only one piece of advice I can give you that will help you to simultaneously
-  improve your photographs and to save money on all of that equipment you keep drooling
-  over in the B&H catalog..."
 wordpress_id: 604
 wordpress_url: http://singleservingphoto.com/?p=604
 date: '2010-03-31 18:16:04 -0400'

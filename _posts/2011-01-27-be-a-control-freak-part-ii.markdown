@@ -6,20 +6,6 @@ title: Be a Control Freak, Part II
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "==[caption id=\"attachment_851\" align=\"alignright\" width=\"150\" caption=\"camera
-  dial by Lee Reynolds\"]<a href=\"http://www.flickr.com/photos/lwr/13831684/\"><img
-  src=\"http://singleservingphoto.com/wp-content/uploads/2011/01/mode_dial-150x150.jpg\"
-  alt=\"\" title=\"camera dial\" width=\"150\" height=\"150\" class=\"size-thumbnail
-  wp-image-851\" /></a>[/caption]==\r\n\r\nBeing an excellent photographer is 50%
-  vision and 50% technical prowess. Seeing the art all around you is only useful for
-  the photographer who can capture it, and perfectly executing that capture means
-  wrangling the piece of hardware you love so much, the camera.\r\n\r\nThese days,
-  most photographers are shooting digital. Digital photography is freeing in a lot
-  of ways, but it is also more complicated. Camera manufacturers have sought to close
-  the gap between the pro and the semi-pro by providing all of these different shooting
-  modes, and even though I still believe you only need three, it's not unusual to
-  see mode dials with 11 or 12 settings on them! _You don't need all those settings
-  to get full control!_ Haje Jan Kamps helps me explain after the break."
 wordpress_id: 849
 wordpress_url: http://singleservingphoto.com/?p=849
 date: '2011-01-27 17:19:42 -0500'

@@ -6,17 +6,6 @@ title: Neutral Density Filters
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img alt=\"Neutral Density Filters\" src=\"/articles/Filters.gif\" title=\"Neutral
-  Density Filters\" class=\"alignright\" width=\"200\" height=\"163\" />\r\n\r\nSometimes
-  when you're shooting in broad daylight you may have a reason to use a longer exposure
-  than you can achieve from your smallest aperture and lowest ISO setting. That's
-  where neutral density (or ND) filters come in.\r\n\r\nND filters have been _widely_
-  written about, so I don't intend to flog a dead horse here. Still, while shopping
-  for ND filters today, I realized that this whole numerical rating system they use
-  is kind of confusing, and I always wondered why some manufacturers will say ND.3,
-  while others simply write 0.3, and yet others come out and plainly state \"one stop.\"\r\n\r\nI
-  personally prefer that everything be expressed in stops, but since that isn't often
-  the case, here's my explanation... After the jump."
 wordpress_id: 173
 wordpress_url: http://www.singleservingphoto.com/2008/02/21/neutral-density-filters/
 date: '2008-02-21 17:56:46 -0500'

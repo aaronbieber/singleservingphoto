@@ -6,19 +6,6 @@ title: Product Photography on a Shoestring Budget
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "<img src=\"http://singleservingphoto.com/wp-content/uploads/2011/01/T01-01-e1296509300132-91x300.jpg\"
-  alt=\"\" title=\"Anderson Soap Demo Shot\" width=\"91\" height=\"300\" class=\"alignright
-  size-medium wp-image-914\" />\r\n\r\nPhotography is awesome and I love it, but it's
-  _super expensive_ sometimes. Photographers often commiserate with one another about
-  the high price tags on tripods and ball heads (or sometimes they gloat, but the
-  nice ones commiserate), and if you get into studio photography you are often getting
-  into a whole new world of expenses from strobes and stands to backdrops and gels.\r\n\r\nNow,
-  it definitely pays off to have the right tools for the job, and that starts to become
-  glaringly apparent when you're doing work with people, but for so-called tabletop
-  product photography you can often get by with some home improvement supplies and
-  a little ingenuity and patience.\r\n\r\nAfter the break, the resident product photographer
-  and editor at Handmadeology shares a $12 product studio setup that yielded the image
-  on the right."
 wordpress_id: 912
 wordpress_url: http://singleservingphoto.com/?p=912
 date: '2011-01-31 16:46:30 -0500'

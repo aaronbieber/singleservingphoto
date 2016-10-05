@@ -6,17 +6,6 @@ title: The Megapixel Marketing Lie
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "I generally post articles when I have something very useful to say, which
-  is why my posts have been so sporadic. There are a myriad of sources for photography
-  industry news and I always feel I am doing my readers a disservice by parroting
-  every new equipment release or software upgrade here.\r\n\r\nThis time, though,
-  a piece of \"news\" hit my screen that I had to share, and I hope that by reading
-  it here you will receive the whole story and not just 1/3 of it as some people did
-  when they got the information from digg, reddit, or similar.\r\n\r\nWe're talking
-  about megapixels, and we're talking about marketing, and we're talking about lies.
-  Lies perpetrated by the manufacturers of point-and-shoot cameras with tiny little
-  CCD sensors who keep increasing the megapixel count and marketing it like it's the
-  end-all be-all of imaging performance.\r\n\r\nNot so! Read on... "
 wordpress_id: 352
 wordpress_url: http://singleservingphoto.com/?p=352
 date: '2010-01-20 16:00:41 -0500'

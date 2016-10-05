@@ -6,17 +6,6 @@ title: Counting the Days Till California
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "On Saturday morning I'll be hopping on a plane up here in Boston to take
-  me out to California. I'll be landing in San Francisco and then driving from there
-  to Yosemite National Park for a solid four days of shooting. Yosemite has often
-  been described as \"the most beautiful place in the world,\" but probably has a
-  better chance at \"most beautiful place in America.\" It's a mightily subjective
-  title, but who am I to argue?\r\n\r\nI will stand in many of the places where Ansel
-  Adams stood and was touched by the unique beauty of the American West. With preparation
-  and some luck, I will return with a great deal of images to share with you all.\r\n\r\nI
-  apologize for not posting as much as usual, but the preparations for this voyage
-  have monopolized my attention. To make it up to you, here are some photography travel
-  tips that might be helpful."
 wordpress_id: 106
 wordpress_url: http://www.singleservingphoto.com/2007/04/26/counting-the-days-till-california/
 date: '2007-04-26 12:17:29 -0400'

@@ -6,18 +6,6 @@ title: 'Art Concepts in Photography, Part 1: Texture'
 author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-excerpt: "$image:right/SingleServings/2007/March/27Mar07-01.jpg$\r\n\r\nHaving spent
-  most of my developing years surrounded by it, I have always taken for granted many
-  of the fundamental guidelines of art. Perhaps due to the complexity of its technical
-  aspects, formal photography courses tend to focus (no pun intended) on the equipment
-  and techniques of creating images and not as much on their content.\r\n\r\nLearning
-  the traditional \"rules\" of art (or what I would call the rules of design) is important
-  for two specific reasons. First and foremost, to *make your work better*. Following
-  the rules--as well as judiciously breaking them--will strengthen your compositions,
-  but you need to know what they are before you can do either. Second, to *enhance
-  your critiquing ability*. By learning the basic terminology of art you will be able
-  to take full advantage of critique from your peers as well as articulate your own.\r\n\r\nSo
-  let's get started! Today I'll be discussing _texture_."
 wordpress_id: 135
 wordpress_url: http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/
 date: '2007-08-02 18:32:00 -0400'
