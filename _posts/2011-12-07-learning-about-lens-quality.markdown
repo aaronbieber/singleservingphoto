@@ -80,17 +80,16 @@ achieve.
 
 After all, that's what friends are for, right?
 
-Now, if you want to know more about the mechanics of MTF calculations
-and how these measurements are taken and what they mean (which is truly
-interesting stuff), I highly recommend that you take a look at [Camera
-Lens Quality: MTF, Resolution &
-Contrast](http://www.cambridgeincolour.com/tutorials/lens-quality-mtf-resolution.htm)
-written by Sean McHugh on the awesome Cambridge in Colour site. This is
-one of the more detailed explanations I've seen with attractive and
-understandable illustrations (which is the only way I can ever
-understand anything; you have to draw me a picture).
+Now, if you want to know more about the mechanics of MTF calculations and how
+these measurements are taken and what they mean (which is truly interesting
+stuff), I highly recommend that you take a look at
+[Camera Lens Quality: MTF, Resolution & Contrast](http://www.cambridgeincolour.com/tutorials/lens-quality-mtf-resolution.htm)
+written by Sean McHugh on the awesome Cambridge in Colour site. This is one of
+the more detailed explanations I've seen with attractive and understandable
+illustrations (which is the only way I can ever understand anything; you have to
+draw me a picture).
 
-If you want to peruse some lens reviews and play with interactive MTF
-graphs, start by reading dpreview's announcement of their new lens
-reviews and how their interactive tool works: [Dpreview launches lens
-reviews](http://www.dpreview.com/news/2008/1/29/dpreviewlensreviews.)
+If you want to peruse some lens reviews and play with interactive MTF graphs,
+start by reading dpreview's announcement of their new lens reviews and how their
+interactive tool works:
+[Dpreview launches lens reviews](http://www.dpreview.com/news/2008/1/29/dpreviewlensreviews).

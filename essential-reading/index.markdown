@@ -28,7 +28,7 @@ that are read more than any others. Here they are, in no particular order.
 * [Histograms, Huh?][hist]
 * [Resolution is a Myth: Calculating DPI][dpi]
 
-[nd]: http://singleservingphoto.com/2010/02/23/nd-filters-top-to-bottom.html
+[nd]: /2010/02/23/nd-filters-top-to-bottom.html
 [5s]: /2008/06/30/mastering-the-only-five-camera-settings.html
 [art1]: /2007/08/02/art-concepts-in-photography-part-1-texture.html
 [art2]: /2007/08/26/art-concepts-in-photography-part-2-composition.html

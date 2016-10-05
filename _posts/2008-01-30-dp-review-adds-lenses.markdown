@@ -32,10 +32,10 @@ was blown away by how easily it allows you to see what the real-life
 sharpness of the lens is at different distances from center and at
 different f-stops. Amazing.
 
-If you want to, [jump directly to the announcement on
-dpreview.com](http://www.dpreview.com/news/0801/08012913dpreviewlensreviews.asp,)
-or, for the really impatient, [directly to the
-lenses](http://www.dpreview.com/lensreviews/.)
+If you want to,
+[jump directly to the announcement on dpreview.com](http://www.dpreview.com/news/0801/08012913dpreviewlensreviews.asp),
+or, for the really impatient,
+[directly to the lenses](http://www.dpreview.com/lensreviews/).
 
 They only have four lens reviews posted at the time of this writing, but
 I'm sure there will be many more in the coming weeks. It can't be easy
