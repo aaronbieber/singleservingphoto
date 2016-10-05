@@ -86,7 +86,7 @@ Although fine art prints has been my primary source of income, sales are
 variable and it's hard to predict what any month's sales are going to be
 like, especially in the fine art world. Diversification is a great tool
 to supplement the income of a business and so I have started to do
-[in-the-field workshops](http://www.artphotoworkshops).com to share my
+[in-the-field workshops](http://www.artphotoworkshops.com) to share my
 experience with others who want to get more serious making photographs.
 
 In addition to actual "shooting workshops," which consist almost

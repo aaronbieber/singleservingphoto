@@ -36,7 +36,7 @@ Any Leica folks out there who can fill in some blanks? Leave a comment!
 
 *Edit*: I just learned that this split lens was the result of some
 kind of educational final project. The [engadget
-post](http://www.engadget).com/2011/05/16/4-000-leica-lens-split-in-two-sold-on-ebay-as-1-000-piece-of/
+post](http://www.engadget.com/2011/05/16/4-000-leica-lens-split-in-two-sold-on-ebay-as-1-000-piece-of/)
 this information comes from says that "Leica students" were permitted to
 cut a \$4,500 lens in half as an art project. I'm not sure what a "Leica
 student" is, but the halves sold on eBay for almost \$1,000.

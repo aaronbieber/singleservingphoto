@@ -38,5 +38,5 @@ and trust me, I know this from close personal experience printing
 photographic reproductions for five years.
 
 Read [Web browser color management
-guide](http://gearoracle).com/guides/web-browser-color-management-guide/
+guide](http://gearoracle.com/guides/web-browser-color-management-guide/)
 via Gear Oracle

@@ -143,7 +143,7 @@ and won't come back to bite me.
 ## Problems I've Had
 
 When I first became serious about art photography (which is what I'd say
-I do), my friend [Chris Blake](http://www.curiouslens).com and I would
+I do), my friend [Chris Blake](http://www.curiouslens.com) and I would
 travel to various public state parks and reservoirs and shoot for entire
 afternoons. It's good exercise and being outside is always pleasant in
 the summer months, so we did it a lot. I wouldn't say I came away with

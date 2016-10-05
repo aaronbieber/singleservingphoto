@@ -46,7 +46,7 @@ precious metadata, and as long as someone else was writing the software,
 I wanted a more robust e-commerce system.
 
 I decided to research photo hosting services. Because my co-instructor
-and friend [Chris](http://curiouslens).com had been using Photoshelter
+and friend [Chris](http://curiouslens.com) had been using Photoshelter
 for some time and had nothing but good things to say about it, it
 started at the top of my list.
 
@@ -64,7 +64,7 @@ professionally for more than ten years now, and I certainly know a good
 web app when I see one.
 
 My previous gallery was based on the ubiquitous [Gallery
-2](http://gallery.menalto).com/ script with _very_ heavy
+2](http://gallery.menalto.com/) script with _very_ heavy
 customizations. I think their architecture and codebase is a solid one.
 You can purchase hosted galleries from them, and although I have no
 experience with their hosted service, it's probably worth it. They have

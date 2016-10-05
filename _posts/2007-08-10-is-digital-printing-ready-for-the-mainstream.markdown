@@ -53,7 +53,7 @@ comments:
 ---
 A comment was just posted over on my [Art Concepts in Photography, Part
 1:
-Texture](http://www.singleservingphoto).com/2007/08/02/art-concepts-in-photography-part-1-texture/
+Texture](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/)
 article, but after I had composed my reply, I realized that it would be
 better suited to an entire post. Here is the comment:
 

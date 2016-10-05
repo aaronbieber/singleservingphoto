@@ -79,7 +79,7 @@ dialog where you can choose which shared folder to open. You want the
 one corresponding with your short name (which is your home folder on
 your laptop). If you need help setting up file sharing between your
 Macs, you may like to read [Mac OS X: About File
-Sharing](http://support.apple).com/kb/HT1549 on Apple's support website.
+Sharing](http://support.apple.com/kb/HT1549) on Apple's support website.
 
 ### Step 2: Get some photos!
 

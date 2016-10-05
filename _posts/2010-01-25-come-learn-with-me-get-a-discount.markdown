@@ -20,7 +20,7 @@ comments: []
 ---
 You already know that [I teach photography
 workshops](http://artphotoworkshops.com), right? My buddy
-[Chris](http://curiouslens).com and I have been teaching workshops for
+[Chris](http://curiouslens.com) and I have been teaching workshops for
 almost four years now, and although things were pretty slow in 2009, we
 are pushing ahead with a packed workshop schedule for 2010.
 

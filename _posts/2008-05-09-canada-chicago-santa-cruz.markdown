@@ -34,11 +34,11 @@ I'll have photos of that excursion posted soon.
 
 *Chicago is also beautiful*, though perhaps in a different way. My
 [Chicago Loop
-Workshop](http://www.artphotoworkshops).com/2008/June/ChicagoLoop is
+Workshop](http://www.artphotoworkshops.com/2008/June/ChicagoLoop) is
 coming up next month, it's just a three-day affair, very informal, and
 should be a lot of fun. At this very moment, I still have *three seats
 open*, so now is a good time to
-[register](http://www.artphotoworkshops).com/2008/June/ChicagoLoop if you
+[register](http://www.artphotoworkshops.com/2008/June/ChicagoLoop) if you
 want to join us! The cost is just \$449.
 
 I'll be running this workshop along with Chris Blake from [The Curious
@@ -50,7 +50,7 @@ be time for critique and review, maybe even some Lightroom/Photoshop
 tutorials if anyone is interested.
 
 *Santa Cruz is even _more_ beautiful*, especially in the summer! In
-July, Chris and I will be at [Calypso Imaging](http://calypsoinc).com/ in
+July, Chris and I will be at [Calypso Imaging](http://calypsoinc.com/) in
 gorgeous downtown Santa Cruz, a city of artists and free-thinkers
 directly on the coast of central California, teaching a three-day
 *digital workflow course*, focusing on organizing and processing
@@ -61,7 +61,7 @@ us](http://www.artphotoworkshops.com/2008/July/CalypsoWorkflowClass!)
 This course is only \$400.
 
 I'll also be doing a workshop with the inimitable [Dan
-Heller](http://www.danheller).com in October in gorgeous *Woodstock,
+Heller](http://www.danheller.com) in October in gorgeous *Woodstock,
 Vermont*, right about the time when the fall foliage should be
 strongest. [Read about the workshop and
 register](http://www.danheller.com/cgi/orderform).pl on Dan's site. This

@@ -23,7 +23,7 @@ comments: []
 And by "strike" I definitely don't mean in the "strike out" sense, but
 in the "I just struck gold" sense. The other day I posted [Tricks for
 Shooting High-Key
-Macro](http://singleservingphoto).com/2011/01/26/tricks-for-shooting-high-key-macro/
+Macro](http://singleservingphoto.com/2011/01/26/tricks-for-shooting-high-key-macro/)
 wherein I link to a cool in-studio tutorial by Atlanta photographer Alex
 Koloskov. Alex and his wife run AKELstudio in Atlanta, Georgia and are
 now literally brain-dumping all of these great tutorials and

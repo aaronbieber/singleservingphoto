@@ -35,7 +35,7 @@ seriously click over there and do that.<span id="more"></span><span
 id="more-130"></span>
 
 When I went out to [Yosemite National
-Park](http://www.fisheyegallery).com/Places/Yosemite and [Santa
+Park](http://www.fisheyegallery.com/Places/Yosemite) and [Santa
 Cruz](http://www.fisheyegallery.com/Places/SantaCruz), I brought my
 laptop with Lightroom on it. Because my home Lightroom library (now
 called a catalog in v1.1 and also in the rest of this post) is tied to

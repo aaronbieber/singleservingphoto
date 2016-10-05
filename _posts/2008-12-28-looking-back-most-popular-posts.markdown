@@ -32,7 +32,7 @@ So, without further ado, the most popular and essential articles in
 three years of Single-Serving Photo:
 
 * [Neutral Density
-Filters](http://www.singleservingphoto).com/2008/02/21/neutral-density-filters/\
+Filters](http://www.singleservingphoto.com/2008/02/21/neutral-density-filters/\)
  * [Mastering the Only Five Camera
 Settings](http://www.singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/\)
  * [Art Concepts in Photography, Part 1:

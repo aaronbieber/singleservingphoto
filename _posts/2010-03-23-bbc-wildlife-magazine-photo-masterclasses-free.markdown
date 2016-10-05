@@ -65,7 +65,7 @@ them on a computer. If you have
 [GoodReader](http://www.goodiware.com/goodreader).html on your iPhone or
 iPod Touch, however, you can take these lessons with you wherever you
 go. (GoodReader is how I take _every single Canon and Nikon DSLR
-manual_ with me on [my workshops](http://artphotoworkshops).com; I'll
+manual_ with me on [my workshops](http://artphotoworkshops.com;) I'll
 write more about that later on).
 
 To view and download all of the Photo Masterclass articles, [visit the

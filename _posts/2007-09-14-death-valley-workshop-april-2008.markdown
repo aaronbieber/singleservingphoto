@@ -211,7 +211,7 @@ basics.
 If you want to brush up or review, you may want to read these articles
 (posted here):\
  * [Histograms,
-Huh?](http://www.singleservingphoto).com/2007/06/03/histograms-huh/\
+Huh?](http://www.singleservingphoto.com/2007/06/03/histograms-huh/\)
  * [Be a Control Freak--Shooting Modes
 Explained](http://www.singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/\)
  * [Focal Length Reciprocal

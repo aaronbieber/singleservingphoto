@@ -61,7 +61,7 @@ words mean will help you to be much more expressive in your critiques.
 \$random:right\$
 
 In photography specifically, there is no better site than
-[PhotoSIG](http://www.photosig).com for participating in critique.
+[PhotoSIG](http://www.photosig.com) for participating in critique.
 PhotoSIG's critique system is built in such a way that it encourages
 thoughtful feedback and rewards posts that the artist finds helpful. On
 top of that, the community is very large so nearly all work receives
@@ -73,13 +73,13 @@ You can read some critiques that I've written on PhotoSIG by visiting
 [my photo critiques
 page](http://www.photosig.com/go/users/userphotocritiques?id=146708)
 
-[Flickr](http://www.flickr).com has a nice comment system built into it,
+[Flickr](http://www.flickr.com) has a nice comment system built into it,
 but because it isn't geared toward formal critique, it isn't quite as
 effective at generating thoughtful, useful feedback. The best places on
 Flickr to solicit critique are the various "groups" created by certain
 photography groups and geared toward artistic growth in particular.
 Naturally, the [Strobist.com Flickr
-group](http://flickr).com/groups/strobist/ is a good place to start,
+group](http://flickr.com/groups/strobist/) is a good place to start,
 though Strobist deals chiefly with off-camera flash images, so don't try
 to get feedback on your landscape work there.
 

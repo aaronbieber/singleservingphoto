@@ -39,7 +39,7 @@ promotion where you can get \$100 off a copy of Lightroom when you buy
 practically any camera from them, including point-and-shoots.
 
 If you haven't tried Lightroom yet, try it. You can [download a free
-trial right now](http://www.adobe).com/products/photoshoplightroom/ if
+trial right now](http://www.adobe.com/products/photoshoplightroom/) if
 you want to give it a spin. When you decide you want to own it, just
 click the attractive banner below to see the list of products that get
 you the discount and click the "Buy Together & Save" link below your

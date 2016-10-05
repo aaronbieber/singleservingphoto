@@ -34,7 +34,7 @@ id="more"></span><span id="more-169"></span>
 
 When I print my images for serious presentation, to frame and hang in my
 own home, or to show elsewhere, I always turn to [White House Custom
-Color.](http://www.whcc).com Their prices are competitive and their
+Color.](http://www.whcc.com) Their prices are competitive and their
 service is second-to-none. Once you've signed up for a _free_ account,
 they will do two things:
 

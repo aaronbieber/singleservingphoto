@@ -18,7 +18,7 @@ comments: []
 \$image:right/Places/Chicago/CloudGate.jpg\$
 
 This Friday is the first day of our (that is, [Art Photo
-Workshops](http://www.artphotoworkshops).com) Chicago Loop photography
+Workshops](http://www.artphotoworkshops.com)) Chicago Loop photography
 workshop. It's a three-day workshop focusing on the architecture and
 culture of Chicago for photographers of all skill levels. This is
 actually our first workshop of 2008, and we have a lot of great stuff

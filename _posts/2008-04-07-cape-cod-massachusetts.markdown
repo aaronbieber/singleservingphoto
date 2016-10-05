@@ -26,7 +26,7 @@ glow.
 
 Here is one that I think sums up the place and the experience, but
 please do [view the rest of the
-gallery](http://fisheyegallery).com/Places/CapeCod for more!
+gallery](http://fisheyegallery.com/Places/CapeCod) for more!
 
 \~\~/Places/CapeCod/BuoysProvincetownDocks.jpg\~\~
 

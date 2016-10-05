@@ -52,7 +52,7 @@ so I get to subject you to whatever I want:
 </div>
 
 Coming up, weâ€™ve got a really cool workshop in [Acadia National
-Park](http://artphotoworkshops).com/workshop/2009/October/Acadia in Maine
+Park](http://artphotoworkshops.com/workshop/2009/October/Acadia) in Maine
 (thatâ€™s October 16th through 18th), and then in November weâ€™ll be
 doing yet another one-day Boston workshop if anyone wants to walk around
 the freezing streets of Beantown and pick up some tips.

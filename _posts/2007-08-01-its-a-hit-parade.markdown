@@ -25,7 +25,7 @@ stopped by in a single month!
 
 For laughs, here are some other statistics that might interest you:\
  * The most-visited article is [Histograms,
-Huh?](http://www.singleservingphoto).com/2007/06/03/histograms-huh/ with
+Huh?](http://www.singleservingphoto.com/2007/06/03/histograms-huh/) with
 about 2,465 views.\
  * The single most active day was the 16th of July with 582 unique
 visitors, which--not coincidentally--is the same day Scott Kelby posted

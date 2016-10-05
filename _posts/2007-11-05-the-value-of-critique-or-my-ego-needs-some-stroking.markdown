@@ -86,10 +86,10 @@ software. If these people want to learn, shouldn't they be more open to
 feedback? ~~MORE~~
 
 Ed Zawadzki takes it a step further and asks whether the [art of
-critique](http://www.f1point0).com/2007/11/02/the-art-of-the-critique has
+critique](http://www.f1point0.com/2007/11/02/the-art-of-the-critique) has
 fallen by the wayside to be replaced by the blind exchange of accolades.
 You can certainly see that happening a lot on some of the larger and
-less organized sites, such as [DeviantART](http://www.deviantart).com and
+less organized sites, such as [DeviantART](http://www.deviantart.com) and
 even a bit on [Flickr](http://www.flickr.com), though the overall intent
 of Flickr is much more casual, which deserves to be mentioned.
 
@@ -116,7 +116,7 @@ interested in growth, need _more_. They need _critique_.
 
 \$random:right\$
 
-That's where [PhotoSIG](http://www.photosig).com steps in. With a unique
+That's where [PhotoSIG](http://www.photosig.com) steps in. With a unique
 system of critique scoring (not to mention using the word "critique" in
 the first place), PhotoSIG is able to encourage its members to _think
 critically_, even if the feedback is completely positive. The number of

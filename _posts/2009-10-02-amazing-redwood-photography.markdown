@@ -33,7 +33,7 @@ you can probably tell by the jagged edges), each of which was taken by
 one of three DSLR cameras mounted on a gyroscope-leveled, pulley-lowered
 rig that Nichols and his team designed for the purpose. You can check
 out the photo on [Hack a
-Day](http://hackaday).com/2009/09/30/multi-camera-rig-makes-trees-say-cheese/
+Day](http://hackaday.com/2009/09/30/multi-camera-rig-makes-trees-say-cheese/)
 of Nichols with his rig; it looks like theyâ€™ve got six Pocket Wizards
 on there (I donâ€™t know what the other three are for) and maybe a
 couple of bicycle wheels. All in all, a very righteous hack.

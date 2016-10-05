@@ -38,7 +38,7 @@ teaching photography for _six times that long_ (yes, thirty years), so
 he deserves your attention for at least the next ten minutes... Which is
 all it's going to take you to breeze through his newly updated [DSLR
 Camera Lens Buying
-Guide](http://photofocus).com/2010/10/20/dslr-camera-lens-buying-guide/
+Guide](http://photofocus.com/2010/10/20/dslr-camera-lens-buying-guide/)
 on Photofocus.
 
 Within the Guide, Scott offers tips for choosing what to buy and gives

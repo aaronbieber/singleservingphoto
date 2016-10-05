@@ -34,7 +34,7 @@ Anyway, _on with the show_!
 First things first, *JPG Magazine is back*! After being effectively
 shut down due to budget and business problems, JPG has resuscitated
 itself mostly thanks to the outpouring of support from its community and
-highly visible demonstrations such as [savejpg.com](http://savejpg).com
+highly visible demonstrations such as [savejpg.com](http://savejpg.com)
 which presumably gave investors the confidence they needed to pump more
 necessary capital into the parent company of JPG Magazine, 8020 Media.
 
@@ -42,10 +42,10 @@ Now that JPG has risen from the dead, maybe I'll actually contribute
 something! You should, too.
 
 Second, my little hands-on instruction business,
-[ArtPhotoWorkshops.com](http://artphotoworkshops).com is going to be
+[ArtPhotoWorkshops.com](http://artphotoworkshops.com) is going to be
 doing a series of low-cost, short "photo-walk" workshops in the New
 England area. Starting with [Cape
-Cod](http://artphotoworkshops).com/workshop/2009/May/CapeCod in a week
+Cod](http://artphotoworkshops.com/workshop/2009/May/CapeCod) in a week
 and then [Boston](http://artphotoworkshops.com/workshop/2009/June/Boston)
 after that, I plan to take us out to Newport, Rhode Island, possibly
 Northampton, Massachusetts, maybe even out to the [Quabbin

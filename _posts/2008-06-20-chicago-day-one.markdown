@@ -16,7 +16,7 @@ tags: []
 comments: []
 ---
 Our workshop has yet to officially begin, but that doesn't stop
-[us](http://artphotoworkshops).com/pages/view/Biographies from getting up
+[us](http://artphotoworkshops.com/pages/view/Biographies) from getting up
 well before dawn and catching a taxi down to Navy Pier to get some
 shooting in. Navy Pier is a "festival marketplace," to use the term
 coined by the Rouse Development Company—the same company responsible for

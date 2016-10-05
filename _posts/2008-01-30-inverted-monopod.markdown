@@ -19,7 +19,7 @@ tags:
 comments: []
 ---
 This sweet video from someone called "cobbler" on
-[Metacafe](http://www.metacafe).com shows you how to make a rather
+[Metacafe](http://www.metacafe.com) shows you how to make a rather
 ingenious _image stabilizer_, which I have decided to call an
 "inverted monopod."
 

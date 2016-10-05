@@ -28,6 +28,6 @@ we can see there since it's really rainy and gloomy outside, then
 hopefully catch sunset out in Big Sur just as the storm passes us by.
 
 Feel free to click the photo on the right [or follow this link right
-here](http://flickr).com/photos/singleservingphoto/sets/72157603974697531/
+here](http://flickr.com/photos/singleservingphoto/sets/72157603974697531/)
 to check out my ever-growing Flickr stream of snapshots from this
 journey.

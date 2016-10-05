@@ -39,7 +39,7 @@ amazingly detailed printed catalog and throw darts at them?
 I've used each of those methods, but they're all a bit tedious.
 
 *Fear not*, for the Internet has come to your rescue yet again. [Bag
-Exposure](http://www.bagexposure).com/ is an entire website dedicated to
+Exposure](http://www.bagexposure.com/) is an entire website dedicated to
 reviewing camera bags. It looks like they've gotten started not too long
 ago, and the collection of reviews is not _exhaustive_, but if you're
 looking for a bag, this might be a good resource to check out first.

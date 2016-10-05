@@ -42,7 +42,7 @@ I've written about this before in [Be a Control Freak (Shooting Modes
 Explained)](http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/),
 but the subject came up again today when I saw Haje Jan Kamps' really
 cool article, [Translating the mode
-wheel](http://www.pixiq).com/article/mode-wheel on pixiq. My article
+wheel](http://www.pixiq.com/article/mode-wheel) on pixiq. My article
 explains in some amount of gory detail what each mode does, Haje takes
 it a step further with example images and a plea to leave those silly
 program modes behind.

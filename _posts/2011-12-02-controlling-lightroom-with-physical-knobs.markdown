@@ -67,5 +67,5 @@ looks very promising.
 
 Read more on Max Edin's blog: [Using Hardware Controllers with
 Lightroom](http://maxedin.net/2011/11/using-hardware-controllers-with-lightroom/).
-Check out the [Knobroom home page](http://www.knobroom).com/ for more of
+Check out the [Knobroom home page](http://www.knobroom.com/) for more of
 the gritty details.

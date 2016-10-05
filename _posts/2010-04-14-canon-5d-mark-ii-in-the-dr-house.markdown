@@ -25,7 +25,7 @@ comments: []
 ![](http://singleservingphoto.com/wp-content/uploads/2010/04/House_in_the_5DII-300x300.jpg "Dr. House in the 5D II")
 
 The Internet is all a-flutter about this [announcement Greg Yaitanes
-made](http://twitter).com/GregYaitanes/status/11731103539 via Twitter
+made](http://twitter.com/GregYaitanes/status/11731103539) via Twitter
 that the House, M.D. season finale (airing next month on FOX) was shot
 _entirely_ with a Canon EOS-5D Mark II. This makes the 5D Mark II the
 first video-capable digital SLR camera to ever have been used to film a

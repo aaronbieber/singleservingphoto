@@ -20,7 +20,7 @@ tags:
 - organization
 comments: []
 ---
-In [my workshops](http://artphotoworkshops).com I teach people how to
+In [my workshops](http://artphotoworkshops.com) I teach people how to
 organize their photos, both the physical files on disk as well as their
 Photoshop Lightroom catalogs. Although I've been teaching these classes
 for years, I realized that I've never once written about it.

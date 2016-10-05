@@ -21,7 +21,7 @@ comments: []
 
 The faltering economy has claimed the life of another small business
 today. I received an e-mail from the Editor in Chief of [JPG
-Magazine](http://jpgmag).com announcing that on Monday they're shutting
+Magazine](http://jpgmag.com) announcing that on Monday they're shutting
 their doors for good. I only got the e-mail because I have been a
 registered member of the site for some time and although none of my
 photos ever made it into the magazine it was always something I wanted
@@ -49,7 +49,7 @@ inspiration I did regularly find there.
 So now what?
 
 You can go view the published photos on JPG Magazine's [published
-photos](http://jpgmag).com/photos/published/ page until Monday (the 5th
+photos](http://jpgmag.com/photos/published/) page until Monday (the 5th
 of January), but after that, it will be gone.
 
 [Download PDFs](http://www.jpgmag.com/downloads/archives).html of
@@ -61,7 +61,7 @@ highest rated photos](http://www.photosig.com/go/photos?sort=rating-d,)
 which are basically mind-blowing 100% of the time.
 
 Check out [The Unofficial JPG Magazine
-Group](http://flickr).com/groups/jpgmag on Flickr. There are lots of
+Group](http://flickr.com/groups/jpgmag) on Flickr. There are lots of
 awesome images there, too.
 
 Of course you could always view [my

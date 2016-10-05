@@ -46,5 +46,5 @@ modification at all).
 When I say that the 5D Mark II's video is _absurd_, I mean _absurdly
 awesome_.
 
-[View Sofia's People on Vimeo](http://vimeo).com/4704533 to see more of
+[View Sofia's People on Vimeo](http://vimeo.com/4704533) to see more of
 Philip Bloom's work, participate in discussion, etc.

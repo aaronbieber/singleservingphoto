@@ -32,7 +32,7 @@ social and economic problems, it is a historic city with a great deal of
 architectural and maritime attractions.
 
 I was absolutely _floored_ to be reading [The Online
-Photographer](http://www.theonlinephotographer).com and to run across a
+Photographer](http://www.theonlinephotographer.com) and to run across a
 stunning photograph taken literally five minutes up the opposite bank of
 _my_ river (yes, I own the river) in Groton, Connecticut by Tom
 Kaszuba (check out [the post in

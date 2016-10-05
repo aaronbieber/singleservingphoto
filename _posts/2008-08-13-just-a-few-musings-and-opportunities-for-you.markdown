@@ -93,7 +93,7 @@ only \$599; you won't find a better deal than that anywhere.
 
 There are some other exciting learning opportunities right around the
 corner, too, including our [workshop in Cape
-Cod](http://artphotoworkshops).com/workshop/2008/September/CapeCod in
+Cod](http://artphotoworkshops.com/workshop/2008/September/CapeCod) in
 September, a [fall foliage workshop in cooperation with Dan
 Heller](http://artphotoworkshops.com/workshop/2008/October/FallColorsInVermont)
 in Vermont in October, and then later on that same month, our [City on

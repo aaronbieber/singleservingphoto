@@ -37,7 +37,7 @@ comments:
   date: '2007-11-03 18:01:03 -0400'
   date_gmt: '2007-11-03 22:01:03 -0400'
   content: Glad to shed some... Ahem... *light* on the matter! Thanks for dropping
-    in, Paul, I've enjoyed reading [your blog](http://paulindigo.blogspot).com/ as
+    in, Paul, I've enjoyed reading [your blog](http://paulindigo.blogspot.com/) as
     well.
 - id: 1023
   author: Тут Хумора.NET &raquo; Фотоссылки
@@ -100,7 +100,7 @@ just very _fresh_. My advice was to either use a [cloud
 dome](http://www.bhphotovideo.com/c/product/279145-REG/Cloud_Dome_CDGPKIT_Cloud_Dome_Pro_Kit.html)
 (which can get a little pricey), or to build [some sort
 of](http://strobist.blogspot.com/2007/03/on-assignment-flavored-vodkas.html)
-[inventive](http://www.pbase).com/wlhuber/light_box_light_tent [DIY
+[inventive](http://www.pbase.com/wlhuber/light_box_light_tent) [DIY
 lightbox](http://www.ourmedia.org/node/253481.)
 
 It seems like the Internet is simply [crawling with DIY lightbox

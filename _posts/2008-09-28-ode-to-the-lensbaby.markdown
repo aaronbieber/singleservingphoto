@@ -55,6 +55,6 @@ And another, for good measure, also from Boston:
 \~\~/SingleServings/2007/June/09Jun07-04.jpg\~\~
 
 If you like, go [read about the new Lensbaby
-products](http://lensbaby).com on their website. The lenses are not very
+products](http://lensbaby.com) on their website. The lenses are not very
 expensive, relatively speaking, and although they are one-trick ponies,
 that one trick is a lot more fun than it might seem at first.

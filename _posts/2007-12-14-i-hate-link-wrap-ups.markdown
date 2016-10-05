@@ -45,7 +45,7 @@ If you'd rather not listen to my chatter, just click the link and be on
 your way.
 
 [Of Zen and Computing: How to Avoid Getting Scammed When Buying a
-Digital Camera](http://www.ofzenandcomputing).com/zanswers/996
+Digital Camera](http://www.ofzenandcomputing.com/zanswers/996)
 
 Of Zen and Computing is a blog concerned with lifestyle and workflow
 issues unique to computer users and website authors, but now and then

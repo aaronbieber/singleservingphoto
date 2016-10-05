@@ -65,7 +65,7 @@ version happened to be. Now, not so much.
 To our aid, as though through the clouds like a spandex-clad superhero,
 flies in none other than Scott Kelby with a politely but firmly worded
 [open letter to
-Adobe](http://www.scottkelby).com/blog/2011/archives/22903 asking them to
+Adobe](http://www.scottkelby.com/blog/2011/archives/22903) asking them to
 establish a more, how can I put it, _reasonable_ upgrade path that
 accommodates folks who have been loyal and valuable customers to Adobe
 but who couldn't see through to purchase Creative Suite CS5 or 5.5

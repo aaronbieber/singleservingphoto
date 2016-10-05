@@ -45,5 +45,5 @@ forum](http://greeksky.gr/GreekSkyForum/index.php?topic=2).0 and learn
 how it was done.
 
 *Edit*: Photojojo [reported on this
-image](http://content.photojojo).com/photo-projects/24-hour-panorama/ as
+image](http://content.photojojo.com/photo-projects/24-hour-panorama/) as
 well!

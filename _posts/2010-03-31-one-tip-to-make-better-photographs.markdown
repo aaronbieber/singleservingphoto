@@ -146,7 +146,7 @@ level of decent equipment to get to where you want to be, but nine times
 out of ten you don't have to go any further than the list at the top of
 this article.
 
-So before you load up [B&H's awesome website](http://bhphotovideo).com to
+So before you load up [B&H's awesome website](http://bhphotovideo.com) to
 pick up the current focus of your technolust... Go out and take a few
 photos. Of anything. Because practice makes perfect and there is no
 substitute for real-world experience.

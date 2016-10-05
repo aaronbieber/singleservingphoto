@@ -44,7 +44,7 @@ palettes*, *collapsible toolbox*, and *minimized palette buttons*
 is really a joy to use.\
  * *Blazing fast on Intel Macs*. CS3 runs faster on my machine than
 CS1 or CS2, despite a larger resource footprint. Although I [had some
-problems](http://www.singleservingphoto).com/2007/10/17/photoshop-cs3-overrated/
+problems](http://www.singleservingphoto.com/2007/10/17/photoshop-cs3-overrated/)
 with CS3 when I first tried it, subsequent updates have fixed those
 snags (one of which was a real show-stopper) as well as made the
 application much more responsive.\

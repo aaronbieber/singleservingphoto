@@ -70,7 +70,7 @@ is even better), don't forget the possibility of *making silhouettes*.
 Even the most common subjects can be exciting as silhouettes, especially
 against a rippling, cloudy sky. This was covered on the Digital
 Photography School blog ([How to Photograph
-Silhouettes](http://digital-photography-school).com/blog/how-to-photograph-silhouettes/)
+Silhouettes](http://digital-photography-school.com/blog/how-to-photograph-silhouettes/))
 very recently and it reminded me of what a powerful technique it can be.
 
 If you have any *creative lenses*, sometimes strapping one of them on

@@ -50,7 +50,7 @@ comments:
   content: |-
     @Tosha
 
-    There is definitely a lot more to talk about! I've been spending a lot of time making photographs lately and ramping up for a series of [hands-on workshops](http://www.singleservingphoto).com/2007/09/14/death-valley-workshop-april-2008/ that I'll be running along with my [friend](http://www.curiouslens.com), but I think I may revisit the composition subject for future in-depth art concepts articles. Thanks for your appreciative comments, I'm glad you're enjoying my articles.
+    There is definitely a lot more to talk about! I've been spending a lot of time making photographs lately and ramping up for a series of [hands-on workshops](http://www.singleservingphoto.com/2007/09/14/death-valley-workshop-april-2008/) that I'll be running along with my [friend](http://www.curiouslens.com), but I think I may revisit the composition subject for future in-depth art concepts articles. Thanks for your appreciative comments, I'm glad you're enjoying my articles.
 ---
 If you haven't, you may want to read the first two parts of the _Art
 Concepts_ series, [Part 1:

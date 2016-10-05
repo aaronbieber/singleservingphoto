@@ -46,7 +46,7 @@ kept in carry-on luggage.
 
 I became concerned because I will be flying out to the California coast
 at the end of February to scout locations for future [art photography
-workshops](http://www.artphotoworkshops).com and making that voyage
+workshops](http://www.artphotoworkshops.com) and making that voyage
 across the country is enough of a hassle without TSA inspectors throwing
 all of my batteries away.
 

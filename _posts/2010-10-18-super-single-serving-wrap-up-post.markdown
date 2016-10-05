@@ -50,7 +50,7 @@ linked from other sites the most.
 
 With *2,002* total unique pageviews, [Art Concepts in Photography,
 Part 2:
-Composition](http://singleservingphoto).com/2007/08/26/art-concepts-in-photography-part-2-composition/
+Composition](http://singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/)
 comes in fifth.
 
 This was the second part of a rather short-lived series of articles I
@@ -63,7 +63,7 @@ most widely applicable, so I can understand why it's so popular.
 Coming in at *2,501* unique pageviews, and possessing the distinction
 of being quite possibly one of my own personal favorites of all time,
 [Histograms,
-Huh?](http://singleservingphoto).com/2007/06/03/histograms-huh/ claims
+Huh?](http://singleservingphoto.com/2007/06/03/histograms-huh/) claims
 fourth place.
 
 I wrote this article when I, myself, was exploring Photoshop as a

@@ -28,7 +28,7 @@ National Park.
 
 Although I believe the ranger overstepped his bounds and acted with
 undue suspicion under the circumstances, [my
-colleague](http://www.curiouslens).com and I reacted--in my opinion--in a
+colleague](http://www.curiouslens.com) and I reacted--in my opinion--in a
 completely appropriate way. We were very polite and understanding of the
 issues at hand and we recognized that Tennessee might do things a little
 bit differently than Connecticut. For example, in Tennessee,

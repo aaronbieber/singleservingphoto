@@ -30,5 +30,5 @@ size version):
 [![](http://singleservingphoto.com/wp-content/uploads/2011/01/100-percent-crop-medical-brush-product-photography-example-237x300.jpg "100-percent-crop-medical-brush-product-photography-example")](http://singleservingphoto.com/wp-content/uploads/2011/01/100-percent-crop-medical-brush-product-photography-example.jpg)
 
 [Head over to Alex's
-blog](http://www.akelstudio).com/blog/shooting-macro-on-a-white-background-simple-yet-very-useful-tricks/
+blog](http://www.akelstudio.com/blog/shooting-macro-on-a-white-background-simple-yet-very-useful-tricks/)
 to see his lighting setup and read his tips on how to pull this off.

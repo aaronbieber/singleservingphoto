@@ -68,7 +68,7 @@ comments:
 ---
 ![Canon EOS-5D LCD](/articles/5d_lcd.gif "EOS-5D LCD")
 
-In my [instruction](http://artphotoworkshops).com I get asked a lot about
+In my [instruction](http://artphotoworkshops.com) I get asked a lot about
 how the five most fundamentally important settings of the camera work
 together to achieve the effects you desire. It can be hard to penetrate
 the curtain of photographic jargon, some of which can seem
