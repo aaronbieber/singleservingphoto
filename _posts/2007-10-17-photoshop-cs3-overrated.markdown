@@ -97,7 +97,7 @@ Among the suggestions were:
 * Install the [Force VM Buffering
 On/Off](http://www.adobe.com/support/downloads/detail.jsp?ftpID=3623)
 Plug-In from Adobe ([Read
-Me](http://www.adobe.com/special/photoshop/vm_buffering/vm_buffering_optional_extensions_ReadMe.html)\)
+Me](http://www.adobe.com/special/photoshop/vm_buffering/vm_buffering_optional_extensions_ReadMe.html))
  * Enable the "Bigger Tiles" Plug-In (included)\
  * Set the "cache levels" setting 5 or lower (default is 6)
 

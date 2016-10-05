@@ -32,17 +32,17 @@ So, without further ado, the most popular and essential articles in
 three years of Single-Serving Photo:
 
 * [Neutral Density
-Filters](http://www.singleservingphoto.com/2008/02/21/neutral-density-filters/\)
+Filters](http://www.singleservingphoto.com/2008/02/21/neutral-density-filters/)
  * [Mastering the Only Five Camera
-Settings](http://www.singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/\)
+Settings](http://www.singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/)
  * [Art Concepts in Photography, Part 1:
-Texture](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/\)
+Texture](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/)
  * [Art Concepts in Photography, Part 2:
-Composition](http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/\)
+Composition](http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/)
  * [Art Concepts in Photography, Part 3: Positive/Negative
-Space](http://www.singleservingphoto.com/2007/09/08/art-concepts-in-photography-part-3-positivenegative-space/\)
+Space](http://www.singleservingphoto.com/2007/09/08/art-concepts-in-photography-part-3-positivenegative-space/)
  * [Histograms,
-Huh?](http://www.singleservingphoto.com/2007/06/03/histograms-huh/\)
+Huh?](http://www.singleservingphoto.com/2007/06/03/histograms-huh/)
  * [Resolution is a Myth: Calculating
 DPI](http://www.singleservingphoto.com/2007/07/06/resolution-is-a-myth-calculating-dpi/)
 

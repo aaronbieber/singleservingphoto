@@ -82,9 +82,9 @@ Here are the three individual books, they're each about 25 bucks or
 less, I think the second volume is the cheapest:
 
 * [The Digital Photography Book, Vol.
-1](http://www.bhphotovideo.com/c/product/461804-REG/Pearson_Education_9780321474049_Book_The_Digital_Photography.html/BI/1816/KBID/2457\)
+1](http://www.bhphotovideo.com/c/product/461804-REG/Pearson_Education_9780321474049_Book_The_Digital_Photography.html/BI/1816/KBID/2457)
  * [The Digital Photography Book, Vol.
-2](http://www.bhphotovideo.com/c/product/526705-REG/Pearson_Education_9780321524768_Book_The_Digital_Photography.html/BI/1816/KBID/2457\)
+2](http://www.bhphotovideo.com/c/product/526705-REG/Pearson_Education_9780321524768_Book_The_Digital_Photography.html/BI/1816/KBID/2457)
  * [The Digital Photography Book, Vol.
 3](http://www.bhphotovideo.com/c/product/629825-REG/Pearson_Education_0321617657_Book_The_Digital_Photography.html/BI/1816/KBID/2457)
 

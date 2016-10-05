@@ -84,7 +84,7 @@ as the C300 is released into the wild.
 * Read the press release, see product photos, and watch the Laforet
 video on dpreview: [Canon unveils Cinema EOS C300 interchangeable-lens
 video
-camera](http://www.dpreview.com/news/1111/11110310canoneoscinema.asp\)
+camera](http://www.dpreview.com/news/1111/11110310canoneoscinema.asp)
  * Haje Jan Kamps also covers the release and his reactions at Pixiq:
 [Canon vs Red: The battle for amateur filmmakers is about to
 commence](http://www.pixiq.com/article/amateur-filmmakers-battle)

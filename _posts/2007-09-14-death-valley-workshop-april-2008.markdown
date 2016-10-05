@@ -211,15 +211,15 @@ basics.
 If you want to brush up or review, you may want to read these articles
 (posted here):\
  * [Histograms,
-Huh?](http://www.singleservingphoto.com/2007/06/03/histograms-huh/\)
+Huh?](http://www.singleservingphoto.com/2007/06/03/histograms-huh/)
  * [Be a Control Freak--Shooting Modes
-Explained](http://www.singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/\)
+Explained](http://www.singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/)
  * [Focal Length Reciprocal
 Rule](http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/)
 
 And also these assorted articles from Earthbound Light Photography:\
  * [I Bought a Digital Camera But My Photos Are Still
-Blurry](http://www.earthboundlight.com/phototips/digital-photography-still-photography.html\)
+Blurry](http://www.earthboundlight.com/phototips/digital-photography-still-photography.html)
  * [Program vs. Aperture Priority vs. Shutter Priority vs.
 Manual](http://www.earthboundlight.com/phototips/program-aperture-shutter-priority-manual-exposure.html)
 

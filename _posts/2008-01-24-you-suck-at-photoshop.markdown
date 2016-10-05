@@ -33,7 +33,7 @@ the office, OK?
 * [You Suck at Photoshop
 \#1](http://www.youtube.com/watch)?v=U_X5uR7VC4M\
  * [You Suck at Photoshop
-\#2](http://www.youtube.com/watch?v=VXeZ0s8DXZ0\)
+\#2](http://www.youtube.com/watch?v=VXeZ0s8DXZ0)
  * [You Suck at Photoshop
 \#3](http://www.youtube.com/watch?v=MWn0lxRNqos)
 
