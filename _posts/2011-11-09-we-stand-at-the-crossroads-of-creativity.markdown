@@ -119,13 +119,10 @@ for comparing apples to oranges. Believe me, I already know.
 
 But you don't have to take my word for it:
 
-* [The Lytro camera](https://www.lytro.com/camera), from Lytro.com\
- * [Lytro
-Launches](http://theonlinephotographer.typepad.com/the_online_photographer/2011/10/lytro-launches.html,)
-via The Online Photographer\
- * [Leica M9 Hands-on
-Review](http://forums.dpreview.com/news/0909/09090909leicam9.asp), from
-dpreview\
- * [An M9 in
-Paris](http://www.luminous-landscape.com/reviews/cameras/m9-paris.shtml,)
-via Luminous Landscape, an in-depth review
+* [The Lytro camera](https://www.lytro.com/camera), from Lytro.com
+* [Lytro Launches](http://theonlinephotographer.typepad.com/the_online_photographer/2011/10/lytro-launches.html),
+  via The Online Photographer
+* [Leica M9 Hands-on Review](http://forums.dpreview.com/news/0909/09090909leicam9.asp),
+  from dpreview
+* [An M9 in Paris](http://www.luminous-landscape.com/reviews/cameras/m9-paris.shtml),
+  via Luminous Landscape, an in-depth review
