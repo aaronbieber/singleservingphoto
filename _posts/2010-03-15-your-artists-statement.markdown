@@ -56,7 +56,7 @@ typically self-aggrandizing rubbish. Alright, I'm kidding. Mostly.
 The following tips will help you write an artist's statement that
 *everyone* will want to read.
 
-h2. Focus on the Work
+## Focus on the Work
 
 In his article, Folsom says "share your background and history." I would
 actually be somewhat more specific and suggest that you share things
@@ -75,7 +75,7 @@ your personal history, you can always print out a separate
 autobiographical page that people can take, or post it on your website
 for them to read.
 
-h2. Don't Get Too Technical
+## Don't Get Too Technical
 
 I absolutely agree with Folsom on this point. In the case of at least
 90% of photography, the technical details of its creation is not
@@ -91,7 +91,7 @@ technology-centric as well. If this is the case, you already know. If
 you have to ask, then keep the details about your 5D Mark II and your
 awesome lenses out of the statement.
 
-h2. You're Not Selling Anything
+## You're Not Selling Anything
 
 Even if you're physically _selling_ the photographs in the show, and
 even if this statement is meant to hang _in a store_, don't turn your
@@ -116,7 +116,7 @@ look good hanging in people's living rooms, maybe you should be selling
 them at IKEA. Why are you writing an artist's statement in the first
 place?
 
-h2. Modesty Is the Best Policy
+## Modesty Is the Best Policy
 
 Although a gallery show (especially a single-artist show)--and an
 artist's statement by extension--is a fundamentally egotistical
@@ -126,7 +126,7 @@ your show and to read your statement, which is flattering on its face;
 you should be shedding light on mysteries of your process, your ideas,
 your motivations. Leave the self-promoting accolades for another time.
 
-h2. My Artist's Statement
+## My Artist's Statement
 
 To give you some idea of what I'm trying to get at, why not read my own
 artist's statement. Or not. This is the last section, so if you stop

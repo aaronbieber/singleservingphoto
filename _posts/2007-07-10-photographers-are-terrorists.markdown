@@ -119,7 +119,7 @@ and some of my own experiences.
 Please come in, photography is allowed.<span id="more"></span><span
 id="more-131"></span>
 
-h2. What Are Your Rights?
+## What Are Your Rights?
 
 \$random:left\$
 
@@ -140,7 +140,7 @@ certain shots, and although I am not going to come out and publicly
 _condone_ it, it's reassuring to know that the work stands on its own
 and won't come back to bite me.
 
-h2. Problems I've Had
+## Problems I've Had
 
 When I first became serious about art photography (which is what I'd say
 I do), my friend [Chris Blake](http://www.curiouslens).com and I would
@@ -208,7 +208,7 @@ that's probably a good thing if they're asserting their rights. Still,
 you must always weigh the benefits of defending your rights against the
 perils of doing so.
 
-h2. Conclusions
+## Conclusions
 
 \$image:right/Places/MansfieldTrainingSchool/ColdStorage.jpg\$
 

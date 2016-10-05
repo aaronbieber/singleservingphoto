@@ -60,7 +60,7 @@ article](http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-mo
 if you haven't read it before, and if you are hankering for even more
 information...
 
-h2. Learn Tips and Tricks for Real-Life Shooting
+## Learn Tips and Tricks for Real-Life Shooting
 
 ![](http://singleservingphoto.com/wp-content/uploads/2011/01/kelbybooks.jpg "The Digital Photography Book(s)")
 

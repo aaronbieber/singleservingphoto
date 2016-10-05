@@ -39,14 +39,14 @@ some of the gems from these last four years that I have on record.
 Without further ado, the *Super Single-Serving Wrap-Up*!<span
 id="more"></span><span id="more-797"></span>
 
-h2. Top Five Most-Read Posts
+## Top Five Most-Read Posts
 
 In terms of pure traffic, these posts are by far the most popular,
 either because they attract the largest number of visitors who are
 searching for something and found it here, or they were mentioned or
 linked from other sites the most.
 
-h3. 5
+### 5
 
 With *2,002* total unique pageviews, [Art Concepts in Photography,
 Part 2:
@@ -58,7 +58,7 @@ did on the high-level design concepts relevant to photography. Though I
 enjoyed writing them all, this chapter on composition is probably the
 most widely applicable, so I can understand why it's so popular.
 
-h3. 4
+### 4
 
 Coming in at *2,501* unique pageviews, and possessing the distinction
 of being quite possibly one of my own personal favorites of all time,
@@ -72,7 +72,7 @@ did, I wanted to explore all of the details of its behavior and share
 that with you, my loyal reader. Using a more illustrative approach than
 I was ever able to find, I explain exactly what a histogram does.
 
-h3. 3
+### 3
 
 Claiming, quite rightfully in my opinion, third place with *2,847*
 unique views is [Mastering the Only Five Camera
@@ -86,7 +86,7 @@ control is the crux of the craft of photography and the foundation for
 everything else you will ever learn. This article is deserving of its
 third place position.
 
-h3. 2
+### 2
 
 Due most likely to its contentious proposition, second place is claimed
 by [Why Bubble Levels Are a Waste of
@@ -105,7 +105,7 @@ warrant the use of a bubble level. Since then I've gone out to
 Yellowstone and shot multiple panoramas hand-held, so really, don't buy
 a bubble level, they're a waste of money.
 
-h2. 1
+## 1
 
 Finally, numero uno, the king, the absolutely most trafficked article on
 the entire site... With a whopping *12,343* unique pageviews, which is

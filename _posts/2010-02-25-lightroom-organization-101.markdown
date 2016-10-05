@@ -38,7 +38,7 @@ openness to beta testing and feedback from the photography community,
 which I believe has made Lightroom the best tool for the job. Let's get
 to it.<span id="more"></span><span id="more-539"></span>
 
-h2. Organizing Files on Disk
+## Organizing Files on Disk
 
 First, why? Why organize your files on disk when Lightroom is such an
 apt cataloging tool? Why add another layer of complexity to your photo
@@ -58,7 +58,7 @@ RAW files will make finding them that much easier if you ever have to do
 so without the aid of Lightroom. Surely not an eventuality we all hope
 for, but one that we should nonetheless plan for.
 
-h3. My Method
+### My Method
 
 There are an infinite number of ways to organize your RAW files on disk,
 but I don't have an infinite amount of time (and neither do you) so I
@@ -83,7 +83,7 @@ major categories represented as folders on your hard drive such that you
 can locate, at the very least, the group of photos you're looking for in
 the event you can't use your catalog for it.
 
-h3. Enlisting Lightroom's Help
+### Enlisting Lightroom's Help
 
 You can get Lightroom to help you build this structure. Let me tell you
 what I would do if I were importing photos from a location shoot that I
@@ -118,7 +118,7 @@ Actually, even if you were Ansel Adams, they still wouldn't all be
 keepers. So what you need to is _treat your catalog like an emergency
 room_.
 
-h2. Treat Your Catalog Like an Emergency Room
+## Treat Your Catalog Like an Emergency Room
 
 What I'm talking about is _triage_.
 
@@ -156,7 +156,7 @@ these attributes to use to streamline your workflow?
 
 I don't know. But I can tell you how I use them.
 
-h3. My Method
+### My Method
 
 The very high-level outline of my process goes something like this:
 
@@ -186,7 +186,7 @@ I might use star ratings to indicate which ones I like more, just so I
 can remember later when I come back to them, but that isn't part of my
 everyday workflow.
 
-h2. You're Done!
+## You're Done!
 
 You have absorbed my entire workflow and read all of my suggestions for
 using Lightroom's sorting and cataloging tools. I hope that this helps

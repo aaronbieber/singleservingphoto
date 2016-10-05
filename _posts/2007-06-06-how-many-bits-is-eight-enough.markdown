@@ -115,7 +115,7 @@ photographers hot under the collar: _8-bit or 16-bit?_
 It's never as simple as it sounds.<span id="more"></span><span
 id="more-123"></span>
 
-h2. What Is Bit Depth?
+## What Is Bit Depth?
 
 If you already know what bit depth is all about, you can skip this
 section. Without getting into too much technical detail, bit depth
@@ -137,7 +137,7 @@ count up to 65,535! Including zero, that gives you 65,536 shades of gray
 to work with. Clearly there are immediate theoretical advantages to
 using 16 bits of color depth in photography.
 
-h2. The Case for More Depth
+## The Case for More Depth
 
 If all cameras captured images with eight bits of depth, there would be
 no debate; converting from an 8-bit image to a 16-bit image doesn't do
@@ -160,7 +160,7 @@ you'd lose nothing. But I suspect most of you are photographers and you
 know that post-processing is increasingly important, if not necessary.
 It is for the _editing_ that you need more bits. Let me explain why.
 
-h2. The Bit Crusher (aka Photoshop)
+## The Bit Crusher (aka Photoshop)
 
 When I was discussing
 [histograms](/2007/06/03/histograms-huh.html),
@@ -215,7 +215,7 @@ produces a better result than editing in eight bits directly, but I'm no
 mathematician and regardless of the mechanics behind it, this workflow
 obviously delivers.
 
-h2. Putting 16 Bits to Good Use
+## Putting 16 Bits to Good Use
 
 \$random:right\$
 

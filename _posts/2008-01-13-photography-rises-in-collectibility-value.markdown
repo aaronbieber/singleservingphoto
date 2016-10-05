@@ -83,7 +83,7 @@ photographs sell at auction for only as much as \$478,000; not a small
 sum to be sure, but merely a drop in the ocean by comparison to
 paintings that regularly sell for between \$70 and \$140 _million_.
 
-h3. Where's the Demand?
+### Where's the Demand?
 
 So why aren't collectors snapping up photographic prints at the same
 rate they snap up paintings, sculptures, assemblages, mobiles, and
@@ -99,7 +99,7 @@ photography is still largely a bear market. As confidence is reinforced
 by annual photography fairs in New York, Paris, and now London, the
 value of fine art photographs will begin to climb.
 
-h3. Prices Are Actually Meaningless
+### Prices Are Actually Meaningless
 
 Before I get too deeply mired in the collectible photography discussion
 and betray my true feelings toward selling art, let me take a step
@@ -119,7 +119,7 @@ Widely acclaimed Indian photographer Raghu Rai put it very plainly,
 cash in on. For them, it is just another investment, like shares or
 property. It's not because they love the art."
 
-h3. Hooray for Fine Art!
+### Hooray for Fine Art!
 
 Nevertheless, this is an exciting trend for fine art photography.
 Photographer Anay Mann says that "fine art photography has a longer
@@ -134,7 +134,7 @@ collectors and the "upper crust" of art buyers that photography is a
 valid, collectible, and yes, valuable medium is a great boon to our
 artistic legitimacy and to our profitability.
 
-h3. Read More?
+### Read More?
 
 Here are the articles I referred to in writing this synopsis:
 

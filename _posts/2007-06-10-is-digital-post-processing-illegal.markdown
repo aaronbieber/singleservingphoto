@@ -192,7 +192,7 @@ walk through the annals of photographic history to clear up some
 improper perceptions of digital post-processing.<span
 id="more"></span><span id="more-124"></span>
 
-h2. First, Some History
+## First, Some History
 
 The first commercially viable photographic technology was the
 [Daguerrotype](http://en.wikipedia.org/wiki/Daguerrotype), a
@@ -254,7 +254,7 @@ techniques, I anticipate new departures which, if I cannot examine them
 in my lifetime, will assure the power of future vision and
 accomplishment." --Ansel Adams, Carmel, 1976
 
-h2. Artistic Integrity
+## Artistic Integrity
 
 \$random:left\$
 
@@ -294,7 +294,7 @@ Far be it from me to make sweeping generalizations about a field as
 personal and subjective as art, but I feel as though the detractors of
 post-processing are the antithesis of its very spirit. Let me explain.
 
-h2. The Question of Intent
+## The Question of Intent
 
 You could say that a watercolor splattered with acrylic ceases to be a
 watercolor. Semantically, that's true enough; I think that the world of

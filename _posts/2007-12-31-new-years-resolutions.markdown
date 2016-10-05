@@ -27,14 +27,14 @@ comments:
 Here are some ideas for New Year's resolutions to refresh and enliven
 your photography.
 
-h2. Try something NEW
+## Try something NEW
 
 Experiment with unfamiliar genres. If you normally shoot fine art
 landscapes, try still life. If you are a sports shooter who is
 interested in making artistic images, try landscapes. Get outside of
 your "comfort zone" and attempt something fresh.
 
-h2. Upgrade to a digital SLR
+## Upgrade to a digital SLR
 
 I know, this isn't really a philosophical "turn over a new leaf"
 resolution, but maybe this year is the year to step up to a digital SLR
@@ -82,7 +82,7 @@ carefully scrutinize [Digital Photography
 Review](http://www.dpreview.com), the award-winning camera review site
 for feature comparisons and informed opinions.
 
-h2. Take a class
+## Take a class
 
 PC World suggests, in an article titled [New Year's
 Resolutions](http://www.pcworld.com/article/id,140718-c,digitalcameras/article.html,)
@@ -107,7 +107,7 @@ don't hesitate to reserve yours now!
 Read all about the workshops and register on our website, [Art Photo
 Workshops](http://www.artphotoworkshops.com.)
 
-h2. Take more photographs
+## Take more photographs
 
 The best and fastest way to get better at photography is to *take more
 photographs*. I have personally resolved to make 2008 a very productive

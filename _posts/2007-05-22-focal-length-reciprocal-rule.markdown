@@ -179,7 +179,7 @@ Not only will I explain what this reciprocal rule is, but I'll give you
 real examples of how to use it in the field.<span id="more"></span><span
 id="more-116"></span>
 
-h2. The Reciprocal Rule
+## The Reciprocal Rule
 
 In its simplest terms, the rule states that you can safely handhold the
 camera if your shutter speed is faster than the reciprocal of your
@@ -232,7 +232,7 @@ multiply by 1.5 and then just assume the answer is too slow by one stop,
 or take your best guess. There is no substitute for experience in this
 case.
 
-h2. Example
+## Example
 
 Here is a "real-world" example that will show you how the numbers are
 put together to give you an answer. I simulated these settings with my
@@ -275,7 +275,7 @@ crisp images of moving subjects at long focal lengths without tripods
 simply because they are like photographic snipers. I've never had good
 luck with that.
 
-h2. Image Stabilization (IS) and Vibration Reduction (VR)
+## Image Stabilization (IS) and Vibration Reduction (VR)
 
 Thanks to [tukangmoto](http://tukangmoto.wordpress.com/) for reminding me
 about these features!

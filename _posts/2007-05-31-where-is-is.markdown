@@ -35,7 +35,7 @@ both sides of the debate so that you can make a more fully informed
 decision about what equipment to buy.<span id="more"></span><span
 id="more-121"></span>
 
-h2. What Is It?
+## What Is It?
 
 \$random:left\$
 
@@ -75,7 +75,7 @@ or even three stops slower than usual to get a clear photograph.
 Numerous articles exist that test those claims, but I won't get into
 that here.
 
-h2. Why Argue About This?
+## Why Argue About This?
 
 \$random:left\$
 

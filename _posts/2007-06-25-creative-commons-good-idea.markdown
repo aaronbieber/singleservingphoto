@@ -94,7 +94,7 @@ than saying "all rights reserved," we can easily say "some rights
 reserved" and call upon a pile of pre-written legalese. Good idea?<span
 id="more"></span><span id="more-129"></span>
 
-h2. Understanding Copyright
+## Understanding Copyright
 
 Fundamentally, copyright is an agreement among the people to treat
 creative works in specific ways. Historically, copyright established a
@@ -120,7 +120,7 @@ thing as stating "you may use this song of mine to make remixes but you
 can't charge money for them" requires pages of _legalese_ to avoid
 ambiguity. That's where the Creative Commons comes in.
 
-h2. Understanding the Creative Commons
+## Understanding the Creative Commons
 
 Creative Commons "provides free tools that let authors, scientists,
 artists, and educators easily mark their creative work with the freedoms
@@ -179,7 +179,7 @@ easy-to-understand language what you are permitted and not permitted to
 do with work carrying that license. Each deed is then linked to the full
 text of the license for the hardened lawyers among us.
 
-h2. If You Love Something, Let it Go...
+## If You Love Something, Let it Go...
 
 I believe in sharing. In my [Web Rules for
 Photographers](http://www.singleservingphoto.com/2007/06/20/web-rules-for-photographers/)
@@ -243,7 +243,7 @@ work, to which you retain all rights. Give a little, get a lot.
 
 The way I see it, if everyone gives a little, we all gain a lot.
 
-h2. Postscript
+## Postscript
 
 If you are serious about protecting your copyrights, you may wish to
 officially register your work with the United States Copyright office.

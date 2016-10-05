@@ -96,7 +96,7 @@ that contribute to the balance (or imbalance) of the work. That's what
 we're going to look at today.<span id="more"></span><span
 id="more-137"></span>
 
-h2. The Rule of Thirds
+## The Rule of Thirds
 
 Photographers who are starting out and who begin exploring the generally
 available advice for creating interesting images will swiftly come
@@ -128,7 +128,7 @@ Thirds](http://digital-photography-school.com/blog/break-the-rule-of-thirds/.)
 You may want to go read that to get an idea of why the rule of thirds
 can and should be broken on occasion.
 
-h2. More Advanced Principles
+## More Advanced Principles
 
 The rule of thirds is a simplistic rule, and a useful one for teaching
 composition fundamentals, but what I want to talk about are lesser-known
@@ -150,7 +150,7 @@ emotional response of some kind to your audience. Art that fails to do
 this is of limited value; even stock and documentary photography make
 use of these design concepts to communicate their messages effectively.
 
-h2. Balance
+## Balance
 
 Compositional balance means maintaining a consistent "visual gravity"
 across the expanse of a piece so that the eye is not drawn to one side
@@ -211,7 +211,7 @@ weight. There are several variables that contribute to visual weight in
 a composition and I want to talk about three specific ones right now:
 scale, isolation, and convergence.
 
-h2. Scale
+## Scale
 
 Scale was really the star of the balance discussion above. As I said,
 there are many ways of changing the balance of a piece. Scale is the
@@ -223,7 +223,7 @@ to or farther from an object. Keeping scale in mind when you compose
 your frame is just another way to manipulate the balance and therefore
 the visceral effect your image will have on its audience.
 
-h2. Isolation
+## Isolation
 
 When elements stand out from their surroundings, it's called
 _isolation_. We can manipulate isolation in a composition in a couple
@@ -269,7 +269,7 @@ adept at interpreting shapes and the space around them.
 You could say that photography, and even art itself, is based on shapes
 and the space around them.
 
-h2. Convergence
+## Convergence
 
 Convergence could be called the _most obvious_ way to affect the
 emphasis of a composition. Essentially, convergence describes elements
@@ -290,7 +290,7 @@ happens will help you to strengthen yours. The dots are the same size,
 but the one on the right draws more weight and attention because of the
 lines leading into it.
 
-h2. The Final Project
+## The Final Project
 
 We've really talked about a lot here today and I commend you if you've
 actually read all the way through! After working on this post for nearly

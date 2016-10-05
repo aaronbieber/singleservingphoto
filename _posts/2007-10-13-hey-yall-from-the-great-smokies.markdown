@@ -30,7 +30,7 @@ before and failed. My impression so far? Positive!
 
 Photos after the break! ~~MORE~~
 
-h2. Tips for Visiting
+## Tips for Visiting
 
 If you think you'd like to come down and visit the Great Smoky Mountains
 National Park, you'll want to keep a few things in mind.
@@ -67,7 +67,7 @@ you're going to be better off going that way.
 Getting in and out of the park by car is limited to one major road, but
 it's empty before dawn and virtually empty after dark.
 
-h2. Photos, As Promised
+## Photos, As Promised
 
 Photographing dawn is one of the hardest things for me to do. The only
 thing I hate more than the cold is getting up early in the morning, and

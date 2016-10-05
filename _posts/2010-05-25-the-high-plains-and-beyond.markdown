@@ -58,7 +58,7 @@ your camera. If it isn't, well, it's not too late to sell all your stuff
 on Craigslist and find another hobby. I hear that flying sport kites is
 pretty thrilling...
 
-h2. Getting There
+## Getting There
 
 Getting to Rocky Mountain National Park is actually the easiest. You can
 fly right into Denver International (DEN), rent a car, and be in the
@@ -113,7 +113,7 @@ The geography and topography apparently result in a totally routine
 formation of incredible cloudscapes. It almost makes sitting in a car
 all day worthwhile!
 
-h2. Getting Around
+## Getting Around
 
 The second hurdle that an adventurous photographer faces when shooting
 in these parks is that _they're enormous_. I've photographed both
@@ -151,7 +151,7 @@ exactly where a good spot might be. At least in Yosemite you can drive
 by all of the candidates in 30 minutes. In Grand Teton, good luck...
 More about this in the last section.
 
-h2. The Weather
+## The Weather
 
 Every photographer is subject to Mother Nature's whimsy. Sometimes
 weather plays directly into the photographer's hands and they wind up
@@ -184,7 +184,7 @@ Needless to say, dress in layers, pack an umbrella, maybe some snow
 shoes, you get the idea. Sometimes the results can be spectacular, but
 you have to be ready to _roll with it_.
 
-h2. Chasing the Light
+## Chasing the Light
 
 The most excitingâ€”and at the same time, tediousâ€”part of this whole
 national park, landscape, nature photography gig, is what my fellow

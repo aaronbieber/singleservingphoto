@@ -172,7 +172,7 @@ lingo, respectively):
  * P (program or programmed auto)\
  * M, which pretty much always stands for _manual_
 
-h2. Content-Related Modes
+## Content-Related Modes
 
 The first set of modes I listed (Digital Vari-Programs or PictureStyles)
 can change a host of parameters related to how the image is captured and
@@ -211,7 +211,7 @@ the camera to tweak its own automatic selection of the main camera
 settings for different situations without altering the image file itself
 in any overt way.
 
-h2. Be a Control Freak
+## Be a Control Freak
 
 All of these PictureStyles and Digital Vari-Programs are great and
 everything, but they won't help you to be a more versatile photographer.

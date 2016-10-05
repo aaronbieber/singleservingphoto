@@ -32,7 +32,7 @@ this voyage have monopolized my attention. To make it up to you, here
 are some photography travel tips that might be helpful.<span
 id="more"></span><span id="more-106"></span>
 
-h2. Make a List
+## Make a List
 
 I am not a huge "fly by the seat of your pants" kinda guy. I like to be
 prepared for things and I'm utterly forgetful, so I require more
@@ -58,7 +58,7 @@ home from Death Valley, I discovered that I had left my USB memory card
 reader somewhere in the hotel. That's a \$35.00 expense that a
 completely free list could have saved me! Lesson learned.
 
-h2. Pack Efficiently
+## Pack Efficiently
 
 When it comes to traveling with 50 pounds of expensive photography and
 computer equipment, I opt for the carry-on approach. I have a sizable
@@ -71,7 +71,7 @@ my side (or back). Otherwise, I travel light. One checked bag and one
 with other things (such as a Nintendo DS and an iPod; photographers can
 also be nerds).
 
-h2. Fly Direct
+## Fly Direct
 
 Whenever possible, I take direct flights. Even if the departure or
 arrival times are less convenient, nothing beats skipping the whole
@@ -79,7 +79,7 @@ layover mess. You can't lose your luggage if it doesn't have to change
 planes, and you can't miss your connecting flight if there isn't one, so
 take it from me--whenever possible, fly direct!
 
-h2. Study Your Destination
+## Study Your Destination
 
 Part of being prepared is having some rough itinerary drawn up. Even if
 you don't follow it to the letter, it's nice to have a general idea of
@@ -104,7 +104,7 @@ can't do any better than a [National Geographic U.S. Park
 Map](http://www.ngmapstore.com/jump.jsp?itemID=53&itemType=CATEGORY).
 Their maps are tear-resistant, waterproof, and exquisitely detailed.
 
-h2. That's All, Folks
+## That's All, Folks
 
 I hope that at least one of these tips was helpful for burgeoning travel
 photography hobbyists out there. I'll try to post as much as I can when

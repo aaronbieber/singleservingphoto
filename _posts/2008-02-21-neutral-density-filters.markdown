@@ -47,7 +47,7 @@ I personally prefer that everything be expressed in stops, but since
 that isn't often the case, here's my explanation... After the jump.<span
 id="more"></span><span id="more-173"></span>
 
-h2. Neutral What?
+## Neutral What?
 
 A neutral density filter is supposed to decrease the "transmittance" of
 light into the camera. The reason it's called "neutral" is because it's
@@ -61,7 +61,7 @@ amount of light as the previous (f/4 lets in half the amount of light as
 f/2.8, which lets in half the amount of light as f/2, etc.), you could
 say that its _transmittance_ is changing by that amount.
 
-h2. Mathematics
+## Mathematics
 
 Unfortunately, ND filters aren't measured in transmittance, they're
 measured in _opacitance_, which is sort of the opposite. Opacitance is
@@ -96,7 +96,7 @@ So I guess I should just give you the chart, now...
  |4.0|13|A very small number.|\
  |6.0|20|A really, really small number.|
 
-h2. Putting It to Use
+## Putting It to Use
 
 So what good is an ND filter that drops your exposure level by 10 stops?
 Probably the most common use is to get long exposure effects in scenes
@@ -125,7 +125,7 @@ Speaking of keeping track of your kit, a nice tool for that is our
 Checklist](http://artphotoworkshops.com/read/UltimateTravelPhotoChecklist..).
 Never forget an essential piece of gear again!
 
-h2. The Best ND Filters
+## The Best ND Filters
 
 ![](http://singleservingphoto.com/wp-content/uploads/2008/02/bw_logo-134x150.png "B+W Filter")
 

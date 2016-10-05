@@ -214,7 +214,7 @@ measurements with the assumption that this many dots are in each inch."
 By the way, it's usually not a good idea to use the "resample" option
 unless you're _decreasing_ the resolution.
 
-h2. Totally Confused?
+## Totally Confused?
 
 Resolution is not easy to explain or to understand without experience,
 so I'm going to give you a hypothetical scenario. Watch out, there will
@@ -240,7 +240,7 @@ side. Divide the pixel dimension by the resolution in DPI to find the
 dimension in inches. Ten divided by two equals five. (That's pretty
 light arithmetic, right?)
 
-h2. So What? Applying the Theory
+## So What? Applying the Theory
 
 How does this knowledge help us to make clear, crisp prints from our
 images?
@@ -272,7 +272,7 @@ output size to be (on paper) while keeping the resolution somewhere in
 the "safe zone" for sharpness (for me, somewhere between 150 and 300 or
 higher).
 
-h2. Conclusions
+## Conclusions
 
 Hopefully this has given you a better idea of what resolution really is
 and why it's fallacious to think that a digital image has any inherent

@@ -53,7 +53,7 @@ small items after reading a recent post and I felt I should share the
 answers I came up with.<span id="more"></span><span
 id="more-141"></span>
 
-h2. Land of Confusion
+## Land of Confusion
 
 So there I was, reading this [Balance Light:
 Twilight](http://strobist.blogspot.com/2007/09/lighting-102-balancing-light-twilight.html)
@@ -67,7 +67,7 @@ mind.
 
 Questions that burned within me!
 
-h2. Time Is of the Essence
+## Time Is of the Essence
 
 My first question, and the simplest one, was how flash lighting actually
 interacts with aperture and shutter settings. What I didn't realize is
@@ -91,7 +91,7 @@ duration components).
 
 I had never really thought about it that way before.
 
-h2. What About TTL?
+## What About TTL?
 
 My other big question was how this _house of cards_ you've
 meticulously built up by manually adjusting all of your settings could
@@ -117,7 +117,7 @@ make to the ambient light's exposure should be virtually unaffected.
 E-TTL simply ensures that your flash-lit subject isn't over-exposed by a
 flash burst that lasts too long.
 
-h2. Balancing Act
+## Balancing Act
 
 The real point of talking about all of this is to figure out how to
 balance ambient light with the light from your flash. The moral of the

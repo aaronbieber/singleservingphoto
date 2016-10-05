@@ -72,7 +72,7 @@ have only your aesthetic sense to guide you. In those situations, I find
 that over-planning spoils the soup, so to speak. As necessity is the
 mother of invention, so too is spontaneity the mother of serendipity.
 
-h2. The Short List
+## The Short List
 
 Here is the very short list of things that I always plan for when going
 on fine art photography trips:
@@ -114,7 +114,7 @@ Data website to figure it out, or look at a [moon phase
 calendar](http://stardate).org/nightsky/moon/ for the month during which
 you want to travel.
 
-h2. Conclusions
+## Conclusions
 
 While driving nearly 800 miles up and down the "green mountain" state of
 Vermont this past week looking for shots of fall foliage, we found that

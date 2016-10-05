@@ -81,7 +81,7 @@ straddles the line between Tennessee and North Carolina, I was made
 forcefully aware of some of the dangers these parks face and how
 important it is that we contribute to their protection.
 
-h2. Painting the Night
+## Painting the Night
 
 "Light painting," or using flashlights to illuminate objects during long
 exposures in the dark, is one of the staples of outdoor photography, and
@@ -123,7 +123,7 @@ gate, we could be sure it was a ranger. But what business might a ranger
 have in that dark place at that hour? Surely we were simply two benign
 photographers walking the trails and roads as any other visitors might.
 
-h2. Touched by a Ranger
+## Touched by a Ranger
 
 "Step into the road where I can see you," came the ranger's commanding
 voice. The sound seemed to come from a tall, black void in the wall of

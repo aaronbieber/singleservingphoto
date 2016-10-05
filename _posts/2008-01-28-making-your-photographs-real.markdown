@@ -30,7 +30,7 @@ wallpaper your bathroom (snap a quick photo of that if you do!)
 Here are some services that may come to your aid.<span
 id="more"></span><span id="more-169"></span>
 
-h2. Pro Printing
+## Pro Printing
 
 When I print my images for serious presentation, to frame and hang in my
 own home, or to show elsewhere, I always turn to [White House Custom
@@ -49,7 +49,7 @@ ICC color profiles to download so you can "soft proof" your images for
 their specific equipment, making it even easier to achieve the results
 you need.
 
-h2. Consumer Printing
+## Consumer Printing
 
 If you are less concerned with quality and more concerned with
 _value_, there is a neat site that will allow you to compare price

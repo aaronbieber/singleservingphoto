@@ -48,7 +48,7 @@ do, "shouldn't I be able to read that out somehow and name the file with
 it?" Yes, yes I can. This is because I am a nerd. It is this power that
 I will give you today. Nerd power.
 
-h2. Getting the Programs
+## Getting the Programs
 
 First, you're going to need a working installation of
 [MacPorts](http://www.macports.org). In my [previous
@@ -91,7 +91,7 @@ the way, you can find out what else it can do by asking it for help with
 
 ` airborne@Auriga ~ $ exiv2 -pi 24Jun06-03.jpg Iptc.Application2.RecordVersion              Short       1  2 Iptc.Application2.ObjectName                 String     17  Onward, Upward II Iptc.Application2.Keywords                   String     13  portrait ilva Iptc.Application2.Byline                     String     12  Aaron Bieber Iptc.Application2.Copyright                  String     31  Copyright (c) 2006 Aaron Bieber`{lang="text"}
 
-h2. Shelling out the Name!
+## Shelling out the Name!
 
 You can see that this JPEG has been given a title (in the IPTC spec.
 they call it ObjectName), a couple of keywords, a byline (the creator's
@@ -143,7 +143,7 @@ something else along those lines, you'd want to examine and alter the
 Save that script into a file and make sure it's executable by running
 @chmod u+x yourscriptname@, and you're done!
 
-h2. Making a Droplet
+## Making a Droplet
 
 Well, almost. Wouldn't it be handy to be able to drag and drop a bunch
 of photos onto an icon and have this thing rename them all at once? You

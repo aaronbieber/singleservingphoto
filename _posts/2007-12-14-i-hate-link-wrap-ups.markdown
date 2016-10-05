@@ -34,7 +34,7 @@ interested in. It would be a shame for that to go to waste.
 So today I bring you my very first ever *I Hate Link Wrap-Ups*
 post.<span id="more"></span><span id="more-159"></span>
 
-h2. Don't Get Scammed
+## Don't Get Scammed
 
 Because I hate link wrap-ups, I will not simply list the links and say
 _Have a nice day!_, but rather I will give you some reason(s) why I
@@ -59,7 +59,7 @@ Without a doubt, good photography equipment can cost a bundle, but make
 sure the cost is legitimate before you get caught in one of these
 sinister plots.
 
-h2. Storage Solutions
+## Storage Solutions
 
 Digital photography has really begun to mix the worlds of art and
 technology in fascinating new ways. One of the biggest issues that new
@@ -80,7 +80,7 @@ photographer with a large library of creative work. There have been
 great leaps in storage technology lately, so I will share some of these
 links with you.
 
-h3. Western Digital's Raptor
+### Western Digital's Raptor
 
 [Western Digital 150 GB SATA
 Raptor](http://www.wdc.com/en/products/Products.asp?DriveID=189)
@@ -99,7 +99,7 @@ interface is Serial ATA--SATA for short).
 
 One word of warning: these drives are pretty loud.
 
-h3. SSD (Solid-State Disks)
+### SSD (Solid-State Disks)
 
 This new SSD technology has no moving parts and instead uses something
 they call NAND memory, which is something similar to CompactFlash or any
@@ -116,7 +116,7 @@ latest one, where they explore a RAID setup of SSDs, reaches disk
 read/write speeds equivalent to gigabit ethernet. That's pretty darn
 fast.
 
-h2. Is Photography Art, What Is Art, Etc.
+## Is Photography Art, What Is Art, Etc.
 
 I love to wax philosophical about art and photography more than most
 people, but over the past few days I have been literally _blown away_

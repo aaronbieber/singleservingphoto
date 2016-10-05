@@ -69,7 +69,7 @@ photography more accessible over the web. You just have to keep a few
 basic guidelines in mind and try to follow them whenever you can. This
 is by no means an exhaustive list, nor is it meant to be canon law.
 
-h2. Never, Ever Say "Click Here"
+## Never, Ever Say "Click Here"
 
 The most atomic element in vanilla web design is the link. Beneath all
 of the stylization, navigation, content, and so on, there are links
@@ -83,7 +83,7 @@ will anyone know where they go? The World Wide Web Consortium calls this
 the "human test." Machines don't much care what your links say, but
 people do.
 
-h2. Use Stylesheets
+## Use Stylesheets
 
 \$random:left\$
 
@@ -109,7 +109,7 @@ understanding of these important issues so that you can ask the right
 questions of your designer or web host before spending time and money on
 a site that excludes the disabled.
 
-h2. Don't Forget Alternate Text
+## Don't Forget Alternate Text
 
 Even though we primarily deal in visual imagery and you might wonder at
 first whether your website and its content would be interesting or
@@ -125,7 +125,7 @@ braille readers, text-based browsers, and other alternate methods of
 viewing your site can make sense of what would have been displayed there
 if images were available. It's just a good practice.
 
-h2. Sharing Is Caring
+## Sharing Is Caring
 
 \$random:right\$
 
@@ -167,7 +167,7 @@ a bit more to the fourth row... Count in from the left..."
 
 That company doesn't understand their clientele!
 
-h2. Conclusions
+## Conclusions
 
 As I said earlier, the majority of photographers I know don't have the
 time or inclination to learn web design, so they are at the mercy of a
@@ -177,7 +177,7 @@ someone who moonlights building websites. That said, I hope these tips
 come in handy as you hone your web presence or search for someone to
 help you do it!
 
-h2. More Information
+## More Information
 
 Someone criticized this article for excluding watermarking as part of
 the whole website package, which I suppose is a legitimate claim. I

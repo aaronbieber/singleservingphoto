@@ -54,7 +54,7 @@ Here I will make a valiant effort to summarize what has already been
 said by others and tell you why I think this "emergency" might be
 somewhat blown out of proportion. Continue after the jump! ~~MORE~~
 
-h2. The Facts
+## The Facts
 
 Before I get into the details of this new set of rules, you should
 probably know what the rules actually say. So, for your convenience,
@@ -123,7 +123,7 @@ which are much less volatile and are subject to slightly different
 rules. I will presume that we're only talking about lithium ion
 batteries from here on out.
 
-h2. The Concerns
+## The Concerns
 
 The danger of having lithium batteries floating around in luggage is
 twofold. First, there is some concern about batteries getting shorted
@@ -137,7 +137,7 @@ Safe Travel's release about these new rules is fairly specific about
 what sorts of batteries you can't bring on the plane, but rather than
 parroting their website, I'll break it down into the important bits.
 
-h2. The Rules
+## The Rules
 
 * You really shouldn't pack your spare batteries in your checked
 luggage because the TSA inspectors have the right (and yes, the
@@ -154,7 +154,7 @@ made out of. For example, the Canon EOS-1d, 1ds, 1d Mark II, and 1ds
 Mark II use nickel metal hydride (NiMH) batteries, so take as many as
 you want.
 
-h2. Let's Do Some Math
+## Let's Do Some Math
 
 What on Earth is eight equivalent grams of lithium? Well, the DOT says
 that eight equivalent grams of lithium are present in a battery with
@@ -192,7 +192,7 @@ do they care how much aggregate lithium there is in your carry-on. The
 concern is only for batteries with eight or more equivalent grams
 _each_.
 
-h2. Taking Precautions
+## Taking Precautions
 
 Just because you're a whiz kid with a calculator and you are
 functionally literate doesn't mean that the TSA folks won't hassle you

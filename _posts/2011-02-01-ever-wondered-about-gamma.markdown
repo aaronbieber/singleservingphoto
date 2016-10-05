@@ -65,7 +65,7 @@ math starts to creep in. But before I get all numeric on you, let's take
 a look at what gamma correction really means, how it's used, and why
 it's important to you.
 
-h2. Gamma Correction, What Does It Mean?!
+## Gamma Correction, What Does It Mean?!
 
 The truth is that gamma correction is pointless. Gamma correction is one
 of those things that was invented to solve a problem (and just in time,
@@ -125,7 +125,7 @@ CRT, the image's luminance will even out to the black line, which is
 what you want. A perfectly linear relationship between the image data
 you send in and what you see on the screen. Brilliant.
 
-h2. The Math
+## The Math
 
 Let's just talk about math for about one minute more. Remember
 equations? Right. An equation is what mathematically describes your
@@ -148,7 +148,7 @@ The infamous 2.2 gamma! Indeed. So when folks talk about a "gamma of
 luminance correction is being done. You're learning so much already! And
 I'm not even done yet!
 
-h2. What Gamma Setting Should You Use?
+## What Gamma Setting Should You Use?
 
 ==\[caption id="attachment_935" align="alignright" width="300"
 caption="Powerrrr!"\][![](http://singleservingphoto.com/wp-content/uploads/2011/02/powermac-300x200.jpg "Power Macintosh")](http://singleservingphoto.com/wp-content/uploads/2011/02/powermac.jpg)\[/caption\]==
@@ -191,7 +191,7 @@ all the way up until last year when OS X 10.6 "Snow Leopard" was
 released and for the first time ever set the default gamma on a
 Macintosh computer to 2.2.
 
-h2. So What?
+## So What?
 
 You just read 1,300 words about gamma correction, viewed a pretty graph,
 and learned a bit of history. So far, you have a handful of Trivial
@@ -212,7 +212,7 @@ really don't have to worry about gamma too much. Images in Photoshop
 (and Firefox 3.5 as well) will be adjusted based on their embedded
 profiles (assuming they have profiles).
 
-h2. The Most Important Thing
+## The Most Important Thing
 
 The one thing you need to remember is this: when you are exporting
 photos for use on the web, always, _always_, convert them to the sRGB

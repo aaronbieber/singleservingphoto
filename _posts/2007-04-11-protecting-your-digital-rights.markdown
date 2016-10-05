@@ -182,7 +182,7 @@ calculated impression a reader might get from the first two paragraphs
 that the Orphan Works Act will do just that, Canfield offers several
 good tips.
 
-h2. Orphan Works Act of 2006
+## Orphan Works Act of 2006
 
 Before delving full-throttle into the nitty gritty of copyright law and
 what you can do to protect yourself, I must first dispell concerns about
@@ -250,7 +250,7 @@ specific tools mentioned is "reasonably available technology," which is
 what I assume Canfield latched onto when he dove into the topic of
 _metadata_.
 
-h2. Using Metadata
+## Using Metadata
 
 Metadata refers to one of two major types of non-image data that can be
 embedded into certain image files. The first type is IPTC, which stands
@@ -279,7 +279,7 @@ Lightroom user so I won't be able to talk about Aperture's interface or
 specific support. If you use Aperture and have anything to share about
 metadata, please leave a comment.
 
-h2. Watermarks
+## Watermarks
 
 The most popular way to assert copyright on an image is to emblazon it
 with your name and/or URL and/or a phrase such as "All Rights Reserved."

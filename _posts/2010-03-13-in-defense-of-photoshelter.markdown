@@ -55,7 +55,7 @@ started at the top of my list.
 This is a story about my experiences with Photoshelter and why you
 should probably stop reading right now and sign up. ~~MORE~~
 
-h2. A Brief Preface
+## A Brief Preface
 
 It's worth mentioning that during the daytime, when I'm not fighting
 crime and [teaching photography workshops](http://artphotoworkshops.com,)
@@ -74,7 +74,7 @@ Nevertheless, what I was looking for here was something more
 _serious_, a little bit less _hobbyist_. It turned out that
 Photoshelter, in spite of its few weaknesses, fit the bill.
 
-h2. Photoshelter's Weaknesses
+## Photoshelter's Weaknesses
 
 ![](http://singleservingphoto.com/wp-content/uploads/2010/03/Thumbs-down.jpg "Thumbs down")
 
@@ -110,7 +110,7 @@ through stylesheets.\
 his site from scratch, but it's still something I would like to see more
 support for.
 
-h2. Photoshelter's Strengths
+## Photoshelter's Strengths
 
 ![](http://singleservingphoto.com/wp-content/uploads/2010/03/Thumbs-up.jpg "Thumbs up")
 
@@ -146,7 +146,7 @@ transaction as their fee), or you can use a merchant account if you have
 one. Those can be costly to maintain, but is a better way for a higher
 volume licensing business to broaden its margins.
 
-h2. Why Use Photoshelter?
+## Why Use Photoshelter?
 
 ![](http://singleservingphoto.com/wp-content/uploads/2010/03/Confused-face-e1268404997164-266x300.jpg "Confused face")
 

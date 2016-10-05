@@ -118,7 +118,7 @@ or P modes, and allows you to override the camera's light meter to make
 it overexpose or underexpose the shot by a certain amount. I'll talk
 about this feature last.
 
-h2. Learn to talk the talk
+## Learn to talk the talk
 
 You will hear people talk about lenses or settings being "faster" or
 "slower." You would think that they're talking about shutter speed
@@ -134,13 +134,13 @@ use a faster shutter speed. A larger aperture (smaller number, right?)
 means more light. More light means you don't have to expose the sensor
 for as long, so your shutter speed is faster.
 
-h2. A Balancing Act
+## A Balancing Act
 
 As I mentioned earlier, changing your camera settings, put simply, is
 like a balancing act. Once you understand the concept of "stops" and how
 each setting affects light, you're on a roll.
 
-h3. What's a stop?
+### What's a stop?
 
 A "stop" is a relative measurement of light, meaning that "one stop" of
 light is not an absolute amount. Rather, plus one stop means twice as
@@ -148,7 +148,7 @@ much light, and minus one stop means half as much light. When you work
 with your camera settings, be aware that _modern cameras typically
 measure their settings in 1/3 stops_ rather than full stops.
 
-h3. Shutter speed
+### Shutter speed
 
 The faster the shutter speed, the less light will make it to the sensor
 in total. The slower the shutter speed (i.e. the longer it remains
@@ -157,7 +157,7 @@ open), the more light will make it in.
 For each full stop longer that you leave the shutter open, twice as much
 light will enter the camera.
 
-h3. Aperture!
+### Aperture!
 
 The aperture, as you probably know, is the opening through which light
 passes on its journey through the lens. What is confusing about aperture
@@ -169,7 +169,7 @@ For each full stop that the aperture number _increases_, half as much
 light will be let into the camera. For each full stop that the aperture
 number _decreases_, twice as much light will be let into the camera.
 
-h3. ISO sensitivity
+### ISO sensitivity
 
 ISO is on a different scale, but it's much easier to understand. As the
 ISO number doubles, so does the light, thus ISO 200 is twice as
@@ -179,7 +179,7 @@ half-stop or third-stop ISO increments as well, but it's pretty easy to
 tell that the full stops are 50, 100, 200, 400, 800, etc., because the
 numbers double.
 
-h2. Metering
+## Metering
 
 This is a tough subject. Metering is the process of evaluating how much
 light is in a scene, something that we generally let our cameras do
@@ -223,7 +223,7 @@ want. Usually.
 When it's *not* the exposure you want, that's where *exposure value
 (EV)* comes in.
 
-h3. EV compensation
+### EV compensation
 
 EV compensation is *only used* in the auto-metering shooting modes,
 like Av/A, Tv/S, and P. If you are in manual (M) mode, you are selecting
@@ -245,7 +245,7 @@ You might also need to use EV if the camera overexposes a portion of the
 scene that you didn't want it to. To fix that, set your EV to a negative
 number ("stop it down").
 
-h2. Why
+## Why
 
 Why have I told you all of this? How does this information possibly make
 you a better photographer? I don't know, maybe it doesn't. My point in

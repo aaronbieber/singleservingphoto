@@ -357,7 +357,7 @@ exploits! I hope you've enjoyed digging into the mechanics of this very
 useful tool and if you have any remaining questions or if you think I
 screwed up anywhere along the way, please leave a comment!
 
-h2. Lightroom, Lightroom, Lightroom, Lightroom
+## Lightroom, Lightroom, Lightroom, Lightroom
 
 ![](http://singleservingphoto.com/wp-content/uploads/2007/06/Adobe-Photoshop-Lightroom-3-Software-for-Mac-Windows--150x150.jpg "Adobe Photoshop Lightroom 3 Software for Mac & Windows")
 

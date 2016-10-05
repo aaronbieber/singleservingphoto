@@ -136,7 +136,7 @@ picture of why I think the Creative Commons plays a very valuable role
 in photography in today's copy-and-paste culture and why you should be
 thinking very seriously about how it can help you. ~~MORE~~
 
-h2. Creative Commons?
+## Creative Commons?
 
 If you haven't heard of them, the Creative Commons is a group focused on
 developing new "rights management" tools for creators. Whether you're an
@@ -156,7 +156,7 @@ that has changed since about 1980*.
 Read more about the Creative Commons and their goals on [their
 website](http://creativecommons.org/about/.)
 
-h2. Copy-and-Paste Culture
+## Copy-and-Paste Culture
 
 Cory Doctorow put this so elegantly that I will use his words:
 
@@ -207,7 +207,7 @@ you, personally), your only concern is how to maximize your recognition
 and profits gained from a creative work without strangling the life out
 of this copy-and-paste culture we live in.
 
-h2. Some Rights Reserved
+## Some Rights Reserved
 
 What Creative Commons does, in essence, is _formalize_ the concession
 of certain usage rights to creative works such that the rights yielded
@@ -244,7 +244,7 @@ article (the original citation was added by someone else during their
 research) increases my overall credibility. Yes, I do think it was worth
 it.
 
-h2. Giving It All Away
+## Giving It All Away
 
 One of the popular arguments against the Creative Commons paraded about
 online is that these licenses may expressly permit uses you, as the
@@ -289,7 +289,7 @@ clear to you what each of their licenses will do. It is your
 responsibility to read and understand them before you put them to use.
 It is the same with any contract or agreement; ignorance is no excuse.
 
-h2. Conclusions?
+## Conclusions?
 
 I still believe that the judicious use of Creative Commons licenses can
 allow you to give back to the artistic community and to our global

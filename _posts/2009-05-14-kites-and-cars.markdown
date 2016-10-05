@@ -22,7 +22,7 @@ tags:
 - artists
 comments: []
 ---
-h3. Part One: Kites
+### Part One: Kites
 
 Chris Benton is a professor of architecture at the University of
 California, Berkeley. He also straps his digital SLR onto a kite string
@@ -52,7 +52,7 @@ It's definitely not commonplace for someone to possess both a grasp of
 electronic and mechanical engineering *and* a hawk-eye for artistic
 composition. Chris Benton has both.
 
-h3. Part Two: Cars
+### Part Two: Cars
 
 Aside from being an avid photographer, I admit to a streak of BMW
 _fanboyism_. When it comes to sports cars that are still solid daily

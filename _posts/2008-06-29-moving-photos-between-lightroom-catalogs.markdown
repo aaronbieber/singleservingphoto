@@ -58,7 +58,7 @@ your "Pictures" folder, or anywhere within your "Home" folder.
 
 Okay, you have all of those things. Now what?
 
-h3. Step 1: Get connected
+### Step 1: Get connected
 
 Make sure your laptop is turned on and connected to your home network.
 You'll need to be sure that File Sharing is enabled on your laptop. You
@@ -81,7 +81,7 @@ your laptop). If you need help setting up file sharing between your
 Macs, you may like to read [Mac OS X: About File
 Sharing](http://support.apple).com/kb/HT1549 on Apple's support website.
 
-h3. Step 2: Get some photos!
+### Step 2: Get some photos!
 
 At this point, you should be able to browse to your laptop's Pictures
 folder from your desktop in the Finder. The name of your laptop should

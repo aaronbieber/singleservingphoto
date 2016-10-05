@@ -111,7 +111,7 @@ AppleScript droplet to watermark a bunch of photos at once.
 
 The first step is...
 
-h2. Building the Watermark
+## Building the Watermark
 
 The first step in automating the watermark process is to have a
 watermark graphic you want to use. You will need a standalone graphic
@@ -137,7 +137,7 @@ to be the most reliable, even if not always the most attractive.
 
 Now that we have a workable watermark image, it's time to...
 
-h2. Install ImageMagick
+## Install ImageMagick
 
 ImageMagick is a command-line image manipulation suite originally
 developed in the Linux community. It's free, powerful, and could serve
@@ -199,7 +199,7 @@ through The Google to help you out.
 
 Now that we have ImageMagic set up, we need to write some...
 
-h2. AppleScript
+## AppleScript
 
 I love AppleScript. What we're going to do now is write a small script
 (or "droplet") that opens images and places your watermark image on
@@ -247,7 +247,7 @@ ability to operate as a droplet (a program you can drop files onto).
 
 Great, now let's make it run automatically from Lightroom!
 
-h2. Configuring Lightroom
+## Configuring Lightroom
 
 When you run the Export command from Lightroom, you are presented with a
 dialog box much like the one you see below. We are chiefly concerned

@@ -47,7 +47,7 @@ the headline proud.
 After the break, a complete rundown on DNG; trust me, it's going to be
 technical _and_ editorial. ~~MORE~~
 
-h2. What Is DNG?
+## What Is DNG?
 
 Skip this section if you already know what DNG is, or read it if you
 want to know what I think DNG is.
@@ -81,7 +81,7 @@ You can read a lot of nitty gritty on the format itself explained by
 Barry Pearson on his [DNG Specification
 page](http://www.barrypearson.co.uk/articles/dng/specification.htm.)
 
-h2. Why Would You Want to Use DNG?
+## Why Would You Want to Use DNG?
 
 There are three main reasons that are generally cited:
 
@@ -159,7 +159,7 @@ There are a couple of ways to convert to DNG in Lightroom, and there are
 [three of them explained on
 TheLightroomLab.com](http://thelightroomlab.com/2009/06/converting-digital-camera-raw-files-to-the-dng-format-using-adobe-photoshop-lightroom/.)
 
-h2. Sidecars Aren't Just for Kids
+## Sidecars Aren't Just for Kids
 
 [![Photo by
 Rastaman3000](http://singleservingphoto.com/wp-content/uploads/2010/01/697px-Vespa_sidecar-300x257.png "Vespa")](http://en.wikipedia.org/wiki/File:Vespa_sidecar.png)
@@ -215,7 +215,7 @@ triggered the "Export Metadata to Files" function. Presumably you would
 carry out this procedure on images you have finished editing as part of
 your backup strategy. For the record, I do not do this.
 
-h2. Conclusions
+## Conclusions
 
 So where does this leave us as far as DNG goes? Should we all run back
 to our computers right now and convert our whole libraries to DNG

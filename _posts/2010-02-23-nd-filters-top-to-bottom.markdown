@@ -109,7 +109,7 @@ effectively in the field.
 Starting from the top, what exactly is an ND filter, anyway?<span
 id="more"></span><span id="more-454"></span>
 
-h2. What Exactly Is an ND Filter, Anyway?
+## What Exactly Is an ND Filter, Anyway?
 
 ND stands for "neutral density." "Density" refers to _optical density_
 or _absorbance_. The absorbance of a substance is basically the amount
@@ -136,7 +136,7 @@ sensitivity, which may be the only way to get slower shutter speeds in
 situations where light is ample and your ISO is already as low as it can
 go. So then the next question is, why do you want slower shutter speeds?
 
-h2. Why Do You Want Slower Shutter Speeds?
+## Why Do You Want Slower Shutter Speeds?
 
 [![Bridal Veil Falls, near Index,
 Washington](http://farm1.static.flickr.com/38/81303741_1aa4cf6e6e_m.jpg "Bridal Veil Falls")](http://www.flickr.com/photos/skycaptaintwo/81303741/)
@@ -173,7 +173,7 @@ Swell. Now we know all about what ND filters are for. But how do you
 size them up? ND filter specifications can be pretty confusing. That's
 why I will explain ND filter specifications to you now.
 
-h2. ND Filter Specifications, Explained
+## ND Filter Specifications, Explained
 
 There are four measures that can be used to describe how much light an
 ND filter blocks and/or transmits, and they are:
@@ -217,7 +217,7 @@ to compose and focus your scene on a tripod and _then_ screw on the
 filter, because once it's on you won't be able to see anything at all,
 unless you're pointing directly at the sun... And why would you do that?
 
-h2. Let's Talk Brands
+## Let's Talk Brands
 
 Filters made by B+W are among the best quality you can buy; the the
 materials used and the fit and finish are top notch. An ND1000 filter
@@ -250,7 +250,7 @@ multi-coated surface to reduce flares and ghosting, or in a slim form
 factor for better performance on wide-angle lenses. Prices vary
 depending upon the options.
 
-h2. Let's Talk... Brands... Again
+## Let's Talk... Brands... Again
 
 An important thing to think about when you're looking at adding filters
 to your kit is the combination of different brands of threaded filters.

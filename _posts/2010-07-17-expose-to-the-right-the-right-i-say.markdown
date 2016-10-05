@@ -97,7 +97,7 @@ rule.
 
 Okay, so...
 
-h2. How do you use this rule?
+## How do you use this rule?
 
 I'm glad you asked. This is all you need to remember.
 
@@ -120,7 +120,7 @@ until the histogram data touches the right edge of the graph. If you
 can't get it all the way over there without compromising the shot, don't
 worry about it. This is a rule of thumb only.
 
-h2. Then what?
+## Then what?
 
 Then you take your photos home and import them into Lightroom and use
 the Develop module to adjust the overall brightness of the image using

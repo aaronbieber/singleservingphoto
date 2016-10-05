@@ -73,7 +73,7 @@ This workshop gives you the opportunity to photograph a famous and
 unique location with two professional photographers who will help you
 get the *most* out of every hour and out of every exposure.
 
-h2. Who should attend this workshop?
+## Who should attend this workshop?
 
 Anyone who wants to advance their photography skills and get the
 absolute most out of a trip to Death Valley. In a limited amount of time
@@ -81,11 +81,11 @@ we'll bring you to the best locations at the best times and work with
 you both in the field and in front of the computer to help you get great
 results.
 
-h2. Itinerary
+## Itinerary
 
 Here's the plan.
 
-h3. Friday April 4th
+### Friday April 4th
 
 \$image:right/Places/DeathValley/Tendrils.jpg\$
 
@@ -97,7 +97,7 @@ one another, and get a feel for what each of you hope to accomplish
 during the workshop. We will set out in the early evening to photograph
 sunset and then do an introduction to night photography.
 
-h3. Saturday April 5th - Monday April 7th
+### Saturday April 5th - Monday April 7th
 
 Each day of the workshop will be broken up into three sessions,
 described here:
@@ -150,7 +150,7 @@ for the group to communicate across distances of a mile or more, and
 we'll also use the radios to communicate between vehicles while
 traveling to each location.
 
-h2. Registration
+## Registration
 
 <div class="one-image align-left" style="float: left;">
 
@@ -176,7 +176,7 @@ guests are permitted to tag along. We find that the group is most
 focused and productive when we are all actively photographing, and we
 don't want to dilute the experience for any of our attendees.
 
-h3. Important Notes
+### Important Notes
 
 * This is not an all-inclusive trip and as such does not include
 transportation, food, or lodging. Your registration package will contain
@@ -193,11 +193,11 @@ required. This is not a stressful amount of exercise by any means, but
 you should be in decent physical shape and able to navigate the
 irregular desert terrain.
 
-h2. Gear
+## Gear
 
 You'll need some things on this trip...
 
-h3. What you should bring
+### What you should bring
 
 \$image:right/Places/DeathValley/DevilsLandscape.jpg.html\$
 
@@ -231,7 +231,7 @@ The weather in Death Valley can go from very warm to very cold. You
 should pack accordingly, keeping in mind that in windy conditions before
 dawn and after the sun goes down it can feel very cold.
 
-h3. What we will give you
+### What we will give you
 
 <div class="one-image align-left" style="float: left;">
 
@@ -249,12 +249,12 @@ often; and lots of information about the art and science of
 photographing on location and specifically in Death Valley. All of these
 items are, of course, yours to keep.
 
-h2. Who are you?
+## Who are you?
 
 Here's a little about us and why you're going to love to learn and
 explore with us in Death Valley.
 
-h3. Christopher Blake
+### Christopher Blake
 
 I am a fine art travel photographer living in the Boston area. I have
 worked exclusively with digital cameras for the past six years, focusing
@@ -266,7 +266,7 @@ Death Valley!
 
 View Chris's gallery, [The Curious Lens](http://www.curiouslens.com.)
 
-h3. Aaron Bieber
+### Aaron Bieber
 
 I am an illustrator, photographer, web and graphic designer living and
 working on the scenic Connecticut coast (I am also the author of this
@@ -285,7 +285,7 @@ this workshop!
 View Aaron's gallery, [Fisheye Multimedia
 Galleries](http://www.fisheyegallery.com)
 
-h2. Ready to Register?
+## Ready to Register?
 
 Just send an e-mail to "Death Valley Workshop
 registration":mailto:dvworkshop@fisheyegallery.com and let us know!

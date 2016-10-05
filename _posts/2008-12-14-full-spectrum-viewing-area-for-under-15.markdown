@@ -53,7 +53,7 @@ offset the orange light they actually generate. Michael's entire lamp,
 which includes the bulb, cost him around \$80. We can do better than
 that.
 
-h2. Get a Bulb
+## Get a Bulb
 
 I wound up sampling several compact fluorescent bulbs from
 [1000bulbs.com](http://clickserve.cc-dt.com/link/click?lid=41000000027242453)
@@ -77,7 +77,7 @@ prefer 5,100K, you might go as high as 5,400K.\
 accuracy of a light source has its flaws, but it's better than guessing;
 a higher number is better, 100 is perfect.
 
-h2. A Note About CRI
+## A Note About CRI
 
 The Color Rendering Index (CRI) is a measure of a light source's ability
 to reproduce color. Those of you mathematically inclined or simply
@@ -96,7 +96,7 @@ people.
 
 23 Watt, full-spectrum, 5100K CFL from 1000bulbs.com: *\$5.71*
 
-h2. Get a Lamp
+## Get a Lamp
 
 What good is a bulb without a lamp to screw it into? Perhaps you have a
 spare lamp somewhere in your house that you can use, but if you don't,

@@ -43,7 +43,7 @@ decent shots that exist. There are a few out there by random bloggers,
 or that you may find on Flickr, but it isn't a landslide such as you
 will find when you search for New York City fireworks photos.
 
-h2. Where, When?
+## Where, When?
 
 Okay, so there are enough shots to know where you want to shoot from, at
 least; there are a couple of decent opportunities. Many of the "classic"
@@ -87,7 +87,7 @@ anywhere I wished... That would have been nice.
 
 Oh, right, security checkpoints, I almost forgot.
 
-h2. Security Checkpoints
+## Security Checkpoints
 
 Before the 4th of July celebration, an enormous fence is erected around
 the entire National Mall. In order to get in, you will have to pass
