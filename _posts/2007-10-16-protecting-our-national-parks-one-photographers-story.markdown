@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 149
-wordpress_url: http://www.singleservingphoto.com/2007/10/16/protecting-our-national-parks-one-photographers-story/
+wordpress_url: /articles/2007/10/16/protecting-our-national-parks-one-photographers-story/
 date: '2007-10-16 21:53:24 -0400'
 date_gmt: '2007-10-17 01:53:24 -0400'
 categories:

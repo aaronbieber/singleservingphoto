@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 170
-wordpress_url: http://www.singleservingphoto.com/2008/01/30/dp-review-adds-lenses/
+wordpress_url: /articles/2008/01/30/dp-review-adds-lenses/
 date: '2008-01-30 08:59:36 -0500'
 date_gmt: '2008-01-30 12:59:36 -0500'
 categories:

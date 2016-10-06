@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 94
-wordpress_url: http://www.singleservingphoto.com/2007/02/21/the-martin-center/
+wordpress_url: /articles/2007/02/21/the-martin-center/
 date: '2007-02-21 22:38:14 -0500'
 date_gmt: '2007-02-22 03:38:14 -0500'
 categories:

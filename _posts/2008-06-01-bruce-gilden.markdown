@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 186
-wordpress_url: http://www.singleservingphoto.com/2008/06/01/bruce-gilden/
+wordpress_url: /articles/2008/06/01/bruce-gilden/
 date: '2008-06-01 23:10:49 -0400'
 date_gmt: '2008-06-02 03:10:49 -0400'
 categories:

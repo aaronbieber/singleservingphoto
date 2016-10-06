@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 130
-wordpress_url: http://www.singleservingphoto.com/2007/06/27/finally-photoshop-lightroom-11/
+wordpress_url: /articles/2007/06/27/finally-photoshop-lightroom-11/
 date: '2007-06-27 14:01:46 -0400'
 date_gmt: '2007-06-27 18:01:46 -0400'
 categories:

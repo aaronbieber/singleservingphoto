@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 129
-wordpress_url: http://www.singleservingphoto.com/2007/06/25/creative-commons-good-idea/
+wordpress_url: /articles/2007/06/25/creative-commons-good-idea/
 date: '2007-06-25 11:09:45 -0400'
 date_gmt: '2007-06-25 15:09:45 -0400'
 categories:
@@ -182,7 +182,7 @@ text of the license for the hardened lawyers among us.
 ## If You Love Something, Let it Go...
 
 I believe in sharing. In my [Web Rules for
-Photographers](http://www.singleservingphoto.com/2007/06/20/web-rules-for-photographers/)
+Photographers](/articles/2007/06/20/web-rules-for-photographers/)
 article, I stated that "sharing is caring," and I stand behind that. I
 am not anti-capitalist, nor would I deny anyone the fruits of their
 labor, but sometimes a little bit of giving goes a long way.

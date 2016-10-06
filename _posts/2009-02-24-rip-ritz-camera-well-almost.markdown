@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 314
-wordpress_url: http://singleservingphoto.com/2009/02/24/rip-ritz-camera-well-almost/
+wordpress_url: /articles/2009/02/24/rip-ritz-camera-well-almost/
 date: '2009-02-24 13:56:57 -0500'
 date_gmt: '2009-02-24 17:56:57 -0500'
 categories:

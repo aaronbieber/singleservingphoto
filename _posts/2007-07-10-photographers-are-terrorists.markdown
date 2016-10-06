@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 131
-wordpress_url: http://www.singleservingphoto.com/2007/07/10/photographers-are-terrorists/
+wordpress_url: /articles/2007/07/10/photographers-are-terrorists/
 date: '2007-07-10 13:32:49 -0400'
 date_gmt: '2007-07-10 17:32:49 -0400'
 categories:

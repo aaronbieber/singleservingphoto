@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 148
-wordpress_url: http://www.singleservingphoto.com/2007/10/10/why-bubble-levels-are-a-waste-of-money/
+wordpress_url: /articles/2007/10/10/why-bubble-levels-are-a-waste-of-money/
 date: '2007-10-10 16:32:11 -0400'
 date_gmt: '2007-10-10 20:32:11 -0400'
 categories:

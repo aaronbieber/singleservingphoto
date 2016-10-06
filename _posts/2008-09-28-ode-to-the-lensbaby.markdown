@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 192
-wordpress_url: http://www.singleservingphoto.com/2008/09/28/ode-to-the-lensbaby/
+wordpress_url: /articles/2008/09/28/ode-to-the-lensbaby/
 date: '2008-09-28 19:47:08 -0400'
 date_gmt: '2008-09-28 23:47:08 -0400'
 categories:

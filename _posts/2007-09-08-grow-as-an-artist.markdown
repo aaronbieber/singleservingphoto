@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 142
-wordpress_url: http://www.singleservingphoto.com/2007/09/08/grow-as-an-artist/
+wordpress_url: /articles/2007/09/08/grow-as-an-artist/
 date: '2007-09-08 20:04:18 -0400'
 date_gmt: '2007-09-09 00:04:18 -0400'
 categories:

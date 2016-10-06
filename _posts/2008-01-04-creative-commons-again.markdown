@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 164
-wordpress_url: http://www.singleservingphoto.com/2008/01/04/creative-commons-again/
+wordpress_url: /articles/2008/01/04/creative-commons-again/
 date: '2008-01-04 11:45:18 -0500'
 date_gmt: '2008-01-04 15:45:18 -0500'
 categories:
@@ -71,7 +71,7 @@ holes:
 be considered even remotely usable to a business customer is setting
 himself (or herself) up for disaster. As I have stated in previous
 articles about watermarking ([Protecting Your Digital
-Rights](http://www.singleservingphoto.com/2007/04/11/protecting-your-digital-rights/),)
+Rights](/articles/2007/04/11/protecting-your-digital-rights/),)
 the low pixel count of an online gallery image should serve as adequate
 protection against any use that may otherwise be a considerable source
 of licensing revenue. For example, a kid who prints out your gallery

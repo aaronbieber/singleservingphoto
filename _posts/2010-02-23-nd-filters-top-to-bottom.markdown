@@ -123,7 +123,7 @@ the colors should be completely unaffected. Okay, so that's great, but
 why do we care?
 
 As you may recall from reading [Mastering the Only Five Camera
-Settings,](http://singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/)
+Settings,](/articles/2008/06/30/mastering-the-only-five-camera-settings/)
 there is only so much you can do to change the characteristics of the
 scene you're capturing.
 

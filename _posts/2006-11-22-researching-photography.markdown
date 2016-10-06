@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 86
-wordpress_url: http://www.singleservingphoto.com/2006/11/22/researching-photography/
+wordpress_url: /articles/2006/11/22/researching-photography/
 date: '2006-11-22 11:57:56 -0500'
 date_gmt: '2006-11-22 16:57:56 -0500'
 categories:

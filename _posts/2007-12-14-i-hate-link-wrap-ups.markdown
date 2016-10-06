@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 159
-wordpress_url: http://www.singleservingphoto.com/2007/12/14/i-hate-link-wrap-ups/
+wordpress_url: /articles/2007/12/14/i-hate-link-wrap-ups/
 date: '2007-12-14 16:02:02 -0500'
 date_gmt: '2007-12-14 20:02:02 -0500'
 categories:

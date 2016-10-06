@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 98
-wordpress_url: http://www.singleservingphoto.com/2007/04/03/harkness-park-ii/
+wordpress_url: /articles/2007/04/03/harkness-park-ii/
 date: '2007-04-03 20:10:54 -0400'
 date_gmt: '2007-04-04 00:10:54 -0400'
 categories:

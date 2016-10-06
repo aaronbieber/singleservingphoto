@@ -39,7 +39,7 @@ settings to get full control!_ Haje Jan Kamps helps me explain after
 the break.<span id="more"></span><span id="more-849"></span>
 
 I've written about this before in [Be a Control Freak (Shooting Modes
-Explained)](http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/),
+Explained)](/articles/2007/05/29/be-a-control-freak-shooting-modes-explained/),
 but the subject came up again today when I saw Haje Jan Kamps' really
 cool article, [Translating the mode
 wheel](http://www.pixiq.com/article/mode-wheel) on pixiq. My article
@@ -56,7 +56,7 @@ chewing gum with a new pair of shoes.
 
 Definitely hop over to pixiq and [read Haje's
 article](http://www.pixiq.com/article/mode-wheel), check out [my previous
-article](http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/)
+article](/articles/2007/05/29/be-a-control-freak-shooting-modes-explained/)
 if you haven't read it before, and if you are hankering for even more
 information...
 

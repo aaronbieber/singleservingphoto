@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 97
-wordpress_url: http://www.singleservingphoto.com/2007/03/31/compressed-dynamic-range/
+wordpress_url: /articles/2007/03/31/compressed-dynamic-range/
 date: '2007-03-31 18:44:19 -0400'
 date_gmt: '2007-03-31 23:44:19 -0400'
 categories:

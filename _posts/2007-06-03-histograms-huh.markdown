@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 122
-wordpress_url: http://www.singleservingphoto.com/2007/06/03/histograms-huh/
+wordpress_url: /articles/2007/06/03/histograms-huh/
 date: '2007-06-03 15:52:53 -0400'
 date_gmt: '2007-06-03 19:52:53 -0400'
 categories:
@@ -103,7 +103,7 @@ comments:
 - id: 902
   author: Single-Serving Photo &raquo; Blog Archive &raquo; Thanks, Scott Kelby
   author_email: ''
-  author_url: http://www.singleservingphoto.com/2007/07/24/thanks-scott-kelby/
+  author_url: /articles/2007/07/24/thanks-scott-kelby/
   date: '2007-07-24 18:31:16 -0400'
   date_gmt: '2007-07-24 22:31:16 -0400'
   content: '[...] Association of Photoshop Professionals (NAPP), took notice of my
@@ -149,21 +149,21 @@ comments:
 - id: 1344
   author: Single-Serving Photo - It&#8217;s a Hit Parade!
   author_email: ''
-  author_url: http://singleservingphoto.com/2007/08/01/its-a-hit-parade/
+  author_url: /articles/2007/08/01/its-a-hit-parade/
   date: '2009-01-27 09:55:45 -0500'
   date_gmt: '2009-01-27 13:55:45 -0500'
   content: '[...] most-visited article is Histograms, Huh? with about 2,465 [...]'
 - id: 1345
   author: Single-Serving Photo - Death Valley Workshop, April 2008
   author_email: ''
-  author_url: http://singleservingphoto.com/2007/09/14/death-valley-workshop-april-2008/
+  author_url: /articles/2007/09/14/death-valley-workshop-april-2008/
   date: '2009-01-27 09:56:03 -0500'
   date_gmt: '2009-01-27 13:56:03 -0500'
   content: '[...] Histograms, Huh? [...]'
 - id: 2014
   author: Single-Serving Photo &#8211; Expose to the Right! The Right, I Say!
   author_email: ''
-  author_url: http://singleservingphoto.com/2010/07/17/expose-to-the-right-the-right-i-say/
+  author_url: /articles/2010/07/17/expose-to-the-right-the-right-i-say/
   date: '2010-07-17 09:52:02 -0400'
   date_gmt: '2010-07-17 13:52:02 -0400'
   content: '[...] the right of your histogram that is. You do remember how to read
@@ -172,7 +172,7 @@ comments:
 - id: 2341
   author: Single-Serving Photo &#8211; Super Single-Serving Wrap-Up Post
   author_email: ''
-  author_url: http://singleservingphoto.com/2010/10/18/super-single-serving-wrap-up-post/
+  author_url: /articles/2010/10/18/super-single-serving-wrap-up-post/
   date: '2010-10-18 16:37:28 -0400'
   date_gmt: '2010-10-18 20:37:28 -0400'
   content: '[...] possessing the distinction of being quite possibly one of my own

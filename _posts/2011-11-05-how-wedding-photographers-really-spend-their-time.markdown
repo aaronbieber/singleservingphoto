@@ -37,13 +37,13 @@ perception is.
 This is how non-photographers (and perhaps even some casual hobbyist
 photographers) think pros spend their time:
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/11/20091205-perception1-590x483.jpg "The Perception")](http://singleservingphoto.com/2011/11/05/how-wedding-photographers-really-spend-their-time/20091205-perception1/)
+[![](http://singleservingphoto.com/wp-content/uploads/2011/11/20091205-perception1-590x483.jpg "The Perception")](/articles/2011/11/05/how-wedding-photographers-really-spend-their-time/20091205-perception1/)
 
 Meanwhile, according to the results of a survey completed by the
 International Society of Wedding Photographers, this is how professional
 photographers _actually_ spend their time:
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/11/20091205-reality1-590x444.jpg "The Reality")](http://singleservingphoto.com/2011/11/05/how-wedding-photographers-really-spend-their-time/20091205-reality1/)
+[![](http://singleservingphoto.com/wp-content/uploads/2011/11/20091205-reality1-590x444.jpg "The Reality")](/articles/2011/11/05/how-wedding-photographers-really-spend-their-time/20091205-reality1/)
 
 These graphs and the results of the survey are from ISWP's article, [The
 Secret Life of Wedding

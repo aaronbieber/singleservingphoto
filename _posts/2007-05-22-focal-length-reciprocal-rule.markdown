@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 116
-wordpress_url: http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/
+wordpress_url: /articles/2007/05/22/focal-length-reciprocal-rule/
 date: '2007-05-22 18:28:17 -0400'
 date_gmt: '2007-05-22 22:28:17 -0400'
 categories:

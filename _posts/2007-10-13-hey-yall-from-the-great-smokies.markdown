@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 147
-wordpress_url: http://www.singleservingphoto.com/2007/10/13/hey-yall-from-the-great-smokies/
+wordpress_url: /articles/2007/10/13/hey-yall-from-the-great-smokies/
 date: '2007-10-13 13:34:50 -0400'
 date_gmt: '2007-10-13 17:34:50 -0400'
 categories:

@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 88
-wordpress_url: http://www.singleservingphoto.com/2006/11/30/traveling-photogs/
+wordpress_url: /articles/2006/11/30/traveling-photogs/
 date: '2006-11-30 10:57:33 -0500'
 date_gmt: '2006-11-30 15:57:33 -0500'
 categories:

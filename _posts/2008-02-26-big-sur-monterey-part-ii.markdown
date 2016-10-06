@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 176
-wordpress_url: http://www.singleservingphoto.com/2008/02/26/big-sur-monterey-part-ii/
+wordpress_url: /articles/2008/02/26/big-sur-monterey-part-ii/
 date: '2008-02-26 14:39:00 -0500'
 date_gmt: '2008-02-26 18:39:00 -0500'
 categories:

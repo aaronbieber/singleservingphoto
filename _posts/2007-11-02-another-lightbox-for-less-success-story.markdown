@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 155
-wordpress_url: http://www.singleservingphoto.com/2007/11/02/another-lightbox-for-less-success-story/
+wordpress_url: /articles/2007/11/02/another-lightbox-for-less-success-story/
 date: '2007-11-02 21:14:55 -0400'
 date_gmt: '2007-11-03 01:14:55 -0400'
 categories:

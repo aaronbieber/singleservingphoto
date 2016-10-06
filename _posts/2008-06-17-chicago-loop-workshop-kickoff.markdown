@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 187
-wordpress_url: http://www.singleservingphoto.com/2008/06/17/chicago-loop-workshop-kickoff/
+wordpress_url: /articles/2008/06/17/chicago-loop-workshop-kickoff/
 date: '2008-06-17 16:52:26 -0400'
 date_gmt: '2008-06-17 20:52:26 -0400'
 categories:

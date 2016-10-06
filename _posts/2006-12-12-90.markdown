@@ -7,7 +7,7 @@ author: Aaron
 author_email: heather@singleservingphoto.com
 author_url: http://www.asterdesigns.com
 wordpress_id: 90
-wordpress_url: http://www.singleservingphoto.com/2006/12/12/90/
+wordpress_url: /articles/2006/12/12/90/
 date: '2006-12-12 21:38:36 -0500'
 date_gmt: '2006-12-13 02:38:36 -0500'
 categories:

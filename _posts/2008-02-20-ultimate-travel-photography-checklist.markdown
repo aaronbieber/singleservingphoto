@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 174
-wordpress_url: http://www.singleservingphoto.com/2008/02/20/ultimate-travel-photography-checklist/
+wordpress_url: /articles/2008/02/20/ultimate-travel-photography-checklist/
 date: '2008-02-20 22:49:30 -0500'
 date_gmt: '2008-02-21 02:49:30 -0500'
 categories:

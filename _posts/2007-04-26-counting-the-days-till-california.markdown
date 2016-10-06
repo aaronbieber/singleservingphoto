@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 106
-wordpress_url: http://www.singleservingphoto.com/2007/04/26/counting-the-days-till-california/
+wordpress_url: /articles/2007/04/26/counting-the-days-till-california/
 date: '2007-04-26 12:17:29 -0400'
 date_gmt: '2007-04-26 16:17:29 -0400'
 categories:

@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 93
-wordpress_url: http://www.singleservingphoto.com/2007/02/02/digital-as-a-new-medium/
+wordpress_url: /articles/2007/02/02/digital-as-a-new-medium/
 date: '2007-02-02 15:14:18 -0500'
 date_gmt: '2007-02-02 20:14:18 -0500'
 categories:

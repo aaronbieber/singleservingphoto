@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 156
-wordpress_url: http://www.singleservingphoto.com/2007/11/05/the-value-of-critique-or-my-ego-needs-some-stroking/
+wordpress_url: /articles/2007/11/05/the-value-of-critique-or-my-ego-needs-some-stroking/
 date: '2007-11-05 20:22:32 -0500'
 date_gmt: '2007-11-06 00:22:32 -0500'
 categories:

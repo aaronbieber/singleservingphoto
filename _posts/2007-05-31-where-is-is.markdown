@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 121
-wordpress_url: http://www.singleservingphoto.com/2007/05/31/where-is-is/
+wordpress_url: /articles/2007/05/31/where-is-is/
 date: '2007-05-31 19:35:08 -0400'
 date_gmt: '2007-05-31 23:35:08 -0400'
 categories:

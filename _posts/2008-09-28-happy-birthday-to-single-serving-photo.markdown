@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 193
-wordpress_url: http://www.singleservingphoto.com/2008/09/28/happy-birthday-to-single-serving-photo/
+wordpress_url: /articles/2008/09/28/happy-birthday-to-single-serving-photo/
 date: '2008-09-28 20:04:04 -0400'
 date_gmt: '2008-09-29 00:04:04 -0400'
 categories:
@@ -26,7 +26,7 @@ comments:
     I dont think I found you untill about 6 months ago.\r\n\r\nRegards\r\nCamera\r\nhttp://www.disposableweddingcamera.net"
 ---
 Believe it or not, it has been precisely *three years* since the [very
-first post](http://www.singleservingphoto.com/2005/09/28/catch-up/) on
+first post](/articles/2005/09/28/catch-up/) on
 this blog. It started out as a place for me to post experimental photos
 and has since evolved into a great platform for sharing the information
 and inspiration that I come across all the time.

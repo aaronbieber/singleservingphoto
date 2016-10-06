@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 160
-wordpress_url: http://www.singleservingphoto.com/2007/12/18/digital-photography-overtakes-film/
+wordpress_url: /articles/2007/12/18/digital-photography-overtakes-film/
 date: '2007-12-18 09:34:40 -0500'
 date_gmt: '2007-12-18 13:34:40 -0500'
 categories:

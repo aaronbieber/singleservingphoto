@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 163
-wordpress_url: http://www.singleservingphoto.com/2008/01/02/faa-to-photographers-adfadf/
+wordpress_url: /articles/2008/01/02/faa-to-photographers-adfadf/
 date: '2008-01-02 00:10:10 -0500'
 date_gmt: '2008-01-02 04:10:10 -0500'
 categories:

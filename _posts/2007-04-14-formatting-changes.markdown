@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 101
-wordpress_url: http://www.singleservingphoto.com/2007/04/14/formatting-changes/
+wordpress_url: /articles/2007/04/14/formatting-changes/
 date: '2007-04-14 13:01:02 -0400'
 date_gmt: '2007-04-14 17:01:02 -0400'
 categories:

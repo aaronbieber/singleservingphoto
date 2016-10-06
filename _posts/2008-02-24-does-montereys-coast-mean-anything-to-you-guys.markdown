@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 175
-wordpress_url: http://www.singleservingphoto.com/2008/02/24/does-montereys-coast-mean-anything-to-you-guys/
+wordpress_url: /articles/2008/02/24/does-montereys-coast-mean-anything-to-you-guys/
 date: '2008-02-24 13:14:05 -0500'
 date_gmt: '2008-02-24 17:14:05 -0500'
 categories:

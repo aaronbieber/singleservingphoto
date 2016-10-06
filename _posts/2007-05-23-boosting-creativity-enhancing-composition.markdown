@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 117
-wordpress_url: http://www.singleservingphoto.com/2007/05/23/boosting-creativity-enhancing-composition/
+wordpress_url: /articles/2007/05/23/boosting-creativity-enhancing-composition/
 date: '2007-05-23 21:09:57 -0400'
 date_gmt: '2007-05-24 01:09:57 -0400'
 categories:

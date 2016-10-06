@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 150
-wordpress_url: http://www.singleservingphoto.com/2007/10/17/photoshop-cs3-overrated/
+wordpress_url: /articles/2007/10/17/photoshop-cs3-overrated/
 date: '2007-10-17 11:40:46 -0400'
 date_gmt: '2007-10-17 15:40:46 -0400'
 categories:

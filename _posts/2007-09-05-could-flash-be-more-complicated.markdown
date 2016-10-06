@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 141
-wordpress_url: http://www.singleservingphoto.com/2007/09/05/could-flash-be-more-complicated/
+wordpress_url: /articles/2007/09/05/could-flash-be-more-complicated/
 date: '2007-09-05 21:36:16 -0400'
 date_gmt: '2007-09-06 01:36:16 -0400'
 categories:
@@ -130,11 +130,11 @@ start!
 A very straightforward approach would be to set your shutter speed to
 the slowest you feel comfortable with (if you're shooting hand-held,
 that is your [main
-limitation](http://www.singleservingphoto.com/2007/05/22/focal-length-reciprocal-rule/))
+limitation](/articles/2007/05/22/focal-length-reciprocal-rule/))
 and then adjust your aperture to where your subject is getting the light
 from the flash that you desire (by chimping on your LCD using the
 [histogram
-display](http://www.singleservingphoto.com/2007/06/03/histograms-huh/,)
+display](/articles/2007/06/03/histograms-huh/,)
 of course... Right?). Then you can start to ramp up the shutter speed to
 see how it affects the ambient lighting (because it won't affect the
 exposure of your subject if it is lit solely with the flash).

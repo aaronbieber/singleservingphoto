@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 151
-wordpress_url: http://www.singleservingphoto.com/2007/10/18/confronting-authority/
+wordpress_url: /articles/2007/10/18/confronting-authority/
 date: '2007-10-18 08:36:36 -0400'
 date_gmt: '2007-10-18 12:36:36 -0400'
 categories:
@@ -22,7 +22,7 @@ comments: []
 As part of my contribution to [Blog Action
 Day](http://blogactionday.com), I posted a story about [being confronted
 by a park
-ranger](http://www.singleservingphoto.com/2007/10/16/protecting-our-national-parks-one-photographers-story/)
+ranger](/articles/2007/10/16/protecting-our-national-parks-one-photographers-story/)
 while photographing using flashlights in the Great Smoky Mountains
 National Park.
 

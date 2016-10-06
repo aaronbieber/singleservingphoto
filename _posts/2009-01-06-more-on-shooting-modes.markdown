@@ -20,7 +20,7 @@ tags:
 comments: []
 ---
 In a previous article, [Shooting Modes
-Explained,](http://singleservingphoto.com/2007/05/29/be-a-control-freak-shooting-modes-explained/)
+Explained,](/articles/2007/05/29/be-a-control-freak-shooting-modes-explained/)
 I went into some of the details of the major shooting modes (aperture
 priority, shutter priority, manual) and the program modes (what Canon
 calls "PictureStyles" and Nikon calls "Digital Vari-Programs").

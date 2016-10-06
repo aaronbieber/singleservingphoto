@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 168
-wordpress_url: http://www.singleservingphoto.com/2008/01/24/you-suck-at-photoshop/
+wordpress_url: /articles/2008/01/24/you-suck-at-photoshop/
 date: '2008-01-24 17:39:56 -0500'
 date_gmt: '2008-01-24 21:39:56 -0500'
 categories:

@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 139
-wordpress_url: http://www.singleservingphoto.com/2007/08/23/laboring-in-silence/
+wordpress_url: /articles/2007/08/23/laboring-in-silence/
 date: '2007-08-23 21:11:00 -0400'
 date_gmt: '2007-08-24 01:11:00 -0400'
 categories:

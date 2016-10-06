@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 135
-wordpress_url: http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/
+wordpress_url: /articles/2007/08/02/art-concepts-in-photography-part-1-texture/
 date: '2007-08-02 18:32:00 -0400'
 date_gmt: '2007-08-02 22:32:00 -0400'
 categories:

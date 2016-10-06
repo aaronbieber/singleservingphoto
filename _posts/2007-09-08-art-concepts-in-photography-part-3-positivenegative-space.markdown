@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 143
-wordpress_url: http://www.singleservingphoto.com/2007/09/08/art-concepts-in-photography-part-3-positivenegative-space/
+wordpress_url: /articles/2007/09/08/art-concepts-in-photography-part-3-positivenegative-space/
 date: '2007-09-08 22:10:28 -0400'
 date_gmt: '2007-09-09 02:10:28 -0400'
 categories:
@@ -50,13 +50,13 @@ comments:
   content: |-
     @Tosha
 
-    There is definitely a lot more to talk about! I've been spending a lot of time making photographs lately and ramping up for a series of [hands-on workshops](http://www.singleservingphoto.com/2007/09/14/death-valley-workshop-april-2008/) that I'll be running along with my [friend](http://www.curiouslens.com), but I think I may revisit the composition subject for future in-depth art concepts articles. Thanks for your appreciative comments, I'm glad you're enjoying my articles.
+    There is definitely a lot more to talk about! I've been spending a lot of time making photographs lately and ramping up for a series of [hands-on workshops](/articles/2007/09/14/death-valley-workshop-april-2008/) that I'll be running along with my [friend](http://www.curiouslens.com), but I think I may revisit the composition subject for future in-depth art concepts articles. Thanks for your appreciative comments, I'm glad you're enjoying my articles.
 ---
 If you haven't, you may want to read the first two parts of the _Art
 Concepts_ series, [Part 1:
-Texture](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/,)
+Texture](/articles/2007/08/02/art-concepts-in-photography-part-1-texture/,)
 and [Part 2:
-Composition](http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/.)
+Composition](/articles/2007/08/26/art-concepts-in-photography-part-2-composition/.)
 
 In this, the third bite of our _feast of art knowledge_, I will talk
 about an elusive concept called positive and negative space.

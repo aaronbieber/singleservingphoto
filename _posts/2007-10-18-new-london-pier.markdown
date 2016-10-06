@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 152
-wordpress_url: http://www.singleservingphoto.com/2007/10/18/new-london-pier/
+wordpress_url: /articles/2007/10/18/new-london-pier/
 date: '2007-10-18 22:09:51 -0400'
 date_gmt: '2007-10-19 02:09:51 -0400'
 categories:

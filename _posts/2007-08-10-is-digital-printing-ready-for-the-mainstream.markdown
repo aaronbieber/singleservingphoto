@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 138
-wordpress_url: http://www.singleservingphoto.com/2007/08/10/is-digital-printing-ready-for-the-mainstream/
+wordpress_url: /articles/2007/08/10/is-digital-printing-ready-for-the-mainstream/
 date: '2007-08-10 15:10:24 -0400'
 date_gmt: '2007-08-10 19:10:24 -0400'
 categories:
@@ -53,7 +53,7 @@ comments:
 ---
 A comment was just posted over on my [Art Concepts in Photography, Part
 1:
-Texture](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/)
+Texture](/articles/2007/08/02/art-concepts-in-photography-part-1-texture/)
 article, but after I had composed my reply, I realized that it would be
 better suited to an entire post. Here is the comment:
 

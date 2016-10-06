@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 189
-wordpress_url: http://www.singleservingphoto.com/2008/06/29/moving-photos-between-lightroom-catalogs/
+wordpress_url: /articles/2008/06/29/moving-photos-between-lightroom-catalogs/
 date: '2008-06-29 14:34:14 -0400'
 date_gmt: '2008-06-29 18:34:14 -0400'
 categories:

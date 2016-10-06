@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 157
-wordpress_url: http://www.singleservingphoto.com/2007/12/09/giving-everything-away-return-to-creative-commons/
+wordpress_url: /articles/2007/12/09/giving-everything-away-return-to-creative-commons/
 date: '2007-12-09 15:32:38 -0500'
 date_gmt: '2007-12-09 19:32:38 -0500'
 categories:
@@ -117,7 +117,7 @@ comments:
 ---
 Back in June I wrote an article about the Creative Commons project,
 [Creative Commons: Good
-Idea?](http://www.singleservingphoto.com/2007/06/25/creative-commons-good-idea/,)
+Idea?](/articles/2007/06/25/creative-commons-good-idea/,)
 in which I advocated the use of their licenses for promotional purposes
 and how that approach ties in with socially-driven sites like Wikipedia
 and Flickr.

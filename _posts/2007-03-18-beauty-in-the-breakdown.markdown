@@ -7,7 +7,7 @@ author: Aaron
 author_email: heather@singleservingphoto.com
 author_url: http://www.asterdesigns.com
 wordpress_id: 95
-wordpress_url: http://www.singleservingphoto.com/2007/03/18/beauty-in-the-breakdown/
+wordpress_url: /articles/2007/03/18/beauty-in-the-breakdown/
 date: '2007-03-18 22:21:14 -0400'
 date_gmt: '2007-03-19 03:21:14 -0400'
 categories:

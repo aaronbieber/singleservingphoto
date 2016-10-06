@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 181
-wordpress_url: http://www.singleservingphoto.com/2008/02/28/the-future-is-free/
+wordpress_url: /articles/2008/02/28/the-future-is-free/
 date: '2008-02-28 16:10:11 -0500'
 date_gmt: '2008-02-28 20:10:11 -0500'
 categories:

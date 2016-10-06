@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 190
-wordpress_url: http://www.singleservingphoto.com/2008/06/30/mastering-the-only-five-camera-settings/
+wordpress_url: /articles/2008/06/30/mastering-the-only-five-camera-settings/
 date: '2008-06-30 12:23:26 -0400'
 date_gmt: '2008-06-30 16:23:26 -0400'
 categories:
@@ -52,7 +52,7 @@ comments:
 - id: 1604
   author: Single-Serving Photo &#8211; ND Filters, Top to Bottom
   author_email: ''
-  author_url: http://singleservingphoto.com/2010/02/23/nd-filters-top-to-bottom/
+  author_url: /articles/2010/02/23/nd-filters-top-to-bottom/
   date: '2010-02-23 09:54:37 -0500'
   date_gmt: '2010-02-23 14:54:37 -0500'
   content: '[...] you may recall from reading Mastering the Only Five Camera Settings,

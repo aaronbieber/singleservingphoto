@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 99
-wordpress_url: http://www.singleservingphoto.com/2007/04/11/protecting-your-digital-rights/
+wordpress_url: /articles/2007/04/11/protecting-your-digital-rights/
 date: '2007-04-11 21:51:22 -0400'
 date_gmt: '2007-04-12 01:51:22 -0400'
 categories:

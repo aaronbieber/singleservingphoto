@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 100
-wordpress_url: http://www.singleservingphoto.com/2007/04/13/lensbaby-3g/
+wordpress_url: /articles/2007/04/13/lensbaby-3g/
 date: '2007-04-13 18:49:26 -0400'
 date_gmt: '2007-04-13 22:49:26 -0400'
 categories:

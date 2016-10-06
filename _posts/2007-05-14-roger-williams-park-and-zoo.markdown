@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 112
-wordpress_url: http://www.singleservingphoto.com/2007/05/14/roger-williams-park-and-zoo/
+wordpress_url: /articles/2007/05/14/roger-williams-park-and-zoo/
 date: '2007-05-14 22:48:23 -0400'
 date_gmt: '2007-05-15 02:48:23 -0400'
 categories:

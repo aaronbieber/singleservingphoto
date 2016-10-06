@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 167
-wordpress_url: http://www.singleservingphoto.com/2008/01/24/great-fresh-local-photography/
+wordpress_url: /articles/2008/01/24/great-fresh-local-photography/
 date: '2008-01-24 10:05:43 -0500'
 date_gmt: '2008-01-24 14:05:43 -0500'
 categories:

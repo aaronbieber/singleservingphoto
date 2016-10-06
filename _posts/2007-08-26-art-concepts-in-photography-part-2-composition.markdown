@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 137
-wordpress_url: http://www.singleservingphoto.com/2007/08/26/art-concepts-in-photography-part-2-composition/
+wordpress_url: /articles/2007/08/26/art-concepts-in-photography-part-2-composition/
 date: '2007-08-26 17:31:25 -0400'
 date_gmt: '2007-08-26 21:31:25 -0400'
 categories:
@@ -67,7 +67,7 @@ comments:
 - id: 2340
   author: Single-Serving Photo &#8211; Super Single-Serving Wrap-Up Post
   author_email: ''
-  author_url: http://singleservingphoto.com/2010/10/18/super-single-serving-wrap-up-post/
+  author_url: /articles/2010/10/18/super-single-serving-wrap-up-post/
   date: '2010-10-18 16:36:12 -0400'
   date_gmt: '2010-10-18 20:36:12 -0400'
   content: '[...] 2,002 total unique pageviews, Art Concepts in Photography, Part
@@ -75,7 +75,7 @@ comments:
 ---
 This article is part of a series. If you want, go back and read [Art
 Concepts in Photography, Part I:
-Texture](http://www.singleservingphoto.com/2007/08/02/art-concepts-in-photography-part-1-texture/.)
+Texture](/articles/2007/08/02/art-concepts-in-photography-part-1-texture/.)
 
 I come from more of a fine art background; my parents both work in the
 arts and photography for me is an extension of my involvement in art as

@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 123
-wordpress_url: http://www.singleservingphoto.com/2007/06/06/how-many-bits-is-eight-enough/
+wordpress_url: /articles/2007/06/06/how-many-bits-is-eight-enough/
 date: '2007-06-06 22:28:52 -0400'
 date_gmt: '2007-06-07 02:28:52 -0400'
 categories:

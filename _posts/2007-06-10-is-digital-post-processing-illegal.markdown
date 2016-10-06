@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 124
-wordpress_url: http://www.singleservingphoto.com/2007/06/10/is-digital-post-processing-illegal/
+wordpress_url: /articles/2007/06/10/is-digital-post-processing-illegal/
 date: '2007-06-10 13:17:39 -0400'
 date_gmt: '2007-06-10 17:17:39 -0400'
 categories:

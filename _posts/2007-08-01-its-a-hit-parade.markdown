@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 136
-wordpress_url: http://www.singleservingphoto.com/2007/08/01/its-a-hit-parade/
+wordpress_url: /articles/2007/08/01/its-a-hit-parade/
 date: '2007-08-01 21:42:03 -0400'
 date_gmt: '2007-08-02 01:42:03 -0400'
 categories:
@@ -25,7 +25,7 @@ stopped by in a single month!
 
 For laughs, here are some other statistics that might interest you:\
  * The most-visited article is [Histograms,
-Huh?](http://www.singleservingphoto.com/2007/06/03/histograms-huh/) with
+Huh?](/articles/2007/06/03/histograms-huh/) with
 about 2,465 views.\
  * The single most active day was the 16th of July with 582 unique
 visitors, which--not coincidentally--is the same day Scott Kelby posted

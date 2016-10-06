@@ -44,7 +44,7 @@ comments:
     Thanks for your insights!
 ---
 To the right of your _histogram_ that is. You do
-[remember how to read one](http://singleservingphoto.com/2007/06/03/histograms-huh/),
+[remember how to read one](/articles/2007/06/03/histograms-huh/),
 yes?  Slightly, ever so slightly exposing all of your photographs to the _right_
 of the histogram, which is to say _slightly overexposing them_, should be your
 goal, 100% of the time.

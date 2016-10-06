@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 119
-wordpress_url: http://www.singleservingphoto.com/2007/05/28/advertising-on-the-blog/
+wordpress_url: /articles/2007/05/28/advertising-on-the-blog/
 date: '2007-05-28 21:27:07 -0400'
 date_gmt: '2007-05-29 01:27:07 -0400'
 categories:

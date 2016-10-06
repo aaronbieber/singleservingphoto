@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 104
-wordpress_url: http://www.singleservingphoto.com/2007/04/19/automated-workflow-ii/
+wordpress_url: /articles/2007/04/19/automated-workflow-ii/
 date: '2007-04-19 22:26:20 -0400'
 date_gmt: '2007-04-20 02:26:20 -0400'
 categories:
@@ -23,7 +23,7 @@ tags:
 comments: []
 ---
 In the [last chapter of my Automated Workflow
-series](http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/),
+series](/articles/2007/04/15/automated-workflow-i/),
 I showed you how to use some neat scripting tricks to apply watermarks
 to your photos automatically. In this chapter, I'm going to talk about
 naming and organizing photos and show you how to set up some scripts to
@@ -52,7 +52,7 @@ I will give you today. Nerd power.
 
 First, you're going to need a working installation of
 [MacPorts](http://www.macports.org). In my [previous
-article](http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/)
+article](/articles/2007/04/15/automated-workflow-i/)
 I explained how to get that working, so go over that part again if you
 need to. I will assume you have it installed, even if you didn't install
 the ports I talked about last time.

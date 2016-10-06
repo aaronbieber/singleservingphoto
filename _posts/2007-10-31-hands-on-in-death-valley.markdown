@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 154
-wordpress_url: http://www.singleservingphoto.com/2007/10/31/hands-on-in-death-valley/
+wordpress_url: /articles/2007/10/31/hands-on-in-death-valley/
 date: '2007-10-31 13:37:41 -0400'
 date_gmt: '2007-10-31 17:37:41 -0400'
 categories:
@@ -18,7 +18,7 @@ tags:
 comments: []
 ---
 Not that [it wasn't official
-before](http://www.singleservingphoto.com/2007/09/14/death-valley-workshop-april-2008/),
+before](/articles/2007/09/14/death-valley-workshop-april-2008/),
 but now there is a [real website](http://www.artphotoworkshops.com) for
 the workshops I'm doing with [my colleague](http://www.curiouslens.com)
 in the coming months.

@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 107
-wordpress_url: http://www.singleservingphoto.com/2007/05/05/ucsc-arboretum/
+wordpress_url: /articles/2007/05/05/ucsc-arboretum/
 date: '2007-05-05 18:02:29 -0400'
 date_gmt: '2007-05-05 22:02:29 -0400'
 categories:

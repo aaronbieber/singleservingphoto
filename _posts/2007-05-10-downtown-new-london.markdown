@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 108
-wordpress_url: http://www.singleservingphoto.com/2007/05/10/downtown-new-london/
+wordpress_url: /articles/2007/05/10/downtown-new-london/
 date: '2007-05-10 19:22:53 -0400'
 date_gmt: '2007-05-10 23:22:53 -0400'
 categories:

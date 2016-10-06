@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 182
-wordpress_url: http://www.singleservingphoto.com/2008/04/07/cape-cod-massachusetts/
+wordpress_url: /articles/2008/04/07/cape-cod-massachusetts/
 date: '2008-04-07 12:41:29 -0400'
 date_gmt: '2008-04-07 16:41:29 -0400'
 categories:

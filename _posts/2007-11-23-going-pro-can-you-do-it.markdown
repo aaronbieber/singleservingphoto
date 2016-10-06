@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 158
-wordpress_url: http://www.singleservingphoto.com/2007/11/23/going-pro-can-you-do-it/
+wordpress_url: /articles/2007/11/23/going-pro-can-you-do-it/
 date: '2007-11-23 12:49:35 -0500'
 date_gmt: '2007-11-23 16:49:35 -0500'
 categories:

@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 132
-wordpress_url: http://www.singleservingphoto.com/2007/07/06/resolution-is-a-myth-calculating-dpi/
+wordpress_url: /articles/2007/07/06/resolution-is-a-myth-calculating-dpi/
 date: '2007-07-06 14:34:51 -0400'
 date_gmt: '2007-07-06 18:34:51 -0400'
 categories:

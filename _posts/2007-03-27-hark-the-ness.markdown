@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 96
-wordpress_url: http://www.singleservingphoto.com/2007/03/27/hark-the-ness/
+wordpress_url: /articles/2007/03/27/hark-the-ness/
 date: '2007-03-27 21:41:31 -0400'
 date_gmt: '2007-03-28 02:41:31 -0400'
 categories:

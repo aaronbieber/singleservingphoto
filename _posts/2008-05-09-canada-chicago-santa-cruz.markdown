@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 183
-wordpress_url: http://www.singleservingphoto.com/2008/05/09/canada-chicago-santa-cruz/
+wordpress_url: /articles/2008/05/09/canada-chicago-santa-cruz/
 date: '2008-05-09 18:32:49 -0400'
 date_gmt: '2008-05-09 22:32:49 -0400'
 categories:

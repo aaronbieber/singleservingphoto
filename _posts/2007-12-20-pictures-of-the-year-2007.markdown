@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 161
-wordpress_url: http://www.singleservingphoto.com/2007/12/20/pictures-of-the-year-2007/
+wordpress_url: /articles/2007/12/20/pictures-of-the-year-2007/
 date: '2007-12-20 11:38:57 -0500'
 date_gmt: '2007-12-20 15:38:57 -0500'
 categories:

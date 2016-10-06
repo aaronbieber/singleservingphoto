@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 127
-wordpress_url: http://www.singleservingphoto.com/2007/06/20/web-rules-for-photographers/
+wordpress_url: /articles/2007/06/20/web-rules-for-photographers/
 date: '2007-06-20 12:44:09 -0400'
 date_gmt: '2007-06-20 16:44:09 -0400'
 categories:
@@ -182,7 +182,7 @@ help you do it!
 Someone criticized this article for excluding watermarking as part of
 the whole website package, which I suppose is a legitimate claim. I
 talked about watermarking previously in [Protecting Your Digital
-Rights](http://www.singleservingphoto.com/2007/04/11/protecting-your-digital-rights/,)
+Rights](/articles/2007/04/11/protecting-your-digital-rights/,)
 and it's kind of a novel, so click carefully.
 
 Another person brought up the somewhat common act of linking to your

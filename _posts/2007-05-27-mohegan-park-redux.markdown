@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 118
-wordpress_url: http://www.singleservingphoto.com/2007/05/27/mohegan-park-redux/
+wordpress_url: /articles/2007/05/27/mohegan-park-redux/
 date: '2007-05-27 20:32:45 -0400'
 date_gmt: '2007-05-28 00:32:45 -0400'
 categories:

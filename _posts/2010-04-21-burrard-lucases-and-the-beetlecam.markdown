@@ -17,7 +17,7 @@ comments:
 - id: 2035
   author: Single-Serving Photo &#8211; Macro Mosquito Larvae
   author_email: ''
-  author_url: http://singleservingphoto.com/2010/07/24/macro-mosquito-larvae/
+  author_url: /articles/2010/07/24/macro-mosquito-larvae/
   date: '2010-07-24 10:22:40 -0400'
   date_gmt: '2010-07-24 14:22:40 -0400'
   content: '[...] when I told you about that crazy remote-controlled robot carting

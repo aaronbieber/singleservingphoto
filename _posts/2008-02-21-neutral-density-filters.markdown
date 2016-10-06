@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 173
-wordpress_url: http://www.singleservingphoto.com/2008/02/21/neutral-density-filters/
+wordpress_url: /articles/2008/02/21/neutral-density-filters/
 date: '2008-02-21 17:56:46 -0500'
 date_gmt: '2008-02-21 21:56:46 -0500'
 categories:

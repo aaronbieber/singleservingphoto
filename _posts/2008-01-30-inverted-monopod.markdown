@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 171
-wordpress_url: http://www.singleservingphoto.com/2008/01/30/inverted-monopod/
+wordpress_url: /articles/2008/01/30/inverted-monopod/
 date: '2008-01-30 22:53:56 -0500'
 date_gmt: '2008-01-31 02:53:56 -0500'
 categories:

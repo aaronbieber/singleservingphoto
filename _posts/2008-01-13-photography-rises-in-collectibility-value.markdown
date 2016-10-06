@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 165
-wordpress_url: http://www.singleservingphoto.com/2008/01/13/photography-rises-in-collectibility-value/
+wordpress_url: /articles/2008/01/13/photography-rises-in-collectibility-value/
 date: '2008-01-13 18:15:54 -0500'
 date_gmt: '2008-01-13 22:15:54 -0500'
 categories:

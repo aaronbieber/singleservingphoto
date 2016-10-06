@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 115
-wordpress_url: http://www.singleservingphoto.com/2007/05/22/mystic-aquarium-and-institute-for-exploration/
+wordpress_url: /articles/2007/05/22/mystic-aquarium-and-institute-for-exploration/
 date: '2007-05-22 04:00:22 -0400'
 date_gmt: '2007-05-22 08:00:22 -0400'
 categories:

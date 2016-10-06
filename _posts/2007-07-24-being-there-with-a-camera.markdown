@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 133
-wordpress_url: http://www.singleservingphoto.com/2007/07/24/being-there-with-a-camera/
+wordpress_url: /articles/2007/07/24/being-there-with-a-camera/
 date: '2007-07-24 07:44:21 -0400'
 date_gmt: '2007-07-24 11:44:21 -0400'
 categories:

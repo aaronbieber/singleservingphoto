@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 103
-wordpress_url: http://www.singleservingphoto.com/2007/04/15/automated-workflow-i/
+wordpress_url: /articles/2007/04/15/automated-workflow-i/
 date: '2007-04-15 21:41:27 -0400'
 date_gmt: '2007-04-16 01:41:27 -0400'
 categories:

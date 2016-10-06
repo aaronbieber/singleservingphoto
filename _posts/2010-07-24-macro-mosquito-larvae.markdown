@@ -23,7 +23,7 @@ comments: []
 Burrard-Lucas.com](http://singleservingphoto.com/wp-content/uploads/2010/07/set-up-300x199.jpg "Lighting Setup")](http://digital-photography-school.com/macro-photography-mosquitoes-emerging)
 
 Remember when I [told you
-about](http://singleservingphoto.com/2010/04/21/burrard-lucases-and-the-beetlecam/)
+about](/articles/2010/04/21/burrard-lucases-and-the-beetlecam/)
 that crazy remote-controlled robot carting a DSLR that these two British
 brothers would drive around Africa, taking up-close-and-personal photos
 of wild animals? It was called the BeetleCam, and it was the brainchild

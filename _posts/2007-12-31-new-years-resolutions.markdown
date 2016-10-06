@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 162
-wordpress_url: http://www.singleservingphoto.com/2007/12/31/new-years-resolutions/
+wordpress_url: /articles/2007/12/31/new-years-resolutions/
 date: '2007-12-31 10:00:01 -0500'
 date_gmt: '2007-12-31 14:00:01 -0500'
 categories:

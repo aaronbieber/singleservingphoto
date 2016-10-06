@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 191
-wordpress_url: http://www.singleservingphoto.com/2008/08/13/just-a-few-musings-and-opportunities-for-you/
+wordpress_url: /articles/2008/08/13/just-a-few-musings-and-opportunities-for-you/
 date: '2008-08-13 09:23:54 -0400'
 date_gmt: '2008-08-13 13:23:54 -0400'
 categories:

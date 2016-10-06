@@ -7,7 +7,7 @@ author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 146
-wordpress_url: http://www.singleservingphoto.com/2007/10/05/desperate-opportunism/
+wordpress_url: /articles/2007/10/05/desperate-opportunism/
 date: '2007-10-05 17:48:42 -0400'
 date_gmt: '2007-10-05 21:48:42 -0400'
 categories:
