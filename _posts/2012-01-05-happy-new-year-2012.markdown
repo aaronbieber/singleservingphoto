@@ -17,21 +17,6 @@ tags:
 - technique
 - Toronto
 - pinhole
-comments:
-- id: 5512
-  author: bycostello
-  author_email: chriscostello@email.com
-  author_url: http://www.bycostello.com/London_Weddings.html
-  date: '2013-05-06 05:38:34 -0400'
-  date_gmt: '2013-05-06 09:38:34 -0400'
-  content: Stunning image
-- id: 5531
-  author: Chris Flees
-  author_email: chris@cfleesphotography.com
-  author_url: http://www.cfleesphotography.com
-  date: '2013-08-31 03:44:15 -0400'
-  date_gmt: '2013-08-31 07:44:15 -0400'
-  content: an absolutely stunning image.
 ---
 [![](http://singleservingphoto.com/wp-content/uploads/2012/01/705b87dd4321b6babfd4bb4febeb-300x181.png "Michael Chrisman's year-long photo")](http://singleservingphoto.com/wp-content/uploads/2012/01/705b87dd4321b6babfd4bb4febeb.jpeg)
 
