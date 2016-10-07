@@ -10,5 +10,13 @@ github_username: aaronbieber
 excerpt_separator: ~~MORE~~
 paginate: 5
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
 # Build settings
 markdown: kramdown
