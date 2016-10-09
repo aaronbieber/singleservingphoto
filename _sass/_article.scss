@@ -1,0 +1,54 @@
+/*
+ * Styles for things within an article.
+ */
+.excerpt, article {
+    img.frame {
+        padding: 10px;
+        box-shadow: 0px 2px 9px #bbb;
+    }
+
+    img.center {
+        float: none;
+        margin: 0 auto;
+        display: block;
+    }
+}
+
+.excerpt {
+    img {
+        float: right;
+        margin-left: 1em;
+    }
+}
+
+article {
+    table {
+        margin: 2em 0;
+        border-spacing: 0;
+
+        td {
+            padding: 5px 8px;
+            border-right: 1px solid silver;
+            border-bottom: 1px solid silver;
+        }
+
+        td:first-child {
+            border-left: 1px solid silver;
+        }
+
+        tr:first-child td {
+            border-top: 1px solid silver;
+        }
+    }
+
+    img {
+        float: right;
+        margin-left: 1em;
+    }
+}
+
+section.comments h2 {
+    font-size: 32px;
+    border-top: 1px solid $accent-color;
+    padding-top: 10px;
+}
