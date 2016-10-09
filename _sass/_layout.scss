@@ -56,6 +56,11 @@
         border-radius: 5px;
         text-align: right;
 
+        .page-link {
+            color: black;
+            text-shadow: none;
+        }
+
         .menu-icon {
             display: block;
             float: right;
@@ -181,6 +186,11 @@
 
     > li {
         margin-bottom: $spacing-unit;
+    }
+
+    h2 {
+        border-bottom: 1px solid $accent-color;
+        padding: 0 5px;
     }
 }
 
