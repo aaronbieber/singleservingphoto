@@ -1,6 +1,7 @@
 ---
 layout: post
 title: After Five Years Off, I'm Back
+date: 2016-10-08T15:28:16-04:00
 ---
 
 Yes, it is true! After more than five years offline, Single-Serving Photo has
