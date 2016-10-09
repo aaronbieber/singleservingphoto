@@ -31,5 +31,6 @@ If you've stumbled onto this website by chance, you may like to start by
 browsing through the [Essential Reading](/essential-reading) page, which
 contains a selection of reader favorites.
 
-I will bring comments back soon; until then, sit tight or find me at the Twitter
-account in the footer.
+I have implemented Disqus comments, so please do leave remarks on any posts you
+find interesting or useful! Also feel free to reach out via Twitter; you can
+find a link in the site footer.
