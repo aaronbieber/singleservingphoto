@@ -22,14 +22,19 @@ comments:
   date_gmt: '2005-09-23 01:47:21 -0400'
   content: aaron plus depth of field equals love
 ---
-I assure you, it smelled really bad.\
- !!http://www.thebailiwick.com/ssp/22sept05-01.jpg!!
 
-Fountains are cool.\
- !!http://www.thebailiwick.com/ssp/22sept05-02.jpg!!
+I assure you, it smelled really bad.
 
-Nature.\
- !!http://www.thebailiwick.com/ssp/22sept05-03.jpg!!
+!!http://www.thebailiwick.com/ssp/22sept05-01.jpg!!
 
-Not nature.\
- !!http://www.thebailiwick.com/ssp/22sept05-04.jpg!!
+Fountains are cool.
+
+!!http://www.thebailiwick.com/ssp/22sept05-02.jpg!!
+
+Nature.
+
+!!http://www.thebailiwick.com/ssp/22sept05-03.jpg!!
+
+Not nature.
+
+!!http://www.thebailiwick.com/ssp/22sept05-04.jpg!!
