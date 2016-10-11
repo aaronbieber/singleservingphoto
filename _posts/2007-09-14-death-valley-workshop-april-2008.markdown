@@ -46,14 +46,14 @@ and Chris will serve as your guides to aesthetic approach and technical
 application as you explore some of these breathtaking Death Valley
 locations:
 
-* Badwater\
- * Artist's Palette\
- * Dante's View\
- * Stovepipe Well Dunes\
- * Eureka Dunes\
- * Golden Canyon\
- * Devil's Golf Course\
- * The Alabama Hills\
+* Badwater
+ * Artist's Palette
+ * Dante's View
+ * Stovepipe Well Dunes
+ * Eureka Dunes
+ * Golden Canyon
+ * Devil's Golf Course
+ * The Alabama Hills
  * and more!
 
 <div class="one-image align-left" style="float: left;">
@@ -181,13 +181,13 @@ don't want to dilute the experience for any of our attendees.
 * This is not an all-inclusive trip and as such does not include
 transportation, food, or lodging. Your registration package will contain
 a thorough list of available hotels and campgrounds as well as our
-advice on staying in Death Valley.\
+advice on staying in Death Valley.
  * Though meal cost is not included, we'll eat at the same time each
 day and you may wish to join us, or feel free to go out on your own
-during this time.\
+during this time.
  * Your registration package will also include detailed information on
 the trip as well as a very basic questionnaire that we use to tailor the
-workshop for you.\
+workshop for you.
  * We will not be taking any long hikes, but some hiking will be
 required. This is not a stressful amount of exercise by any means, but
 you should be in decent physical shape and able to navigate the
@@ -209,7 +209,7 @@ it won't be a fundamental course, so be sure you are familiar with the
 basics.
 
 If you want to brush up or review, you may want to read these articles
-(posted here):\
+(posted here):
  * [Histograms,
 Huh?](/articles/2007/06/03/histograms-huh/)
  * [Be a Control Freak--Shooting Modes
@@ -217,7 +217,7 @@ Explained](/articles/2007/05/29/be-a-control-freak-shooting-modes-explained/)
  * [Focal Length Reciprocal
 Rule](/articles/2007/05/22/focal-length-reciprocal-rule/)
 
-And also these assorted articles from Earthbound Light Photography:\
+And also these assorted articles from Earthbound Light Photography:
  * [I Bought a Digital Camera But My Photos Are Still
 Blurry](http://www.earthboundlight.com/phototips/digital-photography-still-photography.html)
  * [Program vs. Aperture Priority vs. Shutter Priority vs.

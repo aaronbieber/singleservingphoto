@@ -261,14 +261,14 @@ Here are some things you need to know:
 understand the full extent of the concessions granted by a license you
 release your work under. If you decide you want to use a Creative
 Commons license, you should _actually read it_. Not just the "human
-deed," but the full text.\
- * If you don't understand the license... *Don't use it!*\
+deed," but the full text.
+ * If you don't understand the license... *Don't use it!*
  * As Dan Heller has frequently advised in discussions about model
 releases (this relates specifically to the Alison Chang situation), it
 is the responsibility of the person or persons putting your work _into
 use_ (e.g. the publisher) to secure model releases. If you did not get
 a release when you made the image and the publisher doesn't ask, it is
-not your problem.\
+not your problem.
  * If you place your work under a license that permits commercial use
 and the image is used commercially, you have no recourse. If you did not
 secure a model release for individuals pictured therein and they decide

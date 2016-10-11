@@ -68,11 +68,11 @@ for your viewing environment.
 
 \# Wattage (or equivalent wattage, when talking about fluorescent)â€”I
 like my viewing conditions to be fairly bright, so I went with 100 watt
-equivalent, but you may prefer to go higher or lower.\
+equivalent, but you may prefer to go higher or lower.
  \# Spectrumâ€”Get a bulb that is classified as "full-spectrum," meaning
-that it doesn't purposefully exclude certain wavelengths.\
+that it doesn't purposefully exclude certain wavelengths.
  \# Color temperatureâ€”Anything from 5,000K and up should do fine. I
-prefer 5,100K, you might go as high as 5,400K.\
+prefer 5,100K, you might go as high as 5,400K.
  \# Color Rendering Index (CRI)â€”This method of measuring the color
 accuracy of a light source has its flaws, but it's better than guessing;
 a higher number is better, 100 is perfect.

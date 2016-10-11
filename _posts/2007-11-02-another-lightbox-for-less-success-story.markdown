@@ -110,11 +110,11 @@ lightbox route and immediately purchased some of the most common
 supplies used:
 
 * 2-3 sheets of 30x40" foamcore (or foam board or foamboard) from the
-crafts store, \$2 per sheet.\
- * 1 painter's lamp (the kind you can clip to things), about \$3.\
+crafts store, \$2 per sheet.
+ * 1 painter's lamp (the kind you can clip to things), about \$3.
  * 1 utility lamp (the kind with a handle a cage over the bulb), \$2.50
-or so.\
- * A few sheets of thick, white paper... \$1 million. Er, no, \$1.\
+or so.
+ * A few sheets of thick, white paper... \$1 million. Er, no, \$1.
  * Baking parchment (that's right). \$2.
 
 Construction of the box is as simple as cutting and taping the foamcore

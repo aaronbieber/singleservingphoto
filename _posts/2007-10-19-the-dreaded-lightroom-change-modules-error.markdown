@@ -177,14 +177,14 @@ to do:
 drag Lightroom to the trash, and empty the trash. Or, if you're a slick
 keyboard nerd, select Lightroom and press Command-Delete (that's the key
 that old-schoolers call "backspace'). Don't forget to empty the trash
-either way.\
+either way.
  * Delete the Lightroom preferences file. Go into your home folder,
 then into Library -&gt; Preferences, and delete
 @com.adobe.Lightroom.plist@ from within it using one of the methods
-above.\
+above.
  * For giggles, you can also delete the Lightroom support folder if you
 want, which is located in home -&gt; Library -&gt; Application Support
--&gt; Adobe -&gt; Lightroom.\
+-&gt; Adobe -&gt; Lightroom.
  * Last, but definitely not least, you need to delete the installation
 receipt, which is what tells the Lightroom installer that the software
 is already installed. It will _not_ let you reinstall it if it finds

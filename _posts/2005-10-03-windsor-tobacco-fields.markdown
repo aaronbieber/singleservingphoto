@@ -20,5 +20,5 @@ film [Parrish](http://www.imdb.com/title/tt0055279). This morning was
 incredibly foggy, and I had no choice but to take some time out to
 capture these.
 
-![](/ssp/03oct05-01.jpg){:.frame.center}\
+![](/ssp/03oct05-01.jpg){:.frame.center}
  ![](/ssp/03oct05-02.jpg){:.frame.center}

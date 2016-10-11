@@ -140,13 +140,13 @@ Here are the articles I referred to in writing this synopsis:
 
 * [Flash: Photos make great
 investments](http://timesofindia.indiatimes.com/Deep_Focus/Flash_Photos_make_great_investments/articleshow/2695408.cms),
-_The Times of India_\
+_The Times of India_
  * [Photography looks good for long-term
 investment](http://thescotsman.scotsman.com/ViewArticle.aspx?articleid=2628310,)
-_The Scotsman_\
+_The Scotsman_
  * [Photography loses its negative
 image](http://money.independent.co.uk/personal_finance/invest_save/article60395.ece,)
-_The Independent_\
+_The Independent_
  * [Photographs click as great
 investments](http://www.moneycontrol.com/india/news/lifestyle/photographs-click-as-great-investments/10/53/295154,)
 _moneycontrol.com_

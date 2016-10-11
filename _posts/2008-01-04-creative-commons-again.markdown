@@ -83,7 +83,7 @@ Fundamentally, you have a responsibility to police the wrongful use of
 your work, but from a pure business perspective, misappropriated
 web-resolution gallery images shouldn't be considered a financial or
 professional liability, even in the cases where your watermark or
-copyright information are wrongfully removed.\
+copyright information are wrongfully removed.
  * Dan seems to imply that by avoiding any Creative Commons licensed
 image, the business in question has now become a less likely consumer of
 photographers' work. It seems more plausible to me that they will avoid
@@ -92,7 +92,7 @@ likely* to purchase licenses directly from photographers or agencies,
 which is actually a *benefit* to those photographers who sell
 independently and through organizations like Comstock, Getty, or
 iStockPhoto. In this way, Creative Commons has benefited professional
-photographers even if it has damaged its own goals.\
+photographers even if it has damaged its own goals.
  * If one of the goals of Creative Commons was to provide a more robust
 licensing structure for salable work such as stock photography, then
 they have surely failed themselves in that regard. My interpretation of

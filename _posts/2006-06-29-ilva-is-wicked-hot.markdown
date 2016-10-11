@@ -22,8 +22,8 @@ pretty well).
 
 Here are just three to whet your palate!
 
-![](/ssp/24jun06-01.jpg){:.frame.center}\
- ![](/ssp/24jun06-02.jpg){:.frame.center}\
+![](/ssp/24jun06-01.jpg){:.frame.center}
+ ![](/ssp/24jun06-02.jpg){:.frame.center}
  ![](/ssp/24jun06-03.jpg){:.frame.center}
 
 There will be lots more up on my gallery soon, so don't forget about

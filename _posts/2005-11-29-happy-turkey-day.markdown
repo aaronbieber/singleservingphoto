@@ -39,7 +39,7 @@ everyone here can get something out of that.
 
 Here are a couple of shots from Thanksgiving.
 
-![](/ssp/24nov05-01.jpg){:.frame.center}\
+![](/ssp/24nov05-01.jpg){:.frame.center}
  ![](/ssp/24nov05-02.jpg){:.frame.center}
 
 That is a fake Christmas tree. Inauthentic. Faux. Imitation. Artificial.

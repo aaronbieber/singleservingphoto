@@ -49,7 +49,7 @@ Buy a new pocket-size Canon PowerShot for your
 girlfriend/boyfriend/wife/husband and get \$100 off Lightroom for
 yourself! That's what I would do at least.
 
-[Buy something in this list and get \$100 off Lightroom 3.0!\
+[Buy something in this list and get \$100 off Lightroom 3.0!
 
-![](http://singleservingphoto.com/wp-content/uploads/2011/01/bh_wl.gif "B&H, The Professional's Source")\
+![](http://singleservingphoto.com/wp-content/uploads/2011/01/bh_wl.gif "B&H, The Professional's Source")
 ](http://www.bhphotovideo.com/c/buy/Adobe-Lightroom-Rebate/ci/17022/N/4238555045/BI/1816/KBID/2457)

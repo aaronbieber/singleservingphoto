@@ -21,6 +21,6 @@ and supplementary lighting engineer was Heather.
 
 See more in [Meghan's gallery](http://gallery.thebailiwick.com/meghan/).
 
-![](/ssp/06apr06-01.jpg){:.frame.center}\
- ![](/ssp/06apr06-02.jpg){:.frame.center}\
+![](/ssp/06apr06-01.jpg){:.frame.center}
+ ![](/ssp/06apr06-02.jpg){:.frame.center}
  ![](/ssp/06apr06-03.jpg){:.frame.center}

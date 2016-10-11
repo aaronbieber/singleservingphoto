@@ -31,7 +31,7 @@ full message:
 > after all, and hope to have a final update in the next week or so on
 > who the acquirer will be. Thank you for making all of this possible.
 >
-> Laura Brunow Miner\
+> Laura Brunow Miner
 >  Editor in Chief
 
 As I write this, it does look like [jpgmag.com](http://jpgmag.com) is

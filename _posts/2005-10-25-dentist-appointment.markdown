@@ -27,7 +27,7 @@ The folks at my dentist's office were kind enough to let me spend a few
 free moments snapping photos of their cool old X-Ray machine and such.
 Big thanks to Dr. Berman and his entire crew.
 
-![](/ssp/25oct05-01.jpg){:.frame.center}\
+![](/ssp/25oct05-01.jpg){:.frame.center}
  ![](/ssp/25oct05-02.jpg){:.frame.center}
 
 I'm experimenting with the Mama Shanz cross-process actions in
@@ -38,6 +38,6 @@ produces exaggerated contrasts and funky colors. The cross-processing
 effect was pretty big for a while in the '70s, as I understand it, but
 with the advent of Photoshop it becomes easier to experiment with
 similar effects without incurring the costs of chemicals and screw-ups.
-Here are a couple of ideas.\
- ![](/ssp/25oct05-03.jpg){:.frame.center}\
+Here are a couple of ideas.
+ ![](/ssp/25oct05-03.jpg){:.frame.center}
  ![](/ssp/25oct05-04.jpg){:.frame.center}

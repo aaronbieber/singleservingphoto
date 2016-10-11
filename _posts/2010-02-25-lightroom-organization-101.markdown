@@ -64,16 +64,16 @@ There are an infinite number of ways to organize your RAW files on disk,
 but I don't have an infinite amount of time (and neither do you) so I
 will only tell you how I do it.
 
-\# My top-level folder is called "Photography," then\
+\# My top-level folder is called "Photography," then
  \# Within that folder there are three folders for the main categories
-of my work, "Events," "Places," and "Portraits."\
+of my work, "Events," "Places," and "Portraits."
  \#\# Events contains folders named for each event and those folders
-contain the photos.\
+contain the photos.
  \#\# Portraits contains folders usually of models' names, and those
 folders contain photos. If I have done more than one shoot with a model,
-there are folders by date for those.\
+there are folders by date for those.
  \#\# Places, however, contains a geographical hierarchy like "United
-States," then "California," then "Death Valley NP," and\
+States," then "California," then "Death Valley NP," and
  \#\#\# As with portraits, if I've been to a location more than once,
 there are folders by date.
 
@@ -90,17 +90,17 @@ what I would do if I were importing photos from a location shoot that I
 did in a place I had never photographed before.
 
 \# Open the import dialog and choose the photos I want to import from
-the thumbnail view.\
- \# Choose "Copy Photos To A New Location And Add To Catalog."\
+the thumbnail view.
+ \# Choose "Copy Photos To A New Location And Add To Catalog."
  \# Browse for the correct geographical folder. I usually use the browse
 dialog to create the folders I need along the way. For example, I might
 browse into "Places," then "United States," and then I may have to
 create a folder for "Massachusetts," and then another within that for
 "Boston." %(note)There is a "Make New Folder" or "Make Folder" button in
-the dialog (in Windows and OS X, respectively).%\
+the dialog (in Windows and OS X, respectively).%
  \# In the future, if I already have the state folder created, I may
 simply select that and check off the box next to "Put in subfolder" and
-type the city or location name in there. That's completely up to you.\
+type the city or location name in there. That's completely up to you.
  \# If you want to organize the photos by date within the folder you've
 selected (and this precludes using the "subfolder" option above), select
 "Organize: By Date" and Lightroom will create a subfolder for each date
@@ -124,7 +124,7 @@ What I'm talking about is _triage_.
 
 *tri* • *age* _n._
 
-\# The determination of priorities for action in an emergency.\
+\# The determination of priorities for action in an emergency.
  \# Sweeping through your photos and separating the good from the bad.
 
 Obviously the second definition is not exactly Miriam Webster material,
@@ -140,8 +140,8 @@ be a real challenge, and prioritizing your photos can be tricky, too.
 Luckily, Lightroom gives us some very helpful tools that come to our aid
 in this situation. You probably already know of them. They are:
 
-\# Flags (picks and rejects)\
- \# Ratings (on a scale from one star to five)\
+\# Flags (picks and rejects)
+ \# Ratings (on a scale from one star to five)
  \# Labels (colors)
 
 Any given photo can have a flag (_picked_ or _rejected_), a rating
@@ -160,15 +160,15 @@ I don't know. But I can tell you how I use them.
 
 The very high-level outline of my process goes something like this:
 
-\# Eliminate rejects (using the reject flag, "X" on the keyboard)\
- \# Mark potential keepers (using the pick flag, "P" on the keyboard)\
+\# Eliminate rejects (using the reject flag, "X" on the keyboard)
+ \# Mark potential keepers (using the pick flag, "P" on the keyboard)
  \# Light, experimental development to test the viability of the
-keepers\
+keepers
  \# Un-flag bad picks (if development doesn't work out; that's "U" on
-the keyboard)\
- \# Complete development\
+the keyboard)
+ \# Complete development
  \#\# Label completed images ready to go to the gallery in green (green
-for gallery, get it?)\
+for gallery, get it?)
  \#\# Label experimental or fun images that will go to Flickr in blue
 (no mnemonic device for that one, I have a Post-It note on my monitor to
 remind me)

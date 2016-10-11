@@ -87,13 +87,13 @@ density of 0.3 will have the same effect as stopping down by one f-stop
 
 So I guess I should just give you the chart, now...
 
-|*Optical Density*|*f-Stop Reduction*|*% Transmittance*|\
- |0.3|1|50%|\
- |0.6|2|25%|\
- |0.9|3|12.5%|\
- |1.8|6|1.5625%|\
- |3.0|10|&lt;0.1%|\
- |4.0|13|A very small number.|\
+|*Optical Density*|*f-Stop Reduction*|*% Transmittance*|
+ |0.3|1|50%|
+ |0.6|2|25%|
+ |0.9|3|12.5%|
+ |1.8|6|1.5625%|
+ |3.0|10|&lt;0.1%|
+ |4.0|13|A very small number.|
  |6.0|20|A really, really small number.|
 
 ## Putting It to Use
@@ -148,7 +148,7 @@ filter](http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Ne
 - Great for increasing motion blur on daylight subjects (like people
 walking) and casually usable (you can focus through the filter without
 much challenge), but with your lens at f/22, this filter brings you to
-f/64.\
+f/64.
  * [B+W 77mm 3.0 (10-stop) ND
 filter](http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html/BI/1816/KBID/2457)
 - Ten stops is enough to completely change the way you make exposures.

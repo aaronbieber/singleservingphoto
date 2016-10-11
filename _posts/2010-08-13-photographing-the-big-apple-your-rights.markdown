@@ -47,11 +47,11 @@ with them in the event that they are stopped, and that may not be a bad
 idea at all. Just remember a couple of really important things:
 
 \# Know exactly what your rights are. Research the location you are
-going to be in and familiarize yourself with the local ordinances.\
+going to be in and familiarize yourself with the local ordinances.
  \# Be courteous and respectful. If an officer is giving you a hard time
 because they like it, being rude to them is only going to make matters
 worse. Be understanding of their position, and firm in stating your
-rights.\
+rights.
  \# Comply with directives. If an officer asks you to do something,
 short of deleting your photographs (which they cannot do without a
 warrant, at a minimum), do it. You may state that you are complying

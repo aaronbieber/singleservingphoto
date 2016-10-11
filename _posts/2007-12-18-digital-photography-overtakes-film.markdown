@@ -39,7 +39,7 @@ darkroom unless they expressly search one out. The Colorado Mountain
 College in Breckenridge, CO, to begin construction in 2009, will not
 have a darkroom at all ((Leslie Brefeld. "Is digital forcing out
 photography’s roots?" Summit Daily News. December 7, 2007. December 17,
-2007.\
+2007.
 [http
 ://www.summitdaily.com/article/20071207/AE/71207005](http://www.summitdaily.com/article/20071207/AE/71207005))).
 

@@ -129,7 +129,7 @@ The only technical considerations when composing a watermark image are:
 * It should be narrower than the smallest for-web image you will
 export, so that it isn't cut off. I always export my images for this
 blog at 600 pixels wide, so I'm safe with this watermark (which is 310
-pixels wide).\
+pixels wide).
  * It should be legible on any image, regardless of the image's
 lightness or darkness. To solve this problem, I've used a black
 background. I experimented with different approaches and found this one
@@ -166,7 +166,7 @@ program:
 
 ` Usage: port [-vdqfonasbcktu] [-D portdir] action [actionflags] [[portname|pseudo-portname|port-url] [@version] [+-variant]... [option=value]...]...`{lang="text"}
 
-"port help" or "man 1 port" for more information.\
+"port help" or "man 1 port" for more information.
 
 Installing ImageMagick should be as simple as:
 

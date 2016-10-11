@@ -67,9 +67,9 @@ the National Mall as early as possible.
 
 Things I _totally_ didn't have to do:
 
-* Get to the National Mall as early as possible,\
+* Get to the National Mall as early as possible,
  * Sit at the location I wanted to shoot from for 10 hours under the
-97-degree sun,\
+97-degree sun,
  * Forget to bring a folding chair.
 
 So let me give all you guys and gals out there a hint. You don't have to

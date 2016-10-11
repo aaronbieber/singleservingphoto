@@ -16,7 +16,7 @@ comments: []
 ---
 Here is one I snapped a couple of days ago but didn't get a chance to
 post. I froze my fingers off taking it, but this smoke stack is, for
-some reason, really cool to me.\
- ![](/ssp/09dec05-01.jpg){:.frame.center}\
- This is the snowstorm that allowed me to stay home from work today.\
+some reason, really cool to me.
+ ![](/ssp/09dec05-01.jpg){:.frame.center}
+ This is the snowstorm that allowed me to stay home from work today.
  ![](/ssp/09dec05-02.jpg){:.frame.center}

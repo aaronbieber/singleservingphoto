@@ -71,7 +71,7 @@ worked by running the program:
 
 ` airborne@Auriga ~ $ exiv2 exiv2: An action must be specified exiv2: At least one file is required Usage: exiv2 [ options ] [ action ] file ...`{lang="text"}
 
-Manipulate the Exif metadata of images.\
+Manipulate the Exif metadata of images.
 
 It should look more or less like that. If you get a @-bash: exiv2:
 command not found@ error, that's not good, so you should look back at
@@ -111,21 +111,21 @@ To that end, here is the script:
 
 ` #!/bin/sh`{lang="bash"}
 
-if \[\[ ! -z "\$1" && -e "\$1" \]\]; then\
- EXIV="/opt/local/bin/exiv2"\
+if \[\[ ! -z "\$1" && -e "\$1" \]\]; then
+ EXIV="/opt/local/bin/exiv2"
  TITLE=\`\$EXIV -pi "\${1}" 2&gt;/dev/null | grep ObjectName | cut -c
-61- | tr -cd "\[:alpha:\]"\`;\
- if \[ -z "\$TITLE" \]; then\
- echo "There is no title in the metadata."\
- exit 1\
- else\
- \`mv "\$1" "\$TITLE.jpg"\`;\
- exit 0\
- fi\
- else\
- echo "You must supply a filename and the file must exist."\
- exit 0\
- fi\
+61- | tr -cd "\[:alpha:\]"\`;
+ if \[ -z "\$TITLE" \]; then
+ echo "There is no title in the metadata."
+ exit 1
+ else
+ \`mv "\$1" "\$TITLE.jpg"\`;
+ exit 0
+ fi
+ else
+ echo "You must supply a filename and the file must exist."
+ exit 0
+ fi
 
 *Note:* You may have to change the path to @exiv2@ in the part that
 starts @EXIV=@ if MacPorts installed it in a different place than where

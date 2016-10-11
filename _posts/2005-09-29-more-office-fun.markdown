@@ -14,11 +14,11 @@ categories:
 tags: []
 comments: []
 ---
-It was a rainy day.\
+It was a rainy day.
  ![](/ssp/29sept05-06.jpg){:.frame.center}
 
-But even closed windows are fun to look at.\
+But even closed windows are fun to look at.
  ![](/ssp/29sept05-05.jpg){:.frame.center}
 
-Dr. Xuling Gao, Ph.D.\
+Dr. Xuling Gao, Ph.D.
  ![](/ssp/29sept05-04.jpg){:.frame.center}

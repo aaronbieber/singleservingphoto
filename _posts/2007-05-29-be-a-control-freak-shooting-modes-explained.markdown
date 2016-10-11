@@ -155,21 +155,21 @@ Here are some of the shooting modes available with the major
 camera-makers' cameras (Nikon calls these "Digital Vari-Programs" and
 Canon calls them "PictureStyles"):
 
-* Portrait\
- * Landscape\
- * Close-up\
- * Sports\
- * Night landscape\
- * Night portrait\
+* Portrait
+ * Landscape
+ * Close-up
+ * Sports
+ * Night landscape
+ * Night portrait
  * Sunset
 
 In addition, virtually every SLR camera has these four basic settings
 available on their mode dials (I have noted the names in Canon and Nikon
 lingo, respectively):
 
-* Av (aperture value), or A (aperture priority auto)\
- * Tv (time value), or S (shutter priority auto)\
- * P (program or programmed auto)\
+* Av (aperture value), or A (aperture priority auto)
+ * Tv (time value), or S (shutter priority auto)
+ * P (program or programmed auto)
  * M, which pretty much always stands for _manual_
 
 ## Content-Related Modes

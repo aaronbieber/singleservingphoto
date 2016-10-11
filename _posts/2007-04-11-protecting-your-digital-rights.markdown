@@ -161,9 +161,9 @@ impatient and lazy among you to be equally satisfied to have dropped by
 
 * The Orphan Works Act of 2006 does not threaten to dilute your rights
 as a copyright holder. Which is to say, it wouldn't even if it actually
-_passed_, which it hasn't.\
+_passed_, which it hasn't.
  * There are two major forms of metadata, one older one and one newer
-one, and you should learn how to use them properly.\
+one, and you should learn how to use them properly.
  * Watermarks are _so_ ugly.
 
 Now, if you feel up to it, dive in.
@@ -295,7 +295,7 @@ Photoshop filters and text set in Papyrus?
 To me, the watermark has two distinct purposes:
 
 * To deter would-be thieves from snatching up your image and using it
-for their own nefarious purposes.\
+for their own nefarious purposes.
  * To increase awareness of (read: advertise) you and/or your website
 to the people who would be most interested in it: people who look at
 photographs.

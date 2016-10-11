@@ -20,11 +20,11 @@ cream. Oh, how I love f/1.4.
 
 ![](/ssp/09oct05-01.jpg){:.frame.center}
 
-One my dad's 3D collage pieces.\
+One my dad's 3D collage pieces.
  ![](/ssp/09oct05-02.jpg){:.frame.center}
 
-The godfather.\
+The godfather.
  ![](/ssp/09oct05-03.jpg){:.frame.center}
 
-My mom!\
+My mom!
  ![](/ssp/09oct05-04.jpg){:.frame.center}

@@ -34,9 +34,9 @@ Right now, Death Valley in April 2008 is the only workshop up on the
 site, but we are thinking about doing some of these (I'd love it if
 anyone has thoughts about these or their own suggestions):
 
-* Cape Cod, early winter (for late November, '07)\
+* Cape Cod, early winter (for late November, '07)
  * Boston or New York City urban/street (probably not till spring '08
-when the weather gets nicer)\
+when the weather gets nicer)
  * [Acadia National Park](http://www.nps).gov/acad/ in Maine, either
 winter '07 or summer '08... Or both!
 

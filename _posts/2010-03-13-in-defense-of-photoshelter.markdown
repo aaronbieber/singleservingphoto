@@ -88,24 +88,24 @@ Still, Photoshelter has its issues:
 
 \# When you upload photos, they go into the "archive," which is
 basically a storage area for your images. From there, they can be copied
-into galleries, sold to customers, etc.\
+into galleries, sold to customers, etc.
  \#\# Though the archive allows you to create nested folder structures,
 drag and drop items, and generally acts like a Windows or OS X
 interface, it's only for your use. Which brings me to the real issue
-here, and that is...\
+here, and that is...
  \#\# Galleries can't be nested. You can create "collections" of
 galleries, but that's it. Collections also can't be nested. On top of
-all of that,\
+all of that,
  \#\# The gallery organization screen is totally different from the
 archive. "Action" links are moved to a different spot, the way you move
 items and operate on them is different. It's a UI oversight and a
-nightmare for your learning curve.\
- \# There is no real templating.\
+nightmare for your learning curve.
+ \# There is no real templating.
  \#\# Though you can choose among a few pre-created themes, which are
 OK, the ability to create a custom "theme" is limited to pasting in the
 top portion and bottom portion of the layout. You can never change the
 location or wording of any of the contents of the site, other than
-through stylesheets.\
+through stylesheets.
  \#\# This is more of a minor gripe from a guy who more or less wrote
 his site from scratch, but it's still something I would like to see more
 support for.
@@ -124,19 +124,19 @@ The other things that Photoshelter seems to be really good at are:
 
 \# *Adding new features*: They have added support for TinEye and
 PicScout recently, among other things. Each month brings some
-enhancements, which are reported in their newsletter.\
+enhancements, which are reported in their newsletter.
  \# *SEO (Search Engine Optimization)*: As much as I believe SEO to be
 a mythical black box that only the anointed can see within, Photoshelter
 has configured their themes and designs to accommodate best practices,
-and that counts for a lot.\
+and that counts for a lot.
  \# *E-commerce*: There are several options available to those who
-wish to sell their images, such as\
+wish to sell their images, such as
  \#\# Licensing (using an externally maintained and constantly updated
 pricing model based on circulation and business use, e.g. "for
 royalty-free use in a magazine in the northeast of the U.S. with a
-circulation of 100,000.")\
+circulation of 100,000.")
  \#\# Sell electronic copies in a few fixed dimensions to individuals
-for personal use,\
+for personal use,
  \#\# Sell actual prints, either fulfilled by Mpix, or self-fulfilled
 (by you).
 
@@ -155,8 +155,8 @@ month to host your image gallery and go through the process of
 re-uploading all of your images to a new location, organizing them, and
 so forth?
 
-\# What do you gain by it?\
- \# Is it worth the trouble of re-uploading everything?\
+\# What do you gain by it?
+ \# Is it worth the trouble of re-uploading everything?
  \# How many numbered lists can one blog post have?
 
 Well, at least I can tell you what I have gained by it:
@@ -164,13 +164,13 @@ Well, at least I can tell you what I have gained by it:
 \# Peace of mind that full-resolution, developed versions of my images
 are hosted and backed up by a reputable third party (meaning that my
 sales can continue regardless of the state of my own computer, my own
-website, and so on),\
+website, and so on),
  \# The ability to expand my copyright enforcement (with PicScout), to
 reach a larger community of eyes (through Photoshelter's publicly
 searchable site), and to expand my photography business as Photoshelter
-expands its features,\
+expands its features,
  \# The knowledge that people are working 40-hour weeks to keep my
-photos online, and to make them more searchable and easier to buy, and\
+photos online, and to make them more searchable and easier to buy, and
  \# More things to write lists of.
 
 What more could you ask for?

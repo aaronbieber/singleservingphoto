@@ -85,8 +85,8 @@ page](http://www.barrypearson.co.uk/articles/dng/specification.htm.)
 
 There are three main reasons that are generally cited:
 
-* Archivability (future-proof-ness, if you want)\
- * Interoperability (openness, we like to say)\
+* Archivability (future-proof-ness, if you want)
+ * Interoperability (openness, we like to say)
  * Efficiency (YMMV(Your Mileage May Vary), more on this later)
 
 *Archivability* (which I'm pretty sure isn't even a word) means that
@@ -98,7 +98,7 @@ it have been kept from the public.
 
 %(pullquote pq-left)"\[I\]f Nikon decides to not support my raw files
 one day, there's some 15 year old in his room that'll code up a raw
-conversion program in his sleep."\
+conversion program in his sleep."
 --Matt Kloskowski%
 
 Does this claim hold water? I don't know, you can download free software
@@ -198,7 +198,7 @@ similar; non-DNG).
 them to be able to see what you have done in the Develop module, as well
 as the IPTC tags, you will need to send them XMP sidecar files. This is
 preferable to sending your entire Lightroom catalog or creating a new
-one to house only the images you are sending.\
+one to house only the images you are sending.
  \# In the event of a catastrophic disaster where your Lightroom catalog
 backups are corrupted, you can restore 95% of your data using the source
 RAW image files and associated XMP sidecar files. What you would lose is
@@ -208,7 +208,7 @@ and other settings are stored in the XMP files.
 There are some major caveats here, though.
 
 \# When you're sharing images, you can always _export them_ to DNG,
-which makes XMP unnecessary.\
+which makes XMP unnecessary.
  \# In the event of a catastrophic disaster, you'll only have XMP files
 if you've previously selected batches of images within Lightroom and
 triggered the "Export Metadata to Files" function. Presumably you would
@@ -222,9 +222,9 @@ to our computers right now and convert our whole libraries to DNG
 format? Once again, here are the major advertised benefits of the DNG
 format:
 
-\# Archival (future-proof)\
- \# Interoperable (widely compatible)\
- \# Efficient (storage-wise, at least)\
+\# Archival (future-proof)
+ \# Interoperable (widely compatible)
+ \# Efficient (storage-wise, at least)
  \# All-inclusive (obsoletes XMP sidecars)
 
 It seems to me that the "archival" and "interoperable" characteristics

@@ -21,13 +21,13 @@ forgot to post!
 Here are just a couple of things. First, a picture I took for a friend
 of mine as a Christmas present for a different friend. I did a
 tremendous amount of Photoshop post-processing work on this. He loved
-it.\
+it.
  ![](/ssp/19dec05-01.jpg){:.frame.center}
 
 And here is some other crap that was sitting on my memory card for
-weeks.\
- ![](/ssp/16dec05-01.jpg){:.frame.center}\
- ![](/ssp/16dec05-02.jpg){:.frame.center}\
+weeks.
+ ![](/ssp/16dec05-01.jpg){:.frame.center}
+ ![](/ssp/16dec05-02.jpg){:.frame.center}
  ![](/ssp/16dec05-03.jpg){:.frame.center}
 
 Happy new year to one and all!

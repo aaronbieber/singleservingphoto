@@ -43,10 +43,10 @@ digital SLR recommendations for first-time owners in 2008:
 
 * [Canon Digital Rebel
 XTi](http://www.bhphotovideo.com/c/product/457506-REG/Canon_1236B002_EOS_Digital_Rebel_XTi.html)?BI=1816&KW=&KBID=2457
-(about \$530 from B&H, camera body only)\
+(about \$530 from B&H, camera body only)
  * [Nikon
 D40](http://www.bhphotovideo.com/c/product/471716-REG/Nikon_25420_D40_SLR_Digital_Camera.html?BI=1816&KW=&KBID=2457)
-(about \$475 from B&H, with 18-55mm lens)\
+(about \$475 from B&H, with 18-55mm lens)
  * [Nikon
 D80](http://www.bhphotovideo.com/c/product/449061-REG/Nikon_25412_D80_SLR_Digital_Camera.html?BI=1816&KW=&KBID=2457)
 (about \$780 from B&H, camera body only)

@@ -33,14 +33,14 @@ It sort of sounds like the name of a convalescent home, but perhaps
 that's appropriate. In any case, it really is on a mountain and it
 really does have a splendid view.
 
-Even the cell phone towers look dramatic and cool.\
+Even the cell phone towers look dramatic and cool.
  ![](/ssp/11nov05-01.jpg){:.frame.center}
 
-This is my buddy, the stone dog.\
+This is my buddy, the stone dog.
  ![](/ssp/11nov05-02.jpg){:.frame.center}
 
-Looks even more awesome in silhouette, doesn't he?\
+Looks even more awesome in silhouette, doesn't he?
  ![](/ssp/11nov05-03.jpg){:.frame.center}
 
-Finally, dusk reflected in a headstone.\
+Finally, dusk reflected in a headstone.
  ![](/ssp/11nov05-04.jpg){:.frame.center}

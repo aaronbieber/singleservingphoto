@@ -130,18 +130,18 @@ critique posting page):
 
 * If you're here to give someone a thumbs-down critique because that
 person gave you a thumbs-down critique, then erase your critique and
-cool off for a bit.\
+cool off for a bit.
  * A critique is not a judgment. Make your critiques helpful by
 suggesting ways in which the photographer can improve his or her photo.
-Don't simply state whether you like the photo or dislike it.\
+Don't simply state whether you like the photo or dislike it.
  * An unflattering critique can be very constructive, but you must take
 care to be as polite and respectful as possible. Ask yourself how you
 would feel if someone made the same comment about one of your own
-photos.\
- * Critique the photo, not the photographer or the other critics.\
+photos.
+ * Critique the photo, not the photographer or the other critics.
  * If this photo already has a lot of critiques, then think about
 whether you have anything new to add. Instead of writing a "me too"
-critique, why not critique something else?\
+critique, why not critique something else?
  * The three thumbs-down rating should be reserved for photos that are
 clearly offensive or repugnant, not those that are merely bad. You may
 be asked to justify or revisit a three thumbs-down rating.

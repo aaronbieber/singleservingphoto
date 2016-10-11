@@ -17,13 +17,13 @@ comments: []
 I visited my parents and they had some company. Much wine was consumed
 and a lively conversation was had.
 
-I found this in the bathroom.\
+I found this in the bathroom.
  ![](/ssp/07oct05-01.jpg){:.frame.center}
 
-Suz\
+Suz
  ![](/ssp/07oct05-02.jpg){:.frame.center}
 
-Joe\
+Joe
  ![](/ssp/07oct05-03.jpg){:.frame.center}
 
 P.S. Those are not my parents, just FYI.

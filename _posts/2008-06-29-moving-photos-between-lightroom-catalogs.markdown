@@ -43,16 +43,16 @@ Fortunately, there is! I will tell you how! ~~MORE~~
 Prerequisites (and helpful tips):
 
 * You have Lightroom installed on your laptop, which of course it's the
-same version that you have on your primary computer.\
+same version that you have on your primary computer.
  * You've created a new catalog on your laptop for the trip that you
 went on, or the shoot that you did. Even though I only have one main
 catalog on my desktop, I create a new catalog on my laptop for every
-shoot.\
+shoot.
  * You have a home network, either wireless or wired. It seems like
 most people do these days, but it's important for this method that you
-are one of those people.\
+are one of those people.
  * You understand the basics of file sharing between two Mac
-computers.\
+computers.
  * It helps a lot if you save your Lightroom catalogs on your laptop in
 your "Pictures" folder, or anywhere within your "Home" folder.
 

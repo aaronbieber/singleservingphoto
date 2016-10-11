@@ -17,8 +17,8 @@ comments: []
 I was over at Vassar College a couple of weeks ago and here is some of
 the evidence.
 
-![](/ssp/28jan06-01.jpg){:.frame.center}\
- ![](/ssp/28jan06-02.jpg){:.frame.center}\
- ![](/ssp/28jan06-03.jpg){:.frame.center}\
- ![](/ssp/28jan06-04.jpg){:.frame.center}\
+![](/ssp/28jan06-01.jpg){:.frame.center}
+ ![](/ssp/28jan06-02.jpg){:.frame.center}
+ ![](/ssp/28jan06-03.jpg){:.frame.center}
+ ![](/ssp/28jan06-04.jpg){:.frame.center}
  ![](/ssp/28jan06-05.jpg){:.frame.center}

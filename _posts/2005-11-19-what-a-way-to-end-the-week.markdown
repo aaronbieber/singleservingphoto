@@ -24,6 +24,6 @@ comments:
     with the sunset, the birds and my camera! ;) you just reminded me i need to put
     them on my blog! ;)\r\nA~"
 ---
-There is nothing like an awesome sunset to cap off the work week!\
- ![](/ssp/18nov05-01.jpg){:.frame.center}\
+There is nothing like an awesome sunset to cap off the work week!
+ ![](/ssp/18nov05-01.jpg){:.frame.center}
  ![](/ssp/18nov05-02.jpg){:.frame.center}

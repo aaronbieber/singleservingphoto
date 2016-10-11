@@ -175,13 +175,13 @@ There are three reasons I believe these bubble levels are useless:
 because they only tell you if your tripod is level, and unless you have
 your camera screwed directly onto your tripod (please, please answer
 "no" to that), it doesn't do you much good. A tripod can be very steady
-and secure without being level.\
+and secure without being level.
  \# A bubble level on your camera does not guarantee that it is level
 with the _surface_ of the ground (read: what you see), but rather that
 it is level _gravitationally_, which may be different. If you are
 shooting a horizon line that is actually a subtle hill or other
 topographical feature, the bubble level may actually make your image
-appear _not_ to be level.\
+appear _not_ to be level.
  \# Fundamentally, your final image may appear to be level or not level
 based on features of the composition, including hills, vertical elements
 such as trees or man-made structures, and so forth. A bubble level isn't
@@ -204,7 +204,7 @@ are a couple of tricks I use:
 autofocus points, align them with elements in the scene to make sure
 they're level. the AF points in your viewfinder are guaranteed to be
 level with respect to the frame, so it gives you a visual hand-hold for
-lining up horizons and buildings and everything else.\
+lining up horizons and buildings and everything else.
  \# Squint. Seriously. One of the more important habits I've picked up
 over the years is to take stock of the entire frame as a composition,
 which can be hard to do when your face is pressed up against the camera
@@ -213,7 +213,7 @@ lean over to where your tripod is perched. If there is a horizon and a
 tree that should appear to be horizontal and vertical, respectively, pay
 careful attention to how they _appear_ to be oriented within the frame
 as a whole rather than how the horizon or the tree line up with AF
-points or edges of the frame on their own.\
+points or edges of the frame on their own.
  \# Fix it in post-processing. I know, that sounds like a cop out, but
 it's your last line of defense. If you're going to be editing all of
 your photos anyway (as I'm sure you do), it's a better investment to

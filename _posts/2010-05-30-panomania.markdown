@@ -110,14 +110,14 @@ panoramas easier (or in some cases _possible_) include:
 detection, which is how it links features in one photo to those in
 another (the core of the "stitching" process); for what it's worth I've
 almost never had to use it, the SIFT key extraction of APG is extremely
-good,\
+good,
  * Center point, horizon detection, and vertical correction tools,
 which allow you to basically coach the software as to what you want the
 center point to be, or what feature(s) you ultimately want to be
-horizontal or vertical,\
+horizontal or vertical,
  * Numeric yaw, pitch, and roll adjustment, which permits you to tweak
 the projection of the final image such that the perspective appears the
-way you want it to,\
+way you want it to,
  * Mercator, planar, spherical, and cylindrical projection models,
 whichâ€”although my understanding of projection is limitedâ€”essentially
 gives you a few basic effects to choose from when mapping the images

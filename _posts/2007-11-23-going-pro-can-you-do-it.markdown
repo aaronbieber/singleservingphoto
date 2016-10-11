@@ -68,11 +68,11 @@ photographer should stay open-minded to available revenue sources within
 the industry as a whole. Within the photography industry there are at
 least this many distinct specialties that offer opportunities to profit:
 
-* Stock/travel\
- * Studio/portraiture/fashion/glamour\
- * How-to/writing/teaching/blogging\
- * Photojournalism\
- * Commercial/product/food/commissioned\
+* Stock/travel
+ * Studio/portraiture/fashion/glamour
+ * How-to/writing/teaching/blogging
+ * Photojournalism
+ * Commercial/product/food/commissioned
  * Fine art
 
 There are probably more that didn't come to mind. My point is that the

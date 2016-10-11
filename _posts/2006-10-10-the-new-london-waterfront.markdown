@@ -20,12 +20,12 @@ the waterfront. I finally got a chance to take my camera out and walk
 along the pier by the train station last night and I want to share these
 with you all.
 
-In front of the police substation, overlooking the main fishing dock.\
+In front of the police substation, overlooking the main fishing dock.
  ![](/ssp/10oct06-01.jpg){:.frame.center}
 
-Various impressive waterfront industrial complexes across the river.\
+Various impressive waterfront industrial complexes across the river.
  ![](/ssp/10oct06-02.jpg){:.frame.center}
 
 My favorite of the three, my experiments with long exposure facing
-another fishing pier.\
+another fishing pier.
  ![](/ssp/10oct06-03.jpg){:.frame.center}

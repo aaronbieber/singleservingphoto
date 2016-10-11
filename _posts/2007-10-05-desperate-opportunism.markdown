@@ -77,8 +77,8 @@ mother of invention, so too is spontaneity the mother of serendipity.
 Here is the very short list of things that I always plan for when going
 on fine art photography trips:
 
-1\. Sunrise and sunset times\
- 2. Places of interest, at least in a general sense\
+1\. Sunrise and sunset times
+ 2. Places of interest, at least in a general sense
  3. The phase of the moon
 
 It is very helpful to know at what time the sun will rise and set for

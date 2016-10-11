@@ -40,8 +40,8 @@ better about yourself, your photographs, and about the universe. Well,
 you'll feel smarter, anyway, and you will be. You'll also be able to add
 another item to your lists of:
 
-\# Answers to questions nobody will ever ask you,\
- \# Greek letters you recognize, and\
+\# Answers to questions nobody will ever ask you,
+ \# Greek letters you recognize, and
  \# Awkward things to bring up on a first date
 
 You can already check off number two if you look up on the right there.

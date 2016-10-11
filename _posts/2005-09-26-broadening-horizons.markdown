@@ -14,8 +14,8 @@ categories:
 tags: []
 comments: []
 ---
-Just because it's simple doesn't mean it's boring.\
- ![](/ssp/26sept05-01.jpg){:.frame.center}\
- This should be fairly unique.\
- ![](/ssp/26sept05-02.jpg){:.frame.center}\
+Just because it's simple doesn't mean it's boring.
+ ![](/ssp/26sept05-01.jpg){:.frame.center}
+ This should be fairly unique.
+ ![](/ssp/26sept05-02.jpg){:.frame.center}
  Macro *rock out*!

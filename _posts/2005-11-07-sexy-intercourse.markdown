@@ -16,7 +16,7 @@ comments: []
 ---
 In the words of Borat, "When do we have sexy intercourse?"
 
-![](/ssp/07nov05-01.jpg){:.frame.center}\
+![](/ssp/07nov05-01.jpg){:.frame.center}
  ![](/ssp/07nov05-02.jpg){:.frame.center}
 
 I hope this was someone's idea of a joke. Or at least their idea of

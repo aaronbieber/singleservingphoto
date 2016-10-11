@@ -26,12 +26,12 @@ portraits](http://andrzejdragan.com/), achieved through a careful
 attention to light and exposure during shooting followed by the most
 impressive display of Rembrandt-esque manipulation I've seen.
 
-So that's why I messed this one all up.\
+So that's why I messed this one all up.
  ![](/ssp/15dec05-01.jpg){:.frame.center}
 
-This is al-you-mini-um foil.\
+This is al-you-mini-um foil.
  ![](/ssp/15dec05-02.jpg){:.frame.center}
 
-A stove clock. In macro.\
- ![](/ssp/15dec05-03.jpg){:.frame.center}\
+A stove clock. In macro.
+ ![](/ssp/15dec05-03.jpg){:.frame.center}
  ![](/ssp/15dec05-04.jpg){:.frame.center}

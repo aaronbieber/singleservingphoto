@@ -30,9 +30,9 @@ satisfy your lifestyle or your methods or your comfort.
 So, how do you shop for a camera bag?
 
 * Go into B&H's Manhattan super store and try 50 bags and buy the one
-you like most?\
+you like most?
  * Read reviews on Google Shopping and Amazon.com and B&H's website and
-decide based purely on others' experiences?\
+decide based purely on others' experiences?
  * Wallpaper your dining room with the camera bag pages from B&H's
 amazingly detailed printed catalog and throw darts at them?
 

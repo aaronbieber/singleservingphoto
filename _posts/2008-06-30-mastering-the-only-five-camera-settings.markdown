@@ -95,10 +95,10 @@ The shooting mode refers to _Av, Tv, P, M_ on Canon cameras, or _A,
 S, P, M_ on Nikon cameras. They mean:
 
 * Av/A = You select the aperture, the camera selects the shutter
-speed.\
+speed.
  * Tv/S = You select the shutter speed, the camera selects the
-aperture.\
- * P = The camera selects both (bad camera!)\
+aperture.
+ * P = The camera selects both (bad camera!)
  * M = You select both (you're a pro!)
 
 The reason you might want to select your own *aperture* is to control
@@ -126,7 +126,7 @@ You will hear people talk about lenses or settings being "faster" or
 we're referring to a larger aperture, which, contrary to common sense,
 means a smaller number. Okay, let me back up for a second.
 
-* Larger aperture = smaller number = "faster"\
+* Larger aperture = smaller number = "faster"
  * Smaller aperture = larger number = "slower"
 
 Get it? We say a larger aperture is _faster_ because it allows you to
@@ -189,9 +189,9 @@ what the camera "sees." There are a couple different common metering
 "modes," which have different names based on your type of camera, but in
 general they are:
 
-* Spot\
- * Evaluative (or matrix)\
- * Partial\
+* Spot
+ * Evaluative (or matrix)
+ * Partial
  * Center-weighted average
 
 These modes have to do with what portion or portions of the scene the

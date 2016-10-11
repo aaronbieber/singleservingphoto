@@ -23,21 +23,21 @@ participation. The month of July was a benchmark in Single-Serving
 Photo's history, reaching 2,442 unique visitors, the most who have ever
 stopped by in a single month!
 
-For laughs, here are some other statistics that might interest you:\
+For laughs, here are some other statistics that might interest you:
  * The most-visited article is [Histograms,
 Huh?](/articles/2007/06/03/histograms-huh/) with
-about 2,465 views.\
+about 2,465 views.
  * The single most active day was the 16th of July with 582 unique
 visitors, which--not coincidentally--is the same day Scott Kelby posted
-his links wrap-up article mentioning my Histograms piece.\
+his links wrap-up article mentioning my Histograms piece.
  * You guys love reading my blog on Mondays and Tuesdays, but not so
-much on Saturdays and Sundays.\
- * Between 3 and 4 PM (Eastern) is the most popular time to drop by.\
+much on Saturdays and Sundays.
+ * Between 3 and 4 PM (Eastern) is the most popular time to drop by.
  * 46% of you are using Firefox, while only 31% are using Internet
-Explorer (that's cause enough for celebration if you ask me!)\
+Explorer (that's cause enough for celebration if you ask me!)
  * The majority of you found me through Photography Voter (great
 site!), while many others found me through StumbleUpon (also a great
-site!).\
+site!).
  * Of the few of you who found my site through a web search, the most
 popular keywords that led you here were "lightroom," "watermark," and
 "focal." I'll take it!

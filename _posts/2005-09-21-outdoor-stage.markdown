@@ -22,7 +22,7 @@ I took a walk this afternoon around my office park grounds. There is an
 outdoor stage that's apparently used for concerts, although I haven't
 seen any activity there before. A couple neat views below.
 
-![](/ssp/21sept05-01.jpg){:.frame.center}\
+![](/ssp/21sept05-01.jpg){:.frame.center}
  ![](/ssp/21sept05-02.jpg){:.frame.center}
 
 Incorrect white balance setting accounts for the blue tone. I would

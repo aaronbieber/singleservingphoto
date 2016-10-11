@@ -226,8 +226,8 @@ precipitated the institution of photographic post-processing. The negative
 expanded the photographic process into three steps, which should look very
 familiar:
 
-\# Exposure\
- \# Development\
+\# Exposure
+ \# Development
  \# Printing
 
 \$random:right\$

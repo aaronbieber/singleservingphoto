@@ -102,9 +102,9 @@ argument against the in-body IS systems out today.
 Alright, so what are the benefits to having your IS system located
 inside the camera body?
 
-\# You get some level of stabilization with any lens you use.\
+\# You get some level of stabilization with any lens you use.
  \# Lenses, in general, cost a bit less because you are not paying for
-IS mechanisms.\
+IS mechanisms.
  \# Stabilization becomes available with lenses that manufacturers might
 not deem worthy to have IS in them, such as short focal length and/or
 wide aperture lenses. These lenses may still benefit from some IS in
@@ -115,9 +115,9 @@ pittance (such as in the aquarium), and IS sure would have come in handy
 then! On the other hand, there are downsides to in-camera IS, too:
 
 \# Not as effective as in-lens IS because it isn't tailored to any
-specific focal length or optics.\
+specific focal length or optics.
  \# Ineffective after a certain focal length due to limitations in how
-much the sensor can be deflected mechanically.\
+much the sensor can be deflected mechanically.
  \# The effects are not visible through the viewfinder. Because only the
 sensor moves, you can't tell how well it's working until you snap a
 picture.

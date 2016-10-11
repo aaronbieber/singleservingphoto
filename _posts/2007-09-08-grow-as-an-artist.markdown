@@ -24,9 +24,9 @@ comments: []
 There are three major ways to grow as an artist; to strengthen your
 aesthetic senses and the quality of your work:
 
-\# *Emulate* the work of artists you admire,\
+\# *Emulate* the work of artists you admire,
  \# *Experiment* on your own, exploring the subject matter that
-interests you, and\
+interests you, and
  \# Participate in *critique*
 
 Emulation is very common, especially when getting started in art, and

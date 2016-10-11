@@ -21,12 +21,12 @@ for KB1MZQ!
 
 Here are some photos that I took in the past week or two.
 
-Stepping out into the parking lot at my work:\
+Stepping out into the parking lot at my work:
  ![](/ssp/12jan06-01.jpg){:.frame.center}
 
 These might not have full effect in this glitzy website atmosphere; they
 deserve to be viewed larger and in the dark. Try to squint or something
 maybe. These are along what we call "the flats" in the Farmingon
-Valley.\
- ![](/ssp/12jan06-02.jpg){:.frame.center}\
+Valley.
+ ![](/ssp/12jan06-02.jpg){:.frame.center}
  ![](/ssp/12jan06-03.jpg){:.frame.center}

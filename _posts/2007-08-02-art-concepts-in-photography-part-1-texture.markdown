@@ -72,7 +72,7 @@ id="more"></span><span id="more-135"></span>
 
 So what exactly is texture?
 
-bq. *texture* _adj._ (pl. *textures*)\
+bq. *texture* _adj._ (pl. *textures*)
  \# The feel or shape of a surface or substance; the smoothness,
 roughness, softness, etc. of something
 

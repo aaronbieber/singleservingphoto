@@ -113,11 +113,11 @@ have? How much more do you think you need to make truly great
 photographs? I suppose it depends on what you're photographing, but here
 is a list of essential equipment that everyone should have:
 
-* A camera (duh?)\
+* A camera (duh?)
  * One decent zoom lens somewhere in the range of 15-200mm (24-70,
-24-105, 16-35, 70-200, etc.)\
- * A quality, sturdy tripod\
- * A reliable, well-made ball head\
+24-105, 16-35, 70-200, etc.)
+ * A quality, sturdy tripod
+ * A reliable, well-made ball head
  * A bag to carry stuff in (optional)
 
 The bag doesn't even have to be an actual _camera bag_; I've seen

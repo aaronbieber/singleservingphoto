@@ -20,24 +20,24 @@ example of how bright, mid-day light can still be completely usable (if
 not indispensable) when shooting under the forest canopy.
 
 For this one, I made sure the sky wasn't visible and compensated -2/3
-EV; perfect tonal range.\
+EV; perfect tonal range.
  ![](/ssp/13May07-01.jpg){:.frame.center}
 
 This one's one of my favorites. During the conversion to black and white
 I darkened the yellows and lightened the greens to emphasize the
-contrast on the ferns' leaves in the foreground.\
+contrast on the ferns' leaves in the foreground.
  ![](/ssp/13May07-02.jpg){:.frame.center}
 
-Here are a couple of cutesy ones.\
- ![](/ssp/13May07-03.jpg){:.frame.center}\
+Here are a couple of cutesy ones.
+ ![](/ssp/13May07-03.jpg){:.frame.center}
  ![](/ssp/13May07-04.jpg){:.frame.center}
 
 In this piece, a creative vignette adds drama and depth to an already
-shallow depth of field.\
+shallow depth of field.
  ![](/ssp/13May07-05.jpg){:.frame.center}
 
-I love tree bark.\
+I love tree bark.
  ![](/ssp/13May07-06.jpg){:.frame.center}
 
-I swear I actually found this lying there, just as it is.\
+I swear I actually found this lying there, just as it is.
  ![](/ssp/13May07-07.jpg){:.frame.center}

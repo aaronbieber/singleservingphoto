@@ -46,9 +46,9 @@ id="more"></span><span id="more-661"></span>
 The major challenges that face a photographer in the Colorado/Wyoming
 parks are:
 
-* Getting there,\
- * Getting around,\
- * The weather, and\
+* Getting there,
+ * Getting around,
+ * The weather, and
  * Chasing the light
 
 These hurdles all have straightforward solutions, except for chasing the
@@ -197,7 +197,7 @@ There are basically two approaches to this hurdle that I have employed
 in the past:
 
 \# Commit to a location and stick it out; if the atmosphere doesn't
-cooperate, try not to cry about it.\
+cooperate, try not to cry about it.
  \# Identify the best candidates for a particular time of day and _stay
 mobile_. If it doesn't look great in one place, move to another...
 Lather, rinse, repeat.

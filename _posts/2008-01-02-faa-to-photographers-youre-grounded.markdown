@@ -62,7 +62,7 @@ here is the actual DOT PHMSA press release in full:
 
 > Friday, December 28, 2007
 >
-> Contact: Patricia Klinger or Joe Delcambre\
+> Contact: Patricia Klinger or Joe Delcambre
 >  Tel.: (202) 366-4831
 >
 > New US DOT Hazmat Safety Rule to Place Lithium Battery Limits in
@@ -143,11 +143,11 @@ parroting their website, I'll break it down into the important bits.
 luggage because the TSA inspectors have the right (and yes, the
 responsibility) to remove them and throw them away if they believe them
 to be a safety hazard. At between \$25 and \$50 per battery, why take
-the risk?\
+the risk?
  * These new rules do not set any quantity limitations on batteries
 containing fewer than eight "equivalent grams" of lithium. Basically,
 all of your batteries are likely to be excluded from this rule. I will
-get into the specifics below.\
+get into the specifics below.
  * Batteries that are not lithium-based are definitely excluded from
 these rules. Make certain that you are aware of what your batteries are
 made out of. For example, the Canon EOS-1d, 1ds, 1d Mark II, and 1ds
@@ -176,7 +176,7 @@ W = V × A
 Watts is equal to volts multiplied by amps. This battery is 7.4 volts
 and we'll say it's pushing 1,390 milliamps, or 1.39 amps.
 
-W = 7.4V × 1.39A\
+W = 7.4V × 1.39A
  W = 10.286VA
 
 Because we assumed a time unit of one hour, we can say that this battery
@@ -203,9 +203,9 @@ procedures:
 * Pack spare batteries in carry-on baggage. In the passenger
 compartment, flight crews can better monitor safety conditions to
 prevent an incident, and can access fire extinguishers, if an incident
-does happen.\
+does happen.
  * For loose batteries, place tape across the battery's contacts to
-isolate terminals. Isolating terminals prevents short-circuiting.\
+isolate terminals. Isolating terminals prevents short-circuiting.
  * If original packaging is not available, effectively insulate battery
 terminals by isolating spare batteries from contact with other batteries
 and metal. Place each battery in its own protective case, plastic bag,

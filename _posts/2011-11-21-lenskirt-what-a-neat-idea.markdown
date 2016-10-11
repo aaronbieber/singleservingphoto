@@ -79,5 +79,5 @@ so that has to count for something, doesn't it?
 
 * [Tom's photo of San Francisco through a hotel
 window](https://plus.google.com/u/0/112063946124358686266/posts/fL9RmUd9bkg),
-via Google Plus\
+via Google Plus
  * [Lenskirt](http://www.lenskirt.com/)

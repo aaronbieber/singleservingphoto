@@ -19,7 +19,7 @@ tags:
 - news
 comments: []
 ---
-[\
+[
 
 ![](http://www.bhphotovideo.com/images/affiliateimages/digcams.gif)](http://www.bhphotovideo.com?BI=1816&KW=BUTTONS2&KBID=2457&img=digcams.gif)
 

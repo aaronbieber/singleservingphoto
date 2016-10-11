@@ -41,13 +41,13 @@ software maker adds new features and makes changes to their software
 simply to be able to release a new version. I no longer think that Adobe
 is a victim of this awful malaise. The new interface with its *docked
 palettes*, *collapsible toolbox*, and *minimized palette buttons*
-is really a joy to use.\
+is really a joy to use.
  * *Blazing fast on Intel Macs*. CS3 runs faster on my machine than
 CS1 or CS2, despite a larger resource footprint. Although I [had some
 problems](/articles/2007/10/17/photoshop-cs3-overrated/)
 with CS3 when I first tried it, subsequent updates have fixed those
 snags (one of which was a real show-stopper) as well as made the
-application much more responsive.\
+application much more responsive.
  * *Cool new features*. Let's not overlook genuine new features such
 as _vector smart object layers_, support for _GIF animation_ (just
 like ImageReady used to have; now integrated directly into Photoshop),
@@ -63,7 +63,7 @@ usually doesn't work and the cursor jumps out of the box onto a random
 place on the screen. It's really weird. *Adobe responded* to my bug
 report incredibly quickly and told me that it is a problem on Apple's
 side and that they were working together to fix it. Amazing. In the
-words of Mrs. Doubtfire, "help is on the way, dear!"\
+words of Mrs. Doubtfire, "help is on the way, dear!"
  * Actually that's it. I love CS3.
 
 I found some articles, too, that were helpful.
@@ -72,7 +72,7 @@ I found some articles, too, that were helpful.
 just newly mangled) *print dialog* in Photoshop CS3 and how that
 affects his [color management
 workflow](http://www.earthboundlight.com/phototips/photoshop-cs3-match-print-colors.html.)
-I thought that was pretty interesting.\
+I thought that was pretty interesting.
  * [This
 article](http://www.zoom-in.com/blog/2007/03/first_impressions_top_5_stando.php)
 on Zoom In Online goes over several of the *biggest new features* of

@@ -134,8 +134,8 @@ Creative Commons (or "CC" for short) license will be provided to you.
 There are three major categories of rights that CC licenses allow you to
 control:
 
-* Attribution\
- * Commericial use\
+* Attribution
+ * Commericial use
  * Derivative works
 
 Attribution means receiving credit, or some indication of ownership.

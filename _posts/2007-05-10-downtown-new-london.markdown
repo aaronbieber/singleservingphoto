@@ -27,12 +27,12 @@ These were taken on the Amtrak Excela tracks that run along the pier. I
 can hear the train whistle basically all day, which would be great if it
 wasn't tremendously irritating.
 
-![](/ssp/17Nov06-01.jpg){:.frame.center}\
- ![](/ssp/17Nov06-02.jpg){:.frame.center}\
+![](/ssp/17Nov06-01.jpg){:.frame.center}
+ ![](/ssp/17Nov06-02.jpg){:.frame.center}
  ![](/ssp/10May07-03.jpg){:.frame.center}
 
 I see this fellow on many mornings when I walk to work. He always stops
 and steps out of the way so that I can pass him on the sidewalk. I'm not
 sure if everyone is home upstairs, but he's a charming man. He has good
-taste in waterfowl, too.\
+taste in waterfowl, too.
  ![](/ssp/10May07-04.jpg){:.frame.center}
