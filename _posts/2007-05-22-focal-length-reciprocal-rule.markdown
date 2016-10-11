@@ -12,7 +12,7 @@ date: '2007-05-22 18:28:17 -0400'
 date_gmt: '2007-05-22 22:28:17 -0400'
 categories:
 - Articles
-- Featured Posts
+- featured-posts
 tags:
 - howto
 - guide

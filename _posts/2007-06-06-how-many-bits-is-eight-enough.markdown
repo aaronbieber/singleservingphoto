@@ -12,7 +12,7 @@ date: '2007-06-06 22:28:52 -0400'
 date_gmt: '2007-06-07 02:28:52 -0400'
 categories:
 - Articles
-- Featured Posts
+- featured-posts
 tags:
 - technology
 - guide

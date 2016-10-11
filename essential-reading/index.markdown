@@ -22,7 +22,7 @@ _essential_ and _popular_; articles covering the most fundamental topics and
 that are read more than any others. Here they are, in no particular order.
 
 <ul>
-{% for post in site.categories["featured posts"] %}
+{% for post in site.categories["featured-posts"] %}
 <li><a href="{{ post.url }}">{{ post.title | strip_newlines }}</a></li>
 {% endfor %}
 </ul>

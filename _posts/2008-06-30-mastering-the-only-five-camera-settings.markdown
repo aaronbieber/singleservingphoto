@@ -12,7 +12,7 @@ date: '2008-06-30 12:23:26 -0400'
 date_gmt: '2008-06-30 16:23:26 -0400'
 categories:
 - Articles
-- Featured Posts
+- featured-posts
 tags:
 - guide
 - light

@@ -12,7 +12,7 @@ date: '2011-11-18 18:50:41 -0500'
 date_gmt: '2011-11-18 23:50:41 -0500'
 categories:
 - Articles
-- Featured Posts
+- featured-posts
 tags:
 - technology
 - art

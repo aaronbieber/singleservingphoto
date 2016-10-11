@@ -12,7 +12,7 @@ date: '2010-03-15 12:25:38 -0400'
 date_gmt: '2010-03-15 16:25:38 -0400'
 categories:
 - Articles
-- Featured Posts
+- featured-posts
 tags: []
 comments:
 - id: 2731

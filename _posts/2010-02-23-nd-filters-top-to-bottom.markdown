@@ -12,7 +12,7 @@ date: '2010-02-23 09:54:35 -0500'
 date_gmt: '2010-02-23 14:54:35 -0500'
 categories:
 - Articles
-- Featured Posts
+- featured-posts
 tags:
 - howto
 - tips
