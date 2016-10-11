@@ -196,7 +196,7 @@ want to make in a park, there is never any guarantee that even the most
 There are basically two approaches to this hurdle that I have employed
 in the past:
 
-\# Commit to a location and stick it out; if the atmosphere doesn't
+# Commit to a location and stick it out; if the atmosphere doesn't
 cooperate, try not to cry about it.
  \# Identify the best candidates for a particular time of day and _stay
 mobile_. If it doesn't look great in one place, move to another...

@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-\$image:right/Places/Chicago/CloudGate.jpg\$
+$image:right/Places/Chicago/CloudGate.jpg$
 
 This Friday is the first day of our (that is, [Art Photo
 Workshops](http://www.artphotoworkshops.com)) Chicago Loop photography

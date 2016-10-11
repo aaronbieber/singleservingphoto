@@ -62,7 +62,7 @@ A few shots that I thought I nailed were completely blurry, and others
 that I wasn't sure about came out very well, so that's a testament to
 practice... Which I lack. Without further ado:
 
-\~\~/SingleServings/2007/June/09Jun07-01.jpg\~\~
+~\~/SingleServings/2007/June/09Jun07-01.jpg\~\~
  \~\~/SingleServings/2007/June/09Jun07-02.jpg\~\~
  \~\~/SingleServings/2007/June/09Jun07-03.jpg\~\~
  \~\~/SingleServings/2007/June/09Jun07-04.jpg\~\~

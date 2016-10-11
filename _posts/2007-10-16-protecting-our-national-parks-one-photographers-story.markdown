@@ -101,7 +101,7 @@ between the narrow road and a large field with a solitary tree standing
 a few hundred feet away. It seemed a good enough spot with a lot of
 visible sky, so we set up our gear.
 
-\$image:right/SingleServings/2007/October/11Oct07-01.jpg\$
+$image:right/SingleServings/2007/October/11Oct07-01.jpg$
 
 My composition placed the faraway tree front-and-center with the barbed
 wire fence in the foreground, which I thought would give a nice sense of

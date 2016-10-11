@@ -33,7 +33,7 @@ it wasn't a total loss. I plan to do an article comparing the noise
 between the 5D and much older 10D, but for now just enjoy these crazy
 animal photos.
 
-\~\~/SingleServings/2007/May/14may07-01.jpg\~\~
+~\~/SingleServings/2007/May/14may07-01.jpg\~\~
  \~\~/SingleServings/2007/May/14may07-02.jpg\~\~
  \~\~/SingleServings/2007/May/14may07-03.jpg\~\~
  \~\~/SingleServings/2007/May/14may07-04.jpg\~\~

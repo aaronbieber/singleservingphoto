@@ -194,7 +194,7 @@ the image file itself can't accommodate it. So why would you need this
 ability? Two reasons. (Assuming your RAW files are in NEF, CR2, or
 similar; non-DNG).
 
-\# If you share images with other people who use Lightroom and you want
+# If you share images with other people who use Lightroom and you want
 them to be able to see what you have done in the Develop module, as well
 as the IPTC tags, you will need to send them XMP sidecar files. This is
 preferable to sending your entire Lightroom catalog or creating a new
@@ -207,7 +207,7 @@ and other settings are stored in the XMP files.
 
 There are some major caveats here, though.
 
-\# When you're sharing images, you can always _export them_ to DNG,
+# When you're sharing images, you can always _export them_ to DNG,
 which makes XMP unnecessary.
  \# In the event of a catastrophic disaster, you'll only have XMP files
 if you've previously selected batches of images within Lightroom and
@@ -222,7 +222,7 @@ to our computers right now and convert our whole libraries to DNG
 format? Once again, here are the major advertised benefits of the DNG
 format:
 
-\# Archival (future-proof)
+# Archival (future-proof)
  \# Interoperable (widely compatible)
  \# Efficient (storage-wise, at least)
  \# All-inclusive (obsoletes XMP sidecars)

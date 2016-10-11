@@ -70,7 +70,7 @@ practically every website, it's now easier to solicit feedback about
 your photographs than it is to fall out of a boat and hit water. In
 other words, _pretty damn easy!_
 
-\$random:right\$
+$random:right$
 
 _Fantastic_, you might think, _the more feedback the better!_ Well,
 true, except that a lot of people calling themselves "serious hobbyists"
@@ -93,7 +93,7 @@ less organized sites, such as [DeviantART](http://www.deviantart.com) and
 even a bit on [Flickr](http://www.flickr.com), though the overall intent
 of Flickr is much more casual, which deserves to be mentioned.
 
-\$random:left\$
+$random:left$
 
 A site like DeviantART, with its many thousands of self-proclaimed
 artistic users, has the capacity to act as the medium for an
@@ -114,7 +114,7 @@ plaudits as a creator—you might say that commendations grease the cogs
 of creation—but artists in search of higher plateaus, those truly
 interested in growth, need _more_. They need _critique_.
 
-\$random:right\$
+$random:right$
 
 That's where [PhotoSIG](http://www.photosig.com) steps in. With a unique
 system of critique scoring (not to mention using the word "critique" in
@@ -155,7 +155,7 @@ that he or she may use to upload additional photos and so on. If,
 however, the photographer rates the critique as "unhelpful," the writer
 will _lose_ points.
 
-\$random:left\$
+$random:left$
 
 This very straightforward point-based system creates an environment of
 open and honest communication among PhotoSIG's users, and it is among

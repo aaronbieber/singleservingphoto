@@ -33,7 +33,7 @@ comments:
 
     An exciting four-day workshop in Death Valley open to photographers of all skill levels organized and led by two professionals....
 ---
-\$image:right/Places/DeathValley/LongWaytoNowhere.jpg\$
+$image:right/Places/DeathValley/LongWaytoNowhere.jpg$
 
 I am very excited to announce a photography workshop in Death Valley
 National Park, California, hosted by Christopher Blake and Aaron Bieber
@@ -87,7 +87,7 @@ Here's the plan.
 
 ### Friday April 4th
 
-\$image:right/Places/DeathValley/Tendrils.jpg\$
+$image:right/Places/DeathValley/Tendrils.jpg$
 
 We will meet in the afternoon (you'll be emailed the exact time and
 place to meet at least two weeks prior to the workshop). Each
@@ -128,7 +128,7 @@ own, you are welcome to.
 
 *Session 3 - Sunset*
 
-\$image:right/Places/DeathValley/SilverOrb.jpg.html\$
+$image:right/Places/DeathValley/SilverOrb.jpg.html$
 
 We will travel to our chosen location to photograph sunset. After night
 falls, we will commence night photography sessions. It is not unusual
@@ -199,7 +199,7 @@ You'll need some things on this trip...
 
 ### What you should bring
 
-\$image:right/Places/DeathValley/DevilsLandscape.jpg.html\$
+$image:right/Places/DeathValley/DevilsLandscape.jpg.html$
 
 Although this workshop is open to all skill levels, you should have at
 least a 35mm SLR (digital or film) camera and a tripod. You should also

@@ -63,7 +63,7 @@ Narragansett Bay (actually, across it) in Rhode Island this weekend and,
 because I was there specifically to take some family portraits, I
 thankfully had my camera with me and was able to capture this scene.
 
-\~\~/SingleServings/2007/July/22Jul07-01.jpg\~\~
+~\~/SingleServings/2007/July/22Jul07-01.jpg\~\~
 
 This was taken from the Newport side of the Claiborne Pell Bridge, which
 connects Newport (on Aquidneck Island) in the west to Conanicut Island
@@ -81,13 +81,13 @@ Here is an 8:15 Amtrak Acela departing for points unknown (probably
 Boston, eventually). I braced my camera against one of those I-beams you
 see ahead of me. No tripod necessary!
 
-\~\~/SingleServings/2007/July/23Jul07-02.jpg\~\~
+~\~/SingleServings/2007/July/23Jul07-02.jpg\~\~
 
 A close-up of a vendor's cart parked along the side of the pier,
 probably left over from [Sailfest](http://www.sailfest.org). I liked the
 reflection in it and the texture of it.
 
-\~\~/SingleServings/2007/July/23Jul07-03.jpg\~\~
+~\~/SingleServings/2007/July/23Jul07-03.jpg\~\~
 
 A handsome public observation binocular lit by the lights on the pier
 overlooks the Thames River and the General Dynamics building on the far
@@ -95,17 +95,17 @@ shore. General Dynamics, previously known as Electric Boat, is a major
 submarine defense contractor and a significant source of income for the
 southeast Connecticut shoreline.
 
-\~\~/SingleServings/2007/July/23Jul07-04.jpg\~\~
+~\~/SingleServings/2007/July/23Jul07-04.jpg\~\~
 
 General Dynamics itself glimmers against the water. I was shooting JPEG
 (the 10D is so slow with RAW) and I set the white balance to "cloudy"
 for this shot to enhance its redness.
 
-\~\~/SingleServings/2007/July/23Jul07-05.jpg\~\~
+~\~/SingleServings/2007/July/23Jul07-05.jpg\~\~
 
 On my walk back home, this sailor's monument caught my eye.
 
-\~\~/SingleServings/2007/July/23Jul07-06.jpg\~\~
+~\~/SingleServings/2007/July/23Jul07-06.jpg\~\~
 
 I think the moral of the story is that it's better to have your "second
 string" camera with you, stripped down to its most convenient minimum,

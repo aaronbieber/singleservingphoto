@@ -50,7 +50,7 @@ comments:
 
     Though my question has little to do with your most recent article, I find that the expertise you've shared since I began following your site to be compelling and hope that you can provide me an answer that will serve my needs.  I have seen many digital photos over the years, some pretty dismal and some pretty spectacular.  My question was born out of seeing, for the first time, an exhibition comprised of 150 works by Ansel Adams, which were nearly all "Silver Gelatin" prints.  My question is (setting aside for the moment the composition, line, form and majestic beauty of many of the locations) can any digital print be made in such a way that a knowledgeable observer would not be able to distinguish it from a print made using the silver gelatin method?
 ---
-\$image:right/SingleServings/2007/March/27Mar07-01.jpg\$
+$image:right/SingleServings/2007/March/27Mar07-01.jpg$
 
 Having spent most of my developing years surrounded by it, I have always
 taken for granted many of the fundamental guidelines of art. Perhaps due
@@ -92,7 +92,7 @@ immediate experience of what they're looking at.
 
 Behold, _Figure 1_.
 
-\~\~/SingleServings/2007/March/27Mar07-01.jpg\~\~
+~\~/SingleServings/2007/March/27Mar07-01.jpg\~\~
 
 I made this photograph at the park in March while I was sitting around
 watching people fly their kites and throw their Frisbees. It's actually
@@ -112,7 +112,7 @@ all formed through contrast. Keep that in mind.
 
 Now, _Figure 2_.
 
-\~\~/SingleServings/2007/March/27Mar07-02.jpg\~\~
+~\~/SingleServings/2007/March/27Mar07-02.jpg\~\~
 
 Tree bark is a ubiquitous source of texture in photography--and for good
 reason. In this image, the light through the branches of the tree
@@ -133,7 +133,7 @@ at times that are inappropriate for your preferred style.
 
 Finally, _Figure 3_.
 
-\~\~/SingleServings/2007/March/27Mar07-03.jpg\~\~
+~\~/SingleServings/2007/March/27Mar07-03.jpg\~\~
 
 In the above piece, texture is only one player on a team of
 compositional tools including contrast, line, form, and depth; design

@@ -86,7 +86,7 @@ Photoshelter is miles better for my needs.
 
 Still, Photoshelter has its issues:
 
-\# When you upload photos, they go into the "archive," which is
+# When you upload photos, they go into the "archive," which is
 basically a storage area for your images. From there, they can be copied
 into galleries, sold to customers, etc.
  \#\# Though the archive allows you to create nested folder structures,
@@ -122,7 +122,7 @@ the near future.
 
 The other things that Photoshelter seems to be really good at are:
 
-\# *Adding new features*: They have added support for TinEye and
+# *Adding new features*: They have added support for TinEye and
 PicScout recently, among other things. Each month brings some
 enhancements, which are reported in their newsletter.
  \# *SEO (Search Engine Optimization)*: As much as I believe SEO to be
@@ -155,13 +155,13 @@ month to host your image gallery and go through the process of
 re-uploading all of your images to a new location, organizing them, and
 so forth?
 
-\# What do you gain by it?
+# What do you gain by it?
  \# Is it worth the trouble of re-uploading everything?
  \# How many numbered lists can one blog post have?
 
 Well, at least I can tell you what I have gained by it:
 
-\# Peace of mind that full-resolution, developed versions of my images
+# Peace of mind that full-resolution, developed versions of my images
 are hosted and backed up by a reputable third party (meaning that my
 sales can continue regardless of the state of my own computer, my own
 website, and so on),

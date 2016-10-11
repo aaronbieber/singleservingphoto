@@ -100,7 +100,7 @@ comments:
   date_gmt: '2007-07-12 06:26:34 -0400'
   content: '[...] Photographers Are Terrorists (tags: photography) [...]'
 ---
-\$random:right\$
+$random:right$
 
 I hope you read the subject of this article and gasped. I hope that your
 first reaction was indignance or perhaps anger. I share your feelings,
@@ -121,7 +121,7 @@ id="more-131"></span>
 
 ## What Are Your Rights?
 
-\$random:left\$
+$random:left$
 
 The first thing I'm going to do is point you in the direction of Andrew
 Kantor's wonderful [Legal Rights of
@@ -166,7 +166,7 @@ as well. Even when asked to leave (which we weren't), at which time you
 are officially trespassing, you can still take photographs and use them
 however you like.
 
-\$image:right/Experimental/BradleyInternational/Area51_5.jpg\$
+$image:right/Experimental/BradleyInternational/Area51_5.jpg$
 
 Another, more serious incident occurred along Route 10 near Bradley
 International Airport. Chris and I went out for a photographic adventure
@@ -187,7 +187,7 @@ aircraft, however, fall into no such category and there are no laws that
 expressly prohibit photographing them. Still, you're going to get
 hassled. And we were.
 
-\$image:left/Experimental/BradleyInternational/PerfectLanding.jpg\$
+$image:left/Experimental/BradleyInternational/PerfectLanding.jpg$
 
 To the credit of our local law enforcement agencies, it was only a
 matter of perhaps fifteen minutes before a state police trooper rolled
@@ -210,7 +210,7 @@ perils of doing so.
 
 ## Conclusions
 
-\$image:right/Places/MansfieldTrainingSchool/ColdStorage.jpg\$
+$image:right/Places/MansfieldTrainingSchool/ColdStorage.jpg$
 
 At the end of the day, you are the risk-taker. It's up to you whether
 you want to press your luck within the law or stray from strict legality

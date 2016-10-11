@@ -26,7 +26,7 @@ blog post about it, but I'm too lazy.
 
 Here's a photo I took in San Francisco's Chinatown:
 
-\~\~/Places/California/SanFrancisco/FashionSense.jpg\~\~
+~\~/Places/California/SanFrancisco/FashionSense.jpg\~\~
 
 The reason I write again about the Lensbaby is that Lensbaby, Inc. has
 announced a new line of Lensbaby products and _boy oh boy_ do they
@@ -37,7 +37,7 @@ rails and buttons that my 3G has.
 Here's a picture of the very recognizable Transamerica building in
 downtown San Francisco from street level:
 
-\~\~/Places/California/SanFrancisco/Transamerica.jpg\~\~
+~\~/Places/California/SanFrancisco/Transamerica.jpg\~\~
 
 The selective focus is something you probably could do in Photoshop
 using a zoom blur filter. Nevertheless, these images are essentially
@@ -48,11 +48,11 @@ a certain element in the composition.
 
 Here's one from Boston:
 
-\~\~/SingleServings/2007/June/09Jun07-03.jpg\~\~
+~\~/SingleServings/2007/June/09Jun07-03.jpg\~\~
 
 And another, for good measure, also from Boston:
 
-\~\~/SingleServings/2007/June/09Jun07-04.jpg\~\~
+~\~/SingleServings/2007/June/09Jun07-04.jpg\~\~
 
 If you like, go [read about the new Lensbaby
 products](http://lensbaby.com) on their website. The lenses are not very

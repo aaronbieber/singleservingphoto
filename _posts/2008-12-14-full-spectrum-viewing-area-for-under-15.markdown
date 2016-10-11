@@ -66,7 +66,7 @@ model. Here's a picture of what it looks like, sort of:
 There are perhaps four important considerations when looking at bulbs
 for your viewing environment.
 
-\# Wattage (or equivalent wattage, when talking about fluorescent)â€”I
+# Wattage (or equivalent wattage, when talking about fluorescent)â€”I
 like my viewing conditions to be fairly bright, so I went with 100 watt
 equivalent, but you may prefer to go higher or lower.
  \# Spectrumâ€”Get a bulb that is classified as "full-spectrum," meaning
@@ -130,4 +130,4 @@ work will be viewed and whether you are satisfied with the work's
 performance.
 
 So there you go. A full-spectrum viewing solution for *less than
-\$15*.
+$15*.

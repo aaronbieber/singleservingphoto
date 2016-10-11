@@ -38,7 +38,7 @@ Color.](http://www.whcc.com) Their prices are competitive and their
 service is second-to-none. Once you've signed up for a _free_ account,
 they will do two things:
 
-\# They will send you samples of their papers and finishes (of which
+# They will send you samples of their papers and finishes (of which
 they have several traditional and a few eclectic choices), and
  \# They will allow you to upload a few images to make _free test
 prints_, which they will send to you _completely free of charge_.

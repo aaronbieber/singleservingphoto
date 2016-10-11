@@ -18,7 +18,7 @@ tags:
 - equipment
 comments: []
 ---
-\$random:right\$
+$random:right$
 
 The debate rages on concerning the best place to put "image
 stabilization" features. Is it within the lens housing, as Canon
@@ -37,7 +37,7 @@ id="more-121"></span>
 
 ## What Is It?
 
-\$random:left\$
+$random:left$
 
 First, let me explain briefly what "image stabilization" technology
 actually is. When you hold your camera in your hands, it moves around a
@@ -63,7 +63,7 @@ image moves in the opposite direction of the motion. This is all
 explained pretty nicely on [Nikon's VR
 page](http://www.nikon.co.jp/main/eng/portfolio/about/technology/nikon_technology/vr_e/index.htm).
 
-\$random:right\$
+$random:right$
 
 The net effect is that the image seen through the lens moves
 considerably less, and when it does move it moves with an odd but
@@ -77,7 +77,7 @@ that here.
 
 ## Why Argue About This?
 
-\$random:left\$
+$random:left$
 
 While Canon and Nikon have opted to place the image stabilization
 components in some of their (often higher-end) lenses, other makers such
@@ -102,7 +102,7 @@ argument against the in-body IS systems out today.
 Alright, so what are the benefits to having your IS system located
 inside the camera body?
 
-\# You get some level of stabilization with any lens you use.
+# You get some level of stabilization with any lens you use.
  \# Lenses, in general, cost a bit less because you are not paying for
 IS mechanisms.
  \# Stabilization becomes available with lenses that manufacturers might
@@ -114,7 +114,7 @@ I can think of times when even f/1.4 at ISO 3200 seemed like a mere
 pittance (such as in the aquarium), and IS sure would have come in handy
 then! On the other hand, there are downsides to in-camera IS, too:
 
-\# Not as effective as in-lens IS because it isn't tailored to any
+# Not as effective as in-lens IS because it isn't tailored to any
 specific focal length or optics.
  \# Ineffective after a certain focal length due to limitations in how
 much the sensor can be deflected mechanically.
@@ -122,7 +122,7 @@ much the sensor can be deflected mechanically.
 sensor moves, you can't tell how well it's working until you snap a
 picture.
 
-\$random:right\$
+$random:right$
 
 An argument that I have often tried to make when this subject comes up
 is that in-camera IS puts you in greater jeopardy if it fails. While
@@ -156,7 +156,7 @@ such as the EF 400mm f/2.8L IS USM or the EF 600mm f/4L IS USM.
 If you're swinging an 18-inch-long 600mm lens around, in-camera IS just
 isn't going to cut it.
 
-\$random:left\$
+$random:left$
 
 Another viewpoint is that more IS cannot possibly be bad, so we should
 encourage manufacturers to place IS systems in their cameras *and*

@@ -39,7 +39,7 @@ id="more-166"></span>
 
 *com•ple•tion•ist* _n._
 
-\# _Video gaming._ One who seeks to unlock every secret and acquire
+# _Video gaming._ One who seeks to unlock every secret and acquire
 every bonus in a game.
  \# One who seeks to explore every potential facet of a problem area and
 implement the most exhaustive, imperforate solution.

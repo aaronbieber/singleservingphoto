@@ -64,7 +64,7 @@ There are an infinite number of ways to organize your RAW files on disk,
 but I don't have an infinite amount of time (and neither do you) so I
 will only tell you how I do it.
 
-\# My top-level folder is called "Photography," then
+# My top-level folder is called "Photography," then
  \# Within that folder there are three folders for the main categories
 of my work, "Events," "Places," and "Portraits."
  \#\# Events contains folders named for each event and those folders
@@ -89,7 +89,7 @@ You can get Lightroom to help you build this structure. Let me tell you
 what I would do if I were importing photos from a location shoot that I
 did in a place I had never photographed before.
 
-\# Open the import dialog and choose the photos I want to import from
+# Open the import dialog and choose the photos I want to import from
 the thumbnail view.
  \# Choose "Copy Photos To A New Location And Add To Catalog."
  \# Browse for the correct geographical folder. I usually use the browse
@@ -124,7 +124,7 @@ What I'm talking about is _triage_.
 
 *tri* • *age* _n._
 
-\# The determination of priorities for action in an emergency.
+# The determination of priorities for action in an emergency.
  \# Sweeping through your photos and separating the good from the bad.
 
 Obviously the second definition is not exactly Miriam Webster material,
@@ -140,7 +140,7 @@ be a real challenge, and prioritizing your photos can be tricky, too.
 Luckily, Lightroom gives us some very helpful tools that come to our aid
 in this situation. You probably already know of them. They are:
 
-\# Flags (picks and rejects)
+# Flags (picks and rejects)
  \# Ratings (on a scale from one star to five)
  \# Labels (colors)
 
@@ -160,7 +160,7 @@ I don't know. But I can tell you how I use them.
 
 The very high-level outline of my process goes something like this:
 
-\# Eliminate rejects (using the reject flag, "X" on the keyboard)
+# Eliminate rejects (using the reject flag, "X" on the keyboard)
  \# Mark potential keepers (using the pick flag, "P" on the keyboard)
  \# Light, experimental development to test the viability of the
 keepers

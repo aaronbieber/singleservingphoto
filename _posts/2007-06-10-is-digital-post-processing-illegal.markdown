@@ -177,7 +177,7 @@ comments:
   content: Thanks, Joel! Remind me not to use Wikipedia as my only source next time
     :)
 ---
-\$random:right\$
+$random:right$
 
 There was a time, long ago, when photographs were conceived at the
 moment the shutter button was depressed. Darkroom techniques were
@@ -204,7 +204,7 @@ consuming, but it also exposed photographers to chemicals such as
 mercury and iodine; not the kinds of things you want to be _boiling_
 and possibly _inhaling_!
 
-\$random:left\$
+$random:left$
 
 Over time, photographic technology evolved. The system of using silver
 halide-based negatives emerged, allowing photographers to make more than
@@ -226,11 +226,11 @@ precipitated the institution of photographic post-processing. The negative
 expanded the photographic process into three steps, which should look very
 familiar:
 
-\# Exposure
+# Exposure
  \# Development
  \# Printing
 
-\$random:right\$
+$random:right$
 
 Post-processing, by definition, is altering the image *after* the
 light has been captured (hence, _post-_). Traditionally, these
@@ -256,7 +256,7 @@ accomplishment." --Ansel Adams, Carmel, 1976
 
 ## Artistic Integrity
 
-\$random:left\$
+$random:left$
 
 Any debate over whether post-processing invalidates the artistic
 integrity of a photographic work is fundamentally academic. Even before
@@ -281,7 +281,7 @@ may be that the digital world is so vastly different--not in essence,
 but in physicality--from the world of the darkroom that this discussion
 has arisen.
 
-\$random:right\$
+$random:right$
 
 Still, there are those who perceive an imaginary line in post-processing
 across which a photograph passes into a different state of being and
@@ -303,7 +303,7 @@ stumbling block in digital photography is the inextricable relationship
 between its traditional light-capture methods and the digital
 "development" tools that make even its most modest creations possible.
 
-\$random:left\$
+$random:left$
 
 Because traditional darkroom development tools have always been part and
 parcel to the process we call "photography," even since the earliest

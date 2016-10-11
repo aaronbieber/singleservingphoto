@@ -50,7 +50,7 @@ images. A bit of tweaking in Photoshop and...
 Notice the great depth of field you can get with an aperture as wide as
 f/1.4. If you want to experiment with this kind of thing, the most
 economical Canon lens is the EF 50mm f/1.8, which retails for less than
-\$100. The build quality isn't too hot, though, and it feels somewhat
+$100. The build quality isn't too hot, though, and it feels somewhat
 flimsy. You can step up to the EF 50mm f/1.4 for less than \$300, which
 is still pretty decent, and if you want to go the whole way, you can
 pick up the brand new EF 50mm f/1.2L, which is available for a

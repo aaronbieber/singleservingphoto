@@ -171,7 +171,7 @@ that.
 
 There are three reasons I believe these bubble levels are useless:
 
-\# Bubble levels integrated into tripods are fundamentally worthless
+# Bubble levels integrated into tripods are fundamentally worthless
 because they only tell you if your tripod is level, and unless you have
 your camera screwed directly onto your tripod (please, please answer
 "no" to that), it doesn't do you much good. A tripod can be very steady
@@ -200,7 +200,7 @@ abilities.
 Okay, so, how do you level the frame _without_ a bubble level? Here
 are a couple of tricks I use:
 
-\# Use your autofocus points. If it's daytime and you can see your
+# Use your autofocus points. If it's daytime and you can see your
 autofocus points, align them with elements in the scene to make sure
 they're level. the AF points in your viewfinder are guaranteed to be
 level with respect to the frame, so it gives you a visual hand-hold for

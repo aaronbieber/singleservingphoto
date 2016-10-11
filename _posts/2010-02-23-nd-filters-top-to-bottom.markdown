@@ -144,16 +144,16 @@ diameter filter. Here are some nice ones made by B+W from my favorite
 store, B&H:
 
 * [B+W ND 0.3,
-\$49](http://www.bhphotovideo.com/c/product/7982-REG/B_W_65072718_77mm_x_0_75_101.html?KBID=2457&BI=1816)
+$49](http://www.bhphotovideo.com/c/product/7982-REG/B_W_65072718_77mm_x_0_75_101.html?KBID=2457&BI=1816)
 (same as ND2, 1 f-stop)
  * [B+W ND 0.6,
-\$49](http://www.bhphotovideo.com/c/product/8018-REG/B_W_65_072910_77mm_102_Neutral_Density.html?KBID=2457&BI=1816)
+$49](http://www.bhphotovideo.com/c/product/8018-REG/B_W_65_072910_77mm_102_Neutral_Density.html?KBID=2457&BI=1816)
 (same as ND4, 2 f-stops)
  * [B+W ND 0.9,
-\$94](http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Neutral_Density.html?KBID=2457&BI=1816)
+$94](http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Neutral_Density.html?KBID=2457&BI=1816)
 (same as ND8, 4 f-stops)
  * [B+W ND 3.0,
-\$97](http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html?KBID=2457&BI=1816)
+$97](http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html?KBID=2457&BI=1816)
 (same as ND1000, 10 f-stops)
 
 You will find the biggest selection of filters from B+W and Tiffen.

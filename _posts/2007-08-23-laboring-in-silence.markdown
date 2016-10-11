@@ -54,7 +54,7 @@ on digital printing. Thanks, Andrew!
 
 Let us also not forget the momentous announcement of the Canon EOS 1Ds
 Mark III, sporting 20+ megapixels of CMOS power and nothing less than an
-\$8,000 price tag. Let's hope this one can actually autofocus directly
+$8,000 price tag. Let's hope this one can actually autofocus directly
 out of the box, eh, Canon?
 
 So stick around! There's a lot going on, but unfortunately it has all

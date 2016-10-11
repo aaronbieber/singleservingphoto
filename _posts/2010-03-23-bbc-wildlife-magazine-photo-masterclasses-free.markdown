@@ -72,6 +72,6 @@ To view and download all of the Photo Masterclass articles, [visit the
 Photo Masterclass page on BBC
 Wildlife](http://www.bbcwildlifemagazine.com/masterclasses.asp.)
 
-\[Edit: It appears that they have taken down articles 11 and 12; they no
+[Edit: It appears that they have taken down articles 11 and 12; they no
 longer appear on the site. Unfortunately I don't have local copies of
 the articles to share with everyone, so they may be lost forever.\]

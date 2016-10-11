@@ -19,12 +19,12 @@ tags:
 - critique
 comments: []
 ---
-\$random:right\$
+$random:right$
 
 There are three major ways to grow as an artist; to strengthen your
 aesthetic senses and the quality of your work:
 
-\# *Emulate* the work of artists you admire,
+# *Emulate* the work of artists you admire,
  \# *Experiment* on your own, exploring the subject matter that
 interests you, and
  \# Participate in *critique*
@@ -38,7 +38,7 @@ id="more-142"></span>
 Participating in critique means two things: evaluating the work of
 others and considering others' evaluations of your work.
 
-\$random:left\$
+$random:left$
 
 For the most part, valuable critique will be given to you by people at
 or above your level of artistic accomplishment. The reason I say this is
@@ -58,7 +58,7 @@ subdued, grayed, tawny, mat, glossy, monochrome, multicolored,
 particolored, variegated, or polychromed." Knowing what these kinds of
 words mean will help you to be much more expressive in your critiques.
 
-\$random:right\$
+$random:right$
 
 In photography specifically, there is no better site than
 [PhotoSIG](http://www.photosig.com) for participating in critique.

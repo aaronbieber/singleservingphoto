@@ -48,7 +48,7 @@ comments:
 
     Sharing *is* caring!
 ---
-\$random:right\$
+$random:right$
 
 In the web development world (which I call home for about eight to ten
 hours a day), we have a few general "rules" we follow to make websites
@@ -85,7 +85,7 @@ people do.
 
 ## Use Stylesheets
 
-\$random:left\$
+$random:left$
 
 Though the use of Cascading Stylesheets (or CSS) has been fairly
 standard over the past few years (which is nice, considering the
@@ -127,7 +127,7 @@ if images were available. It's just a good practice.
 
 ## Sharing Is Caring
 
-\$random:right\$
+$random:right$
 
 One of the most effective methods of advertising is friendship. When
 people see something interesting or entertaining on the Internet, they
@@ -152,7 +152,7 @@ you want to tap into. I am often asked for advice on creating or
 commissioning websites and I always discourage my friends from having
 their gallery sites built entirely in Flash for that exact reason.
 
-\$random:left\$
+$random:left$
 
 A real disappointment was when one of my photographer friends showed me
 the website she purchased from a company that _specializes_ in hosting

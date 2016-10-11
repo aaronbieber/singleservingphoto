@@ -135,7 +135,7 @@ composition fundamentals, but what I want to talk about are lesser-known
 principles of design that will help you bring even greater control and
 understanding to your compositions. These principles are:
 
-\# Balance (or weight)
+# Balance (or weight)
  \# Scale
  \# Isolation
  \# Convergence

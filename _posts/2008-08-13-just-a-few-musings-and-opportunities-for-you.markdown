@@ -41,7 +41,7 @@ growing trend among digital photographers that the quality of your work
 and of your prints can be judged if not exclusively at least primarily
 by some group of statistics.
 
-\~\~/Places/California/SanFrancisco/GoldenGateLookout.jpg\~\~
+~\~/Places/California/SanFrancisco/GoldenGateLookout.jpg\~\~
 
 First of all *art has never been judged based on numbers*. The moment
 that art is judged not for its certain craft, its inspiration, content,
@@ -79,7 +79,7 @@ equipment. He also goes on to criticize people who use charts and graphs
 to make meaningless, subjective data appear meaningful and objective. If
 only it wasn't true! Good stuff, Mike.
 
-\~\~/Places/California/SantaCruz/Peaceful.jpg\~\~
+~\~/Places/California/SantaCruz/Peaceful.jpg\~\~
 
 Ranting notwithstanding, it's still true that I'm *teaching a digital
 printing workshop in February*. If you want to learn how to soft-proof,

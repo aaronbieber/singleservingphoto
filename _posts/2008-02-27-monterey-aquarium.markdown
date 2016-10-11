@@ -50,12 +50,12 @@ share.
 These are Chris' feet standing on a very small beach as we prepared to
 photograph sunset.
 
-\~\~/SingleServings/2008/February/24Feb08-01.jpg\~\~
+~\~/SingleServings/2008/February/24Feb08-01.jpg\~\~
 
 During the first two days it was very gloomy and rainy, but the fog
 created some awesome scenes.
 
-\~\~/SingleServings/2008/February/24Feb08-05.jpg\~\~
+~\~/SingleServings/2008/February/24Feb08-05.jpg\~\~
 
 I also spent a couple of hours at the Monterey Aquarium ([as I mentioned
 earlier](/articles/2008/02/26/big-sur-monterey-part-ii/)).
@@ -66,19 +66,19 @@ edits of some of the things I saw:
 This tank has mirrors on both side walls so it looks like the jellies go
 on forever.
 
-\~\~/SingleServings/2008/February/24Feb08-02.jpg\~\~
+~\~/SingleServings/2008/February/24Feb08-02.jpg\~\~
 
 The aquarium is literally at the seaside and although it was raining,
 the view was spectacular.
 
-\~\~/SingleServings/2008/February/24Feb08-03.jpg\~\~
+~\~/SingleServings/2008/February/24Feb08-03.jpg\~\~
 
 Another view of the back of the aquarium and the stairway granting water
 access.
 
-\~\~/SingleServings/2008/February/24Feb08-04.jpg\~\~
+~\~/SingleServings/2008/February/24Feb08-04.jpg\~\~
 
 Here is the somewhat famous kelp forest at the Monterey Aquarium. This
 is one of the most photographed and publicized features of the place.
 
-\~\~/SingleServings/2008/February/24Feb08-06.jpg\~\~
+~\~/SingleServings/2008/February/24Feb08-06.jpg\~\~

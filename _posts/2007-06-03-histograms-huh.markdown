@@ -287,7 +287,7 @@ tallest bar).
 By now you should be pretty comfortable getting the following
 information out of a histogram:
 
-\# The range of tones in an image; does the image contain completely
+# The range of tones in an image; does the image contain completely
 black and completely white tones, and is it missing tones anywhere in
 the range?
  \# Which tones occur most often in the image; which bars in the

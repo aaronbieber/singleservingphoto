@@ -17,7 +17,7 @@ comments: []
 Red sky in the morning, sailors take warning. Red sky at night, sailors'
 delight.
 
-\~\~/SingleServings/2008/February/26Feb08-02.jpg\~\~
+~\~/SingleServings/2008/February/26Feb08-02.jpg\~\~
 
 I caught Chris wrapping up our sunset shoot at Point Lobos State
 Reserve.

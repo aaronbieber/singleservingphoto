@@ -156,7 +156,7 @@ comments:
     Very helpfull article!
     thanks!
 ---
-\$random:right\$
+$random:right$
 
 Many people ask me, "What's the best resolution?" Not only is the most
 important part of that question _missing_ (best resolution _for
