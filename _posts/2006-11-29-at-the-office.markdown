@@ -11,7 +11,6 @@ wordpress_url: /articles/2006/11/29/at-the-office/
 date: '2006-11-29 21:59:51 -0500'
 date_gmt: '2006-11-30 02:59:51 -0500'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

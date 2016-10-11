@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/04/22/harkness-and-the-lensbaby/
 date: '2007-04-22 21:09:50 -0400'
 date_gmt: '2007-04-23 01:09:50 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

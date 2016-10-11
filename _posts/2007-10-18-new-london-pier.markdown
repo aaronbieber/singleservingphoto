@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/10/18/new-london-pier/
 date: '2007-10-18 22:09:51 -0400'
 date_gmt: '2007-10-19 02:09:51 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments:
 - id: 1030

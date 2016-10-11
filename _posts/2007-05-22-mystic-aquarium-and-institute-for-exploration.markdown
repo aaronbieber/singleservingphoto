@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/05/22/mystic-aquarium-and-institute-for-exploratio
 date: '2007-05-22 04:00:22 -0400'
 date_gmt: '2007-05-22 08:00:22 -0400'
 categories:
-- Aaron's Photos
 tags:
 - howto
 - equipment

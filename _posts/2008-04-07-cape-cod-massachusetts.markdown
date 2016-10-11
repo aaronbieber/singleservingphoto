@@ -11,7 +11,6 @@ wordpress_url: /articles/2008/04/07/cape-cod-massachusetts/
 date: '2008-04-07 12:41:29 -0400'
 date_gmt: '2008-04-07 16:41:29 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

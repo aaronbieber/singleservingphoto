@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/06/13/boston-loves-the-lensbaby/
 date: '2007-06-13 20:05:34 -0400'
 date_gmt: '2007-06-14 00:05:34 -0400'
 categories:
-- Aaron's Photos
 tags:
 - lensbaby
 - boston

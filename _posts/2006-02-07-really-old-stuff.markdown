@@ -11,7 +11,6 @@ wordpress_url: http://www.singleservingphoto.com/?p=66
 date: '2006-02-07 22:13:55 -0500'
 date_gmt: '2006-02-08 02:13:55 -0500'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

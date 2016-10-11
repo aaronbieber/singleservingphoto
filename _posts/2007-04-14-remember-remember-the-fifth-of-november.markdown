@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/04/14/remember-remember-the-fifth-of-november/
 date: '2007-04-14 16:23:46 -0400'
 date_gmt: '2007-04-14 20:23:46 -0400'
 categories:
-- Aaron's Photos
 tags:
 - lensbaby
 comments: []

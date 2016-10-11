@@ -11,7 +11,6 @@ wordpress_url: http://singleservingphoto.com/?p=954
 date: '2011-05-02 09:12:11 -0400'
 date_gmt: '2011-05-02 13:12:11 -0400'
 categories:
-- Aaron's Photos
 - Articles
 tags:
 - deal

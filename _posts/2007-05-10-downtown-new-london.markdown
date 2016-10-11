@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/05/10/downtown-new-london/
 date: '2007-05-10 19:22:53 -0400'
 date_gmt: '2007-05-10 23:22:53 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/05/14/roger-williams-park-and-zoo/
 date: '2007-05-14 22:48:23 -0400'
 date_gmt: '2007-05-15 02:48:23 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments:
 - id: 819

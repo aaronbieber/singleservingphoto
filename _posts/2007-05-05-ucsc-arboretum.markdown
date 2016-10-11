@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/05/05/ucsc-arboretum/
 date: '2007-05-05 18:02:29 -0400'
 date_gmt: '2007-05-05 22:02:29 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

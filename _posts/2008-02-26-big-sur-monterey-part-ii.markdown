@@ -11,7 +11,6 @@ wordpress_url: /articles/2008/02/26/big-sur-monterey-part-ii/
 date: '2008-02-26 14:39:00 -0500'
 date_gmt: '2008-02-26 18:39:00 -0500'
 categories:
-- Aaron's Photos
 tags: []
 comments:
 - id: 1147

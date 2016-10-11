@@ -11,7 +11,6 @@ wordpress_url: /articles/2008/06/20/chicago-day-one/
 date: '2008-06-20 10:16:05 -0400'
 date_gmt: '2008-06-20 14:16:05 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

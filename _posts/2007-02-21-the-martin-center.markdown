@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/02/21/the-martin-center/
 date: '2007-02-21 22:38:14 -0500'
 date_gmt: '2007-02-22 03:38:14 -0500'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

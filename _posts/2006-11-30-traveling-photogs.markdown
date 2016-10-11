@@ -11,7 +11,6 @@ wordpress_url: /articles/2006/11/30/traveling-photogs/
 date: '2006-11-30 10:57:33 -0500'
 date_gmt: '2006-11-30 15:57:33 -0500'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

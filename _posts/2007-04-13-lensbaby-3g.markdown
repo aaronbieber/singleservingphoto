@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/04/13/lensbaby-3g/
 date: '2007-04-13 18:49:26 -0400'
 date_gmt: '2007-04-13 22:49:26 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

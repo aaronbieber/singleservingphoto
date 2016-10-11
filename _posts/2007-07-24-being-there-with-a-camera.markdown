@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/07/24/being-there-with-a-camera/
 date: '2007-07-24 07:44:21 -0400'
 date_gmt: '2007-07-24 11:44:21 -0400'
 categories:
-- Aaron's Photos
 tags:
 - art
 comments:

@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/03/27/hark-the-ness/
 date: '2007-03-27 21:41:31 -0400'
 date_gmt: '2007-03-28 02:41:31 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

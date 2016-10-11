@@ -11,7 +11,6 @@ wordpress_url: /articles/2008/02/27/monterey-aquarium/
 date: '2008-02-27 14:18:09 -0500'
 date_gmt: '2008-02-27 18:18:09 -0500'
 categories:
-- Aaron's Photos
 tags:
 - aquarium
 - big sur

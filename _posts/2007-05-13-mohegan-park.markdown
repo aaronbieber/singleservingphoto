@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/05/13/mohegan-park/
 date: '2007-05-13 18:16:58 -0400'
 date_gmt: '2007-05-13 22:16:58 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---

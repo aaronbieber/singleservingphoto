@@ -11,7 +11,6 @@ wordpress_url: /articles/2007/05/27/mohegan-park-redux/
 date: '2007-05-27 20:32:45 -0400'
 date_gmt: '2007-05-28 00:32:45 -0400'
 categories:
-- Aaron's Photos
 tags: []
 comments: []
 ---
