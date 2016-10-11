@@ -33,7 +33,7 @@ This is more of a stock/photojournalism style of image that I don't
 think fits in with the other images in my gallery, so Single-Serving
 Photo is the perfect place for it!
 
-~\~/SingleServings/2008/February/26Feb08-01.jpg\~\~
+![](/ssp/26Feb08-01.jpg)
 
 A family enjoys one of the largest tanks at the aquarium, which is home
 to _five hundred-pound tuna_.

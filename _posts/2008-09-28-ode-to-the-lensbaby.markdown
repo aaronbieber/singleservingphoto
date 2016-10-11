@@ -48,11 +48,11 @@ a certain element in the composition.
 
 Here's one from Boston:
 
-~\~/SingleServings/2007/June/09Jun07-03.jpg\~\~
+![](/ssp/09Jun07-03.jpg)
 
 And another, for good measure, also from Boston:
 
-~\~/SingleServings/2007/June/09Jun07-04.jpg\~\~
+![](/ssp/09Jun07-04.jpg)
 
 If you like, go [read about the new Lensbaby
 products](http://lensbaby.com) on their website. The lenses are not very

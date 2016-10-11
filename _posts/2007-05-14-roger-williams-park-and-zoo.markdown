@@ -33,14 +33,14 @@ it wasn't a total loss. I plan to do an article comparing the noise
 between the 5D and much older 10D, but for now just enjoy these crazy
 animal photos.
 
-~\~/SingleServings/2007/May/14may07-01.jpg\~\~
- \~\~/SingleServings/2007/May/14may07-02.jpg\~\~
- \~\~/SingleServings/2007/May/14may07-03.jpg\~\~
- \~\~/SingleServings/2007/May/14may07-04.jpg\~\~
- \~\~/SingleServings/2007/May/14may07-05.jpg\~\~
- \~\~/SingleServings/2007/May/14may07-06.jpg\~\~
- \~\~/SingleServings/2007/May/14may07-07.jpg\~\~
- \~\~/SingleServings/2007/May/14may07-08.jpg\~\~
+![](/ssp/14may07-01.jpg)
+![](/ssp/14may07-02.jpg)
+![](/ssp/14may07-03.jpg)
+![](/ssp/14may07-04.jpg)
+![](/ssp/14may07-05.jpg)
+![](/ssp/14may07-06.jpg)
+![](/ssp/14may07-07.jpg)
+![](/ssp/14may07-08.jpg)
 
 I may post more from this set later on; I'm still combing through them.
 You may also notice that my photos are now linked over to my actual

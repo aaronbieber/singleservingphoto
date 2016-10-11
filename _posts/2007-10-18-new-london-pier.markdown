@@ -46,7 +46,7 @@ not plowing all of the foreground shadow into an inky black mass. There
 is also a split tone (blue for highlights, brown for shadows) that I
 think gives it a very interesting feeling.
 
-~\~/SingleServings/2007/August/07Aug07-01.jpg\~\~
+![](/ssp/07Aug07-01.jpg)
 
 This one is almost my favorite minimalist composition _ever_, and
 that's saying something. I'm a big stickler for minimalism (if you
@@ -54,6 +54,6 @@ didn't know), but what really grabs me about this is the wonderfully
 placid reflections in the water on the left and, if you look closely,
 the ever so subtle and soft point of land coming out on the right edge.
 
-~\~/SingleServings/2007/August/07Aug07-02.jpg\~\~
+![](/ssp/07Aug07-02.jpg)
 
 Enjoy.

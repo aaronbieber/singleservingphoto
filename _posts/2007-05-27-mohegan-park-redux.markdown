@@ -20,8 +20,8 @@ as a zoo, but I had to go check it out anyway. As a bonus, it was a
 beautifully warm day and there can be no excuse for not going outside
 and enjoying it.
 
-~\~/SingleServings/2007/May/23May07-01.jpg\~\~
- \~\~/SingleServings/2007/May/23May07-02.jpg\~\~
+![](/ssp/23May07-01.jpg)
+![](/ssp/23May07-02.jpg)
 
 With these two, I was experimenting with the tip I gave you on
 Wednesday. I set my auto-focus point to the one on the far right, which
@@ -32,5 +32,5 @@ The first one here is with the 24-70mm f/2.8 (at 70mm), and the second
 is using the Sigma 105mm macro (a very fine lens, if I do say so
 myself).
 
-~\~/SingleServings/2007/May/23May07-03.jpg\~\~
- \~\~/SingleServings/2007/May/23May07-04.jpg\~\~
+![](/ssp/23May07-03.jpg)
+![](/ssp/23May07-04.jpg)
