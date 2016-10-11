@@ -26,5 +26,5 @@ This is the first time I've posted something that didn't come straight
 from the camera, with more than just levels or unsharp mask. Four
 abstracts of my apartment and the DVD(Digital Versatile Disc) menu from
 "What the Bleep Do We Know?" on my TV. Weird film.\
- !!http://www.thebailiwick.com/ssp/30sept05-01.jpg!!\
+ ![](/ssp/30sept05-01.jpg){:.frame.center}\
  Lemon Jelly rocks.

@@ -19,9 +19,9 @@ I was at the office late one night. Okay, not that late... In any case,
 I decided I should turn out the lights and take some pictures in the
 dark. This one came out alright. I manipulated the color channels for
 kicks.\
- !!http://www.thebailiwick.com/ssp/03nov05-02.jpg!!\
+ ![](/ssp/03nov05-02.jpg){:.frame.center}\
  (Canon 15mm f/2.8 fisheye)
 
 And this is my parking lot at home.\
- !!http://www.thebailiwick.com/ssp/03nov05-01.jpg!!\
+ ![](/ssp/03nov05-01.jpg){:.frame.center}\
  (Canon 50mm f/1.4)

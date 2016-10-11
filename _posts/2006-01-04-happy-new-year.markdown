@@ -23,12 +23,12 @@ Here are just a couple of things. First, a picture I took for a friend
 of mine as a Christmas present for a different friend. I did a
 tremendous amount of Photoshop post-processing work on this. He loved
 it.\
- !!http://www.thebailiwick.com/ssp/19dec05-01.jpg!!
+ ![](/ssp/19dec05-01.jpg){:.frame.center}
 
 And here is some other crap that was sitting on my memory card for
 weeks.\
- !!http://www.thebailiwick.com/ssp/16dec05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/16dec05-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/16dec05-03.jpg!!
+ ![](/ssp/16dec05-01.jpg){:.frame.center}\
+ ![](/ssp/16dec05-02.jpg){:.frame.center}\
+ ![](/ssp/16dec05-03.jpg){:.frame.center}
 
 Happy new year to one and all!

@@ -18,8 +18,8 @@ comments: []
 In the afternoon, the sun reflects off of the windows on our side of the
 building and makes neat shapes in the shadows of the trees.
 
-!!http://www.thebailiwick.com/ssp/06oct05-01.jpg!!
+![](/ssp/06oct05-01.jpg){:.frame.center}
 
 Here is me reflected in double-pane glass.
 
-!!http://www.thebailiwick.com/ssp/06oct05-02.jpg!!
+![](/ssp/06oct05-02.jpg){:.frame.center}

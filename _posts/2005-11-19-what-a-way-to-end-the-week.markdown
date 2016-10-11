@@ -26,5 +26,5 @@ comments:
     them on my blog! ;)\r\nA~"
 ---
 There is nothing like an awesome sunset to cap off the work week!\
- !!http://www.thebailiwick.com/ssp/18nov05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/18nov05-02.jpg!!
+ ![](/ssp/18nov05-01.jpg){:.frame.center}\
+ ![](/ssp/18nov05-02.jpg){:.frame.center}

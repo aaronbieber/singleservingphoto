@@ -23,9 +23,9 @@ hat.
 Here are some neat photos I took while I was bored one afternoon with my
 little PowerShot SD110. I was throwing it up in the air with a
 one-second shutter speed just to see what would happen.\
- !!http://www.thebailiwick.com/ssp/26oct05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/26oct05-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/26oct05-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/26oct05-04.jpg!!\
- !!http://www.thebailiwick.com/ssp/26oct05-05.jpg!!\
- !!http://www.thebailiwick.com/ssp/26oct05-06.jpg!!
+ ![](/ssp/26oct05-01.jpg){:.frame.center}\
+ ![](/ssp/26oct05-02.jpg){:.frame.center}\
+ ![](/ssp/26oct05-03.jpg){:.frame.center}\
+ ![](/ssp/26oct05-04.jpg){:.frame.center}\
+ ![](/ssp/26oct05-05.jpg){:.frame.center}\
+ ![](/ssp/26oct05-06.jpg){:.frame.center}

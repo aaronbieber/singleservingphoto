@@ -22,23 +22,23 @@ not indispensable) when shooting under the forest canopy.
 
 For this one, I made sure the sky wasn't visible and compensated -2/3
 EV; perfect tonal range.\
- !!http://www.thebailiwick.com/ssp/13May07-01.jpg!!
+ ![](/ssp/13May07-01.jpg){:.frame.center}
 
 This one's one of my favorites. During the conversion to black and white
 I darkened the yellows and lightened the greens to emphasize the
 contrast on the ferns' leaves in the foreground.\
- !!http://www.thebailiwick.com/ssp/13May07-02.jpg!!
+ ![](/ssp/13May07-02.jpg){:.frame.center}
 
 Here are a couple of cutesy ones.\
- !!http://www.thebailiwick.com/ssp/13May07-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/13May07-04.jpg!!
+ ![](/ssp/13May07-03.jpg){:.frame.center}\
+ ![](/ssp/13May07-04.jpg){:.frame.center}
 
 In this piece, a creative vignette adds drama and depth to an already
 shallow depth of field.\
- !!http://www.thebailiwick.com/ssp/13May07-05.jpg!!
+ ![](/ssp/13May07-05.jpg){:.frame.center}
 
 I love tree bark.\
- !!http://www.thebailiwick.com/ssp/13May07-06.jpg!!
+ ![](/ssp/13May07-06.jpg){:.frame.center}
 
 I swear I actually found this lying there, just as it is.\
- !!http://www.thebailiwick.com/ssp/13May07-07.jpg!!
+ ![](/ssp/13May07-07.jpg){:.frame.center}

@@ -34,9 +34,9 @@ In between Heather's band photos, I like to go ahead and post a bunch of
 weird pictures of textures and shapes and junk. Why? Because it's my
 site, so I can do whatever I want!
 
-!!http://www.thebailiwick.com/ssp/16oct05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/16oct05-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/16oct05-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/16oct05-04.jpg!!\
- !!http://www.thebailiwick.com/ssp/16oct05-05.jpg!!\
- !!http://www.thebailiwick.com/ssp/16oct05-06.jpg!!
+![](/ssp/16oct05-01.jpg){:.frame.center}\
+ ![](/ssp/16oct05-02.jpg){:.frame.center}\
+ ![](/ssp/16oct05-03.jpg){:.frame.center}\
+ ![](/ssp/16oct05-04.jpg){:.frame.center}\
+ ![](/ssp/16oct05-05.jpg){:.frame.center}\
+ ![](/ssp/16oct05-06.jpg){:.frame.center}

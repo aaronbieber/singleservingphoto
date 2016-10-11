@@ -16,10 +16,10 @@ tags: []
 comments: []
 ---
 It was a rainy day.\
- !!http://www.thebailiwick.com/ssp/29sept05-06.jpg!!
+ ![](/ssp/29sept05-06.jpg){:.frame.center}
 
 But even closed windows are fun to look at.\
- !!http://www.thebailiwick.com/ssp/29sept05-05.jpg!!
+ ![](/ssp/29sept05-05.jpg){:.frame.center}
 
 Dr. Xuling Gao, Ph.D.\
- !!http://www.thebailiwick.com/ssp/29sept05-04.jpg!!
+ ![](/ssp/29sept05-04.jpg){:.frame.center}

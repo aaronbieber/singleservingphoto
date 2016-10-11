@@ -25,10 +25,10 @@ comments:
 Fooling around at home...
 
 My Ikea birch veneer desktop.\
- !!http://www.thebailiwick.com/ssp/29sept05-01.jpg!!
+ ![](/ssp/29sept05-01.jpg){:.frame.center}
 
 Go ahead, guess.\
- !!http://www.thebailiwick.com/ssp/29sept05-02.jpg!!
+ ![](/ssp/29sept05-02.jpg){:.frame.center}
 
 Leaving my friend's house.\
- !!http://www.thebailiwick.com/ssp/29sept05-03.jpg!!
+ ![](/ssp/29sept05-03.jpg){:.frame.center}

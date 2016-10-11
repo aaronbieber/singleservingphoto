@@ -16,11 +16,11 @@ tags: []
 comments: []
 ---
 These are, like, my blinds. Sort of.\
- !!http://www.thebailiwick.com/ssp/10nov05-01.jpg!!
+ ![](/ssp/10nov05-01.jpg){:.frame.center}
 
 Look, it's my neighbor!\
- !!http://www.thebailiwick.com/ssp/10nov05-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/10nov05-03.jpg!!
+ ![](/ssp/10nov05-02.jpg){:.frame.center}\
+ ![](/ssp/10nov05-03.jpg){:.frame.center}
 
 Hey, that's his [boxdoodle](http://www.neu-e.de) in front of his head!\
- !!http://www.thebailiwick.com/ssp/10nov05-04.jpg!!
+ ![](/ssp/10nov05-04.jpg){:.frame.center}

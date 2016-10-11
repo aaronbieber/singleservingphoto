@@ -18,6 +18,6 @@ comments: []
 I was at Harkness Memorial State Park (again) and had to break out the
 Lensbaby 3G for a bit more fun.
 
-!!http://www.thebailiwick.com/ssp/21Apr07-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/21Apr07-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/21Apr07-03.jpg!!
+![](/ssp/21Apr07-01.jpg){:.frame.center}\
+ ![](/ssp/21Apr07-02.jpg){:.frame.center}\
+ ![](/ssp/21Apr07-03.jpg){:.frame.center}

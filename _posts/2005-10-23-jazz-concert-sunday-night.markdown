@@ -31,14 +31,14 @@ comments:
 ---
 To benefit the Katrina relief efforts, a jazz concert. Cool, man.
 
-!!http://www.thebailiwick.com/ssp/22oct05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/22oct05-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/22oct05-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/22oct05-04.jpg!!\
- !!http://www.thebailiwick.com/ssp/22oct05-05.jpg!!
+![](/ssp/22oct05-01.jpg){:.frame.center}\
+ ![](/ssp/22oct05-02.jpg){:.frame.center}\
+ ![](/ssp/22oct05-03.jpg){:.frame.center}\
+ ![](/ssp/22oct05-04.jpg){:.frame.center}\
+ ![](/ssp/22oct05-05.jpg){:.frame.center}
 
 A chilly Sunday night on the sidewalk.
 
-!!http://www.thebailiwick.com/ssp/23oct05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/23oct05-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/23oct05-03.jpg!!
+![](/ssp/23oct05-01.jpg){:.frame.center}\
+ ![](/ssp/23oct05-02.jpg){:.frame.center}\
+ ![](/ssp/23oct05-03.jpg){:.frame.center}

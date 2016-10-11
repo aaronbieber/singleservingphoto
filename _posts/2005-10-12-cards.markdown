@@ -27,5 +27,5 @@ comments:
 Here are a bunch of business cards with stains on them made by teabags.
 It's best not to ask questions.
 
-!!http://www.thebailiwick.com/ssp/11oct05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/11oct05-02.jpg!!
+![](/ssp/11oct05-01.jpg){:.frame.center}\
+ ![](/ssp/11oct05-02.jpg){:.frame.center}

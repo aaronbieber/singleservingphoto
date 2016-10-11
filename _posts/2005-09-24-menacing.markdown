@@ -17,4 +17,4 @@ comments: []
 ---
 Hello, Mike.
 
-!!http://www.thebailiwick.com/ssp/23sept05-01.jpg!!
+![](/ssp/23sept05-01.jpg){:.frame.center}

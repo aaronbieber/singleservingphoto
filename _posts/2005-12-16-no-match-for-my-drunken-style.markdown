@@ -28,11 +28,11 @@ attention to light and exposure during shooting followed by the most
 impressive display of Rembrandt-esque manipulation I've seen.
 
 So that's why I messed this one all up.\
- !!http://www.thebailiwick.com/ssp/15dec05-01.jpg!!
+ ![](/ssp/15dec05-01.jpg){:.frame.center}
 
 This is al-you-mini-um foil.\
- !!http://www.thebailiwick.com/ssp/15dec05-02.jpg!!
+ ![](/ssp/15dec05-02.jpg){:.frame.center}
 
 A stove clock. In macro.\
- !!http://www.thebailiwick.com/ssp/15dec05-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/15dec05-04.jpg!!
+ ![](/ssp/15dec05-03.jpg){:.frame.center}\
+ ![](/ssp/15dec05-04.jpg){:.frame.center}

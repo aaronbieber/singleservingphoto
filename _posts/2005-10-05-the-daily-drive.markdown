@@ -20,15 +20,15 @@ typically bacheloresque trash laying about and making a graphic
 composition of itself. You get down with your bad self, Rolling Rock.
 You _get down_.
 
-!!http://www.thebailiwick.com/ssp/05oct05-01.jpg!!
+![](/ssp/05oct05-01.jpg){:.frame.center}
 
 As I was driving in I endangered many lives to capture this and several
 other _shifting one-handed and photographing out the window_ shots.
 
-!!http://www.thebailiwick.com/ssp/05oct05-02.jpg!!
+![](/ssp/05oct05-02.jpg){:.frame.center}
 
 Then I parked and this just *happened*.
 
-!!http://www.thebailiwick.com/ssp/05oct05-03.jpg!!
+![](/ssp/05oct05-03.jpg){:.frame.center}
 
 I can't complain.

@@ -16,7 +16,7 @@ tags: []
 comments: []
 ---
 Just because it's simple doesn't mean it's boring.\
- !!http://www.thebailiwick.com/ssp/26sept05-01.jpg!!\
+ ![](/ssp/26sept05-01.jpg){:.frame.center}\
  This should be fairly unique.\
- !!http://www.thebailiwick.com/ssp/26sept05-02.jpg!!\
+ ![](/ssp/26sept05-02.jpg){:.frame.center}\
  Macro *rock out*!

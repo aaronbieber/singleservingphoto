@@ -30,10 +30,10 @@ author, Heather. It was a wicked ascent, but the view from the top was
 worth it.
 
 _Enjoying the grass:_\
- !!http://www.thebailiwick.com/ssp/02oct05-06.jpg!!
+ ![](/ssp/02oct05-06.jpg){:.frame.center}
 
 _My shoe:_\
- !!http://www.thebailiwick.com/ssp/02oct05-05.jpg!!
+ ![](/ssp/02oct05-05.jpg){:.frame.center}
 
 _Heather on the lookout:_\
- !!http://www.thebailiwick.com/ssp/02oct05-04.jpg!!
+ ![](/ssp/02oct05-04.jpg){:.frame.center}

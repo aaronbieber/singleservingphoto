@@ -17,14 +17,14 @@ comments: []
 ---
 Barely midnight and my silhouette is cast by large venetian blinds.
 
-!!http://www.thebailiwick.com/ssp/21sept05-03.jpg!!
+![](/ssp/21sept05-03.jpg){:.frame.center}
 
 I took a walk this afternoon around my office park grounds. There is an
 outdoor stage that's apparently used for concerts, although I haven't
 seen any activity there before. A couple neat views below.
 
-!!http://www.thebailiwick.com/ssp/21sept05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/21sept05-02.jpg!!
+![](/ssp/21sept05-01.jpg){:.frame.center}\
+ ![](/ssp/21sept05-02.jpg){:.frame.center}
 
 Incorrect white balance setting accounts for the blue tone. I would
 correct it if I didn't think it looked so neat.

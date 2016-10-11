@@ -19,13 +19,13 @@ These photos span a couple of days, but I'm not sure which ones were
 from which days. It doesn't matter. Here is a nice little pitcher of
 cream. Oh, how I love f/1.4.
 
-!!http://www.thebailiwick.com/ssp/09oct05-01.jpg!!
+![](/ssp/09oct05-01.jpg){:.frame.center}
 
 One my dad's 3D collage pieces.\
- !!http://www.thebailiwick.com/ssp/09oct05-02.jpg!!
+ ![](/ssp/09oct05-02.jpg){:.frame.center}
 
 The godfather.\
- !!http://www.thebailiwick.com/ssp/09oct05-03.jpg!!
+ ![](/ssp/09oct05-03.jpg){:.frame.center}
 
 My mom!\
- !!http://www.thebailiwick.com/ssp/09oct05-04.jpg!!
+ ![](/ssp/09oct05-04.jpg){:.frame.center}

@@ -17,8 +17,8 @@ comments: []
 ---
 In the words of Borat, "When do we have sexy intercourse?"
 
-!!http://www.thebailiwick.com/ssp/07nov05-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/07nov05-02.jpg!!
+![](/ssp/07nov05-01.jpg){:.frame.center}\
+ ![](/ssp/07nov05-02.jpg){:.frame.center}
 
 I hope this was someone's idea of a joke. Or at least their idea of
 jokingly disposing of a joke gift. Or at least an inappropriate disposal

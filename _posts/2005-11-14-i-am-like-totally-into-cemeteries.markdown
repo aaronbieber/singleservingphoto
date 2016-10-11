@@ -35,13 +35,13 @@ that's appropriate. In any case, it really is on a mountain and it
 really does have a splendid view.
 
 Even the cell phone towers look dramatic and cool.\
- !!http://www.thebailiwick.com/ssp/11nov05-01.jpg!!
+ ![](/ssp/11nov05-01.jpg){:.frame.center}
 
 This is my buddy, the stone dog.\
- !!http://www.thebailiwick.com/ssp/11nov05-02.jpg!!
+ ![](/ssp/11nov05-02.jpg){:.frame.center}
 
 Looks even more awesome in silhouette, doesn't he?\
- !!http://www.thebailiwick.com/ssp/11nov05-03.jpg!!
+ ![](/ssp/11nov05-03.jpg){:.frame.center}
 
 Finally, dusk reflected in a headstone.\
- !!http://www.thebailiwick.com/ssp/11nov05-04.jpg!!
+ ![](/ssp/11nov05-04.jpg){:.frame.center}

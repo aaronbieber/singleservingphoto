@@ -18,8 +18,8 @@ comments: []
 I was over at Vassar College a couple of weeks ago and here is some of
 the evidence.
 
-!!http://www.thebailiwick.com/ssp/28jan06-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/28jan06-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/28jan06-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/28jan06-04.jpg!!\
- !!http://www.thebailiwick.com/ssp/28jan06-05.jpg!!
+![](/ssp/28jan06-01.jpg){:.frame.center}\
+ ![](/ssp/28jan06-02.jpg){:.frame.center}\
+ ![](/ssp/28jan06-03.jpg){:.frame.center}\
+ ![](/ssp/28jan06-04.jpg){:.frame.center}\
+ ![](/ssp/28jan06-05.jpg){:.frame.center}

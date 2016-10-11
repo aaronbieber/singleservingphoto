@@ -19,12 +19,12 @@ I visited my parents and they had some company. Much wine was consumed
 and a lively conversation was had.
 
 I found this in the bathroom.\
- !!http://www.thebailiwick.com/ssp/07oct05-01.jpg!!
+ ![](/ssp/07oct05-01.jpg){:.frame.center}
 
 Suz\
- !!http://www.thebailiwick.com/ssp/07oct05-02.jpg!!
+ ![](/ssp/07oct05-02.jpg){:.frame.center}
 
 Joe\
- !!http://www.thebailiwick.com/ssp/07oct05-03.jpg!!
+ ![](/ssp/07oct05-03.jpg){:.frame.center}
 
 P.S. Those are not my parents, just FYI.

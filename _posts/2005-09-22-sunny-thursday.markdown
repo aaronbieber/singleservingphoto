@@ -25,16 +25,16 @@ comments:
 
 I assure you, it smelled really bad.
 
-!!http://www.thebailiwick.com/ssp/22sept05-01.jpg!!
+![](/ssp/22sept05-01.jpg){:.frame.center}
 
 Fountains are cool.
 
-!!http://www.thebailiwick.com/ssp/22sept05-02.jpg!!
+![](/ssp/22sept05-02.jpg){:.frame.center}
 
 Nature.
 
-!!http://www.thebailiwick.com/ssp/22sept05-03.jpg!!
+![](/ssp/22sept05-03.jpg){:.frame.center}
 
 Not nature.
 
-!!http://www.thebailiwick.com/ssp/22sept05-04.jpg!!
+![](/ssp/22sept05-04.jpg){:.frame.center}

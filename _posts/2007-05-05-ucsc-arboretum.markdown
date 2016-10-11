@@ -28,11 +28,11 @@ there, but here are a few of my favorite "textural" ones. These aren't
 intended to be strict foreground/background, subject/backdrop photos,
 but rather as tangible shapes and textures.
 
-!!http://www.thebailiwick.com/ssp/03May07-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/03May07-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/03May07-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/04May07-04.jpg!!\
- !!http://www.thebailiwick.com/ssp/04May07-05.jpg!!
+![](/ssp/03May07-01.jpg){:.frame.center}\
+ ![](/ssp/03May07-02.jpg){:.frame.center}\
+ ![](/ssp/03May07-03.jpg){:.frame.center}\
+ ![](/ssp/04May07-04.jpg){:.frame.center}\
+ ![](/ssp/04May07-05.jpg){:.frame.center}
 
 I will be posting a *lot* more Santa Cruz and Yosemite photos in the
 coming week, so don't forget about me!

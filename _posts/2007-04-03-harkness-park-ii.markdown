@@ -45,8 +45,8 @@ Photoshop techniques (and still giving Lightroom a run for its money),
 so I'll be posting more specifically about that later. Perhaps another
 tutorial? We'll see!
 
-!!http://www.thebailiwick.com/ssp/01Apr07-01.jpg!!
+![](/ssp/01Apr07-01.jpg){:.frame.center}
 
-!!http://www.thebailiwick.com/ssp/01Apr07-02.jpg!!
+![](/ssp/01Apr07-02.jpg){:.frame.center}
 
-!!http://www.thebailiwick.com/ssp/01Apr07-03.jpg!!
+![](/ssp/01Apr07-03.jpg){:.frame.center}

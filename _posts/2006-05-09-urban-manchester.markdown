@@ -27,8 +27,8 @@ snapped some photos of these old industrial buildings, most of which
 have been converted to apartments. One or two are still factory or
 business spaces, and one or two are unoccupied.
 
-!!http://www.thebailiwick.com/ssp/08mar06-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/08mar06-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/08mar06-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/08mar06-04.jpg!!\
- !!http://www.thebailiwick.com/ssp/08mar06-05.jpg!!
+![](/ssp/08mar06-01.jpg){:.frame.center}\
+ ![](/ssp/08mar06-02.jpg){:.frame.center}\
+ ![](/ssp/08mar06-03.jpg){:.frame.center}\
+ ![](/ssp/08mar06-04.jpg){:.frame.center}\
+ ![](/ssp/08mar06-05.jpg){:.frame.center}

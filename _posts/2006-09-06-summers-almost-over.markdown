@@ -22,11 +22,11 @@ to coincide with the 50th anniversary of Newington's Parks and Rec.
 Department. There were fireworks, there was fried dough, there were
 heaps of people... Some of them were waving glowing toys around.
 
-!!http://www.thebailiwick.com/ssp/15jul06-01.jpg!!\
- !!http://www.thebailiwick.com/ssp/15jul06-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/15jul06-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/15jul06-04.jpg!!\
- !!http://www.thebailiwick.com/ssp/15jul06-06.jpg!!\
- !!http://www.thebailiwick.com/ssp/15jul06-05.jpg!!
+![](/ssp/15jul06-01.jpg){:.frame.center}\
+ ![](/ssp/15jul06-02.jpg){:.frame.center}\
+ ![](/ssp/15jul06-03.jpg){:.frame.center}\
+ ![](/ssp/15jul06-04.jpg){:.frame.center}\
+ ![](/ssp/15jul06-06.jpg){:.frame.center}\
+ ![](/ssp/15jul06-05.jpg){:.frame.center}
 
 Hope you enjoy. More to come soon!

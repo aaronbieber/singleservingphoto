@@ -25,6 +25,6 @@ comments:
     and has since evolved [...]'
 ---
 I know, I know, I'm behind! Luckily, photography isn't life or death.\
- !!http://www.thebailiwick.com/ssp/28sept05-02.jpg!!\
- !!http://www.thebailiwick.com/ssp/28sept05-03.jpg!!\
- !!http://www.thebailiwick.com/ssp/28sept05-01.jpg!!
+ ![](/ssp/28sept05-02.jpg){:.frame.center}\
+ ![](/ssp/28sept05-03.jpg){:.frame.center}\
+ ![](/ssp/28sept05-01.jpg){:.frame.center}

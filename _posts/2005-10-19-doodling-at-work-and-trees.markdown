@@ -27,11 +27,11 @@ which caused the trees in the wind outside the window to blur somewhat.
 I just wanted to point out that it isn't out of focus, it's _moving_.
 Cool, huh?
 
-!!http://www.thebailiwick.com/ssp/18oct05-01.jpg!!
+![](/ssp/18oct05-01.jpg){:.frame.center}
 
 I got bored at work yesterday. Here is our new mascot. And Gir.
 
-!!http://www.thebailiwick.com/ssp/18oct05-02.jpg!!
+![](/ssp/18oct05-02.jpg){:.frame.center}
 
 That Angry Can of Tuna, he's always stabbing things with his cartoon
 sword. I think he has anger management issues.

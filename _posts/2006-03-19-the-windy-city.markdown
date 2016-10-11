@@ -44,13 +44,13 @@ gallery](http://gallery.thebailiwick.com/chicago_2006)!
 Here are a few I liked a lot. A couple are also on the other site.
 
 A cool sculpture.\
- !!http://www.thebailiwick.com/ssp/10mar06-01.jpg!!\
+ ![](/ssp/10mar06-01.jpg){:.frame.center}\
  I was literally *jarred* by this spiraling staircase.\
- !!http://www.thebailiwick.com/ssp/10mar06-02.jpg!!\
+ ![](/ssp/10mar06-02.jpg){:.frame.center}\
  This is the freaky-looking Ronald McDonald in front of the former
 Rock'n'Roll McDonald's.\
- !!http://www.thebailiwick.com/ssp/10mar06-04.jpg!!\
+ ![](/ssp/10mar06-04.jpg){:.frame.center}\
  Rachel likes Ronald McDonald a *lot*.\
- !!http://www.thebailiwick.com/ssp/10mar06-03.jpg!!\
+ ![](/ssp/10mar06-03.jpg){:.frame.center}\
  There were a couple of cool monks hanging around at Millennium Park.\
- !!http://www.thebailiwick.com/ssp/10mar06-05.jpg!!
+ ![](/ssp/10mar06-05.jpg){:.frame.center}
