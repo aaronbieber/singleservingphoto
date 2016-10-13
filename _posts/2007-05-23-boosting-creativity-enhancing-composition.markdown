@@ -44,7 +44,7 @@ they won't always work, and there's no guarantee you'll even like them,
 but here they are anyway, for your approval.<span id="more"></span><span
 id="more-117"></span>
 
-$random:right$
+{% random right %}
 
 My favorite piece of advice, which is often suggested by photography
 teachers (and art teachers in general), is to change your altitude.
@@ -63,7 +63,7 @@ left or the right before releasing the shutter, setting the AF point
 explicitly on one side of the frame will force you to think off-balance.
 It's a good thing to get used to.
 
-$random:left$
+{% random left %}
 
 If you're out during the day and the sky is bright (or overcast, which
 is even better), don't forget the possibility of *making silhouettes*.

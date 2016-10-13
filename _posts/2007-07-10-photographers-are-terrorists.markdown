@@ -100,7 +100,7 @@ comments:
   date_gmt: '2007-07-12 06:26:34 -0400'
   content: '[...] Photographers Are Terrorists (tags: photography) [...]'
 ---
-$random:right$
+{% random right %}
 
 I hope you read the subject of this article and gasped. I hope that your
 first reaction was indignance or perhaps anger. I share your feelings,
@@ -121,7 +121,7 @@ id="more-131"></span>
 
 ## What Are Your Rights?
 
-$random:left$
+{% random left %}
 
 The first thing I'm going to do is point you in the direction of Andrew
 Kantor's wonderful [Legal Rights of

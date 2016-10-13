@@ -27,7 +27,7 @@ photographers enter the scene and wonder why anyone ever got their hands
 wet while making images.<span id="more"></span><span
 id="more-160"></span>
 
-$random:right$
+{% random right %}
 
 Film photography and chemical development processes are steeped in
 history and wield the power of a mature, extremely well understood
@@ -54,7 +54,7 @@ automatic 35mm cameras, which offered only modest control. By far the
 most interesting component of the class was developing the film and
 printing in the darkroom.
 
-$random:left$
+{% random left %}
 
 I enjoyed experimenting with the process and making a few decent prints,
 though I can't say that my photography work today was greatly affected
@@ -76,7 +76,7 @@ enlargers, the continuous supply of chemicals, film, papers, and the
 investment in building your own darkroom or renting time in one, it all
 evens out.
 
-$random:right$
+{% random right %}
 
 I don't believe that film photography and traditional darkroom printing
 will ever become obsolete. Just as there are carpenters who pride

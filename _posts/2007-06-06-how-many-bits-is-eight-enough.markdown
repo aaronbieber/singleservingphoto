@@ -217,7 +217,7 @@ obviously delivers.
 
 ## Putting 16 Bits to Good Use
 
-$random:right$
+{% random right %}
 
 I spent a good deal of time putting this article together and building
 these examples, and I think I've proven almost without a shadow of a
@@ -243,7 +243,7 @@ always re-process those files as 16-bit PSDs and print them. Somehow,
 though, I think I'll be on to bigger and better things by then. One can
 hope, at least, right?
 
-$random:left$
+{% random left %}
 
 The 8-bit versus 16-bit debate is one steeped in personal preference,
 and somehow has mutated into a rather divisive topic. I hope I've shown

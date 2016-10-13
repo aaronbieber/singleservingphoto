@@ -28,7 +28,7 @@ photographers have equal footing? Would the pioneering photographers who
 led the surge into traditional photography embrace today's digital
 technology?
 
-$random:left$
+{% random left %}
 
 My opinion is that digital photography is, and should be treated as,
 entirely comparable and identical to traditional photography. Although
@@ -53,7 +53,7 @@ casual viewers would never seek out these differences because the two
 works can be compared and contrasted, fairly and completely, simply on
 the basis of their appearance.
 
-$random:right$
+{% random right %}
 
 Similarly in photography, two photographs may appear very much the same
 but may have been created in vastly different ways. In traditional
@@ -69,7 +69,7 @@ artistic integrity, and it saddens me. When, in the history of art, have
 its methods come under such scrutiny? Producing new work in new ways has
 always been a core value of the field of art as a whole.
 
-$random:left$
+{% random left %}
 
 What is saddening is not that a photographer would spend time and energy
 defending his or her craft, for that seems to me a noble endeavor. What

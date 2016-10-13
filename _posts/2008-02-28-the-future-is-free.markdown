@@ -17,7 +17,7 @@ tags:
 - business
 comments: []
 ---
-$random:right$
+{% random right %}
 
 In his [latest blog
 post](http://www.chasejarvis.com/blog/2008/02/free-photos-and-artistic-vision.html,)
@@ -38,7 +38,7 @@ distribution models, the cost is effectively zero. This means that the
 words I'm typing right now and the images that surround them are
 reaching you at virtually no cost (to me or to you).
 
-$random:left$
+{% random left %}
 
 So what happens if we make the presumption that photography is a zero
 marginal cost business for the distributors? Photographs as salable
@@ -56,7 +56,7 @@ is of little inherent value; it's the business model and organization
 that surrounds them that makes them into a product and a profitable
 enterprise. In short, it's _Dan himself_ that people pay for.
 
-$random:right$
+{% random right %}
 
 Chase Jarvis said almost the same thing in his entry when he concluded
 that photographers of the future "will make their money getting hired to
