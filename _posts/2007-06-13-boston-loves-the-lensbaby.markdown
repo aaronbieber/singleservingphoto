@@ -15,38 +15,12 @@ tags:
 - lensbaby
 - boston
 - massachusetts
-comments:
-- id: 839
-  author: Sam Pardue
-  author_email: sam@lensbabies.com
-  author_url: http://www.lensbabies.com
-  date: '2007-06-14 21:33:56 -0400'
-  date_gmt: '2007-06-15 01:33:56 -0400'
-  content: "Very nice photo set!  #3 #6 and the last one are all outstanding to my
-    eye.  Very well bent!\r\n\r\nSam"
-- id: 840
-  author: Aaron
-  author_email: aaron@singleservingphoto.com
-  author_url: http://gallery.thebailiwick.com
-  date: '2007-06-14 23:28:51 -0400'
-  date_gmt: '2007-06-15 03:28:51 -0400'
-  content: Thanks for dropping by, Sam; your product is outstanding! I appreciate
-    the feedback.
-- id: 878
-  author: photographyVoter.com
-  author_email: ''
-  author_url: http://photographyvoter.com/story.php?id=1226
-  date: '2007-07-11 09:28:10 -0400'
-  date_gmt: '2007-07-11 13:28:10 -0400'
-  content: |-
-    Boston Loves the Lensbaby...
-
-    Some photographs from downtown Boston using the "Lensbaby 3G" selective focus lens....
 ---
+
 It's been a while since I've posted, well, you know, _photographs_
 here on my photo blog, but I think you'll agree it was worth the wait. I
 spent a day in rainy Boston last weekend with my Lensbaby 3G,
-introducing it to the charm of beantown.
+introducing it to the charm of beantown. ~~MORE~~
 
 This was the first time I took the Lensbaby out in the city and I am
 very pleased with the results. It's extremely challenging to focus by
@@ -62,12 +36,12 @@ A few shots that I thought I nailed were completely blurry, and others
 that I wasn't sure about came out very well, so that's a testament to
 practice... Which I lack. Without further ado:
 
-![](/ssp/09Jun07-01.jpg)
-![](/ssp/09Jun07-02.jpg)
-![](/ssp/09Jun07-03.jpg)
-![](/ssp/09Jun07-04.jpg)
-![](/ssp/09Jun07-05.jpg)
-![](/ssp/09Jun07-06.jpg)
-![](/ssp/09Jun07-07.jpg)
-![](/ssp/09Jun07-08.jpg)
-![](/ssp/09Jun07-09.jpg)
+![](/ssp/09Jun07-01.jpg){:.frame.center}
+![](/ssp/09Jun07-02.jpg){:.frame.center}
+![](/ssp/09Jun07-03.jpg){:.frame.center}
+![](/ssp/09Jun07-04.jpg){:.frame.center}
+![](/ssp/09Jun07-05.jpg){:.frame.center}
+![](/ssp/09Jun07-06.jpg){:.frame.center}
+![](/ssp/09Jun07-07.jpg){:.frame.center}
+![](/ssp/09Jun07-08.jpg){:.frame.center}
+![](/ssp/09Jun07-09.jpg){:.frame.center}
