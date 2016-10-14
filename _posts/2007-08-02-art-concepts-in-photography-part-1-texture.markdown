@@ -20,37 +20,9 @@ tags:
 - technique
 - texture
 comments:
-- id: 912
-  author: photographyVoter.com
-  author_email: ''
-  author_url: http://photographyvoter.com/story.php?id=1575
-  date: '2007-08-03 01:20:37 -0400'
-  date_gmt: '2007-08-03 05:20:37 -0400'
-  content: |-
-    Art Concepts in Photography: Texture...
-
-    In photography, texture can play a significant aesthetic role. With help from its best friend contrast, texture adds important tactile cues that can give the viewer an immediate experience of what they’re looking at....
-- id: 914
-  author: Ed Z
-  author_email: ed@edzarts.com
-  author_url: http://www.f1point0.com
-  date: '2007-08-03 09:17:10 -0400'
-  date_gmt: '2007-08-03 13:17:10 -0400'
-  content: Great article!  I am also a painter as well as photographer, and I do a
-    lot of heavily textural painting work.  It is really interesting to see the same
-    ideas and aesthetic principles applied to photography.
-- id: 917
-  author: M.E.B.
-  author_email: aardvarkartstudio@sbcglobal.net
-  author_url: ''
-  date: '2007-08-10 14:08:32 -0400'
-  date_gmt: '2007-08-10 18:08:32 -0400'
-  content: |-
-    Aaron,
-
-    Though my question has little to do with your most recent article, I find that the expertise you've shared since I began following your site to be compelling and hope that you can provide me an answer that will serve my needs.  I have seen many digital photos over the years, some pretty dismal and some pretty spectacular.  My question was born out of seeing, for the first time, an exhibition comprised of 150 works by Ansel Adams, which were nearly all "Silver Gelatin" prints.  My question is (setting aside for the moment the composition, line, form and majestic beauty of many of the locations) can any digital print be made in such a way that a knowledgeable observer would not be able to distinguish it from a print made using the silver gelatin method?
 ---
-$image:right![](/ssp/27Mar07-01.jpg$)
+
+![](/ssp/27Mar07-01.jpg){:.random-right}
 
 Having spent most of my developing years surrounded by it, I have always
 taken for granted many of the fundamental guidelines of art. Perhaps due
@@ -71,9 +43,10 @@ So let's get started! Today I'll be discussing _texture_.~~MORE~~
 
 So what exactly is texture?
 
-bq. *texture* _adj._ (pl. *textures*)
- \# The feel or shape of a surface or substance; the smoothness,
-roughness, softness, etc. of something
+**texture** _adj._ (pl. *textures*)
+
+1. The feel or shape of a surface or substance; the smoothness, roughness,
+   softness, etc. of something
 
 In painting, texture is sometimes used to add dimension to a piece
 beyond its mere color and shape. The technique of building up thick
@@ -91,7 +64,7 @@ immediate experience of what they're looking at.
 
 Behold, _Figure 1_.
 
-![](/ssp/27Mar07-01.jpg)
+![](/ssp/27Mar07-01.jpg){:.frame.center}
 
 I made this photograph at the park in March while I was sitting around
 watching people fly their kites and throw their Frisbees. It's actually
@@ -111,7 +84,7 @@ all formed through contrast. Keep that in mind.
 
 Now, _Figure 2_.
 
-![](/ssp/27Mar07-02.jpg)
+![](/ssp/27Mar07-02.jpg){:.frame.center}
 
 Tree bark is a ubiquitous source of texture in photography--and for good
 reason. In this image, the light through the branches of the tree
@@ -132,7 +105,7 @@ at times that are inappropriate for your preferred style.
 
 Finally, _Figure 3_.
 
-![](/ssp/27Mar07-03.jpg)
+![](/ssp/27Mar07-03.jpg){:.frame.center}
 
 In the above piece, texture is only one player on a team of
 compositional tools including contrast, line, form, and depth; design
