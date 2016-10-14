@@ -30,7 +30,7 @@ naming and organizing photos and show you how to set up some scripts to
 make things easier for you.
 
 You have a bunch of pretty photos; shouldn't they have pretty
-names?<span id="more"></span><span id="more-104"></span>
+names?~~MORE~~
 
 I always name my photographs. Even if the names are sometimes trite or
 clichéd, I think that any photo that has worked its way into the gallery

@@ -149,8 +149,7 @@ brings to the act of duplication and distribution of their work. Your
 ability as a photographer to understand and apply the tools and
 techniques available to protect your copyrights will contribute largely
 to how easily someone else can wrongly profit from your work and how
-easily you can seek remedies for that infringement.<span
-id="more"></span><span id="more-99"></span>
+easily you can seek remedies for that infringement.~~MORE~~
 
 This is a long article. I get into some detail about copyright law, the
 implications of at least two types of self-attribution you can use to

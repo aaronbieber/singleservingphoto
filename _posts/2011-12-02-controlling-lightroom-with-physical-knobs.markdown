@@ -31,7 +31,7 @@ Never fear, there is finally a solution. Well, the beginning of a
 solution. A solution in the early stages of beta testing, but a solution
 nonetheless, and it doesn't involve uninstalling Lightroom and eating
 more cheesecake. Although you are welcome to eat more cheesecake anyway
-if that's your thing.<span id="more"></span><span id="more-1226"></span>
+if that's your thing.~~MORE~~
 
 [![](http://singleservingphoto.com/wp-content/uploads/2011/12/BCR2000-P0245-Reflective-web-300x295.png "Behringer BCR2000")](http://singleservingphoto.com/wp-content/uploads/2011/12/BCR2000_P0245_Reflective_web.png)
 

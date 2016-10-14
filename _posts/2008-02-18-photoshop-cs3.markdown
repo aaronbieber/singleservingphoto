@@ -30,8 +30,7 @@ Design Premium CS3 and bit the bullet. Hard.
 
 After the jump, a *list* of my first impressions, tips, and a
 selection of articles from other places that may be helpful for anyone
-making the transition to CS3... Which I *highly* recommend.<span
-id="more"></span><span id="more-172"></span>
+making the transition to CS3... Which I *highly* recommend.~~MORE~~
 
 First, things that I noticed, and that I like about the CS3 programs:
 

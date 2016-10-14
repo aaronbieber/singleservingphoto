@@ -32,8 +32,7 @@ if there was one completely correct answer, it would already be known.
 
 Today I will dive into the briar patch and outline the pros and cons of
 both sides of the debate so that you can make a more fully informed
-decision about what equipment to buy.<span id="more"></span><span
-id="more-121"></span>
+decision about what equipment to buy.~~MORE~~
 
 ## What Is It?
 

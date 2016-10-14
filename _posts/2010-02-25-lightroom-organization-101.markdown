@@ -36,7 +36,7 @@ terminology will be Lightroom-specific.
 For the record, I use Lightroom on a Mac and chose it because of Adobe's
 openness to beta testing and feedback from the photography community,
 which I believe has made Lightroom the best tool for the job. Let's get
-to it.<span id="more"></span><span id="more-539"></span>
+to it.~~MORE~~
 
 ## Organizing Files on Disk
 

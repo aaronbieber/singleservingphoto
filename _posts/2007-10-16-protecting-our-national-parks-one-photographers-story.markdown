@@ -63,8 +63,7 @@ environment and so today I will talk about it.
 
 This is my contribution to Blog Action Day, joining 15,000 fellow
 bloggers in raising awareness of environmental issues. (Yes, I know it
-was yesterday. Better late than never!)<span id="more"></span><span
-id="more-149"></span>
+was yesterday. Better late than never!)~~MORE~~
 
 National parks are truly environmental treasures. Not only does the
 National Park Service protect the land, geology, and flora of the parks,

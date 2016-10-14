@@ -152,7 +152,7 @@ into a weird, incomplete Lightroom interface that has no side panels and
 no film strip.
 
 Having battled this error two different times now, I am confident I can
-offer some advice.<span id="more"></span><span id="more-153"></span>
+offer some advice.~~MORE~~
 
 The first time I encountered this error was in Lightroom 1.1. I normally
 import my photos using Image Capture so they receive custom icons (Image

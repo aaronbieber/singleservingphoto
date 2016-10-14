@@ -34,8 +34,7 @@ Things have changed a lot since then; it's now possible to do amazing
 things long after the light has been captured by the camera. Today I'm
 going to explore some competing points of view and take a philosophical
 walk through the annals of photographic history to clear up some
-improper perceptions of digital post-processing.<span
-id="more"></span><span id="more-124"></span>
+improper perceptions of digital post-processing.~~MORE~~
 
 ## First, Some History
 

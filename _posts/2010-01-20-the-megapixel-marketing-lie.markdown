@@ -88,7 +88,7 @@ point-and-shoot cameras with tiny little CCD sensors who keep increasing
 the megapixel count and marketing it like it's the end-all be-all of
 imaging performance.
 
-Not so! Read on... <span id="more"></span><span id="more-352"></span>
+Not so! Read on... ~~MORE~~
 
 This issue surfaced when a nameless blogger (literally, I have no idea
 who this person is) posted an article (you might call it a "diatribe")

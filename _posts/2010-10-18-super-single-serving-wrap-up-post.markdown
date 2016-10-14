@@ -36,8 +36,7 @@ record and analyze the traffic on this site. I thought, since this is
 sort of an anniversary of the blog, it would be appropriate to share
 some of the gems from these last four years that I have on record.
 
-Without further ado, the *Super Single-Serving Wrap-Up*!<span
-id="more"></span><span id="more-797"></span>
+Without further ado, the *Super Single-Serving Wrap-Up*!~~MORE~~
 
 ## Top Five Most-Read Posts
 

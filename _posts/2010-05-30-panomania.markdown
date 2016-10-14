@@ -40,8 +40,7 @@ of Mac-exclusive ones, and so on. AutoPano Giga is so easy and so fast
 and so accurate, it blows them all out of the water. Of course it also
 costs an arm and a leg, but at least you know why.
 
-After the break, actual panoramas!<span id="more"></span><span
-id="more-689"></span>
+After the break, actual panoramas!~~MORE~~
 
 One of the awesome things about AutoPano Giga is that it reads the EXIF
 data from your photos to figure out what kind of lens you used, and then

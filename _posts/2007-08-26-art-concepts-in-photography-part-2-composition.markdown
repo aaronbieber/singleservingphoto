@@ -93,8 +93,7 @@ When we say "composition," we refer not only to the relative locations
 of the points of interest in a piece (which is the most discussed
 aspect), but also to their sizes, shapes, colors, and other variables
 that contribute to the balance (or imbalance) of the work. That's what
-we're going to look at today.<span id="more"></span><span
-id="more-137"></span>
+we're going to look at today.~~MORE~~
 
 ## The Rule of Thirds
 

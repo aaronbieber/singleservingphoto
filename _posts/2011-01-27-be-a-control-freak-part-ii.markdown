@@ -36,7 +36,7 @@ semi-pro by providing all of these different shooting modes, and even
 though I still believe you only need three, it's not unusual to see mode
 dials with 11 or 12 settings on them! _You don't need all those
 settings to get full control!_ Haje Jan Kamps helps me explain after
-the break.<span id="more"></span><span id="more-849"></span>
+the break.~~MORE~~
 
 I've written about this before in [Be a Control Freak (Shooting Modes
 Explained)](/articles/2007/05/29/be-a-control-freak-shooting-modes-explained/),

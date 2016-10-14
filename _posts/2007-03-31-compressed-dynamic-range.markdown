@@ -90,8 +90,7 @@ Photoshop's histogram palette). Notice how photo \#1's histogram is
 biased toward shadow data and photo \#2's is biased toward highlight
 data. You can see from the pictures themselves that \#1 has a much
 cooler looking sky, while \#2 has the detail you would probably want in
-the subject (in this case, a humble charcoal grill).<span
-id="more"></span><span id="more-97"></span>
+the subject (in this case, a humble charcoal grill).~~MORE~~
 
 If you had a copy of Photomatix, you could just provide it with these
 two photos and off it would go. I, myself, don't have a copy of

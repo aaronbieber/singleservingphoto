@@ -50,8 +50,7 @@ more that the available information tends to skip _the fundamentals_.
 In short, I love [Strobist](http://www.strobist.com) very much (and I'm
 not alone), but I felt left in the dark (pun intended) about a couple of
 small items after reading a recent post and I felt I should share the
-answers I came up with.<span id="more"></span><span
-id="more-141"></span>
+answers I came up with.~~MORE~~
 
 ## Land of Confusion
 

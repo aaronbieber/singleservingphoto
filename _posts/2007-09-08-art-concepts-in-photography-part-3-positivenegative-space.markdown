@@ -62,7 +62,7 @@ In this, the third bite of our _feast of art knowledge_, I will talk
 about an elusive concept called positive and negative space.
 Traditionally, negative space is defined as the "empty" areas within an
 image. As you will soon see, even that which is empty can be very
-tangible.<span id="more"></span><span id="more-143"></span>
+tangible.~~MORE~~
 
 Let's start with the most classic demonstration of positive and negative
 space at work:

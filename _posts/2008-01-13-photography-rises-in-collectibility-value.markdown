@@ -69,8 +69,7 @@ sold at auction for more than \$100 million apiece), the world of fine
 art collectors has seldom been penetrated by even the most renowned
 photographers.
 
-This, however, is changing.<span id="more"></span><span
-id="more-165"></span>
+This, however, is changing.~~MORE~~
 
 Some of the most valuable photographs hold their rank by virtue of
 historic value, such as Edward Steichen's _The Pond-Moonlight_, which

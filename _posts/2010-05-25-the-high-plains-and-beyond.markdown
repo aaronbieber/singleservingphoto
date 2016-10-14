@@ -40,8 +40,7 @@ of the Teton range I took yesterday).
 Although the landscapes are breathtakingly (and effortlessly) beautiful,
 photographing out here in these western mountain parks presents its own
 challenges, and I'd like to share with you what I've learned so far
-about successfully shooting in Rocky Mountain and Grand Teton.<span
-id="more"></span><span id="more-661"></span>
+about successfully shooting in Rocky Mountain and Grand Teton.~~MORE~~
 
 The major challenges that face a photographer in the Colorado/Wyoming
 parks are:

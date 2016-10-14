@@ -82,7 +82,7 @@ about what it is you're gaining from it. This is going to be a heady
 philosophical post so if that's not your particular brand of vodka,
 [read some photo
 news](http://www.google.com/reader/shared/user/15563285598058491045/label/photography)
-instead.<span id="more"></span><span id="more-128"></span>
+instead.~~MORE~~
 
 While reading related material in preparation for this post, I came
 across this quote by famed director and cinematographer [Michelangelo

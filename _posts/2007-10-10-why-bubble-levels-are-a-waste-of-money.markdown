@@ -152,7 +152,7 @@ equipment with a bubble level built into it somewhere. Tripods, ball
 heads, camera brackets, and even little standalone levels that clip into
 your hot shoe like the one shown above (made by Hakuba). Do I think
 these products are clever? Absolutely. Do I recommend purchasing one?
-Not really.<span id="more"></span><span id="more-148"></span>
+Not really.~~MORE~~
 
 If you're building a house, making sure things are level is pretty
 important. You probably wouldn't want to walk uphill from your living

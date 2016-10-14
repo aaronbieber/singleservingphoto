@@ -27,8 +27,7 @@ to print your images nonetheless, whether it be for presentation; to
 give as gifts; to make cards, calendars, or other products; or to
 wallpaper your bathroom (snap a quick photo of that if you do!)
 
-Here are some services that may come to your aid.<span
-id="more"></span><span id="more-169"></span>
+Here are some services that may come to your aid.~~MORE~~
 
 ## Pro Printing
 

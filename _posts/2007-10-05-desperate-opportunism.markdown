@@ -24,8 +24,7 @@ trip in the hopes of maximizing photographic potential. I believe that
 is a mistake.
 
 It's essential to plan for certain things, but the rest... Well, I leave
-it to chance. I'll tell you why.<span id="more"></span><span
-id="more-146"></span>
+it to chance. I'll tell you why.~~MORE~~
 
 While photographing in Yosemite National Park (a totally gorgeous
 place), I became acquainted with a man whom I will refer to only as

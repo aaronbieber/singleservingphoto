@@ -37,7 +37,7 @@ network you can have your _own_ whiteboard. You can put it right next
 to your desk if you want to.
 
 Of course, absolutely none of this matters. I should get to the
-point.<span id="more"></span><span id="more-1125"></span>
+point.~~MORE~~
 
 Tom Anderson left MySpace in 2009 and now he's just like this sort of
 semi-iconic tech nerd floating around posting funny videos on Google

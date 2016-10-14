@@ -31,8 +31,7 @@ The National Mall opens at around 10 AM, but even at 3 PM there are
 still plenty of good spots by the Lincoln Memorial, so there's no need
 to hurry. The real challenge, it would seem, is the complete and total
 lack of information about the strategy and considerations of shooting in
-the heart of the nation's capital.<span id="more"></span><span
-id="more-716"></span>
+the heart of the nation's capital.~~MORE~~
 
 Have you ever searched for photographs of the D.C. fireworks? You should
 give it a try. Go ahead, I'll wait.

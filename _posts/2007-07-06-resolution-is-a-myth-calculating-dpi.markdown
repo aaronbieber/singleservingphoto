@@ -163,7 +163,7 @@ important part of that question _missing_ (best resolution _for
 what_?) but it's marinaded in thick and juicy misconceptions about what
 _resolution_ really means.
 
-Resolution is a myth.<span id="more"></span><span id="more-132"></span>
+Resolution is a myth.~~MORE~~
 
 The word "resolution" itself refers to the clarity of an image; to the
 detail visible in it. Technologically speaking, clarity is measured by

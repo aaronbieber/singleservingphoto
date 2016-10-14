@@ -86,8 +86,7 @@ to add chapters to this series as I figure out new methods, but
 hopefully you can start saving time right off the bat with some of these
 tips!
 
-Today's topic is *exporting* and *watermarking*.<span
-id="more"></span><span id="more-103"></span>
+Today's topic is *exporting* and *watermarking*.~~MORE~~
 
 For starters, I'm using a Mac and I'm using Adobe Lightroom 1.0. If you
 use different software or a different platform, a lot of this probably

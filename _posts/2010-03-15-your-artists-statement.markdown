@@ -39,7 +39,7 @@ exercise for your own self-exploration; sometimes being forced to put
 your motivations into words can help you to focus yourself creatively.
 
 Read the rest of the article for tips on writing your own kick-ass
-artist's statement!<span id="more"></span><span id="more-584"></span>
+artist's statement!~~MORE~~
 
 I was reading this article by guest author Chris Folsom on Digital
 Photography School about how to write an artist's statement (you can

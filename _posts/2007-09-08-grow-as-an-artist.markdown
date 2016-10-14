@@ -32,8 +32,7 @@ interests you, and
 Emulation is very common, especially when getting started in art, and
 exploring subject matter of interest to you essentially describes
 _doing_ art, so I'm sure you do that already. *Critique, however, is
-where many artists are weakest.*<span id="more"></span><span
-id="more-142"></span>
+where many artists are weakest.*~~MORE~~
 
 Participating in critique means two things: evaluating the work of
 others and considering others' evaluations of your work.

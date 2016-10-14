@@ -91,8 +91,7 @@ Because there are so many nuances to the ways in which creators may wish
 for their work to be used by others, the Creative Commons emerged,
 creating whole new gradations within the copyright system. Now, rather
 than saying "all rights reserved," we can easily say "some rights
-reserved" and call upon a pile of pre-written legalese. Good idea?<span
-id="more"></span><span id="more-129"></span>
+reserved" and call upon a pile of pre-written legalese. Good idea?~~MORE~~
 
 ## Understanding Copyright
 

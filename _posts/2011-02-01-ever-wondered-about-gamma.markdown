@@ -50,8 +50,7 @@ Yup, that's gamma.
 Additionally, if you are friends with other photographers and they don't
 know what gamma is or how it works, you might come out of this looking
 like a rockstar. At least to the extent that rockstars are knowledgeable
-about non-linear power-law expressions.<span id="more"></span><span
-id="more-921"></span>
+about non-linear power-law expressions.~~MORE~~
 
 So what is gamma? Aside from being the third letter in the Greek
 alphabet and a type of brain wave, the word "gamma" is used in imaging

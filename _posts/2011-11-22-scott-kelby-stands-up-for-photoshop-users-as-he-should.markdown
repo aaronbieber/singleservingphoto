@@ -34,8 +34,7 @@ Few people in the world know any of this better than Scott Kelby. As the
 president of the National Association of Photoshop Professionals (by the
 way, you know your software is influential when a 70,000-member
 association springs up around it), he is intimately in touch with the
-pulse of the Photoshop user and the photography industry.<span
-id="more"></span><span id="more-1188"></span>
+pulse of the Photoshop user and the photography industry.~~MORE~~
 
 As a sidebar here, let me just say, from my personal experience through
 the years, that Adobe is a stand-up company, at least as far as publicly

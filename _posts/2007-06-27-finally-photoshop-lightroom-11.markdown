@@ -31,8 +31,7 @@ enhancements.
 First, if you have Lightroom and it hasn't already popped up and told
 you to [download the
 upgrade](http://www.adobe.com/products/photoshoplightroom), you should
-seriously click over there and do that.<span id="more"></span><span
-id="more-130"></span>
+seriously click over there and do that.~~MORE~~
 
 When I went out to [Yosemite National
 Park](http://www.fisheyegallery.com/Places/Yosemite) and [Santa

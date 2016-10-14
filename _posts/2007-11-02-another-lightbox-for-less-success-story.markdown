@@ -90,8 +90,7 @@ get that snappy catalog look.
 I got together with Eli and got him to explain how he constructed a very
 serviceable lightbox for _less than \$20_. We also talked a bit about
 post-processing and how to streamline the task of readying hundreds of
-product shots for the web without going insane.<span
-id="more"></span><span id="more-155"></span>
+product shots for the web without going insane.~~MORE~~
 
 A couple of weeks ago, Eli called me up and told me that he wanted to
 make his product photos look more like what Apple does on their website,

@@ -116,8 +116,7 @@ States laws: what you are legally permitted to photograph; what, if any,
 argument you should be willing to put up with from certain officials;
 and some of my own experiences.
 
-Please come in, photography is allowed.<span id="more"></span><span
-id="more-131"></span>
+Please come in, photography is allowed.~~MORE~~
 
 ## What Are Your Rights?
 
