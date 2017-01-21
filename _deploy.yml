@@ -1,8 +1,9 @@
 method: rsync
 site_dir: _site
 
-user: aaronbieber@thrain.dreamhost.com
-remote_path: /home/aaronbieber/singleservingphoto.com/
+user: airborne@singleservingphoto.com
+remote_path: /var/www/singleservingphoto.com/htdocs/
+
 delete: true
 port:
 flags: -avz
