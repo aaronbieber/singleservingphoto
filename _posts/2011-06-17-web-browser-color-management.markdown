@@ -19,7 +19,7 @@ tags:
 - management
 comments: []
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2011/06/colorwheel-288x300.png "Color wheel")](http://singleservingphoto.com/wp-content/uploads/2011/06/colorwheel.png)
+[![](/wp-content/uploads/2011/06/colorwheel-288x300.png "Color wheel")](/wp-content/uploads/2011/06/colorwheel.png)
 
 I've written articles in the past about color management--you know, ICC
 profiles, calibration, metamerism, blah blah blah--but the world keeps

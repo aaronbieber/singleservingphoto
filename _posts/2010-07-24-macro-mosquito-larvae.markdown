@@ -20,7 +20,7 @@ tags:
 comments: []
 ---
 [![(c)
-Burrard-Lucas.com](http://singleservingphoto.com/wp-content/uploads/2010/07/set-up-300x199.jpg "Lighting Setup")](http://digital-photography-school.com/macro-photography-mosquitoes-emerging)
+Burrard-Lucas.com](/wp-content/uploads/2010/07/set-up-300x199.jpg "Lighting Setup")](http://digital-photography-school.com/macro-photography-mosquitoes-emerging)
 
 Remember when I [told you
 about](/articles/2010/04/21/burrard-lucases-and-the-beetlecam/)

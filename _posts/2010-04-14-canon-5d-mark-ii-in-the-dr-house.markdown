@@ -22,7 +22,7 @@ tags:
 - television
 comments: []
 ---
-![](http://singleservingphoto.com/wp-content/uploads/2010/04/House_in_the_5DII-300x300.jpg "Dr. House in the 5D II")
+![](/wp-content/uploads/2010/04/House_in_the_5DII-300x300.jpg "Dr. House in the 5D II")
 
 The Internet is all a-flutter about this [announcement Greg Yaitanes
 made](http://twitter.com/GregYaitanes/status/11731103539) via Twitter

@@ -22,7 +22,7 @@ tags:
 - mtf
 comments: []
 ---
-[![MTF at 24mm](http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7-150x150.png "MTF at 24mm")](http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7.png)
+[![MTF at 24mm](/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7-150x150.png "MTF at 24mm")](/wp-content/uploads/2011/12/Screen-shot-2011-12-05-at-7.png)
 
 Today on Single-Serving Photo I'm bringing you something a little bit
 different. Instead of news stories about amazing photographers, press

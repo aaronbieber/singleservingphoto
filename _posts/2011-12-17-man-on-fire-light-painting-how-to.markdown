@@ -20,7 +20,7 @@ tags:
 - night
 comments: []
 ---
-!["Man on Fire"](http://singleservingphoto.com/wp-content/uploads/2011/12/Screen-shot-2011-12-17-at-10.png ""Man on Fire"")
+!["Man on Fire"](/wp-content/uploads/2011/12/Screen-shot-2011-12-17-at-10.png ""Man on Fire"")
 
 Dennis Calvert shares a really neat light painting technique on his blog
 that he calls "Man on Fire." It basically involves creating a darkened

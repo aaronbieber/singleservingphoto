@@ -29,7 +29,7 @@ comments:
   date_gmt: '2012-01-20 06:42:53 -0500'
   content: I really enjoyed this article. Bravo!!
 ---
-[![Lytro](http://singleservingphoto.com/wp-content/uploads/2011/11/lytro-300x262.png "Lytro")](http://singleservingphoto.com/wp-content/uploads/2011/11/lytro.png)
+[![Lytro](/wp-content/uploads/2011/11/lytro-300x262.png "Lytro")](/wp-content/uploads/2011/11/lytro.png)
 
 It is easy to say that we are "standing at the crossroads." Occasionally
 it's even true, but the expression sounds so important, it evokes such
@@ -51,7 +51,7 @@ a TV remote that allows you to take a picture and choose a focal point
 later.
 
 [![Leica
-M9](http://singleservingphoto.com/wp-content/uploads/2011/11/steel-grey-300x226.png "Leica M9")](http://singleservingphoto.com/wp-content/uploads/2011/11/steel-grey.png)
+M9](/wp-content/uploads/2011/11/steel-grey-300x226.png "Leica M9")](/wp-content/uploads/2011/11/steel-grey.png)
 
 The Lytro camera adds "focal point" to the list of characteristics that
 can be changed through software long after the photo has been taken.

@@ -56,7 +56,7 @@ when parts of the scene move a lot from one image to the next it can
 cause ghosting and stitching issues). Click for a larger view.
 
 [![Black Sand Basin Panorama (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/black-sand-basin-pano-590x288.jpg "Black Sand Basin Panorama (c) Aaron Bieber")](http://singleservingphoto.com/wp-content/uploads/2010/05/black-sand-basin-pano.jpg)
+Bieber](/wp-content/uploads/2010/05/black-sand-basin-pano-590x288.jpg "Black Sand Basin Panorama (c) Aaron Bieber")](/wp-content/uploads/2010/05/black-sand-basin-pano.jpg)
 
 I think you get more of a sense of the vastness of a space from a good
 panoramic image. This place is as big as it looks.
@@ -70,13 +70,13 @@ actually a somewhat average afternoon sky in Wyoming, required the
 capture of a panorama.
 
 [![Cunningham Cabin Panorama (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/cunningham-cabin-pano-590x168.jpg "Cunningham Cabin Panorama (c) Aaron Bieber")](http://singleservingphoto.com/wp-content/uploads/2010/05/cunningham-cabin-pano.jpg)
+Bieber](/wp-content/uploads/2010/05/cunningham-cabin-pano-590x168.jpg "Cunningham Cabin Panorama (c) Aaron Bieber")](/wp-content/uploads/2010/05/cunningham-cabin-pano.jpg)
 
 Of course, what you can't tell by looking at it on this blog is that at
 actual size, it's this big:
 
 ![Cunningham Cabin Pano Detail (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/cunningham-cabin-pano-inset-590x344.jpg "Cunningham Cabin Pano Detail (c) Aaron Bieber")
+Bieber](/wp-content/uploads/2010/05/cunningham-cabin-pano-inset-590x344.jpg "Cunningham Cabin Pano Detail (c) Aaron Bieber")
 
 The total dimensions of this panorama are 11,154 by 3,186 pixels. I
 could make a very respectable five-foot-wide print of this image with
@@ -92,7 +92,7 @@ what AutoPano Giga could do with them.
 Click to embiggen!
 
 [![Snow Tree Panorama (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/snow-tree-pano-590x180.jpg "Snow Tree Panorama (c) Aaron Bieber")](http://singleservingphoto.com/wp-content/uploads/2010/05/snow-tree-pano.jpg)
+Bieber](/wp-content/uploads/2010/05/snow-tree-pano-590x180.jpg "Snow Tree Panorama (c) Aaron Bieber")](/wp-content/uploads/2010/05/snow-tree-pano.jpg)
 
 I did this one on my laptop, so in order to make it possible I exported
 the original 53 images from Lightroom at about 800 pixels wide. If you
@@ -135,7 +135,7 @@ cropped down. Here is what the Cunningham Cabin panorama looked like
 before cropping:
 
 ![Cunningham Cabin Panorama, Raw (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/cunningham-cabin-pano-raw-590x236.jpg "Cunningham Cabin Panorama, Raw (c) Aaron Bieber")
+Bieber](/wp-content/uploads/2010/05/cunningham-cabin-pano-raw-590x236.jpg "Cunningham Cabin Panorama, Raw (c) Aaron Bieber")
 
 As you can see, you generally want to photograph beyond the edges of
 what the final panorama will include, because after distorting and

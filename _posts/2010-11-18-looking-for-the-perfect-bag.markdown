@@ -19,7 +19,7 @@ tags:
 - website
 comments: []
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2010/10/2010-10-18_144136.png "Bag Exposure")](http://www.bagexposure.com)
+[![](/wp-content/uploads/2010/10/2010-10-18_144136.png "Bag Exposure")](http://www.bagexposure.com)
 
 Yeah, I bet you are. I have around five bags, both shoulder bags and
 backpacks; in my circle of friends that's a _low number_. It seems

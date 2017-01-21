@@ -18,7 +18,7 @@ tags:
 - olympus
 comments: []
 ---
-[![Shuichi Takayama, photographed by Tomohiro Ohsumi for Bloomberg](http://singleservingphoto.com/wp-content/uploads/2011/11/Shuichi_Takayama-300x228.png "Shuichi Takayama")](http://singleservingphoto.com/wp-content/uploads/2011/11/Shuichi_Takayama.png)
+[![Shuichi Takayama, photographed by Tomohiro Ohsumi for Bloomberg](/wp-content/uploads/2011/11/Shuichi_Takayama-300x228.png "Shuichi Takayama")](/wp-content/uploads/2011/11/Shuichi_Takayama.png)
 
 It's a sad day for Olympus, the venerable maker of both artistic and scientific
 optics equipment based in Japan. Business news outlets are reporting that

@@ -39,7 +39,7 @@ comments:
     definitely <em>the</em>Â Lightroom guy! Credit where credit is due!</p>'
 ---
 [![The Photoshop
-Guys](http://singleservingphoto.com/wp-content/uploads/2011/12/the-photoshop-guys-300x207.png "The Photoshop Guys")](http://singleservingphoto.com/wp-content/uploads/2011/12/the_photoshop_guys.png)
+Guys](/wp-content/uploads/2011/12/the-photoshop-guys-300x207.png "The Photoshop Guys")](/wp-content/uploads/2011/12/the_photoshop_guys.png)
 
 You remember the National Association of Photoshop Professionals? NAPP?
 Their president, Scott Kelby, is like _the_ Photoshop guy, he teaches

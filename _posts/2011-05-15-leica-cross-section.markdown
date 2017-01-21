@@ -23,7 +23,7 @@ full articles, but in the meantime, feast your eyes on this exquisitely
 detailed cross-section of a Leica lens. Just in case you were curious
 why these things are so expensive...
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/05/leica.jpg "Leica Cross-Section")](http://singleservingphoto.com/wp-content/uploads/2011/05/leica.jpg)
+[![](/wp-content/uploads/2011/05/leica.jpg "Leica Cross-Section")](/wp-content/uploads/2011/05/leica.jpg)
 
 After careful inspection, I can confidently say that these are two
 photos of the same half of the lens from either side. I have no idea why

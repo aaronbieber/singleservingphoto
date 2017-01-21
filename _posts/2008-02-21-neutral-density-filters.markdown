@@ -126,7 +126,7 @@ Never forget an essential piece of gear again!
 
 ## The Best ND Filters
 
-![](http://singleservingphoto.com/wp-content/uploads/2008/02/bw_logo-134x150.png "B+W Filter")
+![](/wp-content/uploads/2008/02/bw_logo-134x150.png "B+W Filter")
 
 When it comes to ND filters, some of the best are made by B+W. Sure, you
 can get ND filters from Formatt or Tiffen, but if you want the best fit

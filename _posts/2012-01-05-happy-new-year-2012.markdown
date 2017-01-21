@@ -18,8 +18,8 @@ tags:
 - Toronto
 - pinhole
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2012/01/705b87dd4321b6babfd4bb4febeb-300x181.png
-"Michael Chrisman's year-long photo")](http://singleservingphoto.com/wp-content/uploads/2012/01/705b87dd4321b6babfd4bb4febeb.jpeg)
+[![](/wp-content/uploads/2012/01/705b87dd4321b6babfd4bb4febeb-300x181.png
+"Michael Chrisman's year-long photo")](/wp-content/uploads/2012/01/705b87dd4321b6babfd4bb4febeb.jpeg)
 
 First and foremost, a happy new year to all of you, my lovely readers.
 Whether you check in now and then or have been a reader for several

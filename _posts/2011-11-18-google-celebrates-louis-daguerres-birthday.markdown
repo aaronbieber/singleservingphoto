@@ -30,7 +30,7 @@ comments:
     \r\n\r\nNo boiling Mercury, the copper was only a carrier for fine silver (I use
     silver sheet for my dags)\r\n\r\nOh, He died of a heart attack, not mercury poisoning."
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2011/11/google-daguerre-300x162.png "Google's Louis Daguerre Logo (Thumb)")](http://singleservingphoto.com/wp-content/uploads/2011/11/google_daguerre.png)
+[![](/wp-content/uploads/2011/11/google-daguerre-300x162.png "Google's Louis Daguerre Logo (Thumb)")](/wp-content/uploads/2011/11/google_daguerre.png)
 
 Today is Louis Daguerre's birthday, and Google is helping to celebrate
 it by devoting their logo to him. Happy 224th, buddy!

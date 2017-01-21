@@ -42,7 +42,7 @@ comments:
     they took down the last two. I''ll amend the post to indicate that; perhaps Google
     has a cache of them or something?'
 ---
-![](http://singleservingphoto.com/wp-content/uploads/2010/03/wildlife.jpg "BBC Wildlife Magazine")
+![](/wp-content/uploads/2010/03/wildlife.jpg "BBC Wildlife Magazine")
 
 Yes, you heard me. Free as in "no charge."
 
@@ -56,7 +56,7 @@ age of the Internet where any and all useful information is a click
 away, so rummaging through magazine back-issues is right out.
 
 ![Wildlife Photo
-Masterclass](http://singleservingphoto.com/wp-content/uploads/2010/03/photo_masterclass.jpg "Wildlife Photo Masterclass")
+Masterclass](/wp-content/uploads/2010/03/photo_masterclass.jpg "Wildlife Photo Masterclass")
 
 Fortunately for people like me, Wildlife has released all 12 "Photo
 Masterclass" articles in PDF format on their website for free download.

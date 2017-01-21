@@ -19,7 +19,7 @@ tags:
 - news
 comments: []
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2011/05/vega_polaroid.png "Vega Aircraft")](http://singleservingphoto.com/wp-content/uploads/2011/05/vega_polaroid.png)
+[![](/wp-content/uploads/2011/05/vega_polaroid.png "Vega Aircraft")](/wp-content/uploads/2011/05/vega_polaroid.png)
 
 The goal of photography is to capture a moment, an idea, a thought, or
 an event and suspend it in time. Whether it is journalistic, editorial,

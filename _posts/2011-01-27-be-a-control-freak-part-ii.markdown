@@ -22,7 +22,7 @@ comments: []
 ---
 ==\[caption id="attachment_851" align="alignright" width="150"
 caption="camera dial by Lee
-Reynolds"\][![](http://singleservingphoto.com/wp-content/uploads/2011/01/mode_dial-150x150.jpg "camera dial")](http://www.flickr.com/photos/lwr/13831684/)\[/caption\]==
+Reynolds"\][![](/wp-content/uploads/2011/01/mode_dial-150x150.jpg "camera dial")](http://www.flickr.com/photos/lwr/13831684/)\[/caption\]==
 
 Being an excellent photographer is 50% vision and 50% technical prowess.
 Seeing the art all around you is only useful for the photographer who
@@ -62,7 +62,7 @@ information...
 
 ## Learn Tips and Tricks for Real-Life Shooting
 
-![](http://singleservingphoto.com/wp-content/uploads/2011/01/kelbybooks.jpg "The Digital Photography Book(s)")
+![](/wp-content/uploads/2011/01/kelbybooks.jpg "The Digital Photography Book(s)")
 
 These three books are among the most straightforward guides to the
 real-life application of camera settings in a broad variety of

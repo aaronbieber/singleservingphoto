@@ -19,7 +19,7 @@ tags:
 - equipment
 ---
 
-![B&W ND Filter](http://singleservingphoto.com/wp-content/uploads/2010/02/bw-filter-150x103.jpg "B&W ND Filter")
+![B&W ND Filter](/wp-content/uploads/2010/02/bw-filter-150x103.jpg "B&W ND Filter")
 
 Have you heard of the fabled "neutral density" filter before? Whether or not you
 know what one is, I'm about to blow the lid off this mysterious piece of kit,

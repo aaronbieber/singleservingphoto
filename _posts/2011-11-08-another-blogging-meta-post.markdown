@@ -18,7 +18,7 @@ tags:
 - social
 comments: []
 ---
-[![ShareThis](http://singleservingphoto.com/wp-content/uploads/2011/11/1320754782522_a2b17.png "ShareThis")](http://singleservingphoto.com/wp-content/uploads/2011/11/1320754782522_a2b17.png)
+[![ShareThis](/wp-content/uploads/2011/11/1320754782522_a2b17.png "ShareThis")](/wp-content/uploads/2011/11/1320754782522_a2b17.png)
 
 I try not to gush too frequently over the changes and updates that I
 make to this blog. Especially when they don't really impact you, my dear

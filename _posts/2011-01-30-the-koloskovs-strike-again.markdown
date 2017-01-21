@@ -32,7 +32,7 @@ it.
 
 ==\[caption id="attachment_904" align="alignright" width="125"
 caption="Genia, AKELstudio\\'s Photoshop
-Mastermind"\]![](http://singleservingphoto.com/wp-content/uploads/2011/01/genia-118x150.jpg "Genia")\[/caption\]==
+Mastermind"\]![](/wp-content/uploads/2011/01/genia-118x150.jpg "Genia")\[/caption\]==
 
 Anyway, I really enjoyed Alex's high-key macro behind-the-scenes and
 some of his in-studio video tutorials on shooting products under water

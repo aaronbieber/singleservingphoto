@@ -28,7 +28,7 @@ comments:
   content: Interesting post, not just for photography but for calibrating monitors
     as well. Finally I truly understand gamma.
 ---
-![](http://singleservingphoto.com/wp-content/uploads/2011/02/gamma-150x133.png "Gamma")
+![](/wp-content/uploads/2011/02/gamma-150x133.png "Gamma")
 
 Have you ever wondered about that "gamma" thing you keep seeing? You
 nerd.
@@ -82,7 +82,7 @@ Here comes a graph, look out!
 
 ==\[caption id="attachment_924" align="aligncenter" width="381"
 caption="Gamma
-2.2"\][![](http://singleservingphoto.com/wp-content/uploads/2011/02/gamma_2.2_graph.png "Gamma 2.2 Graph")](http://singleservingphoto.com/wp-content/uploads/2011/02/gamma_2.2_graph.png)\[/caption\]==
+2.2"\][![](/wp-content/uploads/2011/02/gamma_2.2_graph.png "Gamma 2.2 Graph")](/wp-content/uploads/2011/02/gamma_2.2_graph.png)\[/caption\]==
 
 Now, the first question you should be asking is _Why would you want to
 change the luminance values in an image?_ and the answer is quite
@@ -96,7 +96,7 @@ first overtook CRTs in overall sales?
 ==\[caption id="attachment_939" align="aligncenter" width="300"
 caption="This is what a cathode ray tube looks like when it\\'s drawn in
 MS Paint by a crippled
-giraffe."\][![](http://singleservingphoto.com/wp-content/uploads/2011/02/crt-300x226.jpg "CRT")](http://singleservingphoto.com/wp-content/uploads/2011/02/crt.jpg)\[/caption\]==
+giraffe."\][![](/wp-content/uploads/2011/02/crt-300x226.jpg "CRT")](/wp-content/uploads/2011/02/crt.jpg)\[/caption\]==
 
 They had a pretty good run, I'd say. Well, cathode ray tubes have what
 they call a "triode characteristic," which basically means that the
@@ -150,7 +150,7 @@ I'm not even done yet!
 ## What Gamma Setting Should You Use?
 
 ==\[caption id="attachment_935" align="alignright" width="300"
-caption="Powerrrr!"\][![](http://singleservingphoto.com/wp-content/uploads/2011/02/powermac-300x200.jpg "Power Macintosh")](http://singleservingphoto.com/wp-content/uploads/2011/02/powermac.jpg)\[/caption\]==
+caption="Powerrrr!"\][![](/wp-content/uploads/2011/02/powermac-300x200.jpg "Power Macintosh")](/wp-content/uploads/2011/02/powermac.jpg)\[/caption\]==
 
 Once upon a time, when early Macs were the first home computers to have
 color screens and the ability to view and print color images, Apple

@@ -19,7 +19,7 @@ tags:
 - manipulation
 comments: []
 ---
-![](http://singleservingphoto.com/wp-content/uploads/2010/04/1860lincoln1.jpg "Lincoln Portrait")
+![](/wp-content/uploads/2010/04/1860lincoln1.jpg "Lincoln Portrait")
 
 I have a question to ask you. What do Santa Claus, this portrait of
 Lincoln, and great daytime television have in common?

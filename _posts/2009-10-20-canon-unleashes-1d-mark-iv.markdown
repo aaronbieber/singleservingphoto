@@ -27,7 +27,7 @@ and undoubtedly more, Canon has officially released the EOS-1D Mark IV,
 the latest digital SLR in their 1-series (â€œproâ€?) line.
 
 ![EOS-1D Mark
-IV](http://singleservingphoto.com/wp-content/uploads/2009/10/canon-eos-mark-iv-press-rm-eng1-287x300.jpg "EOS-1D Mark IV")
+IV](/wp-content/uploads/2009/10/canon-eos-mark-iv-press-rm-eng1-287x300.jpg "EOS-1D Mark IV")
 
 I find it somewhat amusing that they chose to throw on the EF 50mm f/1.4
 for their promo shoot; a lens that, for me, spontaneously stopped

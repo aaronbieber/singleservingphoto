@@ -27,7 +27,7 @@ Here's a little taste of what the final product looked like using his
 techniques (this is a 100% crop of the final photo, click for the full
 size version):
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/01/100-percent-crop-medical-brush-product-photography-example-237x300.jpg "100-percent-crop-medical-brush-product-photography-example")](http://singleservingphoto.com/wp-content/uploads/2011/01/100-percent-crop-medical-brush-product-photography-example.jpg)
+[![](/wp-content/uploads/2011/01/100-percent-crop-medical-brush-product-photography-example-237x300.jpg "100-percent-crop-medical-brush-product-photography-example")](/wp-content/uploads/2011/01/100-percent-crop-medical-brush-product-photography-example.jpg)
 
 [Head over to Alex's
 blog](http://www.akelstudio.com/blog/shooting-macro-on-a-white-background-simple-yet-very-useful-tricks/)

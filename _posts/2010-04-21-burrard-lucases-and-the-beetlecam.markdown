@@ -24,7 +24,7 @@ comments:
     a DSLR that these two British brothers would drive [...]'
 ---
 ![Johnny Five
-Alive!!](http://singleservingphoto.com/wp-content/uploads/2010/04/johnny-five-259x300.jpg "Johnny Five")
+Alive!!](/wp-content/uploads/2010/04/johnny-five-259x300.jpg "Johnny Five")
 
 It goes without saying that people are endeared to robots. Why, just
 look at that lovable Johnny Five over there, _the_ late-'80s childhood

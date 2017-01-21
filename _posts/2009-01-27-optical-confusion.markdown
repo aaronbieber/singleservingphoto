@@ -19,7 +19,7 @@ tags:
 - news
 comments: []
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2011/11/ex_firstdoubt-227x300.jpg "ex_firstdoubt")](http://singleservingphoto.com/wp-content/uploads/2011/11/ex_firstdoubt.jpg)
+[![](/wp-content/uploads/2011/11/ex_firstdoubt-227x300.jpg "ex_firstdoubt")](/wp-content/uploads/2011/11/ex_firstdoubt.jpg)
 
 Okay, so I missed the boat on this by a little bit, but I think it bears
 discussion anyway. Earlier this month, an exhibition came to a close at
@@ -39,7 +39,7 @@ general public, but you must admit that a composition that makes you
 scratch your head for a moment is going to hold your interest for that
 much longer.
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/11/youngwomanoldlady-213x300.jpg "youngwomanoldlady")](http://singleservingphoto.com/wp-content/uploads/2011/11/youngwomanoldlady.jpg)
+[![](/wp-content/uploads/2011/11/youngwomanoldlady-213x300.jpg "youngwomanoldlady")](/wp-content/uploads/2011/11/youngwomanoldlady.jpg)
 
 The idea of optical confusion is (clearly) not new. I'm sure you've all
 seen the classic young woman/old woman illusion (shown at left), which,
@@ -61,7 +61,7 @@ share of avid creators, and it would be challenging now to forge new
 territory (no pun intended) within that space. Nevertheless, we can all
 take a cue from the clever way that the image misleads the eye.
 
-[![](http://singleservingphoto.com/wp-content/uploads/2009/01/picture_3-300x231.png "Optical confusion")](http://singleservingphoto.com/wp-content/uploads/2009/01/picture_3.png)
+[![](/wp-content/uploads/2009/01/picture_3-300x231.png "Optical confusion")](/wp-content/uploads/2009/01/picture_3.png)
 
 The next time you're out photographing or sitting in front of Lightroom
 (you do use Lightroom, right?), think about how you might add tension

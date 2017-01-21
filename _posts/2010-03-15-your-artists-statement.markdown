@@ -26,7 +26,7 @@ comments:
 
     I googled "Writing a kick ass artist statement" and your website came up first.  I think the words "kick ass" made it easily searchable!  Thank you for the information you've supplied and your photography (especially the prison and Big Sur ones) are amazing!
 ---
-![](http://singleservingphoto.com/wp-content/uploads/2010/03/GirlWithTypewriter-300x299.jpg "Woman holding typewriter.")
+![](/wp-content/uploads/2010/03/GirlWithTypewriter-300x299.jpg "Woman holding typewriter.")
 
 What's that, you don't have an artist's statement? How do you expect
 people to understand all of your pretentious goals if you don't write an

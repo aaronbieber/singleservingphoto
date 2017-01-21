@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 ![Self-portrait at Porn Stand (c) Dennis
-Hopper](http://singleservingphoto.com/wp-content/uploads/2010/06/1119hopperB-199x300.jpg "Self-portrait at Porn Stand (c) Dennis Hopper")
+Hopper](/wp-content/uploads/2010/06/1119hopperB-199x300.jpg "Self-portrait at Porn Stand (c) Dennis Hopper")
 
 As I'm sure you've heard, Dennis Hopper passed away just days ago (the
 29th of May, 2010). As an actor, I personally loved his roles in such

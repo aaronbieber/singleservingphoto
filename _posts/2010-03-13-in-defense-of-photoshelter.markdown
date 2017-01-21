@@ -50,7 +50,7 @@ and friend [Chris](http://curiouslens.com) had been using Photoshelter
 for some time and had nothing but good things to say about it, it
 started at the top of my list.
 
-![](http://singleservingphoto.com/wp-content/uploads/2010/03/photoshelter.gif "Photoshelter")
+![](/wp-content/uploads/2010/03/photoshelter.gif "Photoshelter")
 
 This is a story about my experiences with Photoshelter and why you
 should probably stop reading right now and sign up. ~~MORE~~
@@ -76,7 +76,7 @@ Photoshelter, in spite of its few weaknesses, fit the bill.
 
 ## Photoshelter's Weaknesses
 
-![](http://singleservingphoto.com/wp-content/uploads/2010/03/Thumbs-down.jpg "Thumbs down")
+![](/wp-content/uploads/2010/03/Thumbs-down.jpg "Thumbs down")
 
 As a developer and as a perfectionist, I have my qualms about
 Photoshelter. Before I enumerate what I think are Photoshelter's weakest
@@ -112,7 +112,7 @@ support for.
 
 ## Photoshelter's Strengths
 
-![](http://singleservingphoto.com/wp-content/uploads/2010/03/Thumbs-up.jpg "Thumbs up")
+![](/wp-content/uploads/2010/03/Thumbs-up.jpg "Thumbs up")
 
 All that aside, Photoshelter is responsive to customer requests. I have
 submitted my qualms about these things to the company, and they have
@@ -148,7 +148,7 @@ volume licensing business to broaden its margins.
 
 ## Why Use Photoshelter?
 
-![](http://singleservingphoto.com/wp-content/uploads/2010/03/Confused-face-e1268404997164-266x300.jpg "Confused face")
+![](/wp-content/uploads/2010/03/Confused-face-e1268404997164-266x300.jpg "Confused face")
 
 Okay, so why should you want to pay a company 30 or more dollars per
 month to host your image gallery and go through the process of

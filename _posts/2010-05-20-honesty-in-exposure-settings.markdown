@@ -64,7 +64,7 @@ comments:
     to shoot in Tv with continuous shooting and AI Servo. Let's see how that works
     out. I might just wind up using the sports predefined mode."
 ---
-![](http://singleservingphoto.com/wp-content/uploads/2010/05/Camera-Iris-300x199.jpg "Camera Iris")
+![](/wp-content/uploads/2010/05/Camera-Iris-300x199.jpg "Camera Iris")
 
 Today I stumbled across this short blog post in the New York Times'
 technology section (a blog called Pogue's Posts, written by David Pogue)

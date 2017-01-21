@@ -26,7 +26,7 @@ There is a fairly good chance that if you were on the Internet around
 gone to lunch with him, or shaken his hand, or talked to him, or met
 him. But you were friends with him on MySpace... Because everyone was.
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/11/l-150x147.png "Tom Anderson")](http://singleservingphoto.com/wp-content/uploads/2011/11/l.png)
+[![](/wp-content/uploads/2011/11/l-150x147.png "Tom Anderson")](/wp-content/uploads/2011/11/l.png)
 
 Tom Anderson was the first president of MySpace and the guy who was
 automatically added to your friend list the moment you joined. Yeah,
@@ -63,7 +63,7 @@ notoriety). Anyway, Trey happened to have this neat toy--and this is
 where I will finally get to the point of the article, I promise--the
 Lenskirt with him.
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/11/lenskirt-19654-zoom-300x209.png "Lenskirt")](http://singleservingphoto.com/wp-content/uploads/2011/11/lenskirt__19654_zoom-e1321926912358.jpg)
+[![](/wp-content/uploads/2011/11/lenskirt-19654-zoom-300x209.png "Lenskirt")](/wp-content/uploads/2011/11/lenskirt__19654_zoom-e1321926912358.jpg)
 
 Such a simple idea, Lenskirt. It suction cups to the window and then
 attaches to your lens barrel with a sort of draw string deal. This

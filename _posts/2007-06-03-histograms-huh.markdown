@@ -358,7 +358,7 @@ screwed up anywhere along the way, please leave a comment!
 
 ## Lightroom, Lightroom, Lightroom, Lightroom
 
-![](http://singleservingphoto.com/wp-content/uploads/2007/06/Adobe-Photoshop-Lightroom-3-Software-for-Mac-Windows--150x150.jpg "Adobe Photoshop Lightroom 3 Software for Mac & Windows")
+![](/wp-content/uploads/2007/06/Adobe-Photoshop-Lightroom-3-Software-for-Mac-Windows--150x150.jpg "Adobe Photoshop Lightroom 3 Software for Mac & Windows")
 
 While reading histograms directly on your camera is the first step
 toward complete control of your exposure, no digital photographer should

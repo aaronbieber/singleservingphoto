@@ -83,7 +83,7 @@ comments:
     Thanks for dropping in, Hershel!
 ---
 ![Too many
-cameras!](http://singleservingphoto.com/wp-content/uploads/2010/03/Many-cameras-300x175.jpg "Too many cameras!")
+cameras!](/wp-content/uploads/2010/03/Many-cameras-300x175.jpg "Too many cameras!")
 
 On the long, long road to artistic enlightenment, one is beset on all
 sides by the temptations of fast advancement, of turn-key improvements

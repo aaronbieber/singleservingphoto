@@ -33,7 +33,7 @@ nonetheless, and it doesn't involve uninstalling Lightroom and eating
 more cheesecake. Although you are welcome to eat more cheesecake anyway
 if that's your thing.~~MORE~~
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/12/BCR2000-P0245-Reflective-web-300x295.png "Behringer BCR2000")](http://singleservingphoto.com/wp-content/uploads/2011/12/BCR2000_P0245_Reflective_web.png)
+[![](/wp-content/uploads/2011/12/BCR2000-P0245-Reflective-web-300x295.png "Behringer BCR2000")](/wp-content/uploads/2011/12/BCR2000_P0245_Reflective_web.png)
 
 No, friends, what I'm talking about is *Knobroom*. What is Knobroom?
 Knobroom is a plug-in for Lightroom written by Jarno Heikkinen. Now hold

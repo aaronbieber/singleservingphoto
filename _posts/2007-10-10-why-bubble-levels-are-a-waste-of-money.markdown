@@ -145,7 +145,7 @@ There may be a time and a place for a real bubble level, but I happen to
 think that it's in carpentry. I'll tell you why.
 
 ![Hakuba Bubble
-Level](http://singleservingphoto.com/wp-content/uploads/2007/10/HakubaLevel1.jpg "Hakuba Bubble Level")
+Level](/wp-content/uploads/2007/10/HakubaLevel1.jpg "Hakuba Bubble Level")
 
 In this day and age, you can buy nearly any piece of photographic
 equipment with a bubble level built into it somewhere. Tripods, ball

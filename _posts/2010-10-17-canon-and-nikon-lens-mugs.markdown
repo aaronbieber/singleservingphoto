@@ -22,7 +22,7 @@ comments:
   date_gmt: '2010-10-18 00:04:32 -0400'
   content: HAHA, those are cool!
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2010/10/Pre_Order_1_X_Ca_4b9a382b666ea-263x300.jpg "Canon 70-200 Coffee Mug")](http://www.canonmugs.com)
+[![](/wp-content/uploads/2010/10/Pre_Order_1_X_Ca_4b9a382b666ea-263x300.jpg "Canon 70-200 Coffee Mug")](http://www.canonmugs.com)
 
 When I first heard that Canon had made almost exact replica 70-200 f/4
 _coffee mugs_ for the Olympics in Vancouver, I had to have one.

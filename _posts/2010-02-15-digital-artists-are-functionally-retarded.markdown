@@ -16,7 +16,7 @@ tags:
 - critique workflow technology
 comments: []
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2010/02/ConfusedMechanic-216x300.jpg "Clueless Mechanic")](http://singleservingphoto.com/wp-content/uploads/2010/02/ConfusedMechanic.jpg)
+[![](/wp-content/uploads/2010/02/ConfusedMechanic-216x300.jpg "Clueless Mechanic")](/wp-content/uploads/2010/02/ConfusedMechanic.jpg)
 
 No, no, not you. Other digital artists, like those guys who spend ten
 days recalibrating all of their equipment before developing each

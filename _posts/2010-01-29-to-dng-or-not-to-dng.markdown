@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 [![DNG
-(tm)](http://singleservingphoto.com/wp-content/uploads/2010/01/dng_tm.gif "DNG (tm)")](http://singleservingphoto.com/wp-content/uploads/2010/01/dng_tm.gif)
+(tm)](/wp-content/uploads/2010/01/dng_tm.gif "DNG (tm)")](/wp-content/uploads/2010/01/dng_tm.gif)
 
 That is the question.
 
@@ -162,7 +162,7 @@ TheLightroomLab.com](http://thelightroomlab.com/2009/06/converting-digital-camer
 ## Sidecars Aren't Just for Kids
 
 [![Photo by
-Rastaman3000](http://singleservingphoto.com/wp-content/uploads/2010/01/697px-Vespa_sidecar-300x257.png "Vespa")](http://en.wikipedia.org/wiki/File:Vespa_sidecar.png)
+Rastaman3000](/wp-content/uploads/2010/01/697px-Vespa_sidecar-300x257.png "Vespa")](http://en.wikipedia.org/wiki/File:Vespa_sidecar.png)
 
 No, seriously, most motorcycle sidecars could definitely seat an
 adult...

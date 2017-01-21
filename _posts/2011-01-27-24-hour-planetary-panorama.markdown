@@ -25,7 +25,7 @@ just about the most amazing panorama I have ever seen, though to call it
 a "panorama" is almost a disservice to what is really going on within
 this image.
 
-![](http://singleservingphoto.com/wp-content/uploads/2011/01/24hrsky-590x579.jpg "24-Hour View of the Sky")
+![](/wp-content/uploads/2011/01/24hrsky-590x579.jpg "24-Hour View of the Sky")
 
 This is a compilation of images made throughout an entire day (more than
 a day, actually), including the full path of the sun in 15-minute steps

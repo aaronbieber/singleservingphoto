@@ -19,7 +19,7 @@ tags:
 comments: []
 ---
 [![Canon Cinema EOS
-C300](http://singleservingphoto.com/wp-content/uploads/2011/11/EOS-C300_EF-Mount_body_CN-E85mm_LF_3_4-1_polaroid-300x232.png "Canon Cinema EOS C300")](http://singleservingphoto.com/wp-content/uploads/2011/11/EOS-C300_EF-Mount_body_CN-E85mm_LF_3_4-1_polaroid.png)
+C300](/wp-content/uploads/2011/11/EOS-C300_EF-Mount_body_CN-E85mm_LF_3_4-1_polaroid-300x232.png "Canon Cinema EOS C300")](/wp-content/uploads/2011/11/EOS-C300_EF-Mount_body_CN-E85mm_LF_3_4-1_polaroid.png)
 
 I've posted about Canon's involvement in the filmmaking industry before;
 in my cheekily titled [Canon 5D Mark II in the (Dr.) House](/articles/2010/04/14/canon-5d-mark-ii-in-the-dr-house/)

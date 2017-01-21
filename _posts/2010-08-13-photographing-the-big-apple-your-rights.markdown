@@ -37,10 +37,10 @@ Yorkers might kick you, so try not to be a nuisance about it.
 Check out NYPD Operations Order 14, wherein the guidelines for field
 officers dealing with photographers are spelled out in detail:
 
-[![](http://singleservingphoto.com/wp-content/uploads/2010/08/OperationsOrder14-248x300.jpg "NYPD Operations Order 14")](http://singleservingphoto.com/wp-content/uploads/2010/08/OperationsOrder14.jpg)
+[![](/wp-content/uploads/2010/08/OperationsOrder14-248x300.jpg "NYPD Operations Order 14")](/wp-content/uploads/2010/08/OperationsOrder14.jpg)
 
 [View full
-size](http://singleservingphoto.com/wp-content/uploads/2010/08/OperationsOrder14.jpg)
+size](/wp-content/uploads/2010/08/OperationsOrder14.jpg)
 
 I have read of photographers printing out similar documents to carry
 with them in the event that they are stopped, and that may not be a bad

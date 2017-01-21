@@ -26,7 +26,7 @@ comments:
   content: great image
 ---
 [![via handmade
-spark](http://singleservingphoto.com/wp-content/uploads/2011/11/anderson-tabletop-studio.png "anderson-tabletop-studio")](http://singleservingphoto.com/wp-content/uploads/2011/11/anderson-tabletop-studio.png)
+spark](/wp-content/uploads/2011/11/anderson-tabletop-studio.png "anderson-tabletop-studio")](/wp-content/uploads/2011/11/anderson-tabletop-studio.png)
 
 I've posted about this before, but there is something so romantic about
 being able to do professional-looking product photography right in your

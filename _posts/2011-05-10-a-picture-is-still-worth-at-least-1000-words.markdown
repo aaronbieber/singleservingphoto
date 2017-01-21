@@ -18,7 +18,7 @@ tags:
 - journalism
 comments: []
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2011/05/osama-bin-laden-polaroid.png "Osama bin Laden")](http://singleservingphoto.com/wp-content/uploads/2011/05/osama-bin-laden-polaroid.png)
+[![](/wp-content/uploads/2011/05/osama-bin-laden-polaroid.png "Osama bin Laden")](/wp-content/uploads/2011/05/osama-bin-laden-polaroid.png)
 
 The old adage "a picture is worth a thousand words" has been around
 since at least the '20s--according to Wikipedia--and it's just as true

@@ -18,7 +18,7 @@ tags:
 - news
 comments: []
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2011/12/2230002043_2604313044_m.jpg "Interactive lens widget")](http://singleservingphoto.com/wp-content/uploads/2011/12/2230002043_2604313044_m.jpg)
+[![](/wp-content/uploads/2011/12/2230002043_2604313044_m.jpg "Interactive lens widget")](/wp-content/uploads/2011/12/2230002043_2604313044_m.jpg)
 
 The absolutely wonderful and thorough camera review site
 [dpreview.com](http://www.dpreview.com) has (finally) added _lenses_ to

@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 [![Lens
-Bracelets](http://singleservingphoto.com/wp-content/uploads/2011/11/bracelets_polaroid-300x278.png "Lens Bracelets")](http://singleservingphoto.com/wp-content/uploads/2011/11/bracelets_polaroid.png)
+Bracelets](/wp-content/uploads/2011/11/bracelets_polaroid-300x278.png "Lens Bracelets")](/wp-content/uploads/2011/11/bracelets_polaroid.png)
 
 Fashion. It is not the subject of this blog. Nevertheless, those of you
 out there who have _not_ been living beneath a heavy boulder,

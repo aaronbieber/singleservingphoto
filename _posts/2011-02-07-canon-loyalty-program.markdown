@@ -25,7 +25,7 @@ comments:
   date_gmt: '2011-04-21 15:57:31 -0400'
   content: thank you i have just the camera for the job
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2010/03/Thumbs-up.jpg "Thumbs up")](http://singleservingphoto.com/wp-content/uploads/2010/03/Thumbs-up.jpg)
+[![](/wp-content/uploads/2010/03/Thumbs-up.jpg "Thumbs up")](/wp-content/uploads/2010/03/Thumbs-up.jpg)
 
 Sometimes I feel like a shill when I talk about these sales and deals,
 but it's so hard for me to look at a fabulous bargain and not pass it

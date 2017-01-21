@@ -20,7 +20,7 @@ tags:
 - strategy
 comments: []
 ---
-[![](http://singleservingphoto.com/wp-content/uploads/2010/07/2010-Fireworks-II-200x300.jpg "2010 Fireworks II")](http://www.flickr.com/photos/singleservingphoto/4783381259/in/set-72157624347109393/)
+[![](/wp-content/uploads/2010/07/2010-Fireworks-II-200x300.jpg "2010 Fireworks II")](http://www.flickr.com/photos/singleservingphoto/4783381259/in/set-72157624347109393/)
 
 To say that photographing the fireworks display in Washington, D.C. is a
 challenge might be hyperbole. Compared to those in Boston and New York
@@ -56,7 +56,7 @@ Memorial should be ripe for the picking, and that's where I shot from
 this year. You can almost tell where I was located when I took the photo
 below.
 
-[![](http://singleservingphoto.com/wp-content/uploads/2010/07/2010-Fireworks-IV-400x600.jpg "2010 Fireworks IV")](http://www.flickr.com/photos/singleservingphoto/4784016140/in/set-72157624347109393/)
+[![](/wp-content/uploads/2010/07/2010-Fireworks-IV-400x600.jpg "2010 Fireworks IV")](http://www.flickr.com/photos/singleservingphoto/4784016140/in/set-72157624347109393/)
 
 Reports of when the crowds start to accumulate around the National Mall
 are hard to find. Depending upon who you ask, you get entirely different
@@ -138,4 +138,4 @@ good vantage point imaginable... And that simply was not so.
 Comparatively, photographing the fireworks show in Washington, D.C. was
 one of the easiest fireworks shows I have ever photographed.
 
-[![](http://singleservingphoto.com/wp-content/uploads/2010/07/2010-Fireworks-I-400x600.jpg "2010 Fireworks I")](http://www.flickr.com/photos/singleservingphoto/4783376999/in/set-72157624347109393/)
+[![](/wp-content/uploads/2010/07/2010-Fireworks-I-400x600.jpg "2010 Fireworks I")](http://www.flickr.com/photos/singleservingphoto/4783376999/in/set-72157624347109393/)

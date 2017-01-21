@@ -28,7 +28,7 @@ comments:
     and following your tips.  Thanks again.
 ---
 ![Tetons Fisheye (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/teton4-300x199.jpg "Tetons Fisheye")
+Bieber](/wp-content/uploads/2010/05/teton4-300x199.jpg "Tetons Fisheye")
 
 This week, I am traveling through the western US on a sort of national
 park whirlwind tour. I flew into Denver, CO on Sunday, took a quick
@@ -106,7 +106,7 @@ highway in Wyoming (barely edited; I know it's covered with lens spots
 and whatnot):
 
 ![Teton Foothills (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/teton3.jpg "Teton Foothills")
+Bieber](/wp-content/uploads/2010/05/teton3.jpg "Teton Foothills")
 
 The geography and topography apparently result in a totally routine
 formation of incredible cloudscapes. It almost makes sitting in a car
@@ -137,7 +137,7 @@ Moose Junction and returning on highway 191â€”is _42.6 miles_.
 Check out these neat maps if you don't believe me.
 
 ![Yosemite vs. Grand Tetons Loops (Google
-Maps)](http://singleservingphoto.com/wp-content/uploads/2010/05/Yosemite-Tetons-Maps.jpg "Yosemite vs. Grand Tetons Loops")
+Maps)](/wp-content/uploads/2010/05/Yosemite-Tetons-Maps.jpg "Yosemite vs. Grand Tetons Loops")
 
 The loops are actually to scale, at least to the degree that Google Maps
 is. As you can plainly see, the Grand Teton National Park is not a park
@@ -162,13 +162,13 @@ changes by the minute. You're driving along and you see these nice blue
 skies and everything looks happy...
 
 ![Highway 287, Probably (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/teton1.jpg "Highway 287, Probably")
+Bieber](/wp-content/uploads/2010/05/teton1.jpg "Highway 287, Probably")
 
 And then you go into the park and the next thing you know you're at
 6,000 feet elevation and the world is a winter wonderland!
 
 ![Highway 287, Most Likely (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/teton2.jpg "Highway 287, Most Likely")
+Bieber](/wp-content/uploads/2010/05/teton2.jpg "Highway 287, Most Likely")
 
 The two photos above were taken only _four hours apart_. Even for a
 very high value of _how fast do you think I was driving?_ it's
@@ -224,7 +224,7 @@ sky, glowing intensely behind a faraway mountain ridge covered with
 burned trees.
 
 ![Aflame (c) Aaron
-Bieber](http://singleservingphoto.com/wp-content/uploads/2010/05/900-590x393.jpg "Aflame")
+Bieber](/wp-content/uploads/2010/05/900-590x393.jpg "Aflame")
 
 I could not have captured this image if I had stayed at Tunnel View with
 those 20 other very dedicated and serious pros. This is the best advice

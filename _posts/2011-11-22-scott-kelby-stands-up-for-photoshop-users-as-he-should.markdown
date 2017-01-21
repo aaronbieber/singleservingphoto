@@ -28,7 +28,7 @@ version 4 and as much as I love free and open source software, there is
 absolutely no replacement for it.
 
 ![Scott
-Kelby](http://singleservingphoto.com/wp-content/uploads/2011/11/scott-k1.png "Scott Kelby")
+Kelby](/wp-content/uploads/2011/11/scott-k1.png "Scott Kelby")
 
 Few people in the world know any of this better than Scott Kelby. As the
 president of the National Association of Photoshop Professionals (by the

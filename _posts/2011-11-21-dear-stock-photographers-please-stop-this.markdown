@@ -20,8 +20,8 @@ tags:
 comments: []
 ---
 
-[![](http://singleservingphoto.com/wp-content/uploads/2011/11/102173-254x300.jpg
-"Women with kiwis on their eyes"){:.frame}](http://singleservingphoto.com/wp-content/uploads/2011/11/102173.jpg)
+[![](/wp-content/uploads/2011/11/102173-254x300.jpg
+"Women with kiwis on their eyes"){:.frame}](/wp-content/uploads/2011/11/102173.jpg)
 
 Stock photography has officially achieved _critical mass_ in the
 absurdity department. I grant you, stock photographers are as much
