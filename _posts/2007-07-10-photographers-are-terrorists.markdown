@@ -63,7 +63,7 @@ various public state parks and reservoirs and shoot for entire afternoons. It's
 good exercise and being outside is always pleasant in the summer months, so we
 did it a lot. I wouldn't say I came away with many timeless masterpieces, but it
 was excellent practice. Once, while we were photographing some type of a
-drainage pipe at Reservoir \#6 (its name stands in triumphant evidence of the
+drainage pipe at Reservoir #6 (its name stands in triumphant evidence of the
 municipal government's creativity) in West Hartford on a beautiful spring
 afternoon, a pickup truck came rumbling up toward us, stopped, a man got out,
 walked over to where we were standing, and informed us that "they" didn't like
