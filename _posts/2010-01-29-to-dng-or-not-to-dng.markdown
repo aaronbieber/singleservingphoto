@@ -21,8 +21,8 @@ tags:
 - formats
 comments: []
 ---
-[![DNG
-(tm)](/wp-content/uploads/2010/01/dng_tm.gif "DNG (tm)")](/wp-content/uploads/2010/01/dng_tm.gif)
+
+![DNG (tm)](/wp-content/uploads/2010/01/dng_tm.gif "DNG (tm)")
 
 That is the question.
 
@@ -32,143 +32,140 @@ That is the question.
 
 But enough pseudo-Shakespeare for one post.
 
-There has been some chatter on the Interwebs lately concerning the DNG
-format: there are quality and archival concerns, whether it's worth
-converting one's entire library to the format, what the benefits might
-be, and whether one ought to care. Today, I weigh in. For what it's
-worth.
+There has been some chatter on the Interwebs lately concerning the DNG format:
+there are quality and archival concerns, whether it's worth converting one's
+entire library to the format, what the benefits might be, and whether one ought
+to care. Today, I weigh in. For what it's worth.
 
-Coincidentally, I've used the same post title as Matt Kloskowski did in
-his take on the subject on [Lightroom Killer
-Tips](http://www.lightroomkillertips.com/2010/to-dng-or-not-to-dng/.)
-Matt didn't add a pseudo-Hamlet line, though, so I feel like I've done
-the headline proud.
+Coincidentally, I've used the same post title as Matt Kloskowski did in his take
+on the subject on [Lightroom Killer Tips][lkt] Matt didn't add a pseudo-Hamlet
+line, though, so I feel like I've done the headline proud.
 
-After the break, a complete rundown on DNG; trust me, it's going to be
-technical _and_ editorial. ~~MORE~~
+[lkt]: http://www.lightroomkillertips.com/2010/to-dng-or-not-to-dng/
+
+After the break, a complete rundown on DNG; trust me, it's going to be technical
+_and_ editorial. ~~MORE~~
 
 ## What Is DNG?
 
-Skip this section if you already know what DNG is, or read it if you
-want to know what I think DNG is.
+Skip this section if you already know what DNG is, or read it if you want to
+know what I think DNG is.
 
-DNG is the "Digital Negative" format, spearheaded by Adobe. It is an
-"open" format, and a "standard" in some sense, though not an official
-ISO standard (yet). When we say that the format is "open," we mean that
-the precise contents of a DNG file, its byte offsets, containers,
-methods of generating and reading the files, and so forth, are publicly
-available. This is not the case with any other RAW file format out
-there. The ability to read and write manufacturers' RAW files (e.g.
-Canon, Nikon, et al.) is either licensed from the manufacturer or
-reverse-engineered.
+DNG is the "Digital Negative" format, spearheaded by Adobe. It is an "open"
+format, and a "standard" in some sense, though not an official ISO standard
+(yet). When we say that the format is "open," we mean that the precise contents
+of a DNG file, its byte offsets, containers, methods of generating and reading
+the files, and so forth, are publicly available. This is not the case with any
+other RAW file format out there. The ability to read and write manufacturers'
+RAW files (e.g.  Canon, Nikon, et al.) is either licensed from the manufacturer
+or reverse-engineered.
 
-Adobe created the standard out of, apparently, a desire to
-"universalize" (if you will) the ubiquitous RAW file formats that all
-manufacturers have created for themselves, and to introduce a truly
-interoperable format that any software or hardware maker could employ
-without 1) wrangling many different formats at once, or 2) singling out
-particular users of particular products ((Like yours, for example.)).
+Adobe created the standard out of, apparently, a desire to "universalize" (if
+you will) the ubiquitous RAW file formats that all manufacturers have created
+for themselves, and to introduce a truly interoperable format that any software
+or hardware maker could employ without 1) wrangling many different formats at
+once, or 2) singling out particular users of particular products ((Like yours,
+for example.)).
 
 The DNG format is based on many existing standards owned by prestigious
-"standards development organizations" (or SDOs), some of which you've
-probably heard of; they go by the names TIFF, JPEG, XMP, IPTC, ICC, CIE,
-and ZIP, to name a few. So, although the DNG format itself hasn't been
-embraced by an SDO such as the International Standards Organization
-(ISO), it comprises previously standardized formats and is only a
-snippet of red tape away from being SDO-backed.
+"standards development organizations" (or SDOs), some of which you've probably
+heard of; they go by the names TIFF, JPEG, XMP, IPTC, ICC, CIE, and ZIP, to name
+a few. So, although the DNG format itself hasn't been embraced by an SDO such as
+the International Standards Organization (ISO), it comprises previously
+standardized formats and is only a snippet of red tape away from being
+SDO-backed.
 
-You can read a lot of nitty gritty on the format itself explained by
-Barry Pearson on his [DNG Specification
-page](http://www.barrypearson.co.uk/articles/dng/specification.htm.)
+You can read a lot of nitty gritty on the format itself explained by Barry
+Pearson on his [DNG Specification page][dng].
+
+[dng]: http://www.barrypearson.co.uk/articles/dng/specification.htm
 
 ## Why Would You Want to Use DNG?
 
 There are three main reasons that are generally cited:
 
 * Archivability (future-proof-ness, if you want)
- * Interoperability (openness, we like to say)
- * Efficiency (YMMV(Your Mileage May Vary), more on this later)
 
-*Archivability* (which I'm pretty sure isn't even a word) means that
-fifty years from now, when Canon owns the world and Nikon is completely
-extinct (_har har_), flying cars are a reality, and everyone has an
-army of robotic servants, your DNG files will still be supportable by
-manufacturers of hardware and software alike, because no secrets about
-it have been kept from the public.
+* Interoperability (openness, we like to say)
 
-%(pullquote pq-left)"\[I\]f Nikon decides to not support my raw files
-one day, there's some 15 year old in his room that'll code up a raw
-conversion program in his sleep."
---Matt Kloskowski%
+* Efficiency (YMMV(Your Mileage May Vary), more on this later)
 
-Does this claim hold water? I don't know, you can download free software
-right now that can read the Photoshop version 3.0 format, which is
-already decades old, so it seems to me that if the ability to parse a
-format is out there (even if it was obtained semi-legally or with much
-effort by third-parties), it will be difficult to lose it. Moreover, a
-format such as Canon DNG or Nikon NEF will likely remain supported by
-anyone you care about, or, as Matt Kloskowski put it, "...there's some
-15 year old in his room that'll code up a raw conversion program in his
-sleep." So I am not worried about losing access to my RAW image data.
+*Archivability* (which I'm pretty sure isn't even a word) means that fifty years
+from now, when Canon owns the world and Nikon is completely extinct (_har har_),
+flying cars are a reality, and everyone has an army of robotic servants, your
+DNG files will still be supportable by manufacturers of hardware and software
+alike, because no secrets about it have been kept from the public.
 
-*Interoperability* means the ability for you to take the same file and
-use it in many different places. Of course whether this is an advantage
-to you or not depends on the places where you want to be able to use
-your RAW files. For me, Lightroom is the only program on my entire
-computer that ever sees a RAW file. I suppose if I round-trip through
-Photoshop, Lightroom is going to pass the CR2 through Camera Raw, but
-we're talking about two closely-integrated Adobe applications there;
-whatever formats one supports, the other is sure to. Photomatix is going
-to see TIFFs, on the web you'll see JPEGs, etc.
+> If Nikon decides to not support my raw files one day, there's some 15 year old
+> in his room that'll code up a raw conversion program in his sleep.
+>
+> --Matt Kloskowski
 
-So why does interoperability matter? Adobe's point in creating DNG is
-that it may matter in the future. If Great New Software X decides they
-can't support your camera's RAW format, and if you've converted it to
-DNG already, well, problem solved. Because Great New Software X will
-certainly support DNG given that the format is completely open and
-drop-dead simple (not to mention free) to implement, you have a much
-better chance of being able to drop your existing DNG images into any
-new, shiny tool.
+Does this claim hold water? I don't know, you can download free software right
+now that can read the Photoshop version 3.0 format, which is already decades
+old, so it seems to me that if the ability to parse a format is out there (even
+if it was obtained semi-legally or with much effort by third-parties), it will
+be difficult to lose it. Moreover, a format such as Canon DNG or Nikon NEF will
+likely remain supported by anyone you care about, or, as Matt Kloskowski put it,
+"...there's some 15 year old in his room that'll code up a raw conversion
+program in his sleep." So I am not worried about losing access to my RAW image
+data.
 
-%(pullquote pq-right)"I actually tried ZIP compression in prototype
-versions of DNG, but the compression ratio was much better using
-lossless JPEG."--Thomas Knoll%
+*Interoperability* means the ability for you to take the same file and use it in
+many different places. Of course whether this is an advantage to you or not
+depends on the places where you want to be able to use your RAW files. For me,
+Lightroom is the only program on my entire computer that ever sees a RAW file. I
+suppose if I round-trip through Photoshop, Lightroom is going to pass the CR2
+through Camera Raw, but we're talking about two closely-integrated Adobe
+applications there; whatever formats one supports, the other is sure
+to. Photomatix is going to see TIFFs, on the web you'll see JPEGs, etc.
 
-Okay, what about *efficiency*? This is where things get kind of cool.
-The Adobe DNG format stores the actual pixel image data in what is
-called _Huffmann lossless JPEG_ format. What that means is that DNG
-files can sometimes be as much as 20% more efficient at storing image
-data on disk than a comparable RAW format, thus DNG files may be as much
-as 20% smaller. Lossless JPEG is completely pristine; there is no
-image-altering compression done, so the data is totally preserved,
-albeit compacted. The Huffmann algorithm for this compression happens to
-be more efficient than ZIP when there are more than 8 bits of data per
-channel (RAW is 12 or 16), so the Huffmann algorithm was used.
+So why does interoperability matter? Adobe's point in creating DNG is that it
+may matter in the future. If Great New Software X decides they can't support
+your camera's RAW format, and if you've converted it to DNG already, well,
+problem solved. Because Great New Software X will certainly support DNG given
+that the format is completely open and drop-dead simple (not to mention free) to
+implement, you have a much better chance of being able to drop your existing DNG
+images into any new, shiny tool.
 
-But here comes the kicker... Canon's RAW (CR2) format already uses
-Huffmann lossless JPEG for its internal image data storage. So if you
-shoot Canon RAW, you will see no increase in data compression, since the
-data is stored in exactly the same way already. If you shoot in Nikon
-RAW (NEF), you will immediately see a 20% decrease in file size and no
-change in image quality.
+> I actually tried ZIP compression in prototype versions of DNG, but the
+> compression ratio was much better using lossless JPEG.
+>
+> -- Thomas Knoll
 
-For non-Canon shooters, that's probably the most compelling reason to
-convert to DNG right now, which I should point out _Lightroom can do
-automatically for you at import time_. You've seen the option, right?
-There are a couple of ways to convert to DNG in Lightroom, and there are
-[three of them explained on
-TheLightroomLab.com](http://thelightroomlab.com/2009/06/converting-digital-camera-raw-files-to-the-dng-format-using-adobe-photoshop-lightroom/.)
+Okay, what about *efficiency*? This is where things get kind of cool.  The Adobe
+DNG format stores the actual pixel image data in what is called _Huffmann
+lossless JPEG_ format. What that means is that DNG files can sometimes be as
+much as 20% more efficient at storing image data on disk than a comparable RAW
+format, thus DNG files may be as much as 20% smaller. Lossless JPEG is
+completely pristine; there is no image-altering compression done, so the data is
+totally preserved, albeit compacted. The Huffmann algorithm for this compression
+happens to be more efficient than ZIP when there are more than 8 bits of data
+per channel (RAW is 12 or 16), so the Huffmann algorithm was used.
+
+But here comes the kicker... Canon's RAW (CR2) format already uses Huffmann
+lossless JPEG for its internal image data storage. So if you shoot Canon RAW,
+you will see no increase in data compression, since the data is stored in
+exactly the same way already. If you shoot in Nikon RAW (NEF), you will
+immediately see a 20% decrease in file size and no change in image quality.
+
+For non-Canon shooters, that's probably the most compelling reason to convert to
+DNG right now, which I should point out _Lightroom can do automatically for you
+at import time_. You've seen the option, right?  There are a couple of ways to
+convert to DNG in Lightroom, and there
+are [three of them explained on TheLightroomLab.com][tll].
+
+[tll]: http://thelightroomlab.com/2009/06/converting-digital-camera-raw-files-to-the-dng-format-using-adobe-photoshop-lightroom/
 
 ## Sidecars Aren't Just for Kids
 
-[![Photo by
-Rastaman3000](/wp-content/uploads/2010/01/697px-Vespa_sidecar-300x257.png "Vespa")](http://en.wikipedia.org/wiki/File:Vespa_sidecar.png)
+![Photo by Rastaman3000](/wp-content/uploads/2010/01/697px-Vespa_sidecar-300x257.png "Vespa")
 
 No, seriously, most motorcycle sidecars could definitely seat an
 adult...
 
 Joking aside, what we're talking about are metadata "sidecar" files,
-typically named something like IMG_0195.xmp and so-called because they
+typically named something like `IMG_0195.xmp` and so-called because they
 are saved alongside your original RAW image files, like the sidecar on a
 motorcycle. Sidecar files have been around since the invention of
 metadata and metadata libraries. The XMP format for storing image
@@ -194,26 +191,28 @@ the image file itself can't accommodate it. So why would you need this
 ability? Two reasons. (Assuming your RAW files are in NEF, CR2, or
 similar; non-DNG).
 
-# If you share images with other people who use Lightroom and you want
-them to be able to see what you have done in the Develop module, as well
-as the IPTC tags, you will need to send them XMP sidecar files. This is
-preferable to sending your entire Lightroom catalog or creating a new
-one to house only the images you are sending.
- \# In the event of a catastrophic disaster where your Lightroom catalog
-backups are corrupted, you can restore 95% of your data using the source
-RAW image files and associated XMP sidecar files. What you would lose is
-_virtual copies_, your _history_, and any _collections_. All edits
-and other settings are stored in the XMP files.
+* If you share images with other people who use Lightroom and you want them to
+  be able to see what you have done in the Develop module, as well as the IPTC
+  tags, you will need to send them XMP sidecar files. This is preferable to
+  sending your entire Lightroom catalog or creating a new one to house only the
+  images you are sending.
+
+* In the event of a catastrophic disaster where your Lightroom catalog backups
+  are corrupted, you can restore 95% of your data using the source RAW image
+  files and associated XMP sidecar files. What you would lose is _virtual
+  copies_, your _history_, and any _collections_. All edits and other settings
+  are stored in the XMP files.
 
 There are some major caveats here, though.
 
-# When you're sharing images, you can always _export them_ to DNG,
-which makes XMP unnecessary.
- \# In the event of a catastrophic disaster, you'll only have XMP files
-if you've previously selected batches of images within Lightroom and
-triggered the "Export Metadata to Files" function. Presumably you would
-carry out this procedure on images you have finished editing as part of
-your backup strategy. For the record, I do not do this.
+* When you're sharing images, you can always _export them_ to DNG, which makes
+  XMP unnecessary.
+
+* In the event of a catastrophic disaster, you'll only have XMP files if you've
+  previously selected batches of images within Lightroom and triggered the
+  "Export Metadata to Files" function. Presumably you would carry out this
+  procedure on images you have finished editing as part of your backup
+  strategy. For the record, I do not do this.
 
 ## Conclusions
 
@@ -222,10 +221,13 @@ to our computers right now and convert our whole libraries to DNG
 format? Once again, here are the major advertised benefits of the DNG
 format:
 
-# Archival (future-proof)
- \# Interoperable (widely compatible)
- \# Efficient (storage-wise, at least)
- \# All-inclusive (obsoletes XMP sidecars)
+* Archival (future-proof)
+
+* Interoperable (widely compatible)
+
+* Efficient (storage-wise, at least)
+
+* All-inclusive (obsoletes XMP sidecars)
 
 It seems to me that the "archival" and "interoperable" characteristics
 of the format are bonuses, and as a supporter of free and open
