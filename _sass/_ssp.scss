@@ -25,3 +25,18 @@ section#archive {
         }
     }
 }
+
+a:hover {
+    text-decoration: none;
+}
+
+ul.post-list {
+    .post-link {
+        font-size: 1.2em;
+    }
+
+    li ul {
+        list-style-type: disc;
+        margin-bottom: 1em;
+    }
+}
