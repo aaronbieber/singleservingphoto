@@ -3,12 +3,14 @@ title: Single-Serving Photo
 email: aaron@singleservingphoto.com
 description: > # this means to ignore newlines until "baseurl:"
   This is where Aaron Bieber writes about photography.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://www.singleservingphoto.com" # the base hostname & protocol for your site
 twitter_username: aaronbieber
 github_username: aaronbieber
 excerpt_separator: ~~MORE~~
 paginate: 5
+highlighter: rouge
+exclude: [vendor]
 
 defaults:
   -
@@ -19,4 +21,21 @@ defaults:
       layout: "default"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - with_toc_data
+    - smart
+    - underline
+
+gems:
+  - rouge
+  - jekyll-compass
+
+sass:
+  load_paths:
+    - "./vendor/bundle/ruby/2.3.0/gems/compass-core-1.0.3/stylesheets/"
