@@ -40,5 +40,6 @@ I shot the NEX-7 for a few years again until my impatience with Sony to create a
 proper successor to that model overcame me and I once again took the plunge into
 the Sony Alpha a7 II, which is the full-frame mirrorless model.
 
-Aside from its weight, I like it a lot, and I think I'll keep it for a few more
-years before considering a switch.
+Aside from its weight, I liked it a lot and so I shot it exclusively for a few
+years until I was offered an opportunity to buy a friend's very lightly used
+Sony Alpha a7R III, which I did, and which is now my main camera.
