@@ -1,7 +1,5 @@
-<header class="site-header">
-
+<header class="site-header{% if page.url == '/index.html' %} home{% endif %}">
   <div class="wrapper">
-
     <a class="site-title" href="{{ root_url }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
@@ -19,9 +17,8 @@
           <a class="page-link" href="{{root_url}}{{ page.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        <a class="page-link" target="_blank" href="https://www.etsy.com/shop/aaronbiebergallery">Buy Prints</a>
       </div>
     </nav>
-
   </div>
-
 </header>

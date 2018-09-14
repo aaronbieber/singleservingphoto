@@ -5,14 +5,10 @@
     // border-top: 5px solid $brand-color;
     border-bottom: 2px solid lighten($brand-color, 20);
 
-    // background-color: lighten($brand-color, 20);
-    // background-image: repeating-linear-gradient(55deg, transparent, transparent 35px, lighten($brand-color, 15) 35px, lighten($brand-color, 15) 70px);
-
     // Positioning context for the mobile navigation icon
     position: relative;
-
+    height: 140px;
     display: block;
-    height: 500px;
     overflow: hidden;
     background-image: url('/assets/images/hero_mountains.jpg');
     background-repeat: no-repeat;
@@ -24,6 +20,16 @@
         content: "";
         display: block;
     }
+
+    @include media-query($on-palm) {
+        & {
+            height: 240px;
+        }
+    }
+}
+
+header.home {
+    height: 500px;
 }
 
 .site-title {
@@ -41,9 +47,15 @@
         text-shadow: 0px 2px 1px $grey-color-dark;
     }
 
+    @include media-query(612px) {
+        & {
+            font-size: 2.9em;
+        }
+    }
+
     @include media-query($on-palm) {
         & {
-            bottom: 130px;
+            bottom: 170px;
         }
     }
 }
@@ -81,7 +93,7 @@
 
     @include media-query($on-palm) {
         & {
-            height: 120px;
+            height: 160px;
         }
 
         .page-link {
@@ -90,55 +102,6 @@
             padding: 5px 0;
         }
     }
-
-    // @include media-query($on-palm) {
-    //     position: absolute;
-    //     top: 9px;
-    //     right: 30px;
-    //     background-color: $background-color;
-    //     border: 1px solid $grey-color-light;
-    //     border-radius: 5px;
-    //     text-align: right;
-
-    //     .page-link {
-    //         color: black;
-    //         text-shadow: none;
-    //     }
-
-    //     .menu-icon {
-    //         display: block;
-    //         float: right;
-    //         width: 36px;
-    //         height: 26px;
-    //         line-height: 0;
-    //         padding-top: 10px;
-    //         text-align: center;
-
-    //         > svg {
-    //             width: 18px;
-    //             height: 15px;
-
-    //             path {
-    //                 fill: $grey-color-dark;
-    //             }
-    //         }
-    //     }
-
-    //     .trigger {
-    //         clear: both;
-    //         display: none;
-    //     }
-
-    //     &:hover .trigger {
-    //         display: block;
-    //         padding-bottom: 5px;
-    //     }
-
-    //     .page-link {
-    //         display: block;
-    //         padding: 5px 10px;
-    //     }
-    // }
 }
 
 
