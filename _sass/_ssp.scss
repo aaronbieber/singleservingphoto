@@ -2,6 +2,22 @@
  * Single Serving Photo custom elements.
  */
 
+.post-list {
+    .excerpt p,
+    footer a {
+        font-family: Arial;
+    }
+}
+
+article p {
+    font-family: Arial;
+}
+
+.post-title {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+}
+
 
 
 /**
@@ -33,6 +49,7 @@ a:hover {
 ul.post-list {
     .post-link {
         font-size: 1.2em;
+        padding-bottom: 10px;
     }
 
     li ul {

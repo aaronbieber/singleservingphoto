@@ -21,6 +21,10 @@
         display: block;
     }
 
+    a {
+        text-decoration: none;
+    }
+
     @include media-query($on-palm) {
         & {
             height: 240px;
@@ -33,6 +37,9 @@ header.home {
 }
 
 .site-title {
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+
     position: absolute;
     bottom: 50px;
 
@@ -44,7 +51,7 @@ header.home {
     &,
     &:visited {
         color: white;
-        text-shadow: 0px 2px 1px $grey-color-dark;
+        text-shadow: 0px 3px 1px black;
     }
 
     @include media-query(612px) {
@@ -75,16 +82,10 @@ header.home {
     .page-link {
         float: left;
         color: white;
-        text-shadow: 0px 1px 2px $grey-color-dark;
-        // line-height: $base-line-height;
         height: 40px;
-
         padding: 5px 15px;
-
-        // Gaps between nav items, but not on the first one
-        // &:not(:first-child) {
-        //     margin-left: 20px;
-        // }
+        text-decoration: none;
+        text-shadow: 0px 2px 1px black;
 
         &:hover {
             background-color: lighten($brand-color, 20);
@@ -196,7 +197,7 @@ header.home {
     }
 
     h2 {
-        border-bottom: 1px solid $accent-color;
+        border-bottom: 2px solid $accent-color;
         padding: 0 5px;
     }
 }
@@ -207,11 +208,13 @@ header.home {
 }
 
 .post-link {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
     display: block;
-    font-size: 24px;
     clear: both;
+    color: black;
+    text-decoration: none;
 }
-
 
 
 /**
@@ -232,9 +235,14 @@ header.home {
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 2;
+
+    h2, h3, h4, h5, h6 {
+        margin-top: $spacing-unit;
+    }
 
     h2 {
+        font-family: 'Merriweather', serif;
         font-size: 32px;
 
         @include media-query($on-laptop) {
@@ -243,6 +251,7 @@ header.home {
     }
 
     h3 {
+        font-family: 'Merriweather', serif;
         font-size: 26px;
 
         @include media-query($on-laptop) {
@@ -251,6 +260,7 @@ header.home {
     }
 
     h4 {
+        font-family: 'Merriweather', serif;
         font-size: 20px;
 
         @include media-query($on-laptop) {
