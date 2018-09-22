@@ -9,7 +9,7 @@
     }
 }
 
-article p {
+.post-content {
     font-family: Arial;
 }
 
@@ -52,6 +52,10 @@ ul.post-list {
         padding-bottom: 10px;
     }
 
+    > li {
+        margin-bottom: 4em;
+    }
+
     li ul {
         list-style-type: disc;
         margin-bottom: 1em;
@@ -66,15 +70,22 @@ article.post-content,
 .excerpt {
     img {
         max-width: 40%;
+        margin-bottom: 1em;
+    }
+
+
+    img.left {
+        float: left;
+        margin: 0 1em 1em 0;
     }
 
     img.center {
         max-width: 100%;
+        margin: 2em auto;
     }
 
     img.drop {
         border: 10px solid white;
         box-shadow: 3px 3px 4px silver;
-        margin-bottom: 1em;
     }
 }
