@@ -30,24 +30,24 @@ Here are my favorite shots from this morning. Off to a good start, I would say!
 The Ferris wheel at Navy Pier is one of its most remarkable features.  Here, it
 is reflected in the shallow pool surrounding the (currently closed) Wave Swing.
 
-![](/ssp/20Jun08-01.jpg){:.center.frame}
+{% img drop center /ssp/20Jun08-01.jpg %}
 
 More after the jump! ~~MORE~~
 
 This bench near the Wave Swing is surrounded by roses. Pretty, no?
 
-![](/ssp/20Jun08-02.jpg){:.center.frame}
+{% img drop center /ssp/20Jun08-02.jpg %}
 
 A sculptural anchor stands at the tip of Navy Pier, which was named in honor of
 its service to the Navy during World War II. Previously it had been known simply
 as Municipal Pier #2.
 
-![](/ssp/20Jun08-03.jpg){:.center.frame}
+{% img drop center /ssp/20Jun08-03.jpg %}
 
 This switchback walkway caught my eye with its angles and contrasts.
 
-![](/ssp/20Jun08-04.jpg){:.center.frame}
+{% img drop center /ssp/20Jun08-04.jpg %}
 
 Finally, a cityscape is hovered over in the dawn hours by a nearly full moon.
 
-![](/ssp/20Jun08-05.jpg){:.center.frame}
+{% img drop center /ssp/20Jun08-05.jpg %}

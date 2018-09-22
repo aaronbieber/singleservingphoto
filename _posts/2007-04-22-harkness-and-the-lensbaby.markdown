@@ -17,6 +17,6 @@ comments: []
 I was at Harkness Memorial State Park (again) and had to break out the
 Lensbaby 3G for a bit more fun.
 
-![](/ssp/21Apr07-01.jpg){:.frame.center}
- ![](/ssp/21Apr07-02.jpg){:.frame.center}
- ![](/ssp/21Apr07-03.jpg){:.frame.center}
+{% img drop center /ssp/21Apr07-01.jpg %}
+ {% img drop center /ssp/21Apr07-02.jpg %}
+ {% img drop center /ssp/21Apr07-03.jpg %}

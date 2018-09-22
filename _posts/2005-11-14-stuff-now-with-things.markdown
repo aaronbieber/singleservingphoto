@@ -15,11 +15,11 @@ tags: []
 comments: []
 ---
 These are, like, my blinds. Sort of.
- ![](/ssp/10nov05-01.jpg){:.frame.center}
+ {% img drop center /ssp/10nov05-01.jpg %}
 
 Look, it's my neighbor!
- ![](/ssp/10nov05-02.jpg){:.frame.center}
- ![](/ssp/10nov05-03.jpg){:.frame.center}
+ {% img drop center /ssp/10nov05-02.jpg %}
+ {% img drop center /ssp/10nov05-03.jpg %}
 
 Hey, that's his [boxdoodle](http://www.neu-e.de) in front of his head!
- ![](/ssp/10nov05-04.jpg){:.frame.center}
+ {% img drop center /ssp/10nov05-04.jpg %}

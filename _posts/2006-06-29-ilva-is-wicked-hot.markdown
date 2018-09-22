@@ -22,9 +22,9 @@ pretty well).
 
 Here are just three to whet your palate!
 
-![](/ssp/24jun06-01.jpg){:.frame.center}
- ![](/ssp/24jun06-02.jpg){:.frame.center}
- ![](/ssp/24jun06-03.jpg){:.frame.center}
+{% img drop center /ssp/24jun06-01.jpg %}
+ {% img drop center /ssp/24jun06-02.jpg %}
+ {% img drop center /ssp/24jun06-03.jpg %}
 
 There will be lots more up on my gallery soon, so don't forget about
 that link on the right that says "Aaron's Gallery!"

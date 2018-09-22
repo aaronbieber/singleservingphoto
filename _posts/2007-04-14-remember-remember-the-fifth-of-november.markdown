@@ -22,7 +22,7 @@ Remember, remember the fifth of November,
 
 More games with the Lensbaby 3G starring my good friend, _Guy Fawkes_.
 
-![](/ssp/14Apr07-01.jpg){:.frame.center}
- ![](/ssp/14Apr07-02.jpg){:.frame.center}
- ![](/ssp/14Apr07-03.jpg){:.frame.center}
- ![](/ssp/14Apr07-04.jpg){:.frame.center}
+{% img drop center /ssp/14Apr07-01.jpg %}
+ {% img drop center /ssp/14Apr07-02.jpg %}
+ {% img drop center /ssp/14Apr07-03.jpg %}
+ {% img drop center /ssp/14Apr07-04.jpg %}

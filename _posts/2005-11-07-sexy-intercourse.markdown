@@ -16,8 +16,8 @@ comments: []
 ---
 In the words of Borat, "When do we have sexy intercourse?"
 
-![](/ssp/07nov05-01.jpg){:.frame.center}
- ![](/ssp/07nov05-02.jpg){:.frame.center}
+{% img drop center /ssp/07nov05-01.jpg %}
+ {% img drop center /ssp/07nov05-02.jpg %}
 
 I hope this was someone's idea of a joke. Or at least their idea of
 jokingly disposing of a joke gift. Or at least an inappropriate disposal

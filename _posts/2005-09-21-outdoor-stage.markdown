@@ -16,14 +16,14 @@ comments: []
 ---
 Barely midnight and my silhouette is cast by large venetian blinds.
 
-![](/ssp/21sept05-03.jpg){:.frame.center}
+{% img drop center /ssp/21sept05-03.jpg %}
 
 I took a walk this afternoon around my office park grounds. There is an
 outdoor stage that's apparently used for concerts, although I haven't
 seen any activity there before. A couple neat views below.
 
-![](/ssp/21sept05-01.jpg){:.frame.center}
- ![](/ssp/21sept05-02.jpg){:.frame.center}
+{% img drop center /ssp/21sept05-01.jpg %}
+ {% img drop center /ssp/21sept05-02.jpg %}
 
 Incorrect white balance setting accounts for the blue tone. I would
 correct it if I didn't think it looked so neat.

@@ -72,7 +72,7 @@ in a source image depends upon that value. Uh oh...
 Here comes a graph, look out!
 
 
-![](/wp-content/uploads/2011/02/gamma_2.2_graph.png "Gamma 2.2 Graph"){:.center.frame}
+{% img drop center /wp-content/uploads/2011/02/gamma_2.2_graph.png "Gamma 2.2 Graph" %}
 
 Now, the first question you should be asking is _Why would you want to
 change the luminance values in an image?_ and the answer is quite

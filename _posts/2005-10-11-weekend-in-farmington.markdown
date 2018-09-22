@@ -18,13 +18,13 @@ These photos span a couple of days, but I'm not sure which ones were
 from which days. It doesn't matter. Here is a nice little pitcher of
 cream. Oh, how I love f/1.4.
 
-![](/ssp/09oct05-01.jpg){:.frame.center}
+{% img drop center /ssp/09oct05-01.jpg %}
 
 One my dad's 3D collage pieces.
- ![](/ssp/09oct05-02.jpg){:.frame.center}
+ {% img drop center /ssp/09oct05-02.jpg %}
 
 The godfather.
- ![](/ssp/09oct05-03.jpg){:.frame.center}
+ {% img drop center /ssp/09oct05-03.jpg %}
 
 My mom!
- ![](/ssp/09oct05-04.jpg){:.frame.center}
+ {% img drop center /ssp/09oct05-04.jpg %}

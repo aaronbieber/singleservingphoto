@@ -27,7 +27,7 @@ don't think you'll use it. I happened to be driving around Narragansett Bay
 specifically to take some family portraits, I thankfully had my camera with me
 and was able to capture this scene. ~~MORE~~
 
-![](/ssp/22Jul07-01.jpg){:.frame.center}
+{% img drop center /ssp/22Jul07-01.jpg %}
 
 This was taken from the Newport side of the Claiborne Pell Bridge, which
 connects Newport (on Aquidneck Island) in the west to Conanicut Island (chiefly
@@ -44,13 +44,13 @@ Here is an 8:15 Amtrak Acela departing for points unknown (probably Boston,
 eventually). I braced my camera against one of those I-beams you see ahead of
 me. No tripod necessary!
 
-![](/ssp/23Jul07-02.jpg){:.frame.center}
+{% img drop center /ssp/23Jul07-02.jpg %}
 
 A close-up of a vendor's cart parked along the side of the pier, probably left
 over from [Sailfest](http://www.sailfest.org). I liked the reflection in it and
 the texture of it.
 
-![](/ssp/23Jul07-03.jpg){:.frame.center}
+{% img drop center /ssp/23Jul07-03.jpg %}
 
 A handsome public observation binocular lit by the lights on the pier overlooks
 the Thames River and the General Dynamics building on the far shore. General
@@ -58,17 +58,17 @@ Dynamics, previously known as Electric Boat, is a major submarine defense
 contractor and a significant source of income for the southeast Connecticut
 shoreline.
 
-![](/ssp/23Jul07-04.jpg){:.frame.center}
+{% img drop center /ssp/23Jul07-04.jpg %}
 
 General Dynamics itself glimmers against the water. I was shooting JPEG (the 10D
 is so slow with RAW) and I set the white balance to "cloudy" for this shot to
 enhance its redness.
 
-![](/ssp/23Jul07-05.jpg){:.frame.center}
+{% img drop center /ssp/23Jul07-05.jpg %}
 
 On my walk back home, this sailor's monument caught my eye.
 
-![](/ssp/23Jul07-06.jpg){:.frame.center}
+{% img drop center /ssp/23Jul07-06.jpg %}
 
 I think the moral of the story is that it's better to have your "second string"
 camera with you, stripped down to its most convenient minimum, than to have no

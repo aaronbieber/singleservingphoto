@@ -39,8 +39,8 @@ everyone here can get something out of that.
 
 Here are a couple of shots from Thanksgiving.
 
-![](/ssp/24nov05-01.jpg){:.frame.center}
- ![](/ssp/24nov05-02.jpg){:.frame.center}
+{% img drop center /ssp/24nov05-01.jpg %}
+ {% img drop center /ssp/24nov05-02.jpg %}
 
 That is a fake Christmas tree. Inauthentic. Faux. Imitation. Artificial.
 Simulated. Still pretty.

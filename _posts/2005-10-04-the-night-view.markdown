@@ -19,4 +19,4 @@ had to make some for myself. Luckily, I have some big windows. I tipped
 the tripod to and fro during this 30-second exposure to leave some
 trails and make it into something. Yeah. There it is.
 
-![](/ssp/04oct05-01.jpg){:.frame.center}
+{% img drop center /ssp/04oct05-01.jpg %}

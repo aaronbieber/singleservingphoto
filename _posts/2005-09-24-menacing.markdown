@@ -16,4 +16,4 @@ comments: []
 ---
 Hello, Mike.
 
-![](/ssp/23sept05-01.jpg){:.frame.center}
+{% img drop center /ssp/23sept05-01.jpg %}

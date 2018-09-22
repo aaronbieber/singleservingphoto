@@ -26,11 +26,11 @@ which caused the trees in the wind outside the window to blur somewhat.
 I just wanted to point out that it isn't out of focus, it's _moving_.
 Cool, huh?
 
-![](/ssp/18oct05-01.jpg){:.frame.center}
+{% img drop center /ssp/18oct05-01.jpg %}
 
 I got bored at work yesterday. Here is our new mascot. And Gir.
 
-![](/ssp/18oct05-02.jpg){:.frame.center}
+{% img drop center /ssp/18oct05-02.jpg %}
 
 That Angry Can of Tuna, he's always stabbing things with his cartoon
 sword. I think he has anger management issues.

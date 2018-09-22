@@ -38,10 +38,10 @@ as old-school, I achieved the effect entirely in Photoshop.
 
 Without further ado.
 
-![](/ssp/27Mar07-02.jpg){:.frame.center}
+{% img drop center /ssp/27Mar07-02.jpg %}
 
-![](/ssp/27Mar07-01.jpg){:.frame.center}
+{% img drop center /ssp/27Mar07-01.jpg %}
 
-![](/ssp/27Mar07-03.jpg){:.frame.center}
+{% img drop center /ssp/27Mar07-03.jpg %}
 
-![](/ssp/27Mar07-04.jpg){:.frame.center}
+{% img drop center /ssp/27Mar07-04.jpg %}

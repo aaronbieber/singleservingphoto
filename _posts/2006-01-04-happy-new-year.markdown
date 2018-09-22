@@ -22,12 +22,12 @@ Here are just a couple of things. First, a picture I took for a friend
 of mine as a Christmas present for a different friend. I did a
 tremendous amount of Photoshop post-processing work on this. He loved
 it.
- ![](/ssp/19dec05-01.jpg){:.frame.center}
+ {% img drop center /ssp/19dec05-01.jpg %}
 
 And here is some other crap that was sitting on my memory card for
 weeks.
- ![](/ssp/16dec05-01.jpg){:.frame.center}
- ![](/ssp/16dec05-02.jpg){:.frame.center}
- ![](/ssp/16dec05-03.jpg){:.frame.center}
+ {% img drop center /ssp/16dec05-01.jpg %}
+ {% img drop center /ssp/16dec05-02.jpg %}
+ {% img drop center /ssp/16dec05-03.jpg %}
 
 Happy new year to one and all!

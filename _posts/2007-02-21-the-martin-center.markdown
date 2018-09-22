@@ -19,10 +19,10 @@ practice that my friend coaches, purely as a favor, and couldn't help
 but to grab a few other interesting things I saw along the way. I hope
 you enjoy them!
 
-![](/ssp/02feb07-01.jpg){:.frame.center}
+{% img drop center /ssp/02feb07-01.jpg %}
 
-![](/ssp/02feb07-02.jpg){:.frame.center}
+{% img drop center /ssp/02feb07-02.jpg %}
 
-![](/ssp/02feb07-03.jpg){:.frame.center}
+{% img drop center /ssp/02feb07-03.jpg %}
 
-![](/ssp/02feb07-04.jpg){:.frame.center}
+{% img drop center /ssp/02feb07-04.jpg %}

@@ -61,7 +61,7 @@ and eventually decided upon a
 [100 watt equivalent 5100k](http://clickserve.cc-dt.com/link/click?lid=41000000027242501)
 model. Here's a picture of what it looks like, sort of:
 
-![](/articles/viewing_station1.jpg){:.center.frame}
+{% img drop center /articles/viewing_station1.jpg %}
 
 There are perhaps four important considerations when looking at bulbs
 for your viewing environment.
@@ -115,7 +115,7 @@ Simple clip-on work light: *$7.48*
 Clip it onto something, such as your apartment's fashionably painted structural
 beams, and away you go!
 
-![](/articles/viewing_station2.jpg){:.center.frame}
+{% img drop center /articles/viewing_station2.jpg %}
 
 I actually bought three bulbs, three work lights, and plugged them all into a
 single power strip so I can turn them on and off with one switch and light my

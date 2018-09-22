@@ -25,5 +25,5 @@ comments:
     them on my blog! ;)\r\nA~"
 ---
 There is nothing like an awesome sunset to cap off the work week!
- ![](/ssp/18nov05-01.jpg){:.frame.center}
- ![](/ssp/18nov05-02.jpg){:.frame.center}
+ {% img drop center /ssp/18nov05-01.jpg %}
+ {% img drop center /ssp/18nov05-02.jpg %}

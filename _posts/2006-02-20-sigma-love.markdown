@@ -20,12 +20,12 @@ better than Canon's basic lenses (not quite to L standards, though), and
 is a bargain and a half if you can find one. The AF motor is loud and
 slow, but the image quality is tops.
 
-![](/ssp/20feb06-01.jpg){:.frame.center}
- ![](/ssp/20feb06-02.jpg){:.frame.center}
- ![](/ssp/20feb06-03.jpg){:.frame.center}
- ![](/ssp/20feb06-04.jpg){:.frame.center}
- ![](/ssp/20feb06-05.jpg){:.frame.center}
- ![](/ssp/20feb06-06.jpg){:.frame.center}
- ![](/ssp/20feb06-07.jpg){:.frame.center}
+{% img drop center /ssp/20feb06-01.jpg %}
+ {% img drop center /ssp/20feb06-02.jpg %}
+ {% img drop center /ssp/20feb06-03.jpg %}
+ {% img drop center /ssp/20feb06-04.jpg %}
+ {% img drop center /ssp/20feb06-05.jpg %}
+ {% img drop center /ssp/20feb06-06.jpg %}
+ {% img drop center /ssp/20feb06-07.jpg %}
 
 Enjoy.
