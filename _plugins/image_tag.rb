@@ -40,7 +40,14 @@ module Jekyll
 
     def render(context)
       if @img
-        "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"
+        fig_class = @img.key?("class") ? " class=\"" + @img["class"] + "\"" : ""
+        img_attr = @img.collect {|k,v| "#{k}=\"#{v}\"" if k != "class" and v}.join(" ")
+
+        html  = "<figure#{fig_class}><img #{img_attr} />"
+        html += if @img.key?('title') then "<figcaption>#{@img['title']}</figcaption>" else "" end
+        html += "</figure>"
+
+        return html
       else
         "Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | \"title text\" [\"alt text\"]] %}"
       end
