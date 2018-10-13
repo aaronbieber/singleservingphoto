@@ -52,15 +52,14 @@ to get higher up, but you can always kneel or even lie down on the
 ground. Once you're up there (or down there), look around. Look straight
 up, look straight down. You may see things differently.
 
-The second trick that can give your compositions more interest is to
-*change the autofocus point* on your camera. If you are using a
-digital SLR that has multiple autofocus points, try setting it to use
-the one on the far left or the far right of the frame, rather than smack
-in the center. I admit that I tend to use the center AF point 99.9% of
-the time, and even though I often focus and then shift the camera to the
-left or the right before releasing the shutter, setting the AF point
-explicitly on one side of the frame will force you to think off-balance.
-It's a good thing to get used to.
+The second trick that can give your compositions more interest is to *change the
+autofocus point* on your camera. If you are using a digital SLR that has
+multiple autofocus points, try setting it to use the one on the far left or the
+far right of the frame, rather than smack in the center. I admit that I tend to
+use the center AF point 99.9% of the time, and even though I often focus and
+then shift the camera to the left or the right before releasing the shutter,
+setting the AF point explicitly on one side of the frame will force you to think
+off-balance.  It's a good thing to get used to.
 
 {% random left %}
 
