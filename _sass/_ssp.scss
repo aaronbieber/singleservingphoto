@@ -84,6 +84,17 @@ article.post-content,
         margin: 2em auto;
     }
 
+    img.modest {
+        float: none;
+        display: block;
+        max-width: 75%;
+        margin: 2em auto;
+
+        @include media-query($on-palm) {
+            max-width: 100%;
+        }
+    }
+
     img.drop {
         border: 10px solid white;
         box-shadow: 3px 3px 4px silver;
