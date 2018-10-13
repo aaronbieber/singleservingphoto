@@ -3,3 +3,4 @@ _site
 _deploy.yml
 .DS_Store
 vendor
+\#*\#
