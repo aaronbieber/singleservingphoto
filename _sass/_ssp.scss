@@ -68,6 +68,10 @@ ul.post-list {
  */
 article.post-content,
 .excerpt {
+    figure {
+        float: right;
+    }
+
     figure.left {
         max-width: 40%;
         float: left;
@@ -96,20 +100,17 @@ article.post-content,
 
     figure.center {
         img {
-            float: none;
             object-fit: cover;
         }
 
+        float: none;
         display: table;
         max-width: 100%;
         margin: 2em auto;
     }
 
     figure.modest {
-        img {
-            float: none;
-        }
-
+        float: none;
         display: block;
         width: 75%;
         margin: 2em auto;
