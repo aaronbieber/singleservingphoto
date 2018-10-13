@@ -68,36 +68,65 @@ ul.post-list {
  */
 article.post-content,
 .excerpt {
-    img {
+    figure.left {
         max-width: 40%;
-        margin-bottom: 1em;
-    }
-
-
-    img.left {
         float: left;
         margin: 0 1em 1em 0;
+
+        @include media-query($on-palm) {
+            display: table;
+            float: none;
+            max-width: 100%;
+            margin: 1em auto;
+        }
     }
 
-    img.center {
+    figure.right {
+        max-width: 40%;
+        float: right;
+        margin: 0 0 1em 1em;
+
+        @include media-query($on-palm) {
+            display: table;
+            float: none;
+            max-width: 100%;
+            margin: 1em auto;
+        }
+    }
+
+    figure.center {
+        img {
+            float: none;
+            object-fit: cover;
+        }
+
+        display: table;
         max-width: 100%;
         margin: 2em auto;
     }
 
-    img.modest {
-        float: none;
+    figure.modest {
+        img {
+            float: none;
+        }
+
         display: block;
-        max-width: 75%;
+        width: 75%;
         margin: 2em auto;
 
         @include media-query($on-palm) {
-            max-width: 100%;
+            width: 100%;
         }
     }
 
-    img.drop {
+    figure.drop {
         border: 10px solid white;
         box-shadow: 3px 3px 4px silver;
+    }
+
+    figure figcaption {
+        text-align: center;
+        margin-top: 0.5em;
     }
 
     ul li, ol li {

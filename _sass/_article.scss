@@ -2,17 +2,6 @@
  * Styles for things within an article.
  */
 .excerpt, article {
-    img.frame {
-        padding: 10px;
-        box-shadow: 0px 2px 9px #bbb;
-    }
-
-    img.center {
-        float: none;
-        margin: 2em auto;
-        display: block;
-    }
-
     img.random-left {
         float: left;
         padding: 10px;
@@ -29,13 +18,6 @@
         margin: 0 0 0 1em;
         max-width: 40%;
         max-height: 200px;
-    }
-}
-
-.excerpt {
-    img {
-        float: right;
-        margin-left: 1em;
     }
 }
 
@@ -57,11 +39,6 @@ article {
         tr:first-child td {
             border-top: 1px solid silver;
         }
-    }
-
-    img {
-        float: right;
-        margin-left: 1em;
     }
 }
 
