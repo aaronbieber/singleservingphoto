@@ -17,7 +17,8 @@ module Jekyll
     end
 
     def render(context)
-      "![](/#{@image}){:.random-#{@direction}}"
+      "<img src=\"/#{@image}\" class=\"drop #{@direction}\" />"
+      #"![](/#{@image}){:.random-#{@direction}}"
     end
 
   end
