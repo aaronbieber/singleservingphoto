@@ -1,6 +1,13 @@
 /**
  * Single Serving Photo custom elements.
  */
+.site-title {
+    line-height: 0.8em;
+
+    .header-logo {
+        height: 80px;
+    }
+}
 
 .post-list {
     .excerpt p,
