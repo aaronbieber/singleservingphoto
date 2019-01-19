@@ -16,13 +16,16 @@ categories:
 tags: []
 comments: []
 ---
+
+{% img drop right /assets/images/aaron-bieber-300.jpg %}
+
 ## Who Are You?
 
 My name is Aaron Bieber (no relation to Justin, seriously). Aside from being a
 part-time traveling fine art photographer, I do a bit of freelance, and I also
 build websites (for a living). My colleague Chris Blake and I travel and
-[teach photography workshops](http://artphotoworkshops.com) and I've been
-writing about photography on this blog for several years.
+[teach photography workshops](https://www.artphotoworkshops.com) and I've been
+writing about photography on this blog for a bunch of years.
 
 ## Technical Mumbo-Jumbo
 
