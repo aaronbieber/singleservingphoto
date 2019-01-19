@@ -5,20 +5,33 @@ description: > # this means to ignore newlines until "baseurl:"
   This is where Aaron Bieber writes about photography.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://www.singleservingphoto.com" # the base hostname & protocol for your site
-twitter_username: aaronbieber
-github_username: aaronbieber
+twitter_username: aaronbieberpics
+instagram_username: aaronbieber
+facebook_page_name: aaronbiebergallery
 excerpt_separator: ~~MORE~~
 paginate: 5
 highlighter: rouge
 exclude: [vendor]
 
+collections:
+  authors:
+    output: true
+
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "default"
+      author: Aaron Bieber
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      permalink: "/authors/:title"
+      layout: author
+      twitter:
+      instagram:
 
 # Build settings
 markdown: redcarpet
@@ -32,9 +45,10 @@ redcarpet:
     - smart
     - underline
 
-gems:
+plugins:
   - rouge
   - jekyll-compass
+  - jekyll-paginate
 
 sass:
   load_paths:

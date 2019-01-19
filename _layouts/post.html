@@ -1,16 +1,70 @@
 ---
 layout: default
 ---
+{% assign author = site.authors | where: "title", page.author | first %}
 <div class="post">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+
+      <div class="post-meta">
+        <div class="meta-date">{{ page.date | date: "%B %-d, %Y" }}</div>
+        {% if author %}
+          <div class="meta-author">
+          <span class="meta-author-by">by</span>
+            {{ author.title }}
+          </div>
+
+          <div class="meta-social">
+            {% if author.instagram %}
+              <span class="meta-social-network">
+                <a target="_blank" href="https://www.instagram.com/{{ author.instagram }}"><i class="fab fa-instagram"></i></a>
+              </span>
+            {% endif %}
+
+            {% if author.twitter %}
+              <span class="meta-social-network">
+                <a target="_blank" href="https://www.twitter.com/{{ author.twitter }}"><i class="fab fa-twitter"></i></a>
+              </span>
+            {% endif %}
+
+            {% if author.facebook %}
+              <span class="meta-social-network">
+                <a target="_blank" href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-facebook"></i></a>
+              </span>
+            {% endif %}
+          </div>
+        {% endif %}
+      </div>
+
   </header>
 
   <article class="post-content">
     {{ content | remove: '~~MORE~~' }}
   </article>
+
+  <div class="author-block">
+    <img src="/assets/images/authors/{{ author.alias }}.jpg" />
+    <span class="author-block-attribution"><span class="author-block-name">{{ author.name }}</span></span>
+
+    {% if author.instagram %}
+      <span class="author-block-social-network">
+        <a target="_blank" href="https://www.instagram.com/{{ author.instagram }}"><i class="fab fa-instagram"></i> Instagram</a>
+      </span>
+    {% endif %}
+
+    {% if author.twitter %}
+      <span class="author-block-social-network">
+        <a target="_blank" href="https://www.twitter.com/{{ author.twitter }}"><i class="fab fa-twitter"></i> Twitter</a>
+      </span>
+    {% endif %}
+
+    {% if author.facebook %}
+      <span class="author-block-social-network">
+        <a target="_blank" href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-facebook"></i> Facebook</a>
+      </span>
+    {% endif %}
+  </div>
 
   <section class="comments">
     <h2>Comments</h2>

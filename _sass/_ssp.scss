@@ -18,7 +18,89 @@
     font-weight: 400;
 }
 
+.post-meta {
+    display: inline-block;
+    border: 1px solid lighten($grey-color, 30);
+    margin: 0 0 1em 0;
+    padding: 3px 8px;
 
+    .meta-date {
+        display: inline;
+    }
+
+    .meta-author {
+        display: inline;
+    }
+
+    .meta-social {
+        &:before {
+            content: "•"
+        }
+        font-size: 1.2em;
+        display: inline;
+        padding-left: 5px;
+
+        .meta-social-network {
+            margin-left: 5px;
+
+            &:first-child {
+                margin-left: 3px;
+            }
+
+            a {
+                color: $grey-color;
+                &:hover {
+                    color: darken($grey-color, 50);
+                }
+            }
+        }
+    }
+}
+
+.author-block {
+    border-top: 1px solid $accent-color;
+    padding-top: 30px;
+    vertical-align: top;
+    margin-bottom: 20px;
+
+    img {
+        float: left;
+        margin-right: 1em;
+    }
+
+    .author-block-attribution {
+        font-size: 1.5em;
+        line-height: 1em;
+    }
+
+    .author-block-social-network {
+        display: block;
+        a {
+            text-decoration: none;
+            color: $grey-color;
+
+            &:hover {
+                color: darken($grey-color, 40);
+            }
+        }
+    }
+}
+
+.social-media-list {
+    li {
+        display: inline-table;
+        margin-bottom: 5px;
+
+        a {
+            border: 1px solid #ccc;
+            padding: 3px 4px;
+            border-radius: 4px;
+            text-decoration: none;
+            color: #888;
+            white-space: nowrap;
+        }
+    }
+}
 
 /**
  * Archives

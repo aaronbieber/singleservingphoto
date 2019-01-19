@@ -6,11 +6,42 @@ layout: default
 
   <ul class="post-list">
     {% for post in paginator.posts %}
+      {% assign author = site.authors | where: "title", post.author | first %}
       <li>
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
         <h2>
           <a class="post-link" href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
         </h2>
+
+        <div class="post-meta">
+          <div class="meta-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+          {% if author %}
+            <div class="meta-author">
+            <span class="meta-author-by">by</span>
+              {{ author.title }}
+            </div>
+
+            <div class="meta-social">
+              {% if author.instagram %}
+                <span class="meta-social-network">
+                  <a target="_blank" href="https://www.instagram.com/{{ author.instagram }}"><i class="fab fa-instagram"></i></a>
+                </span>
+              {% endif %}
+
+              {% if author.twitter %}
+                <span class="meta-social-network">
+                  <a target="_blank" href="https://www.twitter.com/{{ author.twitter }}"><i class="fab fa-twitter"></i></a>
+                </span>
+              {% endif %}
+
+              {% if author.facebook %}
+                <span class="meta-social-network">
+                  <a target="_blank" href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-facebook"></i></a>
+                </span>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
 
         <div class="excerpt">
             {{ post.excerpt }}
@@ -27,7 +58,6 @@ layout: default
   </ul>
 
   <div class="pagination">
-
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}" class="previous">&#8610; Older</a>
     {% endif %}
@@ -35,7 +65,6 @@ layout: default
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="next">Newer &#8611</a>
     {% endif %}
-
   </div>
 
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->

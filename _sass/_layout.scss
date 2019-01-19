@@ -222,7 +222,7 @@ header.home {
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit / 2;
 }
 
 .post-title {
@@ -236,7 +236,7 @@ header.home {
 }
 
 .post-content {
-    margin-bottom: $spacing-unit * 2;
+    margin-bottom: $spacing-unit;
 
     h2, h3, h4, h5, h6 {
         margin-top: $spacing-unit;
