@@ -27,6 +27,12 @@ build websites (for a living). My colleague Chris Blake and I travel and
 [teach photography workshops](https://www.artphotoworkshops.com) and I've been
 writing about photography on this blog for a bunch of years.
 
+You can follow my photographic adventures on [<i class="fab fa-instagram"></i>
+Instagram](https://www.instagram.com/aaronbieber) or 
+[<i class="fab fa-twitter"></i>
+Twitter](https://www.twitter.com/aaronbieberpics), or you can connect on my
+[<i class="fab fa-facebook"></i> Facebook Page](https://www.facebook.com/aaronbiebergallery).
+
 ## Technical Mumbo-Jumbo
 
 Some people are obsessed with technical details.
