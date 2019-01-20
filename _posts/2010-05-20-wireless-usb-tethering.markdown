@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Wireless USB Tethering
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 649

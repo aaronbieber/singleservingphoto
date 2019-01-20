@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Expose to the Right! The Right, I Say!
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 734

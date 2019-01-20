@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: A Picture Is Still Worth (at Least) 1,000 Words
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 971

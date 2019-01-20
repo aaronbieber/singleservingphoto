@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Finally, Photoshop Lightroom 1.1!
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 130

@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: No Match For My Drunken Style
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 61

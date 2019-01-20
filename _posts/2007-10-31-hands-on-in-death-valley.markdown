@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Hands-On in Death Valley!
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 154

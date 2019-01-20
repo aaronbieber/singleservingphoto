@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Dear Stock Photographers, Please Stop This
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 1161

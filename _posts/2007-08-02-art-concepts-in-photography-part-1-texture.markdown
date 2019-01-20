@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: 'Art Concepts in Photography, Part 1: Texture'
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 135

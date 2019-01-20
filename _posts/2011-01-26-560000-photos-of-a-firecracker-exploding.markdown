@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: 560,000 Photos of a Firecracker Exploding
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 833

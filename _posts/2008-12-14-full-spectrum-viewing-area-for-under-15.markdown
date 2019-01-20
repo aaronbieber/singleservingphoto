@@ -3,7 +3,6 @@ layout: post
 status: publish
 published: true
 title: Full-Spectrum Viewing Area for Under $15
-author: Aaron
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
 wordpress_id: 196
