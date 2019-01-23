@@ -20,7 +20,10 @@
 module Jekyll
 
   class ImageTag < Liquid::Tag
-    @img = nil
+    @img = {
+      'lightbox' => false,
+      'original' => ''
+    }
 
     def initialize(tag_name, markup, tokens)
       attributes = ['class', 'src', 'width', 'height', 'title']
@@ -35,6 +38,12 @@ module Jekyll
         end
         @img['class'].gsub!(/"/, '') if @img['class']
       end
+
+      if @img['src'] and @img['src'] =~ /@/
+        @img['lightbox'] = true
+        @img['original'] = @img['src'].gsub(/@[^.]*/, '')
+      end
+
       super
     end
 
@@ -43,7 +52,10 @@ module Jekyll
         fig_class = @img.key?("class") ? " class=\"" + @img["class"] + "\"" : ""
         img_attr = @img.collect {|k,v| "#{k}=\"#{v}\"" if k != "class" and v}.join(" ")
 
-        html  = "<figure#{fig_class}><img #{img_attr} />"
+        html  = "<figure#{fig_class}>"
+        html += if @img['lightbox'] then "<a class=\"lightbox\" href=\"#{@img['original']}\">" else "" end
+        html += "<img #{img_attr} />"
+        html += if @img['lightbox'] then "</a>" else "" end
         html += if @img.key?('title') then "<figcaption>#{@img['title']}</figcaption>" else "" end
         html += "</figure>"
 
