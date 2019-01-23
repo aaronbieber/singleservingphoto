@@ -4,7 +4,7 @@ title: "Fixing Sony's Grip"
 date: 2019-01-20T19:40:49-05:00
 ---
 
-{% img right drop /assets/images/uploads/fixing-sonys-grip/no-bracket@0,3x.jpg Artist's rendition of small grip anger %}
+{% img right drop /assets/images/uploads/fixing-sonys-grip/grip-with-no-bracket@0,3x.jpg Artist's rendition of small grip anger %}
 
 Years ago, when I decided to **sell all of my Canon gear** and switch to a
 **mirrorless Sony system** (the NEX-7, at the time), I was running away from
@@ -35,7 +35,7 @@ I've got some pretty big hands, and these paws just don't fit on the modest
 grips of most mirrorless cameras today. But even if you have *normal-sized
 hands*, I'm betting that you could benefit from an "L" bracket.
 
-{% img center drop /assets/images/uploads/fixing-sonys-grip/just-bracket.jpg An "L" bracket %}
+{% img center drop /assets/images/uploads/fixing-sonys-grip/just-bracket@0,3x.jpg An "L" bracket %}
 
 Chances are, if you have a tripod with a quick release, you already have a quick
 release plate (or have had one before). Quick release plates are great, and I've
@@ -52,7 +52,7 @@ It also adds about a half inch of grip height, which is... Well, amazing.
 
 ## All About "L" Brackets
 
-{% img right drop /assets/images/uploads/fixing-sonys-grip/all-my-brackets.jpg I have a lot of brackets %}
+{% img right drop /assets/images/uploads/fixing-sonys-grip/all-brackets@0,3x.jpg I have a lot of brackets %}
 
 Not all of these "L" brackets (or quick release plates) are created equal. The
 biggest differences that I've seen among them lie in the design, in the shape of
@@ -93,7 +93,7 @@ reasons I wanted one, keep in mind that the battery is in there, and you need to
 be able to access it easily. My bracket just has a hollow space there, like
 this:
 
-{% img center drop /assets/images/uploads/fixing-sonys-grip/bracket-mounted-battery-cover.jpg %}
+{% img center drop /assets/images/uploads/fixing-sonys-grip/bracket-battery-door@0,3x.jpg %}
 
 I don't have any problems with this because my hands are big but my fingers are
 long so I can easily operate the battery cover and the retaining clip inside,
@@ -110,7 +110,7 @@ things. The one I currently have is by far the "tallest" bracket that I've ever
 seen, but it does allow my entire pinky finger to rest below the camera's normal
 grip, which is extremely pleasant for me.
 
-{% img center drop /assets/images/uploads/fixing-sonys-grip/with-bracket.jpg %}
+{% img center drop /assets/images/uploads/fixing-sonys-grip/grip-with-bracket@0,3x.jpg %}
 
 Don't get me wrong, the a7RIII is not a *light* camera, but adding this
 mostly-hollow aluminum bracket adds so much ergonomic benefit with so little
@@ -123,7 +123,7 @@ If you take nothing else away from this story, let it be that it is possible to
 enjoy the benefits of a compact and lightweight mirrorless camera body and also
 get an ergonomic grip experience similar to that of a full-size DSLR.
 
-{% img center drop /assets/images/uploads/fixing-sonys-grip/bracket-mounted-front.jpg %}
+{% img center drop /assets/images/uploads/fixing-sonys-grip/bracket-mounted-front@0,3x.jpg %}
 
 Now, when I get a new camera body, one of the first things I do is browse B&H
 and Amazon looking for a nice add-on "L" bracket that will allow me to quickly
