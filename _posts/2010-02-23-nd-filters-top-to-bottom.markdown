@@ -41,7 +41,7 @@ light that hits them, and when the light comes out the other side the colors
 should be completely unaffected. Okay, so that's great, but why do we care?
 
 As you may recall from reading
-[Mastering the Only Five Camera Settings,](/articles/2008/06/30/mastering-the-only-five-camera-settings.html)
+[Mastering the Only Five Camera Settings,]({% post_url 2008-06-30-mastering-the-only-five-camera-settings %})
 there is only so much you can do to change the characteristics of the scene
 you're capturing.
 
@@ -56,8 +56,7 @@ is, why do you want slower shutter speeds?
 
 ## Why Do You Want Slower Shutter Speeds?
 
-[![Bridal Veil Falls, near Index, Washington](http://farm1.static.flickr.com/38/81303741_1aa4cf6e6e_m.jpg
-"Bridal Veil Falls"){:.frame}](http://www.flickr.com/photos/skycaptaintwo/81303741/)
+[{% img drop right http://farm1.static.flickr.com/38/81303741_1aa4cf6e6e_m.jpg Bridal Veil Falls %}](http://www.flickr.com/photos/skycaptaintwo/81303741/)
 
 The most often cited reason is to get the "veiling effect" that water produces
 during a longer exposure. Normally, you might have to go out just after dawn or
@@ -106,14 +105,15 @@ better idea of what it all means. Some sites, like B&H, may also list the
 remaining stats in the "specifications" tab for each product, though the product
 title itself will only contain one of the four measurements.
 
-|*Filter Factor*|*Optical Density*|*F-Stop Equiv.*|*Transmittance*|
-|2|0.3|1|50%|
-|4|0.6|2|25%|
-|8|0.9|3|12.5%|
-|16|1.2|4|6.25%|
-|32|1.5|5|3.125%|
-|64|1.8|6|1.5625%|
-|1,000|3.0|10|0.1%|
+| Filter Factor | Optical Density | F-Stop Equiv. | Transmittance |
+|---------------|-----------------|---------------|---------------|
+|             2 |             0.3 |             1 |           50% |
+|             4 |             0.6 |             2 |           25% |
+|             8 |             0.9 |             3 |         12.5% |
+|            16 |             1.2 |             4 |         6.25% |
+|            32 |             1.5 |             5 |        3.125% |
+|            64 |             1.8 |             6 |       1.5625% |
+|         1,000 |             3.0 |            10 |          0.1% |
 
 The filter factor or attenuation factor is used often when labeling a
 filter product. Generally it's written as "ND8" or "ND64." The optical
@@ -142,18 +142,15 @@ If you are a Canon "L" or Nikon "Nikkor" shooter, you require a 77mm
 diameter filter. Here are some nice ones made by B+W from my favorite
 store, B&H:
 
-* [B+W ND 0.3,
-$49](http://www.bhphotovideo.com/c/product/7982-REG/B_W_65072718_77mm_x_0_75_101.html?KBID=2457&BI=1816)
-(same as ND2, 1 f-stop)
- * [B+W ND 0.6,
-$49](http://www.bhphotovideo.com/c/product/8018-REG/B_W_65_072910_77mm_102_Neutral_Density.html?KBID=2457&BI=1816)
-(same as ND4, 2 f-stops)
- * [B+W ND 0.9,
-$94](http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Neutral_Density.html?KBID=2457&BI=1816)
-(same as ND8, 4 f-stops)
- * [B+W ND 3.0,
-$97](http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html?KBID=2457&BI=1816)
-(same as ND1000, 10 f-stops)
+* [B+W ND 0.3, $49][nd1] (same as ND2, 1 f-stop)
+* [B+W ND 0.6, $49][nd2] (same as ND4, 2 f-stops)
+* [B+W ND 0.9, $94][nd3] (same as ND8, 4 f-stops)
+* [B+W ND 3.0, $97][nd4] (same as ND1000, 10 f-stops)
+
+[nd1]: http://www.bhphotovideo.com/c/product/7982-REG/B_W_65072718_77mm_x_0_75_101.html?KBID=2457&BI=1816
+[nd2]: http://www.bhphotovideo.com/c/product/8018-REG/B_W_65_072910_77mm_102_Neutral_Density.html?KBID=2457&BI=1816
+[nd3]: http://www.bhphotovideo.com/c/product/8054-REG/B_W_65_073102_77mm_103_Neutral_Density.html?KBID=2457&BI=1816
+[nd4]: http://www.bhphotovideo.com/c/product/8120-REG/B_W_65_066729_77mm_110_Neutral_Density.html?KBID=2457&BI=1816
 
 You will find the biggest selection of filters from B+W and Tiffen.
 Tiffen makes reasonably priced and solidly performing glass filters. You

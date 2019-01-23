@@ -64,6 +64,15 @@
     }
 }
 
+/**
+ * Posts
+ */
+article.post-content {
+    th {
+        padding: 0.3em;
+    }
+}
+
 .author-block {
     clear: both;
     border-top: 1px solid $accent-color;
