@@ -4,7 +4,7 @@ title: "Fixing Sony's Grip"
 date: 2019-01-20T19:40:49-05:00
 ---
 
-{% img right drop /assets/images/uploads/fixing-sonys-grip/no-bracket.jpg Artist's rendition of small grip anger %}
+{% img right drop /assets/images/uploads/fixing-sonys-grip/no-bracket@0,3x.jpg Artist's rendition of small grip anger %}
 
 Years ago, when I decided to **sell all of my Canon gear** and switch to a
 **mirrorless Sony system** (the NEX-7, at the time), I was running away from
