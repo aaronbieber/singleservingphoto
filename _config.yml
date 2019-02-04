@@ -43,7 +43,6 @@ redcarpet:
     - tables
     - with_toc_data
     - smart
-    - underline
 
 plugins:
   - rouge
