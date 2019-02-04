@@ -55,8 +55,7 @@ within the brightest areas than there will be in the darkest ones. But
 you've observed that before, right? You've seen how terrible shadow
 areas can look when you try to brighten them up.
 
-%(pullquote pq-right)"It's better to overexpose a photo than to
-underexpose it."â€”Will Greenwald%
+> "It's better to overexpose a photo than to underexpose it." ---Will Greenwald
 
 Then there's this guy Will Greenwald. He just posted
 [a whole article about this](http://www.tested.com/news/underexposed-vs-overexposed-photos-which-is-worse/558/)
@@ -82,7 +81,7 @@ about is "exposing to the right," and we've been doing that for three
 _years_.
 
 Michael's article is titled, with tongue pressed firmly into cheek,
-[Expose Right](http://www.luminous-landscape.com/tutorials/expose-right.shtml).
+[Expose Right](http://www.luminous-landscape.com/expose-right/).
 He means "to the right of the histogram" as much as he means
 "correctly." Read that article if you want all of the technical "nitty
 gritty" involved in digital sensor attenuation and so forth.
@@ -98,42 +97,42 @@ Okay, so...
 
 ## How do you use this rule?
 
-I'm glad you asked. This is all you need to remember.
+I'm glad you asked. This is all you need to remember:
 
-%(note)If possible, *increase your image's overall exposure until _the
-histogram touches the right edge_*.%
+**If possible, increase your image's overall exposure until the
+histogram almost touches the right edge.**
 
-There are plenty of reasons that you may not be able to do that
-including subject motion, lack of light, and so on. Do the best you can.
-_Tend_ toward the right of the histogram.
+There are plenty of reasons that you may not be able to do that including
+subject motion, lack of light, and so on. Do the best you can. _Tend_ toward the
+right of the histogram.
 
-The image shouldn't be _clipped_, which means that if your camera
-shows little blinking spots where things are overexposed, _that's still
-bad_, but get that graph to move over to the right as far as you can
-without compromising the image.
+The image shouldn't be _clipped_, which means that if your camera shows little
+blinking spots where things are overexposed, _that's still bad_, but get that
+graph to move over to the right as far as you can without compromising the
+image.
 
-If, like me, you operate in aperture-priority or aperture-value mode
-(Canon Av, Nikon A) all you have to do is use your "exposure value," or
-EV, setting to increase the exposure of the image as far as you can up
-until the histogram data touches the right edge of the graph. If you
-can't get it all the way over there without compromising the shot, don't
-worry about it. This is a rule of thumb only.
+If, like me, you operate in aperture-priority or aperture-value mode (Canon Av,
+Nikon A) all you have to do is use your "exposure value," or EV, setting to
+increase the exposure of the image as far as you can up until the histogram data
+nearly touches the right edge of the graph. If you can't get it all the way over
+there without compromising the shot, don't worry about it. This is a rule of
+thumb only.
 
 ## Then what?
 
-Then you take your photos home and import them into Lightroom and use
-the Develop module to adjust the overall brightness of the image using
-the exposure slider and curves and anything else you need to until it
-looks good to you. That's really it.
+Then you take your photos home and import them into Lightroom and use the
+Develop module to adjust the overall brightness of the image using the exposure
+slider and curves and anything else you need to until it looks good to
+you. That's really it.
 
 Here are some things that you are going to complain about, and why you
 shouldn't:
 
-* On your camera's LCD screen, an image exposed to the right may look
-very bright, and may look desaturated. It's OK. There is just as much
-color data in the image as there was when it was center-exposed, and
-when you bring it into Lightroom you can draw that color out, but this
-time _with more detail than ever_.
+* On your camera's LCD screen, an image exposed to the right may look very
+bright, and may look desaturated. It's OK. There is just as much color data in
+the image as there was when it was center-exposed, and when you bring it into
+Lightroom you can draw that color out, but this time _with more detail than
+ever_.
 
 Okay, so that was only one complaint. If you have other complaints,
 leave them down there in the comments!
